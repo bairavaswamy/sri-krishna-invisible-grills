@@ -35,78 +35,73 @@ export default function Page({ params }:any) {
    const authorityScore = locationAuthorityScore(location)
 const faqs = [
 
-  {
-    question: `What is the price of invisible grills near me in ${location}?`,
-    answer: `Invisible grill price in ${location} depends on balcony or window size, material grade, and installation requirements. We provide affordable invisible grills, balcony safety invisible grills near me, and anti bird net solutions with free inspection and transparent pricing.`
-  },
+{
+question:`What is the price of invisible grills for windows in ${location}?`,
+answer:`The price depends on window size and installation type. We provide affordable invisible grill and window safety net installation in ${location} with durable materials and professional fitting.`
+},
 
-  {
-    question: `Are balcony safety invisible grills near me safe for children and pets in ${location}?`,
-    answer: `Yes. Balcony safety invisible grills installed in ${location} are designed using high-tensile stainless steel cables that prevent accidental falls. They provide strong protection for children and pets while keeping airflow and visibility open.`
-  },
+{
+question:`Are invisible window grills safe for children and pets in ${location}?`,
+answer:`Yes. Invisible grills for windows provide strong protection and act like window safety nets, preventing accidental falls while keeping airflow and visibility open.`
+},
 
-  {
-    question: `Do invisible grills or safety nets near me block the outside view?`,
-    answer: `No. Invisible grills use thin stainless steel wires that remain almost invisible from a distance. Unlike traditional grills or heavy nets, they maintain clear outside views while working like balcony safety nets and bird protection systems.`
-  },
+{
+question:`Do invisible grills for windows stop pigeons and birds in ${location}?`,
+answer:`Yes. Invisible grills work as anti bird nets and pigeon safety nets that prevent birds from entering windows or nesting areas.`
+},
 
-  {
-    question: `Can invisible grills work like anti bird nets or pigeon safety nets in ${location}?`,
-    answer: `Yes. Invisible grills act as effective anti bird nets and pigeon safety nets by creating a protective barrier that prevents birds from entering balconies or windows without harming them.`
-  },
+{
+question:`Will invisible window grills block sunlight or ventilation?`,
+answer:`No. The stainless steel cables are thin and nearly invisible, allowing fresh air, sunlight, and outside views without obstruction.`
+},
 
-  {
-    question: `How long does invisible grill installation near me take in ${location}?`,
-    answer: `Most invisible grill installations in ${location} are completed within a few hours depending on area size. Our technicians provide quick and clean installation with minimal disturbance to residents.`
-  },
+{
+question:`How long does window invisible grill installation take in ${location}?`,
+answer:`Most window installations are completed within a few hours depending on the number and size of windows.`
+},
 
-  {
-    question: `Which is better — invisible grills or bird nets near me for balcony protection?`,
-    answer: `Invisible grills are a long-term solution compared to basic bird nets. They provide balcony safety, anti bird protection, durability, and modern appearance while requiring very low maintenance.`
-  },
-
-  {
-    question: `Do you provide invisible grills, balcony safety nets, and anti bird net installation near me in ${location}?`,
-    answer: `Yes. We offer invisible grill installation, balcony safety nets, pigeon safety nets, and anti bird net services across ${location}. Our team provides site inspection, professional fitting, and long-lasting safety solutions for homes and apartments.`
-  }
+{
+question:`Are invisible grills better than traditional window grills?`,
+answer:`Yes. Invisible grills provide modern safety, bird protection, and clear views compared to heavy iron grills or basic safety nets.`
+}
 
 ];
 
   const invisibleGrillsSections = [
 
 {
-header:`Balcony Safety Invisible Grills Installation in ${location}`,
-content:`Balcony safety invisible grills in ${location} protect homes without blocking views. These modern systems work like balcony safety nets, children safety nets, and bird safety nets near me solutions. Families searching anti bird net or children invisible grills in Hyderabad choose this option for strong protection, airflow, and elegant balcony design suitable for apartments and high-rise living.`
+header:`Invisible Grills for Windows Installation in ${location}`,
+content:`Invisible grills for windows in ${location} provide modern safety without blocking outside views. Designed using high-tensile stainless steel cables, they protect children, pets, and homes while maintaining ventilation. These systems also work as window safety nets and anti bird nets. If you are searching invisible grills for windows near me or safety nets installation in ${location}, our expert service offers secure and durable solutions.`
 },
 
 {
-header:`Premium 304 Grade Stainless Steel Material Used in Our Grills`,
-content:`Our invisible grills use premium 304 grade stainless steel cables designed for long durability in Hyderabad weather. These materials resist rust and work better than regular balcony safety nets or pigeon safety nets near me solutions. Strong nylon coating improves safety, making them ideal for children safety nets, anti bird net protection, and modern balcony security systems.`
+header:`Why Invisible Window Grills Are Popular in ${location}`,
+content:`Modern apartments in ${location} prefer invisible grills for windows because they provide safety while keeping homes bright and open. Unlike traditional grills, they allow airflow and natural light. They function as balcony safety nets, pigeon safety nets, and bird control nets for windows. Homeowners searching window safety nets near me or bird nets installation choose invisible grills for style and protection.`
 },
 
 {
-header:`How Balcony Invisible Grills Are Installed`,
-content:`Invisible grill installation in ${location} starts with site inspection and accurate measurement. Aluminium channels are fixed securely, followed by tensioned stainless steel wires. This professional method creates strong balcony safety nets, bird safety nets near me protection, and anti bird net barriers. Proper installation ensures long-lasting safety for children, pets, and apartment balconies.`
+header:`Professional Window Invisible Grill Installation Process in ${location}`,
+content:`Our invisible grill installation for windows in ${location} begins with inspection and accurate measurement. High-strength stainless steel cables are fixed using secure anchoring systems and proper tension control. This ensures reliable safety similar to premium window safety nets and anti bird net systems. Customers searching invisible grill installation near me trust our clean and professional process.`
 },
 
 {
-header:`Why Balcony Safety Is Important for Apartments`,
-content:`Open balconies in Hyderabad apartments need reliable protection. Invisible grills act as children safety nets, pigeon safety nets near me, and balcony safety nets while keeping views open. Homeowners searching best balcony safety nets in Hyderabad prefer invisible grills because they prevent accidents, reduce bird problems, and maintain modern architectural appearance.`
+header:`Bird Protection Using Invisible Window Grills in ${location}`,
+content:`Bird nesting near windows is common in ${location}. Invisible grills act as pigeon safety nets and bird control nets that prevent entry without harming birds. The transparent design keeps views clear while maintaining hygiene and safety. People searching anti bird nets near me, window bird nets, or pigeon protection solutions prefer invisible grills for long-term protection.`
 },
 
 {
-header:`Balcony Safety Invisible Grill Cost in ${location}`,
-content:`The cost of invisible grills in ${location} depends on balcony size, height, and installation area. Compared to basic bird nets or anti bird net systems, invisible grills provide long-term value with minimal maintenance. Customers searching balcony safety nets price, pigeon safety nets near me in Hyderabad, or safety nets near me get customized and transparent pricing solutions.`
+header:`Cost of Invisible Grills for Windows in ${location}`,
+content:`The cost of invisible grills for windows in ${location} depends on window size, materials, and installation requirements. Compared to traditional grills or basic safety nets, invisible grills offer long-term durability with minimal maintenance. If you search invisible grills price, window safety nets cost, or bird net installation near me, we provide transparent pricing and customized solutions.`
 },
 
 {
-header:`Why Homeowners Choose Our Balcony Safety Invisible Grills`,
-content:`Homeowners choose our services for best balcony safety nets in Hyderabad, children invisible grills in Hyderabad, and anti bird net installation. We provide durable stainless steel systems that combine safety, neat finishing, and professional installation. Our grills also support bird protection and sports nets in Hyderabad requirements for residential and utility spaces.`
+header:`Why Choose Our Invisible Window Grill Services in ${location}`,
+content:`Homeowners in ${location} trust our invisible grills for windows because we use premium stainless steel cables and expert installation techniques. Our solutions work as window safety nets, anti bird nets, and pigeon safety systems. Customers searching invisible grills near me or bird net installation services choose us for reliable workmanship, neat finishing, and long-lasting safety.`
 },
 
 {
-header:`Simple Maintenance for Balcony Invisible Grills`,
-content:`Invisible grills require minimal maintenance compared to traditional safety nets. Regular cleaning keeps wires strong and visually clear. Avoid hanging heavy weight on cables for long life. With simple care, these systems work as long-term balcony safety nets, bird safety nets near me solutions, pigeon safety nets, and children safety protection for modern Hyderabad homes.`
+header:`Maintenance Tips for Invisible Window Grills in ${location}`,
+content:`Invisible grills for windows in ${location} require simple maintenance such as periodic cleaning and inspection of cable tension. Avoid placing heavy weight on wires and schedule professional checks when needed. Proper care ensures performance similar to high-quality safety nets and bird control systems, keeping your windows safe, clean, and secure for years.`
 }
 
 ];
@@ -119,7 +114,7 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
   <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
-      __html: JSON.stringify( buildFullSchema(location, "/services/balcony-safety-invisible-grills", faqs))
+      __html: JSON.stringify( buildFullSchema(location, "services/invisible-grills", faqs))
     }}
   />
 
@@ -157,7 +152,7 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
   <div
     className="absolute inset-0 bg-cover bg-center"
     style={{
-      backgroundImage: `url("/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp")`
+      backgroundImage: `url("/images/window-anti-bird-invisible-grills.webp")`
     }}
   />
 
@@ -168,11 +163,11 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
   <div className="relative max-w-6xl mx-auto px-6 text-center md:text-left">
 
     <h1 className={`text-2xl md:text-3xl font-bold leading-tight mb-6 drop-shadow-lg ${headingFont.variable}`}>
-      Balcony Safety Invisible Grills in Hyderabad - Professional Installation for Bird Protection
+      Invisible grills for windows in Hyderabad - Professional Installation for Bird Protection
     </h1>
 
     <p className={`text-md md:text-lg max-w-3xl text-gray-200 ${bodyFont.variable}`}>
-      Hyderabad invisible grill specialists installing high tensile stainless steel balcony safety systems that secure homes against accidents birds and falls while preserving open skyline views
+      Window invisible grills in Hyderabad designed for modern homes that need safety without losing open views strong stainless steel cables protect balconies windows and high rise spaces while keeping the design elegant and minimal
     </p>
 
 <div className="mt-6 flex flex-col sm:flex-row gap-6 justify-center md:justify-start">
@@ -232,9 +227,9 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
 
     {/* Image */}
     <Image
-      src={"/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp" + "?v=hyderabad-telangana"}
-      alt={`Balcony safety invisible grill installation in near me hyderabad`}
-      title={`Balcony Safety Invisible Grills in Hyderabad`}
+      src={"/images/window-anti-bird-invisible-grills.webp" + "?v=hyderabad-telangana"}
+      alt={`window Invisible grill installation in near me hyderabad`}
+      title={`window Invisible grills in Hyderabad`}
       fill
       className="object-cover transition-transform duration-700 hover:scale-105"
       priority
@@ -303,8 +298,8 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
 
   <Link href="/" className="hover:underline">Home</Link>
   {" > "}
-  <Link href="/services/balcony-safety-invisible-grills" className="hover:underline">
-  Balcony Safety Invisible Grills
+  <Link href="/services/invisible-grills" className="hover:underline">
+  Invisible Grills
   </Link>
   {" > "}
   {location}
@@ -329,21 +324,22 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
     mb-3  rounded-full"></div>
 </div>
 
-{section.header.includes("Why Balcony Safety Is Important for Apartments") && (
-  <div className="relative w-full h-[260px] md:h-[320px] my-6 rounded-xl overflow-hidden">
+
+ {section.header.includes("Bird Protection Using Invisible Window Grills in") && (
+  <div className="relative w-full  h-[260px] md:h-[360px] my-6 rounded-xl overflow-hidden">
     
     <Image
-      src={"/images/drybalcony-invisible-grills-near-me.webp?v=near-me-hyderabad-telangana"}
-      alt="Anti bird Invisible grill installation near me Hyderabad"
-      title="anti bird Invisible grills near me in Hyderabad"
+      src={"/images/window-invisible-grills-Hyderabad.webp?v=near-me-hyderabad-telangana"}
+      alt="Invisible grill installation near me Hyderabad"
+      title="Invisible grills near me in Hyderabad"
       fill
       className="object-cover transition-transform duration-700 hover:scale-105"
       priority
     />
 
   </div>
+  
 )}
-
 
   <p className="text-gray-700 leading-relaxed">
   {section.content}
@@ -438,7 +434,7 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
   </section> */}
 
   {/* <NearbyServiceSection page={page} /> */}
-<LocationScroller service="balcony-safety-invisible-grills" />
+<LocationScroller service="invisible-grills-for-windows" />
 
   {/* CTA */}
 
@@ -452,7 +448,7 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
 
   <p className="mb-6">
   Contact Rohini Invisible Grills today for professional installation.
-  Protect your balcony and keep birds away and Get 10% discount on all balcony safetyinvisible grills.
+  Protect your balcony and keep birds away and lock 10% discount on all invisible grills.
   </p>
 
   <a

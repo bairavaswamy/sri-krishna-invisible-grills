@@ -1,106 +1,113 @@
 import Link from "next/link";
-// import NearbyServiceSection from "../../components/NearbyAreas";
+import { hyderabadLocations as locations } from "../../components/constants/locations";
+import { locationHash, slugify, locationImages, createGrillSeed, locationImagesForBalconySafetyInvisibleGrills, BalconySafetyInvisibleGrillsProductImages } from "../../components/seo/utils";
+import NearbyServiceSection from "../../components/NearbyAreas";
 import { Phone, MessageCircle,Plus, Minus } from "lucide-react";
 import Image from "next/image";
-import FAQSection from "../../invisible-grills/[slug]/Faqs";
+import FAQSection from "./Faqs";
 import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { Poppins, Inter } from "next/font/google";
-import { buildFullSchema } from "../../components/seo/schema";
-import { generateBreadcrumb, locationAuthorityScore } from "../../components/seo/utils";
+import { services } from "../../components/constants/services";
+import { generateBalconySafetyInvisibleGrillservice } from "../../components/seo/balconySafetyInvisibleGrillsGenerator";
 import LocationScroller from "../../components/LocationsWeServe";
 
-const headingFont = Poppins({
+ const headingFont = Poppins({
   subsets: ["latin"],
   weight: ["500", "600", "700"],
   variable: "--font-heading"
 });
 
-const bodyFont = Inter({
+ const bodyFont = Inter({
   subsets: ["latin"],
   weight: ["400", "500"],
   variable: "--font-body"
 });
 
 
+export async function generateStaticParams() {
+  return services.flatMap((service) =>
+    locations.map((location) => ({
+      service: service.slug,
+      location: slugify(location),
+      slug: slugify(location)
+    }))
+  );
+}
+
+interface Section {
+  heading: string;
+  content: string[]; 
+}
+
+function seededRandom(seed: number) {
+  return function () {
+    seed |= 0;
+    seed = (seed + 0x6D2B79F5) | 0;
+
+    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+    t ^= t + Math.imul(t ^ (t >>> 7), 61 | t);
+
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+
+ function getLocationImage(location: string) {
+
+  const seed = createGrillSeed(location.toLowerCase());
+
+  const rand = seededRandom(seed);
+
+  const index = Math.floor(rand() * locationImagesForBalconySafetyInvisibleGrills.length);
+
+  return locationImagesForBalconySafetyInvisibleGrills[index];
+}
+
+
+function getLocationImageInProduct(location: string) {
+
+  const seed = createGrillSeed(location.toLowerCase());
+
+  const rand = seededRandom(seed);
+
+  const index = Math.floor(rand() * BalconySafetyInvisibleGrillsProductImages.length);
+
+  return BalconySafetyInvisibleGrillsProductImages[index];
+}
 
 
 
+// export function getLocationImage(location: string) {
+
+//   const hash = locationHash(location);
+
+//   const index = hash % locationImages.length;
+
+//   return locationImages[index];
+
+// }
 
 
+export default function Page({ params }: { params: { slug: string , sections: Section[];} }) {
+  const location = locations.find(
+    (loc) => slugify(loc) === params.slug
+  );
 
-export default function Page({ params }:any) {
- const location = "Hyderabad";
+  const invisibleGrillImage = getLocationImage(location || "default location");
+  const inProductImage = getLocationImageInProduct(location || "default location");
 
- const breadcrumbs = generateBreadcrumb(location,"services/invisible-grills")
-   const authorityScore = locationAuthorityScore(location)
-const faqs = [
-
-    {
-      question:`What is the price of invisible grills in ${location}?`,
-      answer:`The price depends on balcony size and installation design. Rohini Invisible Grills provides affordable installation services in ${location}.`
-    },
-    {
-      question: `Are invisible grills safe for children in ${location}?`,
-      answer: `Yes. Invisible grills installed in ${location} provide strong balcony protection and help prevent accidental falls.`
-    },
-    {
-      question: `Do invisible grills block the outside view in ${location}?`,
-      answer: `No. The stainless steel wires are thin and almost invisible, so they keep the outside view clear.`
-    },
-    {
-      question: `Can invisible grills stop pigeons in ${location}?`,
-      answer: `Yes. Invisible grills create a barrier that prevents birds from entering balconies or nesting.`
-    },
-    {
-      question: `How long does invisible grill installation take in ${location}?`,
-      answer: `Most installations are completed within a few hours depending on balcony size.`
-    },
-    {
-      question:`Do invisible grills stop pigeons in ${location}?`,
-      answer:`Yes. The stainless steel cables act as a barrier that prevents birds from entering balconies.`
-    },
-    {
-        question:`Do invisible grills block balcony view in ${location}?`,
-        answer:`No. The wires are very thin and almost invisible, so the outside view remains clear.`
-    }
-  ];
-
-  const invisibleGrillsSections = [
-  {
-    header: `Invisible Grills Installation in ${location}`,
-    content: `Invisible grills in ${location} are a modern safety solution for apartments and balconies. Our installation protects children and pets while keeping views open and stylish. Made with high-tensile stainless steel cables, they also work as balcony safety nets and bird protection systems. If you are searching invisible grills, safety nets near me, or anti bird nets in ${location}, our expert service provides durable and secure installation.`
-  },
-
-  {
-    header: `What Are Invisible Grills and Why Are They Popular in ${location}?`,
-    content: `Invisible grills are strong stainless steel safety systems designed for balconies, windows, and utility areas in ${location}. They provide protection similar to balcony safety nets and pigeon safety nets while maintaining airflow and visibility. Homeowners searching bird nets near me, anti bird nets, or invisible grill installation choose this solution for safety, modern appearance, and long-lasting performance.`
-  },
-
-  {
-    header: `Professional Invisible Grill Installation Process in ${location}`,
-    content: `Our invisible grill installation in ${location} begins with inspection, accurate measurement, and secure fixing using premium materials. Stainless steel cables are tensioned precisely for safety and durability. This process ensures reliable balcony safety nets and bird control protection. People searching net installation near me or invisible grills near me trust our professional and clean installation service.`
-  },
-
-  {
-    header: `Invisible Grills for Bird Protection in ${location}`,
-    content: `Bird problems like pigeons nesting are common in ${location}. Invisible grills act as anti bird nets and pigeon safety nets by creating a safe barrier without blocking views. They prevent bird entry while maintaining airflow and light. Homeowners searching bird control nets, balcony nets, or bird nets near me prefer invisible grills for clean, hygienic, and long-term balcony protection.`
-  },
-
-  {
-    header: `Cost of Invisible Grills in ${location} – Pricing and Factors`,
-    content: `The cost of invisible grills in ${location} depends on balcony size, materials, and installation requirements. Compared to traditional grills or basic safety nets, invisible grills provide long-term value with low maintenance. If you search invisible grills price, balcony safety nets cost, or anti bird nets near me, we offer transparent pricing and customized solutions for every home.`
-  },
-
-  {
-    header: `Why Homeowners in ${location} Choose Our Invisible Grill Services`,
-    content: `Homeowners in ${location} choose our services for reliable invisible grills, balcony safety nets, and pigeon safety net installation. We use high-grade stainless steel cables installed by trained experts for maximum safety. Customers searching invisible grills near me, bird nets installation, or anti bird net services trust us for quality materials, neat finishing, and long-lasting protection.`
-  },
-
-  {
-    header: `Safety and Maintenance Tips for Invisible Grills in ${location}`,
-    content: `Invisible grills in ${location} require simple maintenance like periodic cleaning and inspection to maintain strength and appearance. Avoid hanging heavy items on cables and schedule professional checks when needed. Proper care ensures long-lasting performance similar to premium balcony safety nets and bird control nets, keeping your home safe and secure for years.`
+  if (!location) {
+    return <div>Location not found</div>;
   }
-];
+
+
+  if (!location) return null;
+
+  const page = generateBalconySafetyInvisibleGrillservice(
+    location,
+    locations,
+    locations.indexOf(location)
+  );
 
  return (
 
@@ -110,7 +117,7 @@ const faqs = [
   <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
-      __html: JSON.stringify( buildFullSchema(location, "services/invisible-grills", faqs))
+      __html: JSON.stringify(page.schema)
     }}
   />
 
@@ -118,7 +125,7 @@ const faqs = [
   <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
-      __html: JSON.stringify(breadcrumbs)
+      __html: JSON.stringify(page.breadcrumbs)
     }}
   />
 
@@ -129,12 +136,12 @@ const faqs = [
       __html: JSON.stringify({
         "@context": "https://schema.org",
         "@type": "Service",
-        name: "Invisible grills in Hyderabad - Professional Installation for Bird Protection",
-        areaServed: "Hyderabad",
+        name: page.title,
+        areaServed: page.location,
         additionalProperty: {
           "@type": "PropertyValue",
           name: "Location Authority Score",
-          value: authorityScore
+          value: page.authorityScore
         }
       })
     }}
@@ -148,7 +155,7 @@ const faqs = [
   <div
     className="absolute inset-0 bg-cover bg-center"
     style={{
-      backgroundImage: `url("/images/invisible-grills-bird-netting-in-hyderabad.webp")`
+      backgroundImage: `url('${getLocationImage(location || "default location")}')`
     }}
   />
 
@@ -159,11 +166,11 @@ const faqs = [
   <div className="relative max-w-6xl mx-auto px-6 text-center md:text-left">
 
     <h1 className={`text-2xl md:text-3xl font-bold leading-tight mb-6 drop-shadow-lg ${headingFont.variable}`}>
-      Invisible grills in Hyderabad - Professional Installation for Bird Protection
+      {page.title}
     </h1>
 
     <p className={`text-md md:text-lg max-w-3xl text-gray-200 ${bodyFont.variable}`}>
-      Invisible grills in Hyderabad designed for modern homes that need safety without losing open views strong stainless steel cables protect balconies windows and high rise spaces while keeping the design elegant and minimal
+      {page.shortDescription}
     </p>
 
 <div className="mt-6 flex flex-col sm:flex-row gap-6 justify-center md:justify-start">
@@ -223,9 +230,9 @@ const faqs = [
 
     {/* Image */}
     <Image
-      src={"/images/invisible-grills-bird-netting-in-hyderabad.webp" + "?v=hyderabad-telangana"}
-      alt={`Invisible grill installation in near me hyderabad`}
-      title={`Invisible grills in Hyderabad`}
+      src={invisibleGrillImage + "?v=" + page.slug}
+      alt={`Invisible grill installation in ${page.location}`}
+      title={`Invisible grills in ${page.location}`}
       fill
       className="object-cover transition-transform duration-700 hover:scale-105"
       priority
@@ -259,15 +266,15 @@ const faqs = [
       {/* Trusted Homes */}
       <div className="flex flex-col items-center">
         <Handshake className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
-        <p className="text-gray-900 md:text-white text-xs md:text-sm  font-semibold">
-          15,000+ Trusted Homes & 18 Years Warranty
+        <p className="text-gray-900 md:text-white text-sm md:text-base font-semibold">
+          15,000+ Trusted Homes
         </p>
       </div>
 
       {/* Quality */}
       <div className="flex flex-col items-center">
         <Award className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
-        <p className="text-gray-900 md:text-white text-xs md:text-sm font-semibold">
+        <p className="text-gray-900 md:text-white text-sm md:text-base font-semibold">
           ISO Certified Quality
         </p>
       </div>
@@ -294,11 +301,11 @@ const faqs = [
 
   <Link href="/" className="hover:underline">Home</Link>
   {" > "}
-  <Link href="/services/invisible-grills" className="hover:underline">
-  Invisible Grills
+  <Link href="/" className="hover:underline">
+  Invisible Grills Locations
   </Link>
   {" > "}
-  {location}
+  {page.location}
 
   </div>
 
@@ -307,26 +314,26 @@ const faqs = [
 
   <section className="max-w-6xl mx-auto px-6 py-10 space-y-12">
 
-  {invisibleGrillsSections.map((section:any, index:number) => (
+  {page.sections.map((section:any, index:number) => (
 
   <div key={index}>
     <div >
   <h2 className="text-2xl font-bold mb-4 text-green-900">
-  {section.header}
+  {section.heading}
   </h2>
   <div className="w-[100%] h-[1px] 
   
   bg-black/10
     mb-3  rounded-full"></div>
 </div>
- 
- {section.header.includes("Invisible Grills for Bird Protection") && (
+
+{section.heading.includes("Balcony safety Invisible Grill Price near me in ") && (
   <div className="relative w-full h-[260px] md:h-[320px] my-6 rounded-xl overflow-hidden">
     
     <Image
-      src={"/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp?v=near-me-hyderabad-telangana"}
-      alt="Invisible grill installation near me Hyderabad"
-      title="Invisible grills near me in Hyderabad"
+      src={`${inProductImage}?v=near-me-${page.slug}-hyderabad-telangana`}
+      alt={`Invisible grill installation near me ${page.location}`}
+      title={`Invisible grills near me in ${page.location}`}
       fill
       className="object-cover transition-transform duration-700 hover:scale-105"
       priority
@@ -335,9 +342,23 @@ const faqs = [
   </div>
 )}
 
+  {Array.isArray(section.content) ? (
+
+  <ul className="list-disc ml-6 space-y-2 text-gray-700">
+
+  {section.content.map((item:string, i:number)=>(
+  <li key={i}>{item}</li>
+  ))}
+
+  </ul>
+
+  ) : (
+
   <p className="text-gray-700 leading-relaxed">
   {section.content}
   </p>
+
+  )}
 
   </div>
 
@@ -383,7 +404,7 @@ const faqs = [
 
   </section> */}
 
-  <FAQSection faqs={faqs} />
+  <FAQSection faqs={page.faqs} />
 
 
   {/* NEARBY LOCATIONS */}
@@ -427,8 +448,8 @@ const faqs = [
 
   </section> */}
 
-  {/* <NearbyServiceSection page={page} /> */}
-<LocationScroller service="invisible-grills" />
+  <NearbyServiceSection page={page} />
+
 
   {/* CTA */}
 
@@ -437,12 +458,12 @@ const faqs = [
   <div className="max-w-5xl mx-auto px-6 text-center">
 
   <h2 className="text-3xl font-bold mb-4">
-  Need Invisible Grills in {location}?
+  Need Invisible Grills in {page.location}?
   </h2>
 
   <p className="mb-6">
   Contact Rohini Invisible Grills today for professional installation.
-  Protect your balcony and keep birds away and lock 10% discount on all invisible grills.
+  Protect your balcony and keep birds away.
   </p>
 
   <a
@@ -455,6 +476,8 @@ const faqs = [
   </div>
 
   </section>
+
+  <LocationScroller service="balcony-safety-invisible-grills" />
 
   </main>
 

@@ -6,6 +6,7 @@ import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { Poppins, Inter } from "next/font/google";
 import { buildFullSchema } from "../../components/seo/schema";
 import { generateBreadcrumb, locationAuthorityScore } from "../../components/seo/utils";
+import LocationScroller from "../../components/LocationsWeServe";
 
 const headingFont = Poppins({
   subsets: ["latin"],
@@ -61,71 +62,41 @@ answer:`No. The stainless steel wires are very thin and almost invisible, so the
 
 ]
 
-const invisibleGrillsSections = [
-
+const invisibleGrillsSections =[
 {
 header:`Anti Bird Invisible Grills Installation in ${location}`,
-content:`Bird problems are very common in many apartments and buildings in ${location}. Pigeons often sit on balconies, windows, and utility areas which can create dirt, bad smell, and hygiene issues. Anti bird invisible grills are one of the most effective solutions to stop birds from entering these spaces.
-
-These grills are designed using thin stainless steel cables that are strong but almost invisible. They create a protective barrier that keeps birds away while allowing fresh air and natural sunlight to enter the home.
-
-Homeowners in ${location} choose anti bird invisible grills because they help maintain clean balconies without affecting the appearance of the building. The system blends with the structure and keeps the balcony open and modern while solving bird problems permanently.`
+content:`Bird problems are common in apartments across ${location}. Our anti bird invisible grills and anti bird nets stop pigeons from entering balconies and windows. This solution keeps spaces clean while allowing air and sunlight. Many people searching for balcony safety nets, pigeon safety nets, or mosquito nets near me choose invisible grills for a safe, modern, and long-lasting protection system.`
 },
 
 {
 header:`How Anti Bird Invisible Grills Protect Your Balcony`,
-content:`Pigeons and other birds often try to build nests in balconies and window corners. This can damage property and make the area uncomfortable for residents. Anti bird invisible grills prevent birds from landing or entering the balcony area.
-
-The stainless steel wires are fixed vertically or horizontally with proper spacing so that birds cannot pass through the gap. Because the wires are thin, they do not block the view or airflow.
-
-With this protection system installed, residents in ${location} can enjoy their balcony space without worrying about bird droppings, feathers, or nesting problems.`
+content:`Pigeons often create nests and dirt in balcony areas. Anti bird invisible grills and pigeon safety nets block bird entry without closing the view. Installed with strong stainless steel wires, they protect homes while keeping airflow open. Residents in ${location} looking for balcony safety nets or children safety nets prefer this solution for hygiene, comfort, and daily safety.`
 },
 
 {
 header:`High Quality Stainless Steel Invisible Grill Material`,
-content:`The strength of anti bird invisible grills depends on the quality of materials used. For installations in ${location}, most systems use 304 grade stainless steel cables which are known for their durability and rust resistance.
-
-These cables are coated with a protective nylon layer that helps them resist weather conditions such as rain and humidity. This coating also improves the life of the grill system.
-
-Using high quality stainless steel wires ensures the invisible grill remains strong and stable for many years. Proper material selection is very important for long term balcony safety and bird protection.`
+content:`Our invisible grills in ${location} use strong 304 grade stainless steel cables with protective coating for long life. These materials resist rust, rain, and heat, making them ideal for anti bird nets and balcony safety nets. Homeowners searching mosquito nets near me or pigeon safety nets choose durable systems that provide reliable safety and modern appearance.`
 },
 
 {
 header:`Professional Invisible Grill Installation Process`,
-content:`Professional installation is important to make sure invisible grills work effectively. Our installation process in ${location} begins with a careful inspection of the balcony or window area.
-
-Aluminium channels are fixed securely to the structure using strong anchor bolts. After this, stainless steel wires are installed between the channels and tightened using special tools to maintain correct tension.
-
-Once the installation is finished, the system is inspected to make sure every wire is properly aligned and secured. This process helps create a strong barrier that prevents birds from entering while keeping the structure safe and neat.`
+content:`Professional installation ensures proper protection. Our team installs aluminium channels and tight stainless steel wires carefully for balconies and windows in ${location}. This creates a secure barrier similar to anti bird nets and children safety nets while maintaining open views. Customers searching balcony safety nets or pigeon safety nets near me trust expert installation for lasting safety.`
 },
 
 {
-header:`Anti Bird Invisible Grill Cost in ${location}`,
-content:`The cost of anti bird invisible grills in ${location} depends on several factors including balcony size, installation height, and total area to be covered. Larger balconies require more stainless steel cables and installation work.
-
-Although pricing may vary depending on the project, invisible grills are considered a long term solution for bird protection and balcony safety. They require very little maintenance and last for many years without rust or damage.
-
-Many homeowners prefer this solution because it provides both protection and a clean modern appearance for their balcony space.`
+header:`Near me Anti Bird Invisible Grill Cost in ${location}`,
+content:`The cost of invisible grills in ${location} depends on balcony size and installation area. Compared to regular anti bird nets or pigeon safety nets, invisible grills offer long-term value with minimal maintenance. People searching balcony safety nets, children safety nets, or mosquito nets near me prefer this durable and modern protection solution for homes.`
 },
 
 {
 header:`Why Homeowners in ${location} Choose Invisible Grills`,
-content:`Many apartment residents in ${location} install anti bird invisible grills because they solve bird problems without changing the appearance of the building. Unlike traditional metal grills or bird nets, invisible grills are almost unnoticeable.
-
-They allow clear outside views, natural ventilation, and sunlight while keeping birds away from the balcony area. This makes them a perfect solution for modern homes and apartments.
-
-Because of their strong material and minimal design, invisible grills have become one of the most trusted balcony protection systems used in many residential buildings today.`
+content:`Homeowners in ${location} choose invisible grills because they solve bird problems without blocking views. Unlike traditional grills, anti bird nets and balcony safety nets using invisible systems keep homes safe and stylish. Families searching pigeon safety nets, children safety nets, or mosquito nets near me prefer this clean and secure option for balconies and windows.`
 },
 
 {
 header:`Maintenance Tips for Anti Bird Invisible Grills`,
-content:`Invisible grills are designed to require very little maintenance. Cleaning the stainless steel wires occasionally helps remove dust and keeps them looking neat.
-
-It is also recommended not to hang heavy items on the wires because the system is designed mainly for protection rather than supporting weight.
-
-With simple cleaning and proper care, anti bird invisible grills can continue protecting balconies and windows in ${location} for many years while maintaining their clean and modern appearance.`
+content:`Invisible grills require very little maintenance. Simple cleaning keeps wires neat and effective. Avoid hanging heavy items as the system is designed for safety protection. Residents in ${location} using anti bird nets, balcony safety nets, or pigeon safety nets benefit from long-lasting performance while keeping balconies hygienic and safe for children and families.`
 }
-
 ]
 
 return (
@@ -297,6 +268,20 @@ priority
 </h2>
 
 <div className="w-full h-[1px] bg-black/10 mb-3 rounded-full"></div>
+{section.header.includes("High Quality Stainless Steel Invisible Grill Material") && (
+  <div className="relative w-full h-[260px] md:h-[320px] my-6 rounded-xl overflow-hidden">
+    
+    <Image
+      src={"/images/Balcony-Invisible-Grills-1.webp?v=near-me-hyderabad-telangana"}
+      alt="Anti bird Invisible grill installation near me Hyderabad"
+      title="anti bird Invisible grills near me in Hyderabad"
+      fill
+      className="object-cover transition-transform duration-700 hover:scale-105"
+      priority
+    />
+
+  </div>
+)}
 
 <p className="text-gray-700 leading-relaxed">
 {section.content}
@@ -308,6 +293,9 @@ priority
 </section>
 
 <FAQSection faqs={faqs}/>
+
+{/* locations we serve */}
+<LocationScroller service="anti-bird-invisible-grills" />
 
 {/* CTA */}
 

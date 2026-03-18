@@ -58,7 +58,7 @@ export default function Footer() {
           </ul>
         </div>
       {/* ---------------- LOCAL AREAS ---------------- */}
-      <div className="h-[500px] overflow-y-scroll overflow-x-hidden scrollbar-hide">
+      <div className="h-[300px] md:h-[450px] overflow-y-scroll overflow-x-hidden scrollbar-hide">
         <h4 className="text-lg font-semibold text-white mb-4">
           Local Areas
         </h4>

@@ -77,7 +77,7 @@ export const  generateService : (location: string, locations: string[], index: n
 
     location: location,
 
-    slug: `invisible-grills-in-${slugify(location)}`,
+    slug: `invisible-grills/${slugify(location)}`,
 
     title: `Invisible Grills in ${location} | Balcony Safety Invisible Grill Installation`,
 
@@ -110,7 +110,7 @@ export const  generateService : (location: string, locations: string[], index: n
       },
 
     {
-        heading: `Invisible Grill Price in ${location}`,
+        heading: `Invisible Grill Price near me in ${location}`,
         content: price
     },
 
@@ -127,13 +127,16 @@ export const  generateService : (location: string, locations: string[], index: n
       {
         heading: "Product Highlights",
         content: [
-          "High tensile stainless steel cables",
-          "Weather resistant and rust proof",
-          "Child safety balcony protection",
-          "Modern design with clear outside view",
-          "Low maintenance and long lifespan",
-          "17 Years of warranty on installation and materials"
-        ]
+  "High tensile stainless steel cables for strong balcony safety",
+  "Premium SS Invisible Grills made with 304 Grade and 316 Grade stainless steel",
+  "Weather resistant, corrosion-proof and rust-proof materials",
+  "Child safety balcony protection for homes and apartments",
+  "Modern minimal design with clear outside view and airflow",
+  "Suitable for balcony safety nets, anti bird nets, and pigeon safety protection",
+  "Low maintenance system with long lifespan durability",
+  "17 Years warranty on installation and materials",
+  "10 Years free service support and maintenance assistance"
+]
       },
 
       {
@@ -144,7 +147,8 @@ export const  generateService : (location: string, locations: string[], index: n
           `Office buildings in ${location}`,
           `Residential homes in ${location}`,
           `Office buildings in ${location}`,
-          `Windows and duct areas in ${location}`
+          `Windows and duct areas in ${location}`,
+          `Near me invisible grills installation in ${location}`
         ]
       },
       nearbySection,

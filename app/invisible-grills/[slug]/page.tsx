@@ -9,6 +9,8 @@ import FAQSection from "./Faqs";
 import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { Poppins, Inter } from "next/font/google";
 import { services } from "../../components/constants/services";
+import LocationScroller from "../../components/LocationsWeServe";
+import { InProductlocationImages } from "../../components/seo/utils";
 
  const headingFont = Poppins({
   subsets: ["latin"],
@@ -63,6 +65,18 @@ function seededRandom(seed: number) {
 }
 
 
+ function getLocationImageInProduct(location: string) {
+
+  const seed = createGrillSeed(location.toLowerCase());
+
+  const rand = seededRandom(seed);
+
+  const index = Math.floor(rand() * InProductlocationImages.length);
+
+  return InProductlocationImages[index];
+}
+
+
 
 
 // export function getLocationImage(location: string) {
@@ -82,6 +96,7 @@ export default function Page({ params }: { params: { slug: string , sections: Se
   );
 
   const invisibleGrillImage = getLocationImage(location || "default location");
+  const inProductImage = getLocationImageInProduct(location || "default location");
   console.log("Selected image for location:", location, invisibleGrillImage);
 
   if (!location) {
@@ -314,6 +329,20 @@ export default function Page({ params }: { params: { slug: string , sections: Se
   bg-black/10
     mb-3  rounded-full"></div>
 </div>
+{section.heading.includes("Invisible Grill Price near me in") && (
+  <div className="relative w-full h-[260px] md:h-[320px] my-6 rounded-xl overflow-hidden">
+    
+    <Image
+      src={`${inProductImage}?v=near-me-${page.slug}-hyderabad-telangana`}
+      alt={`Invisible grill installation near me ${page.location}`}
+      title={`Invisible grills near me in ${page.location}`}
+      fill
+      className="object-cover transition-transform duration-700 hover:scale-105"
+      priority
+    />
+
+  </div>
+)}
 
   {Array.isArray(section.content) ? (
 
@@ -449,6 +478,8 @@ export default function Page({ params }: { params: { slug: string , sections: Se
   </div>
 
   </section>
+  <LocationScroller service="invisible-grills" />
+  
 
   </main>
 

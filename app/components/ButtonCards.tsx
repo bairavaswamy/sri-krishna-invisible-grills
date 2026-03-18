@@ -105,7 +105,7 @@ function ButtonCardsInner({ images = defaultImages }: { images?: ServiceItem[] }
 </div>
       <div
         ref={scrollerRef}
-        className="overflow-x-auto thin-scrollbar py-2 touch-pan-x"
+        className="overflow-x-auto scrollbar-hide py-2 touch-pan-x"
       >
         <div className="flex gap-4 px-4 flex-nowrap">
           {combinedImages.map((items, i) => {
@@ -137,8 +137,8 @@ function ButtonCardsInner({ images = defaultImages }: { images?: ServiceItem[] }
                 <div className="p-3 text-left">
                   <div className="text-base font-medium">{items.service}</div>
                   <div className="flex items-center gap-2">
-                    <span className="text-gray-400 line-through">{items.price}</span>
-                    <span className="text-green-600 font-bold">{items.offerPrice}</span>
+                    <span className="text-gray-600 line-through">{items.price}</span>
+                    <span className="text-green-600 font-semibold">{items.offerPrice}</span>
                   </div>
                   <div className="text-sm text-gray-500 mt-1">
                     Learn more

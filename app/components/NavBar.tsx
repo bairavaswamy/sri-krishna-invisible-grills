@@ -18,10 +18,19 @@ const MenuClient  = dynamic(() => import('./Menuclient'), {
   ssr: false,
 })
 
-const DropdownClient = dynamic(() => import('./Dropdownclient'), {
-  ssr: false,
-})
+const DropdownClient = dynamic(
+  () => import('./Dropdownclient'),
+  {
+    ssr: false,
+    loading: () => (
+      <p className="relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-orange-500 group">
+        Services
+      <span className="absolute left-0 -bottom-1 h-[2px] w-0 bg-orange-500 transition-all duration-300 group-hover:w-full"></span>
 
+      </p>
+    ),
+  }
+);
 
 const Header: React.FC = () => {
   const [open, setOpen] = useState<boolean>(false)

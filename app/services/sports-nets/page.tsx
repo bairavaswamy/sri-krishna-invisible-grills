@@ -35,80 +35,78 @@ export default function Page({ params }:any) {
    const authorityScore = locationAuthorityScore(location)
 const faqs = [
 
-  {
-    question: `What is the price of invisible grills near me in ${location}?`,
-    answer: `Invisible grill price in ${location} depends on balcony or window size, material grade, and installation requirements. We provide affordable invisible grills, balcony safety invisible grills near me, and anti bird net solutions with free inspection and transparent pricing.`
-  },
+{
+question:`What is the price of sports nets installation in ${location}?`,
+answer:`The cost of sports nets in ${location} depends on net size, material quality, and installation area. Whether you need cricket practice nets near me, football ground nets, or terrace sports nets, we provide affordable pricing with durable materials suitable for schools, apartments, and sports facilities.`
+},
 
-  {
-    question: `Are balcony safety invisible grills near me safe for children and pets in ${location}?`,
-    answer: `Yes. Balcony safety invisible grills installed in ${location} are designed using high-tensile stainless steel cables that prevent accidental falls. They provide strong protection for children and pets while keeping airflow and visibility open.`
-  },
+{
+question:`Which types of sports nets do you install in ${location}?`,
+answer:`We install all types of sports nets in ${location} including cricket practice nets, football nets, badminton court nets, volleyball nets, terrace sports nets, turf safety nets, and multi-sports protection nets. Our solutions are suitable for homes, schools, academies, and commercial sports grounds.`
+},
 
-  {
-    question: `Do invisible grills or safety nets near me block the outside view?`,
-    answer: `No. Invisible grills use thin stainless steel wires that remain almost invisible from a distance. Unlike traditional grills or heavy nets, they maintain clear outside views while working like balcony safety nets and bird protection systems.`
-  },
+{
+question:`Are sports nets safe for residential and school use in ${location}?`,
+answer:`Yes. Our sports nets installation in ${location} is designed for safety and durability. These nets prevent balls from leaving play areas, protect windows and surroundings, and are ideal for children play zones, school playgrounds, and apartment sports areas.`
+},
 
-  {
-    question: `Can invisible grills work like anti bird nets or pigeon safety nets in ${location}?`,
-    answer: `Yes. Invisible grills act as effective anti bird nets and pigeon safety nets by creating a protective barrier that prevents birds from entering balconies or windows without harming them.`
-  },
+{
+question:`Do you provide cricket practice nets near me in ${location}?`,
+answer:`Yes. We specialize in cricket practice nets near me searches across ${location}. Our strong nylon and HDPE nets are perfect for personal training areas, academies, terrace cricket setups, and professional practice zones with long-lasting performance.`
+},
 
-  {
-    question: `How long does invisible grill installation near me take in ${location}?`,
-    answer: `Most invisible grill installations in ${location} are completed within a few hours depending on area size. Our technicians provide quick and clean installation with minimal disturbance to residents.`
-  },
+{
+question:`How long does sports net installation take in ${location}?`,
+answer:`Most sports nets installations in ${location} are completed within a few hours depending on project size. Small terrace or practice nets are installed quickly, while larger football or turf sports nets may require additional setup time for secure fixing.`
+},
 
-  {
-    question: `Which is better — invisible grills or bird nets near me for balcony protection?`,
-    answer: `Invisible grills are a long-term solution compared to basic bird nets. They provide balcony safety, anti bird protection, durability, and modern appearance while requiring very low maintenance.`
-  },
+{
+question:`Can sports nets be installed on terraces or apartment play areas in ${location}?`,
+answer:`Yes. Terrace sports nets in ${location} are very popular for cricket and multi-sport activities. Our installation creates a safe playing environment by preventing balls from falling outside while maintaining open airflow and visibility.`
+},
 
-  {
-    question: `Do you provide invisible grills, balcony safety nets, and anti bird net installation near me in ${location}?`,
-    answer: `Yes. We offer invisible grill installation, balcony safety nets, pigeon safety nets, and anti bird net services across ${location}. Our team provides site inspection, professional fitting, and long-lasting safety solutions for homes and apartments.`
-  }
+{
+question:`Why choose your sports nets installation service in ${location}?`,
+answer:`Customers searching best sports nets near me in ${location} choose us for strong materials, professional installation, and long-lasting safety solutions. We provide customized sports net systems for cricket, football, badminton, and multi-sports areas with reliable support and expert workmanship.`
+}
 
 ];
 
-  const invisibleGrillsSections = [
+  const sportsNetsSections = [
+  {
+    header: `Sports Nets Installation in ${location}`,
+    content: `Sports nets installation in ${location} provides safe and professional net solutions for cricket nets, football nets, badminton nets, terrace sports nets, and society playgrounds. If you are searching sports nets near me or sports net installation in ${location}, we offer durable, affordable, and customized net fitting for homes, schools, and sports areas.`
+  },
 
-{
-header:`Balcony Safety Invisible Grills Installation in ${location}`,
-content:`Balcony safety invisible grills in ${location} protect homes without blocking views. These modern systems work like balcony safety nets, children safety nets, and bird safety nets near me solutions. Families searching anti bird net or children invisible grills in Hyderabad choose this option for strong protection, airflow, and elegant balcony design suitable for apartments and high-rise living.`
-},
+  {
+    header: `What Are Sports Nets and Why They Are Needed in ${location}?`,
+    content: `Sports nets in ${location} are protective net systems used for cricket practice nets, football ground nets, balcony sports safety nets, and indoor play areas. They prevent ball damage and improve safety. Users searching sports nets near me or playground net installation choose these nets for secure and organized sports environments.`
+  },
 
-{
-header:`Premium 304 Grade Stainless Steel Material Used in Our Grills`,
-content:`Our invisible grills use premium 304 grade stainless steel cables designed for long durability in Hyderabad weather. These materials resist rust and work better than regular balcony safety nets or pigeon safety nets near me solutions. Strong nylon coating improves safety, making them ideal for children safety nets, anti bird net protection, and modern balcony security systems.`
-},
+  {
+    header: `Professional Sports Net Installation Process in ${location}`,
+    content: `Our sports net installation in ${location} includes site inspection, measurement, strong pole fixing, and high-quality net tensioning. We install cricket nets, football nets, terrace nets, and multi-sports nets with precision. People searching sports net installation near me trust our clean, fast, and reliable service.`
+  },
 
-{
-header:`How Balcony Invisible Grills Are Installed`,
-content:`Invisible grill installation in ${location} starts with site inspection and accurate measurement. Aluminium channels are fixed securely, followed by tensioned stainless steel wires. This professional method creates strong balcony safety nets, bird safety nets near me protection, and anti bird net barriers. Proper installation ensures long-lasting safety for children, pets, and apartment balconies.`
-},
+  {
+    header: `Types of Sports Nets Available in ${location}`,
+    content: `We provide cricket practice nets, football goal nets, badminton court nets, volleyball nets, terrace sports nets, and safety nets in ${location}. Designed for durability and weather resistance, our solutions suit apartments, schools, academies, and playgrounds. Ideal for users searching best sports nets near me in ${location}.`
+  },
 
-{
-header:`Why Balcony Safety Is Important for Apartments`,
-content:`Open balconies in Hyderabad apartments need reliable protection. Invisible grills act as children safety nets, pigeon safety nets near me, and balcony safety nets while keeping views open. Homeowners searching best balcony safety nets in Hyderabad prefer invisible grills because they prevent accidents, reduce bird problems, and maintain modern architectural appearance.`
-},
+  {
+    header: `Sports Nets Cost in ${location} – Affordable Pricing`,
+    content: `The cost of sports nets in ${location} depends on area size, net material, and installation type. We provide cheap and best sports net installation in Hyderabad with transparent pricing. If you search sports nets price near me or affordable sports net installation in ${location}, we deliver value-focused solutions.`
+  },
 
-{
-header:`Balcony Safety Invisible Grill Cost in ${location}`,
-content:`The cost of invisible grills in ${location} depends on balcony size, height, and installation area. Compared to basic bird nets or anti bird net systems, invisible grills provide long-term value with minimal maintenance. Customers searching balcony safety nets price, pigeon safety nets near me in Hyderabad, or safety nets near me get customized and transparent pricing solutions.`
-},
+  {
+    header: `Why Choose Our Sports Nets Services in ${location}?`,
+    content: `Customers in ${location} choose our sports nets for strong materials, expert installation, and long-lasting performance. From cricket nets to terrace safety sports nets, we ensure secure fixing and neat finishing. People searching best sports nets installation near me rely on our experienced team and quality service.`
+  },
 
-{
-header:`Why Homeowners Choose Our Balcony Safety Invisible Grills`,
-content:`Homeowners choose our services for best balcony safety nets in Hyderabad, children invisible grills in Hyderabad, and anti bird net installation. We provide durable stainless steel systems that combine safety, neat finishing, and professional installation. Our grills also support bird protection and sports nets in Hyderabad requirements for residential and utility spaces.`
-},
-
-{
-header:`Simple Maintenance for Balcony Invisible Grills`,
-content:`Invisible grills require minimal maintenance compared to traditional safety nets. Regular cleaning keeps wires strong and visually clear. Avoid hanging heavy weight on cables for long life. With simple care, these systems work as long-term balcony safety nets, bird safety nets near me solutions, pigeon safety nets, and children safety protection for modern Hyderabad homes.`
-}
-
+  {
+    header: `Maintenance and Safety Tips for Sports Nets in ${location}`,
+    content: `Sports nets in ${location} require periodic inspection and proper tension maintenance for long life. Avoid sharp impacts and schedule checks when needed. Regular care keeps cricket nets, football nets, and playground nets safe and durable, ensuring uninterrupted play and maximum protection.`
+  }
 ];
 
  return (
@@ -119,7 +117,7 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
   <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
-      __html: JSON.stringify( buildFullSchema(location, "/services/balcony-safety-invisible-grills", faqs))
+      __html: JSON.stringify( buildFullSchema(location, "services/invisible-grills", faqs))
     }}
   />
 
@@ -157,7 +155,7 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
   <div
     className="absolute inset-0 bg-cover bg-center"
     style={{
-      backgroundImage: `url("/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp")`
+      backgroundImage: `url("/images/Box-cricket-sports-nets-installation.webp")`
     }}
   />
 
@@ -165,15 +163,16 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
   <div className="absolute inset-0 bg-gradient-to-r  from-black/70 via-black/60 to-black/50"></div>
 
   {/* Content */}
-  <div className="relative max-w-6xl mx-auto px-6 text-center md:text-left">
+ <div className="relative max-w-6xl mx-auto px-6 text-center md:text-left">
 
-    <h1 className={`text-2xl md:text-3xl font-bold leading-tight mb-6 drop-shadow-lg ${headingFont.variable}`}>
-      Balcony Safety Invisible Grills in Hyderabad - Professional Installation for Bird Protection
-    </h1>
+  <h1 className={`text-1xl md:text-3xl font-bold leading-tight mb-6 drop-shadow-lg ${headingFont.variable}`}>
+    Sports Nets Installation in Hyderabad – Cricket, Football & Multi-Sports Nets Near You
+  </h1>
 
-    <p className={`text-md md:text-lg max-w-3xl text-gray-200 ${bodyFont.variable}`}>
-      Hyderabad invisible grill specialists installing high tensile stainless steel balcony safety systems that secure homes against accidents birds and falls while preserving open skyline views
-    </p>
+  <p className={`text-md md:text-[16px] max-w-3xl text-gray-200 ${bodyFont.variable}`}>
+    Professional sports nets installation in Hyderabad for cricket practice nets, football ground nets, badminton courts, terrace sports safety nets, and playground protection. Our durable and affordable sports nets provide safety, ball control, and long-lasting performance for homes, schools, and sports academies searching sports nets near me.
+  </p>
+
 
 <div className="mt-6 flex flex-col sm:flex-row gap-6 justify-center md:justify-start">
 
@@ -232,9 +231,9 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
 
     {/* Image */}
     <Image
-      src={"/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp" + "?v=hyderabad-telangana"}
-      alt={`Balcony safety invisible grill installation in near me hyderabad`}
-      title={`Balcony Safety Invisible Grills in Hyderabad`}
+      src={"/images/Box-cricket-sports-nets-installation.webp" + "?v=hyderabad-telangana"}
+      alt={`Invisible grill installation in near me hyderabad`}
+      title={`Invisible grills in Hyderabad`}
       fill
       className="object-cover transition-transform duration-700 hover:scale-105"
       priority
@@ -269,7 +268,7 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
       <div className="flex flex-col items-center">
         <Handshake className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
         <p className="text-gray-900 md:text-white text-xs md:text-sm  font-semibold">
-          15,000+ Trusted Homes & 18 Years Warranty
+          15,000+ Trusted Homes & 7 Years Warranty
         </p>
       </div>
 
@@ -303,8 +302,8 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
 
   <Link href="/" className="hover:underline">Home</Link>
   {" > "}
-  <Link href="/services/balcony-safety-invisible-grills" className="hover:underline">
-  Balcony Safety Invisible Grills
+  <Link href="/services/invisible-grills" className="hover:underline">
+  sports nets installation in Hyderabad
   </Link>
   {" > "}
   {location}
@@ -316,7 +315,7 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
 
   <section className="max-w-6xl mx-auto px-6 py-10 space-y-12">
 
-  {invisibleGrillsSections.map((section:any, index:number) => (
+  {sportsNetsSections.map((section:any, index:number) => (
 
   <div key={index}>
     <div >
@@ -328,14 +327,14 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
   bg-black/10
     mb-3  rounded-full"></div>
 </div>
-
-{section.header.includes("Why Balcony Safety Is Important for Apartments") && (
+ 
+ {section.header.includes("Professional Sports Net Installation Process in") && (
   <div className="relative w-full h-[260px] md:h-[320px] my-6 rounded-xl overflow-hidden">
     
     <Image
-      src={"/images/drybalcony-invisible-grills-near-me.webp?v=near-me-hyderabad-telangana"}
-      alt="Anti bird Invisible grill installation near me Hyderabad"
-      title="anti bird Invisible grills near me in Hyderabad"
+      src={"/images/sports-nets-installation-for-cricket-and-football-practice.webp?v=near-me-hyderabad-telangana"}
+      alt="Box cricket and all sports nets installation near me Hyderabad"
+      title="Sports nets near me in Hyderabad"
       fill
       className="object-cover transition-transform duration-700 hover:scale-105"
       priority
@@ -343,7 +342,6 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
 
   </div>
 )}
-
 
   <p className="text-gray-700 leading-relaxed">
   {section.content}
@@ -438,7 +436,7 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
   </section> */}
 
   {/* <NearbyServiceSection page={page} /> */}
-<LocationScroller service="balcony-safety-invisible-grills" />
+<LocationScroller service="sports-nets" />
 
   {/* CTA */}
 
@@ -447,13 +445,12 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
   <div className="max-w-5xl mx-auto px-6 text-center">
 
   <h2 className="text-3xl font-bold mb-4">
-  Need Invisible Grills in {location}?
-  </h2>
+  Looking for Sports Nets Installation in {location}?
+</h2>
 
-  <p className="mb-6">
-  Contact Rohini Invisible Grills today for professional installation.
-  Protect your balcony and keep birds away and Get 10% discount on all balcony safetyinvisible grills.
-  </p>
+<p className="mb-6">
+  Professional sports nets installation in {location} for cricket, football, terrace, and playground safety. Searching sports nets near me in Hyderabad? Contact us today and get 10% discount.
+</p>
 
   <a
   href="/contact-us"

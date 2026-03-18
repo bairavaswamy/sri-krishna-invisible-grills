@@ -127,6 +127,12 @@ export const locationImages = [
   "/images/invisible-grill-2.webp"
 ];
 
+export const InProductlocationImages = [
+  "/images/invisible-grill-for-balcony.webp",
+  "/images/invisible-grills-for-apartment.webp",
+   "/images/Balcony-Invisible-Grills-1.webp",
+];
+
 export function locationHash(location: string) {
   let hash = 0;
 
@@ -147,5 +153,20 @@ export function createGrillSeed(str: string): number {
   return seed;
 }
 
+
+//balcony safety invisible grills images
+
+export const locationImagesForBalconySafetyInvisibleGrills = [
+  "/images/balcony-invisible-grills-in-hyderabad.webp",
+  "/images/drybalcony-invisible-grills-near-me.webp",
+  "/images/invisible-grills-in-hyderabad.webp",
+  "/images/pigeon-safety-invisible-grills.webp",
+];
+
+export const BalconySafetyInvisibleGrillsProductImages = [
+  "/images/invisible-grill.webp",
+  "/images/invisible-grill-for-balcony.webp",
+  "/images/invisible-grills-for-apartment.webp",
+];
 
 
