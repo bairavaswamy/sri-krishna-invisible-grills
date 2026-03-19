@@ -4,11 +4,13 @@ import Link from 'next/link';
 interface Section {
   heading: string;
   content: string | string[];
+  slug?:string | string[];
 }
 
 interface PageData {
   location: string;
   sections: Section[];
+  category:String;
 }
 
 export default function NearbyServiceSection({ page }: { page: PageData }) {
@@ -24,25 +26,26 @@ export default function NearbyServiceSection({ page }: { page: PageData }) {
     <section className="py-12 bg-gray-100">
       <div className="max-w-6xl mx-auto px-6">
         <h2 className="text-2xl font-bold mb-6 text-yellow-600">
-          Invisible Grill Installation Near {page.location}
+          { page?.category === "sports-nets" ?  `Sports Nets Installation Near ${page.location}` : `Invisible Grill Installation Near ${page.location}` }
         </h2>
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           {nearbySection.content.map((text: string, i: number) => {
             // Remove the prefix to get just the location name (e.g., "Abids")
-            const locationName = text.replace("Invisible grill installation available in ", "");
+            const locationName = text
+            // .replace("Invisible grill installation available in ", "");
             
-            // Generate a URL-friendly slug
-            const slug = locationName
-              .toLowerCase()
-              .trim()
-              .replace(/\s+/g, "-")     // Replace spaces with -
-              .replace(/[^\w-]+/g, ""); // Remove special characters
+            // // Generate a URL-friendly slug
+            // const slug = locationName
+            //   .toLowerCase()
+            //   .trim()
+            //   .replace(/\s+/g, "-")     // Replace spaces with -
+            //   .replace(/[^\w-]+/g, ""); // Remove special characters
 
             return (
               <Link
                 key={i}
-                href={`/invisible-grills/${slug}`}
+                href={nearbySection.slug ? nearbySection.slug[i] : "#"}
                 className="bg-white p-4 rounded-lg shadow transition-all hover:shadow-lg hover:text-yellow-400 text-center text-blue-400 font-medium border border-transparent hover:border-blue-200"
               >
                 {locationName}

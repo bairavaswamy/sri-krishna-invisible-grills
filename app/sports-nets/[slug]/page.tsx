@@ -1,14 +1,15 @@
 import Link from "next/link";
 import { hyderabadLocations as locations } from "../../components/constants/locations";
-import { locationHash, slugify, locationImages, createGrillSeed, locationImagesForBalconySafetyInvisibleGrills, BalconySafetyInvisibleGrillsProductImages } from "../../components/seo/utils";
+import { slugify, createGrillSeed, locationImagesForSportsNets, BalconySafetySportsNets, } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
-import { Phone, MessageCircle,Plus, Minus } from "lucide-react";
+import { Phone, MessageCircle } from "lucide-react";
 import Image from "next/image";
-import FAQSection from "./Faqs";
+import FAQSection from "../../balcony-safety-invisible-grills/[slug]/Faqs";
 import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { Poppins, Inter } from "next/font/google";
 import { services } from "../../components/constants/services";
-import { generateBalconySafetyInvisibleGrillservice } from "../../components/seo/balconySafetyInvisibleGrillsGenerator";
+import { generateAntiBirdInvisibleGrillservice } from "../../components/seo/antiBirdInvisibleGrillsGenerator";
+import {generateSportsNetsService} from "../../components/seo/sportsNetsGenerator"
 import LocationScroller from "../../components/LocationsWeServe";
 
  const headingFont = Poppins({
@@ -66,9 +67,9 @@ function seededRandom(seed: number) {
 
   const rand = seededRandom(seed);
 
-  const index = Math.floor(rand() * locationImagesForBalconySafetyInvisibleGrills.length);
+  const index = Math.floor(rand() * locationImagesForSportsNets.length);
 
-  return locationImagesForBalconySafetyInvisibleGrills[index];
+  return locationImagesForSportsNets[index];
 }
 
 
@@ -78,9 +79,9 @@ function getLocationImageInProduct(location: string) {
 
   const rand = seededRandom(seed);
 
-  const index = Math.floor(rand() * BalconySafetyInvisibleGrillsProductImages.length);
+  const index = Math.floor(rand() * BalconySafetySportsNets.length);
 
-  return BalconySafetyInvisibleGrillsProductImages[index];
+  return BalconySafetySportsNets[index];
 }
 
 
@@ -111,7 +112,7 @@ export default function Page({ params }: { params: { slug: string , sections: Se
 
   if (!location) return null;
 
-  const page = generateBalconySafetyInvisibleGrillservice(
+  const page = generateSportsNetsService(
     location,
     locations,
     locations.indexOf(location)
@@ -239,8 +240,8 @@ export default function Page({ params }: { params: { slug: string , sections: Se
     {/* Image */}
     <Image
       src={invisibleGrillImage + "?v=" + separator(page.slug)}
-      alt={`Invisible grill installation in ${page.location}`}
-      title={`Invisible grills in ${page.location}`}
+      alt={`Cricket practice sports nets installation in ${page.location}`}
+      title={`Sports nets near me in ${page.location}`}
       fill
       className="object-cover transition-transform duration-700 hover:scale-105"
       priority
@@ -275,7 +276,7 @@ export default function Page({ params }: { params: { slug: string , sections: Se
       <div className="flex flex-col items-center">
         <Handshake className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
         <p className="text-gray-900 md:text-white text-sm md:text-[13px] font-semibold">
-          15,000+ Trusted Homes & 16 years warranty.
+          15,300+ Trusted Homes & 7.5 years warranty.
         </p>
       </div>
 
@@ -309,8 +310,8 @@ export default function Page({ params }: { params: { slug: string , sections: Se
 
   <Link href="/" className="hover:underline">Home</Link>
   {" > "}
-  <Link href="/services/balcony-safety-invisible-grills" className="hover:underline">
-  Balcony safety invisible grills
+  <Link href="/services/sports-nets" className="hover:underline">
+ Sports Nets
   </Link>
   {" > "}
   {page.location}
@@ -335,13 +336,13 @@ export default function Page({ params }: { params: { slug: string , sections: Se
     mb-3  rounded-full"></div>
 </div>
 
-{section.heading.includes("Balcony safety Invisible Grill Price near me in ") && (
+{section.heading.includes("Sports Nets Installation Price near me in") && (
   <div className="relative w-full h-[260px] md:h-[320px] my-6 rounded-xl overflow-hidden">
     
     <Image
       src={`${inProductImage}?v=near-me-${separator(page.slug)}-hyderabad-telangana`}
-      alt={`Invisible grill installation near me ${page.location}`}
-      title={`Invisible grills near me in ${page.location}`}
+      alt={`Box cricket practice net installation near me ${page.location}`}
+      title={`All sports nets near me in ${page.location} Hyderabad`}
       fill
       className="object-cover transition-transform duration-700 hover:scale-105"
       priority
@@ -466,12 +467,12 @@ export default function Page({ params }: { params: { slug: string , sections: Se
   <div className="max-w-5xl mx-auto px-6 text-center">
 
   <h2 className="text-3xl font-bold mb-4">
-  Need Balcony Safety Invisible Grills in {page.location}?
+  Need Sports Net Installation in {page.location}?
   </h2>
 
   <p className="mb-6">
-  Contact Rohini Invisible Grills today for professional installation.
-  Protect your balcony and keep birds away and Secure Your Balcony.
+  Contact Rohini Invisible Grills today for professional Sports Nets installation.
+  Protect your balcony and keep birds away and be healthy playing sports by getting sports nets installation from us.
   </p>
 
   <a
@@ -485,7 +486,7 @@ export default function Page({ params }: { params: { slug: string , sections: Se
 
   </section>
 
-  <LocationScroller service="balcony-safety-invisible-grills" />
+  <LocationScroller service="sports-nets" />
 
   </main>
 

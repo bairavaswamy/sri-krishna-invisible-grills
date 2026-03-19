@@ -16,8 +16,8 @@ export const services = [
     slug: "sports-nets",
   },
   {
-    title: "Invisible Grills for Windows",
-    slug: "invisible-grills-for-windows",
+    title: "Windows Invisible Grills",
+    slug: "windows-invisible-grills",
   },
   {
     title: "Children Safety Invisible Grills",

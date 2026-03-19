@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { hyderabadLocations as locations } from "../../components/constants/locations";
 import { generateService } from "../../components/seo/invisibleGrillsGenerator";
-import { locationHash, slugify, locationImages, createGrillSeed } from "../../components/seo/utils";
+import { locationHash, slugify, locationImages, createGrillSeed, separator } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
 import { Phone, MessageCircle,Plus, Minus } from "lucide-react";
 import Image from "next/image";
@@ -233,7 +233,7 @@ export default function Page({ params }: { params: { slug: string , sections: Se
 
     {/* Image */}
     <Image
-      src={invisibleGrillImage + "?v=" + page.slug}
+      src={invisibleGrillImage + "?v=" + separator(page.slug)}
       alt={`Invisible grill installation in ${page.location}`}
       title={`Invisible grills in ${page.location}`}
       fill
@@ -333,7 +333,7 @@ export default function Page({ params }: { params: { slug: string , sections: Se
   <div className="relative w-full h-[260px] md:h-[320px] my-6 rounded-xl overflow-hidden">
     
     <Image
-      src={`${inProductImage}?v=near-me-${page.slug}-hyderabad-telangana`}
+      src={`${inProductImage}?v=near-me-${separator(page.slug)}-hyderabad-telangana`}
       alt={`Invisible grill installation near me ${page.location}`}
       title={`Invisible grills near me in ${page.location}`}
       fill

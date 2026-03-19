@@ -31,7 +31,7 @@ const bodyFont = Inter({
 export default function Page({ params }:any) {
  const location = "Hyderabad";
 
- const breadcrumbs = generateBreadcrumb(location,"services/invisible-grills")
+ const breadcrumbs = generateBreadcrumb(location,"services/sports-nets")
    const authorityScore = locationAuthorityScore(location)
 const faqs = [
 
@@ -117,7 +117,7 @@ answer:`Customers searching best sports nets near me in ${location} choose us fo
   <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
-      __html: JSON.stringify( buildFullSchema(location, "services/invisible-grills", faqs))
+      __html: JSON.stringify( buildFullSchema(location, "services/sports-nets", faqs))
     }}
   />
 
@@ -302,7 +302,7 @@ answer:`Customers searching best sports nets near me in ${location} choose us fo
 
   <Link href="/" className="hover:underline">Home</Link>
   {" > "}
-  <Link href="/services/invisible-grills" className="hover:underline">
+  <Link href="/services/sports-nets" className="hover:underline">
   sports nets installation in Hyderabad
   </Link>
   {" > "}

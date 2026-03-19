@@ -170,3 +170,82 @@ export const BalconySafetyInvisibleGrillsProductImages = [
 ];
 
 
+//splitter
+
+export const separator = (service: string): string => {
+  const parts = service.split("/");
+
+  if (parts.length < 2) return service; // safety fallback
+
+  return `${parts[0]}in${parts[1]}`;
+};
+
+//anti bird invisible grills
+
+export const locationImagesForAntiBirdInvisibleGrills = [
+"/images/drybalcony-invisible-grills-near-me.webp",
+  "/images/balcony-invisible-grills-in-hyderabad.webp",
+  "/images/invisible-grills-in-hyderabad.webp",
+  "/images/anti-bird-invisible-grills.webp",
+];
+
+export const BalconySafetyAntiBirdInvisibleGrills = [
+  "/images/invisible-grill.webp",
+  "/images/stainless-steel-invisible-grill.webp",
+  "/images/invisible-grills-for-apartment.webp",
+];
+
+
+//Sports nets installation
+
+export const locationImagesForSportsNets = [
+"/images/Box-cricket-practice-net-installation-near-me.webp",
+  "/images/Box-cricket-practice-net-installation-near-me.webp",
+  "/images/sport-nets-installation-hyderabad.webp",
+  "/images/sports-nets-installation-for-cricket-and-football-practice.webp",
+];
+
+export const BalconySafetySportsNets = [
+     "/images/sports-nets-installation-for-cricket-and-football-practice.webp",
+  "/images/sport-nets-installation-hyderabad.webp",
+  "/images/Box-cricket-practice-net-installation-near-me.webp",
+"/images/Box-cricket-practice-net-installation-near-me.webp",
+];
+
+
+
+// windows invisible grills
+
+export const locationImagesForWindowsInvisibleGrills = [
+"/images/window-anti-bird-invisible-grills.webp",
+  "/images/window-invisible-grills-Hyderabad.webp",
+  "/images/invisible-grills-for-window-near-me.webp",
+  "/images/invisible-grills-bird-netting-in-hyderabad.webp",
+];
+
+export const BalconySafetyWindowsInvisibleGrills = [
+  "/images/invisible-grills-bird-netting-in-hyderabad.webp",
+  "/images/window-invisible-grills-Hyderabad.webp",
+  "/images/window-anti-bird-invisible-grills.webp",
+  "/images/invisible-grills-for-window-near-me.webp",
+];
+
+
+
+
+
+// Children safety invisible grills
+
+export const locationImagesForChildrenSafetyInvisibleGrills = [
+"/images/children-safety-invisible-grills-for-balcony.webp",
+  "/images/children-safety-invisible-grills-in-hyderabad.webp",
+  "/images/invisible-grills-for-window-near-me.webp",
+  "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
+];
+
+export const BalconySafetyChildrenSafetyInvisibleGrills = [
+  "/images/invisible-grill-for-balcony.webp",
+  "/images/pigeon-safety-invisible-grills.webp",
+  "/images/children-safety-invisible-grills-for-balcony.webp",
+  "/images/children-safety-invisible-grills-in-hyderabad.webp",
+];

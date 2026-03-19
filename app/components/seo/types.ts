@@ -1,12 +1,14 @@
 export interface ServiceSection {
   heading: string;
+  slug:string | string[];
   content: string | string[]; // Content can be a string or an array of strings
 }
 
 
 export interface Section {
-  heading: string
-  content: string | string[]
+  heading: string;
+  content: string | string[];
+  slug?:string | string[];
 }
 
 export interface FAQ {
@@ -32,3 +34,5 @@ export interface ServicePage {
   }
   schema: any
 }
+
+

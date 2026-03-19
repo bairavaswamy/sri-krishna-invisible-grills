@@ -31,7 +31,7 @@ const bodyFont = Inter({
 export default function Page({ params }:any) {
  const location = "Hyderabad";
 
- const breadcrumbs = generateBreadcrumb(location,"services/invisible-grills")
+ const breadcrumbs = generateBreadcrumb(location,"services/balcony-safety-invisible-grills")
    const authorityScore = locationAuthorityScore(location)
 const faqs = [
 

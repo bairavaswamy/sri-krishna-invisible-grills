@@ -72,7 +72,10 @@ function ServiceItem({ service, closeMenu }: any) {
         onClick={closeMenu}
         className="block relative  px-5 py-3 text-base font-medium text-gray-700 transition-all duration-300 hover:text-orange-500 group"
       >
-        {service.title}
+         <div className="flex items-center">
+  <p className="pr-5">{service.title}</p>
+  <span className="ml-auto text-black text-[18px]">{">"}</span>
+</div>
       <span className="absolute left-0 -bottom-1 h-[1px] w-0 bg-orange-500 transition-all z-10 duration-300 group-hover:w-full"></span>
       </Link>
 

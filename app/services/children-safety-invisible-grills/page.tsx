@@ -31,7 +31,7 @@ const bodyFont = Inter({
 export default function Page({ params }:any) {
  const location = "Hyderabad";
 
- const breadcrumbs = generateBreadcrumb(location,"services/invisible-grills")
+ const breadcrumbs = generateBreadcrumb(location,"services/children-safety-invisible-grills")
    const authorityScore = locationAuthorityScore(location)
 const faqs = [
 
@@ -116,7 +116,7 @@ const faqs = [
   <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
-      __html: JSON.stringify( buildFullSchema(location, "services/invisible-grills", faqs))
+      __html: JSON.stringify( buildFullSchema(location, "services/children-safety-invisible-grills", faqs))
     }}
   />
 

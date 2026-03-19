@@ -69,6 +69,9 @@ export const  generateService : (location: string, locations: string[], index: n
 
   const nearbySection: ServiceSection = {
     heading: "Nearby Areas We Serve",
+    slug:nearby.map(
+      (n: string) => `/invisible-grills/${slugify(n)}`
+    ),
     // Returns an array of strings
     content: nearby.map((n: string) => `Invisible grill installation available in ${n}`)
   };

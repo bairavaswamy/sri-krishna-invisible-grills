@@ -76,6 +76,9 @@ export const  generateBalconySafetyInvisibleGrillservice : (location: string, lo
 
   const nearbySection: ServiceSection = {
     heading: "Nearby Areas We Serve",
+    slug:nearby.map(
+      (n: string) => `/balcony-safety-invisible-grills/${slugify(n)}`
+    ),
     // Returns an array of strings
     content: nearby.map((n: string) => `Invisible grill installation available in ${n}`)
   };

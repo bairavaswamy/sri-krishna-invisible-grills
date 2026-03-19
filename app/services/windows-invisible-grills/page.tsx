@@ -31,7 +31,7 @@ const bodyFont = Inter({
 export default function Page({ params }:any) {
  const location = "Hyderabad";
 
- const breadcrumbs = generateBreadcrumb(location,"services/invisible-grills")
+ const breadcrumbs = generateBreadcrumb(location,"services/windows-invisible-grilld")
    const authorityScore = locationAuthorityScore(location)
 const faqs = [
 
@@ -434,7 +434,7 @@ content:`Invisible grills for windows in ${location} require simple maintenance 
   </section> */}
 
   {/* <NearbyServiceSection page={page} /> */}
-<LocationScroller service="invisible-grills-for-windows" />
+<LocationScroller service="windows-invisible-grills" />
 
   {/* CTA */}
 
