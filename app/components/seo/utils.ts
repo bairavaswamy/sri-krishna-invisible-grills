@@ -79,7 +79,7 @@ return {
 "@type":"ListItem",
 "position":2,
 "name":"Invisible Grills Locations",
-"item":"https://rohiniinvisiblegrills.com/invisible-grills-locations"
+"item":"https://rohiniinvisiblegrills.com/invisible-grills"
 },
 {
 "@type":"ListItem",
