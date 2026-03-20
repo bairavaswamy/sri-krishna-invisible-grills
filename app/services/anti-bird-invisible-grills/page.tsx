@@ -7,6 +7,8 @@ import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { buildFullSchema } from "../../components/seo/schema";
 import { generateBreadcrumb, locationAuthorityScore } from "../../components/seo/utils";
 import LocationScroller from "../../components/LocationsWeServe";
+import {buildSchemaGraph } from "../../components/schema/combineSchema";
+
 
 // const headingFont = Poppins({
 //   subsets: ["latin"],
@@ -99,6 +101,24 @@ export default function Page({ params }: any) {
     }
   ]
 
+  
+    
+    const url = `https://rohiniinvisiblegrills.com/services/anti-bird-invisible-grills`;
+    const serviceName = "Anti Bird Invisible Grills";
+    const serviceSlug = "anti-bird-invisible-grills";
+    
+    const galleryImages = [
+    "/images/anti-bird-invisible-grills.webp",
+    "/images/Balcony-Invisible-Grills-1.webp"
+    ];
+    
+    
+      // Build the full schema graph
+    const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
+    
+    // Convert to JSON-LD for injecting in the page
+    const jsonLd = JSON.stringify(schemaGraph, null, 2);
+
   return (
 
     <main className="bg-gray-50 min-h-screen">
@@ -107,17 +127,17 @@ export default function Page({ params }: any) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify(buildFullSchema(location, "services/anti-bird-invisible-grills", faqs))
+          __html: jsonLd  // JSON.stringify(buildFullSchema(location, "services/anti-bird-invisible-grills", faqs))
         }}
       />
 
       {/* Breadcrumb */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(breadcrumbs)
         }}
-      />
+      /> */}
 
       {/* Authority Schema */}
       <script
@@ -253,6 +273,21 @@ export default function Page({ params }: any) {
         </div>
 
       </div>
+
+      
+  {/* BREADCRUMBS */}
+
+  <div className="max-w-6xl mx-auto px-6 py-4 text-sm text-gray-600">
+
+  <Link href="/" className="hover:underline">Home</Link>
+  {" > "}
+  <Link href="/services/anti-bird-invisible-grills" className="hover:underline">
+  Anti Bird invisible grills
+  </Link>
+  {" > "}
+  {"Hyderabad"}
+
+  </div>
 
 
 

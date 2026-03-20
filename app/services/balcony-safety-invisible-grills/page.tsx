@@ -8,6 +8,8 @@ import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { buildFullSchema } from "../../components/seo/schema";
 import { generateBreadcrumb, locationAuthorityScore } from "../../components/seo/utils";
 import LocationScroller from "../../components/LocationsWeServe";
+import {buildSchemaGraph } from "../../components/schema/combineSchema";
+
 
 // const headingFont = Poppins({
 //   subsets: ["latin"],
@@ -111,6 +113,24 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
 
 ];
 
+
+    
+    const url = `https://rohiniinvisiblegrills.com/services/balcony-safety-invisible-grills`;
+    const serviceName = "Balcony Safety Invisible Grills";
+    const serviceSlug = "balcony-safety-invisible-grills";
+    
+    const galleryImages = [
+    "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
+    "/images/drybalcony-invisible-grills-near-me.webp"
+    ];
+    
+    
+      // Build the full schema graph
+    const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
+    
+    // Convert to JSON-LD for injecting in the page
+    const jsonLd = JSON.stringify(schemaGraph, null, 2);
+
  return (
 
   <main className="bg-gray-50 min-h-screen">
@@ -119,17 +139,17 @@ content:`Invisible grills require minimal maintenance compared to traditional sa
   <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
-      __html: JSON.stringify( buildFullSchema(location, "/services/balcony-safety-invisible-grills", faqs))
+      __html: jsonLd  // JSON.stringify( buildFullSchema(location, "/services/balcony-safety-invisible-grills", faqs))
     }}
   />
 
   {/* Breadcrumb Schema */}
-  <script
+  {/* <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
       __html: JSON.stringify(breadcrumbs)
     }}
-  />
+  /> */}
 
   {/*Location Authority Schema */}
   <script

@@ -8,6 +8,8 @@ import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { buildFullSchema } from "../../components/seo/schema";
 import { generateBreadcrumb, locationAuthorityScore } from "../../components/seo/utils";
 import LocationScroller from "../../components/LocationsWeServe";
+import {buildSchemaGraph } from "../../components/schema/combineSchema";
+
 
 // const headingFont = Poppins({
 //   subsets: ["latin"],
@@ -108,6 +110,24 @@ answer:`Customers searching best sports nets near me in ${location} choose us fo
     content: `Sports nets in ${location} require periodic inspection and proper tension maintenance for long life. Avoid sharp impacts and schedule checks when needed. Regular care keeps cricket nets, football nets, and playground nets safe and durable, ensuring uninterrupted play and maximum protection.`
   }
 ];
+
+
+    
+    const url = `https://rohiniinvisiblegrills.com/services/sports-nets`;
+    const serviceName = "Sports Netss";
+    const serviceSlug = "sports-nets";
+    
+    const galleryImages = [
+    "/images/Box-cricket-sports-nets-installation.webp",
+    "/images/sports-nets-installation-for-cricket-and-football-practice.webp"
+    ];
+    
+    
+      // Build the full schema graph
+    const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
+    
+    // Convert to JSON-LD for injecting in the page
+    const jsonLd = JSON.stringify(schemaGraph, null, 2);
 
  return (
 

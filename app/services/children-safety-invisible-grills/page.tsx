@@ -8,6 +8,8 @@ import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { buildFullSchema } from "../../components/seo/schema";
 import { generateBreadcrumb, locationAuthorityScore } from "../../components/seo/utils";
 import LocationScroller from "../../components/LocationsWeServe";
+import {buildSchemaGraph } from "../../components/schema/combineSchema";
+
 
 // const headingFont = Poppins({
 //   subsets: ["latin"],
@@ -108,6 +110,24 @@ const faqs = [
     content: `Children safety invisible grills in ${location} require simple maintenance like periodic cleaning and inspection to maintain strength. Avoid placing heavy loads on cables and schedule professional checks when needed. Proper care ensures long-lasting performance similar to premium children safety nets and balcony safety systems for safe homes.`
   }
 ];
+
+
+    
+    const url = `https://rohiniinvisiblegrills.com/services/children-safety-invisible-grills`;
+    const serviceName = "Anti Bird Invisible Grills";
+    const serviceSlug = "children-safety-invisible-grills";
+    
+    const galleryImages = [
+    "/images/children-safety-invisible-grills-for-balcony.webp",
+    "/images/children-safety-invisible-grills-in-hyderabad.webp"
+    ];
+    
+    
+      // Build the full schema graph
+    const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
+    
+    // Convert to JSON-LD for injecting in the page
+    const jsonLd = JSON.stringify(schemaGraph, null, 2);
  return (
 
   <main className="bg-gray-50 min-h-screen">
@@ -116,17 +136,17 @@ const faqs = [
   <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
-      __html: JSON.stringify( buildFullSchema(location, "services/children-safety-invisible-grills", faqs))
+      __html: jsonLd // JSON.stringify( buildFullSchema(location, "services/children-safety-invisible-grills", faqs))
     }}
   />
 
   {/* Breadcrumb Schema */}
-  <script
+  {/* <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
       __html: JSON.stringify(breadcrumbs)
     }}
-  />
+  /> */}
 
   {/*Location Authority Schema */}
   <script

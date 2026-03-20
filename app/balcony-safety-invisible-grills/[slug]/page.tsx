@@ -10,6 +10,8 @@ import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { services } from "../../components/constants/services";
 import { generateBalconySafetyInvisibleGrillservice } from "../../components/seo/balconySafetyInvisibleGrillsGenerator";
 import LocationScroller from "../../components/LocationsWeServe";
+import {buildSchemaGraph } from "../../components/schema/combineSchema";
+
 
 //  const headingFont = Poppins({
 //   subsets: ["latin"],
@@ -117,6 +119,25 @@ export default function Page({ params }: { params: { slug: string , sections: Se
     locations.indexOf(location)
   );
 
+  
+  const url = `https://rohiniinvisiblegrills.com/balcony-safety-invisible-grills/${slugify(location)}`;
+  const serviceName = "Balcony Safety Invisible Grills";
+  const serviceSlug = "balcony-safety-invisible-grills";
+  
+  const faqs = page.faqs
+  const galleryImages = [
+   invisibleGrillImage,
+   inProductImage
+  ];
+  
+  
+    // Build the full schema graph
+  const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
+  
+  // Convert to JSON-LD for injecting in the page
+  const jsonLd = JSON.stringify(schemaGraph, null, 2);
+  
+
  return (
 
   <main className="bg-gray-50 min-h-screen">
@@ -125,17 +146,17 @@ export default function Page({ params }: { params: { slug: string , sections: Se
   <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
-      __html: JSON.stringify(page.schema)
+      __html: jsonLd // JSON.stringify(page.schema)
     }}
   />
 
   {/* Breadcrumb Schema */}
-  <script
+  {/* <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
       __html: JSON.stringify(page.breadcrumbs)
     }}
-  />
+  /> */}
 
   {/*Location Authority Schema */}
   <script

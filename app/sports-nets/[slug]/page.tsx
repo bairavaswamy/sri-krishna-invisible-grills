@@ -11,6 +11,8 @@ import { services } from "../../components/constants/services";
 import { generateAntiBirdInvisibleGrillservice } from "../../components/seo/antiBirdInvisibleGrillsGenerator";
 import {generateSportsNetsService} from "../../components/seo/sportsNetsGenerator"
 import LocationScroller from "../../components/LocationsWeServe";
+import {buildSchemaGraph } from "../../components/schema/combineSchema";
+
 
 //  const headingFont = Poppins({
 //   subsets: ["latin"],
@@ -118,6 +120,25 @@ export default function Page({ params }: { params: { slug: string , sections: Se
     locations.indexOf(location)
   );
 
+  
+  
+  const url = `https://rohiniinvisiblegrills.com/sports-nets/${slugify(location)}`;
+  const serviceName = "Sports Nets";
+  const serviceSlug = "sports-nets";
+  
+  const faqs = page.faqs
+  const galleryImages = [
+   invisibleGrillImage,
+   inProductImage
+  ];
+  
+  
+    // Build the full schema graph
+  const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
+  
+  // Convert to JSON-LD for injecting in the page
+  const jsonLd = JSON.stringify(schemaGraph, null, 2);
+
  return (
 
   <main className="bg-gray-50 min-h-screen">
@@ -126,17 +147,17 @@ export default function Page({ params }: { params: { slug: string , sections: Se
   <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
-      __html: JSON.stringify(page.schema)
+      __html:jsonLd  // JSON.stringify(page.schema)
     }}
   />
 
   {/* Breadcrumb Schema */}
-  <script
+  {/* <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
       __html: JSON.stringify(page.breadcrumbs)
     }}
-  />
+  /> */}
 
   {/*Location Authority Schema */}
   <script

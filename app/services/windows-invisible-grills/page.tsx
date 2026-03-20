@@ -8,6 +8,8 @@ import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { buildFullSchema } from "../../components/seo/schema";
 import { generateBreadcrumb, locationAuthorityScore } from "../../components/seo/utils";
 import LocationScroller from "../../components/LocationsWeServe";
+import {buildSchemaGraph } from "../../components/schema/combineSchema";
+
 
 // const headingFont = Poppins({
 //   subsets: ["latin"],
@@ -31,7 +33,7 @@ import LocationScroller from "../../components/LocationsWeServe";
 export default function Page({ params }:any) {
  const location = "Hyderabad";
 
- const breadcrumbs = generateBreadcrumb(location,"services/windows-invisible-grilld")
+ const breadcrumbs = generateBreadcrumb(location,"services/windows-invisible-grills")
    const authorityScore = locationAuthorityScore(location)
 const faqs = [
 
@@ -105,6 +107,24 @@ content:`Invisible grills for windows in ${location} require simple maintenance 
 }
 
 ];
+
+
+    
+    const url = `https://rohiniinvisiblegrills.com/services/windows-invisible-grills`;
+    const serviceName = "Windows Invisible Grills";
+    const serviceSlug = "windows-invisible-grills";
+    
+    const galleryImages = [
+    "/images/window-anti-bird-invisible-grills.webp",
+    "/images/window-invisible-grills-Hyderabad.webp"
+    ];
+    
+    
+      // Build the full schema graph
+    const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
+    
+    // Convert to JSON-LD for injecting in the page
+    const jsonLd = JSON.stringify(schemaGraph, null, 2);
 
  return (
 
@@ -298,8 +318,8 @@ content:`Invisible grills for windows in ${location} require simple maintenance 
 
   <Link href="/" className="hover:underline">Home</Link>
   {" > "}
-  <Link href="/services/invisible-grills" className="hover:underline">
-  Invisible Grills
+  <Link href="/services/windows-invisible-grills" className="hover:underline">
+  Windows Invisible Grills
   </Link>
   {" > "}
   {location}

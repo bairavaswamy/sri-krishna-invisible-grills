@@ -8,6 +8,8 @@ import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { buildFullSchema } from "../../components/seo/schema";
 import { generateBreadcrumb, locationAuthorityScore } from "../../components/seo/utils";
 import LocationScroller from "../../components/LocationsWeServe";
+import {buildSchemaGraph } from "../../components/schema/combineSchema";
+
 
 // const headingFont = Poppins({
 //   subsets: ["latin"],
@@ -101,6 +103,24 @@ const faqs = [
     content: `Invisible grills in ${location} require simple maintenance like periodic cleaning and inspection to maintain strength and appearance. Avoid hanging heavy items on cables and schedule professional checks when needed. Proper care ensures long-lasting performance similar to premium balcony safety nets and bird control nets, keeping your home safe and secure for years.`
   }
 ];
+
+
+    
+    const url = `https://rohiniinvisiblegrills.com/services/invisible-grills`;
+    const serviceName = "Invisible Grills";
+    const serviceSlug = "invisible-grills";
+    
+    const galleryImages = [
+    "/images/invisible-grills-bird-netting-in-hyderabad.webp",
+    "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp"
+    ];
+    
+    
+      // Build the full schema graph
+    const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
+    
+    // Convert to JSON-LD for injecting in the page
+    const jsonLd = JSON.stringify(schemaGraph, null, 2);
 
  return (
 
