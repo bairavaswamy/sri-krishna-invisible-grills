@@ -2,7 +2,7 @@ import Link from "next/link";
 import { hyderabadLocations as locations } from "../../components/constants/locations";
 import { locationHash, slugify, locationImages, createGrillSeed, locationImagesForAntiBirdInvisibleGrills, BalconySafetyAntiBirdInvisibleGrills, } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
-import { Phone, MessageCircle,Plus, Minus } from "lucide-react";
+import { Phone, MessageCircle, Plus, Minus } from "lucide-react";
 import Image from "next/image";
 import FAQSection from "../../balcony-safety-invisible-grills/[slug]/Faqs";
 import { Handshake, Award, ShieldCheck } from "lucide-react";
@@ -10,7 +10,7 @@ import { Handshake, Award, ShieldCheck } from "lucide-react";
 import { services } from "../../components/constants/services";
 import { generateAntiBirdInvisibleGrillservice } from "../../components/seo/antiBirdInvisibleGrillsGenerator";
 import LocationScroller from "../../components/LocationsWeServe";
-import {buildSchemaGraph } from "../../components/schema/combineSchema";
+import { buildSchemaGraph } from "../../components/schema/combineSchema";
 
 //  const headingFont = Poppins({
 //   subsets: ["latin"],
@@ -45,7 +45,7 @@ export async function generateStaticParams() {
 
 interface Section {
   heading: string;
-  content: string[]; 
+  content: string[];
 }
 
 function seededRandom(seed: number) {
@@ -61,7 +61,7 @@ function seededRandom(seed: number) {
 }
 
 
- function getLocationImage(location: string) {
+function getLocationImage(location: string) {
 
   const seed = createGrillSeed(location.toLowerCase());
 
@@ -97,7 +97,7 @@ function getLocationImageInProduct(location: string) {
 // }
 
 
-export default function Page({ params }: { params: { slug: string , sections: Section[];} }) {
+export default function Page({ params }: { params: { slug: string, sections: Section[]; } }) {
   const location = locations.find(
     (loc) => slugify(loc) === params.slug
   );
@@ -118,157 +118,157 @@ export default function Page({ params }: { params: { slug: string , sections: Se
     locations.indexOf(location)
   );
 
-const url = `https://rohiniinvisiblegrills.com/anti-bird-invisible-grills/${slugify(location)}`;
-const serviceName = "Anti Bird Invisible Grills";
-const serviceSlug = "anti-bird-invisible-grills";
+  const url = `https://rohiniinvisiblegrills.com/anti-bird-invisible-grills/${slugify(location)}`;
+  const serviceName = "Anti Bird Invisible Grills";
+  const serviceSlug = "anti-bird-invisible-grills";
 
-const faqs = page.faqs
-const galleryImages = [
- invisibleGrillImage,
- inProductImage
-];
+  const faqs = page.faqs
+  const galleryImages = [
+    invisibleGrillImage,
+    inProductImage
+  ];
 
 
   // Build the full schema graph
-const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
+  const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
 
-// Convert to JSON-LD for injecting in the page
-const jsonLd = JSON.stringify(schemaGraph, null, 2);
+  // Convert to JSON-LD for injecting in the page
+  const jsonLd = JSON.stringify(schemaGraph, null, 2);
 
- return (
+  return (
 
-  <main className="bg-gray-50 min-h-screen">
+    <main className="bg-gray-50 min-h-screen">
 
-  {/* Schema */}
-  <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{
-      __html: jsonLd //JSON.stringify(page.schema)
-    }}
-  />
+      {/* Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: jsonLd //JSON.stringify(page.schema)
+        }}
+      />
 
-  {/* Breadcrumb Schema */}
-  {/* <script
+      {/* Breadcrumb Schema */}
+      {/* <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{
       __html: JSON.stringify(page.breadcrumbs)
     }}
   /> */}
 
-  {/*Location Authority Schema */}
-  <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{
-      __html: JSON.stringify({
-        "@context": "https://schema.org",
-        "@type": "Service",
-        name: page.title,
-        areaServed: page.location,
-        additionalProperty: {
-          "@type": "PropertyValue",
-          name: "Location Authority Score",
-          value: page.authorityScore
-        }
-      })
-    }}
-  />
+      {/*Location Authority Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Service",
+            name: page.title,
+            areaServed: page.location,
+            additionalProperty: {
+              "@type": "PropertyValue",
+              name: "Location Authority Score",
+              value: page.authorityScore
+            }
+          })
+        }}
+      />
 
-  {/* HERO SECTION */}
+      {/* HERO SECTION */}
 
-  <section className="relative md:h-[400px] py-10 text-white">
+      <section className="relative md:h-[400px] py-10 text-white">
 
-  {/* Background Image */}
-  <div
-    className="absolute inset-0 bg-cover bg-center"
-    style={{
-      backgroundImage: `url('${getLocationImage(location || "Hyderabad")}')`
-    }}
-  />
+        {/* Background Image */}
+        <div
+          className="absolute inset-0 bg-cover bg-center"
+          style={{
+            backgroundImage: `url('${getLocationImage(location || "Hyderabad")}')`
+          }}
+        />
 
-  {/* Gradient Overlay */}
-  <div className="absolute inset-0 bg-gradient-to-r  from-black/70 via-black/60 to-black/50"></div>
+        {/* Gradient Overlay */}
+        <div className="absolute inset-0 bg-gradient-to-r  from-black/70 via-black/60 to-black/50"></div>
 
-  {/* Content */}
-  <div className="relative max-w-6xl mx-auto px-6 text-center md:text-left">
+        {/* Content */}
+        <div className="relative max-w-6xl mx-auto px-6 text-center md:text-left">
 
-    <h1 className={`text-2xl md:text-3xl font-bold leading-tight mb-6 drop-shadow-lg `}>
-      {page.title}
-    </h1>
+          <h1 className={`text-2xl md:text-3xl font-bold leading-tight mb-6 drop-shadow-lg `}>
+            {page.title}
+          </h1>
 
-    <p className={`text-md md:text-lg max-w-3xl text-gray-200 `}>
-      {page.shortDescription}
-    </p>
+          <p className={`text-md md:text-lg max-w-3xl text-gray-200 `}>
+            {page.shortDescription}
+          </p>
 
-<div className="mt-6 flex flex-col sm:flex-row gap-6 justify-center md:justify-start">
+          <div className="mt-6 flex flex-col sm:flex-row gap-6 justify-center md:justify-start">
 
-  {/* CALL BUTTON */}
-  <a
-    href="tel:+919999999999"
-    className="relative group overflow-hidden
-    flex items-center justify-center gap-3
-    px-5 py-2 rounded-2xl
-    font-semibold text-white
-    backdrop-blur-xl
-    border border-white/20
-    bg-white/10
-    shadow-[0_10px_40px_rgba(0,0,0,0.35)]
-    transition-all duration-500
-    hover:-translate-y-1 hover:shadow-[0_15px_60px_rgba(255,170,0,0.45)]"
-  >
+            {/* CALL BUTTON */}
+            <a
+              href="tel:+919999999999"
+              className="relative group overflow-hidden
+                  flex items-center justify-center gap-3
+                  px-5 py-2 rounded-2xl
+                  font-semibold text-white
+                  backdrop-blur-xl
+                  border border-white/20
+                  bg-white/10
+                  shadow-[0_10px_40px_rgba(0,0,0,0.35)]
+                  transition-all duration-500
+                  hover:-translate-y-1 hover:shadow-[0_15px_60px_rgba(255,170,0,0.45)]"
+               >
 
-    {/* Glow layer */}
-    <span className="absolute inset-0 bg-gradient-to-r from-amber-400/0 via-amber-400/40 to-amber-400/0 opacity-0 group-hover:opacity-100 transition duration-500"></span>
+              {/* Glow layer */}
+              <span className="absolute inset-0 bg-gradient-to-r from-amber-400/0 via-amber-400/40 to-amber-400/0 opacity-0 group-hover:opacity-100 transition duration-500"></span>
 
-    <Phone size={20} className="relative z-10" />
-    <span className="relative z-10 tracking-wide">Call Now</span>
-  </a>
+              <Phone size={20} className="relative z-10" />
+              <span className="relative z-10 tracking-wide">Call Now</span>
+            </a>
 
-  {/* WHATSAPP BUTTON */}
-  <a
-    href="https://wa.me/919999999999"
-    className="relative group overflow-hidden
-    flex items-center justify-center gap-3
-    px-5 py-2 rounded-2xl
-    font-semibold text-white
-    backdrop-blur-xl
-    border border-white/20
-    bg-white/10
-    shadow-[0_10px_40px_rgba(0,0,0,0.35)]
-    transition-all duration-500
-    hover:-translate-y-1 hover:shadow-[0_15px_60px_rgba(34,197,94,0.45)]"
-  >
+            {/* WHATSAPP BUTTON */}
+            <a
+              href="https://wa.me/919999999999"
+              className="relative group overflow-hidden
+                  flex items-center justify-center gap-3
+                  px-5 py-2 rounded-2xl
+                  font-semibold text-white
+                  backdrop-blur-xl
+                  border border-white/20
+                  bg-white/10
+                  shadow-[0_10px_40px_rgba(0,0,0,0.35)]
+                  transition-all duration-500
+                  hover:-translate-y-1 hover:shadow-[0_15px_60px_rgba(34,197,94,0.45)]"
+            >
 
-    {/* Glow layer */}
-    <span className="absolute inset-0 bg-gradient-to-r from-green-400/0 via-green-400/40 to-green-400/0 opacity-0 group-hover:opacity-100 transition duration-500"></span>
+              {/* Glow layer */}
+              <span className="absolute inset-0 bg-gradient-to-r from-green-400/0 via-green-400/40 to-green-400/0 opacity-0 group-hover:opacity-100 transition duration-500"></span>
 
-    <MessageCircle size={20} className="relative z-10" />
-    <span className="relative z-10 tracking-wide">WhatsApp</span>
-  </a>
+              <MessageCircle size={20} className="relative z-10" />
+              <span className="relative z-10 tracking-wide">WhatsApp</span>
+            </a>
 
-</div>
+          </div>
 
-  </div>
+        </div>
 
-</section>
-<div className="relative bg-white md:bg-[#f1f5f9] md:w-[75%] -mt-[15px] md:-mt-[65px] p-4 md:p-6 rounded-2xl md:rounded-none shadow-xl mx-auto">
+      </section>
+      <div className="relative bg-white md:bg-[#f1f5f9] md:w-[75%] -mt-[15px] md:-mt-[65px] p-4 md:p-6 rounded-2xl md:rounded-none shadow-xl mx-auto">
 
-  <div className="relative w-full md:w-[100%] h-[300px] md:h-[350px] rounded-xl overflow-hidden shadow-2xl mx-auto">
+        <div className="relative w-full md:w-[100%] h-[300px] md:h-[350px] rounded-xl overflow-hidden shadow-2xl mx-auto">
 
-    {/* Image */}
-    <Image
-      src={invisibleGrillImage + "?v=" + separator(page.slug)}
-      alt={`Anti Bird Invisible grill installation in ${page.location}`}
-      title={`Anti bird Invisible grills near me in ${page.location}`}
-      fill
-      className="object-cover transition-transform duration-700 hover:scale-105"
-      priority
-    />
+          {/* Image */}
+          <Image
+            src={invisibleGrillImage + "?v=" + separator(page.slug)}
+            alt={`Anti Bird Invisible grill installation in ${page.location}`}
+            title={`Anti bird Invisible grills near me in ${page.location}`}
+            fill
+            className="object-cover transition-transform duration-700 hover:scale-105"
+            priority
+          />
 
-  </div>
+        </div>
 
-  {/* Icons Section */}
-  <div
-    className="
+        {/* Icons Section */}
+        <div
+          className="
     relative md:absolute
     md:bottom-6 md:left-1/2 md:-translate-x-1/2
     mt-4 md:mt-0
@@ -280,122 +280,122 @@ const jsonLd = JSON.stringify(schemaGraph, null, 2);
     md:rounded-full
     md:shadow-xl
   "
-  >
-    <div
-      className="
+        >
+          <div
+            className="
       grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3
       gap-6 md:gap-10
       items-center
       "
-    >
+          >
 
-      {/* Trusted Homes */}
-      <div className="flex flex-col items-center">
-        <Handshake className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
-        <p className="text-gray-900 md:text-white text-sm md:text-[13px] font-semibold">
-          15,300+ Trusted Homes & 15 years warranty.
-        </p>
+            {/* Trusted Homes */}
+            <div className="flex flex-col items-center">
+              <Handshake className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
+              <p className="text-gray-900 md:text-white text-sm md:text-[13px] font-semibold">
+                15,300+ Trusted Homes & 15 years warranty.
+              </p>
+            </div>
+
+            {/* Quality */}
+            <div className="flex flex-col items-center">
+              <Award className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
+              <p className="text-gray-900 md:text-white text-sm md:text-[13px] font-semibold">
+                ISO Certified Quality & Best quality invisible grills
+              </p>
+            </div>
+
+            {/* Experience */}
+            <div className="flex flex-col items-center">
+              <ShieldCheck className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
+              <p className="text-gray-900 md:text-white text-xs md:text-[13px] font-semibold max-w-[220px]">
+                18+ Years Experience & Expert Installation
+              </p>
+            </div>
+
+          </div>
+        </div>
+
       </div>
 
-      {/* Quality */}
-      <div className="flex flex-col items-center">
-        <Award className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
-        <p className="text-gray-900 md:text-white text-sm md:text-[13px] font-semibold">
-          ISO Certified Quality & Best quality invisible grills
-        </p>
+
+
+
+      {/* BREADCRUMBS */}
+
+      <div className="max-w-6xl mx-auto px-6 py-4 text-sm text-gray-600">
+
+        <Link href="/" className="hover:underline">Home</Link>
+        {" > "}
+        <Link href="/services/anti-bird-invisible-grills" className="hover:underline">
+          Anti bird invisible grills
+        </Link>
+        {" > "}
+        {page.location}
+
       </div>
 
-      {/* Experience */}
-      <div className="flex flex-col items-center">
-        <ShieldCheck className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
-        <p className="text-gray-900 md:text-white text-xs md:text-[13px] font-semibold max-w-[220px]">
-          18+ Years Experience & Expert Installation
-        </p>
-      </div>
 
-    </div>
-  </div>
+      {/* CONTENT SECTIONS */}
 
-</div>
+      <section className="max-w-6xl mx-auto px-6 py-10 space-y-12">
 
+        {page.sections.map((section: any, index: number) => (
 
-
-
-  {/* BREADCRUMBS */}
-
-  <div className="max-w-6xl mx-auto px-6 py-4 text-sm text-gray-600">
-
-  <Link href="/" className="hover:underline">Home</Link>
-  {" > "}
-  <Link href="/services/anti-bird-invisible-grills" className="hover:underline">
-  Anti bird invisible grills
-  </Link>
-  {" > "}
-  {page.location}
-
-  </div>
-
-
-  {/* CONTENT SECTIONS */}
-
-  <section className="max-w-6xl mx-auto px-6 py-10 space-y-12">
-
-  {page.sections.map((section:any, index:number) => (
-
-  <div key={index}>
-    <div >
-  <h2 className="text-2xl font-bold mb-4 text-green-900">
-  {section.heading}
-  </h2>
-  <div className="w-[100%] h-[1px] 
+          <div key={index}>
+            <div >
+              <h2 className="text-2xl font-bold mb-4 text-green-900">
+                {section.heading}
+              </h2>
+              <div className="w-[100%] h-[1px] 
   
   bg-black/10
     mb-3  rounded-full"></div>
-</div>
+            </div>
 
-{section.heading.includes("Anti Bird Invisible Grill Price near me in") && (
-  <div className="relative w-full h-[260px] md:h-[320px] my-6 rounded-xl overflow-hidden">
-    
-    <Image
-      src={`${inProductImage}?v=near-me-${separator(page.slug)}-hyderabad-telangana`}
-      alt={`Anti bird Invisible grill installation near me ${page.location}`}
-      title={`Anti bird Invisible grills near me in ${page.location} Hyderabad`}
-      fill
-      className="object-cover transition-transform duration-700 hover:scale-105"
-      priority
-    />
+            {section.heading.includes("Anti Bird Invisible Grill Price near me in") && (
+              <div className="relative w-full h-[260px] md:h-[320px] my-6 rounded-xl overflow-hidden">
 
-  </div>
-)}
+                <Image
+                  src={`${inProductImage}?v=near-me-${separator(page.slug)}-hyderabad-telangana`}
+                  alt={`Anti bird Invisible grill installation near me ${page.location}`}
+                  title={`Anti bird Invisible grills near me in ${page.location} Hyderabad`}
+                  fill
+                  className="object-cover transition-transform duration-700 hover:scale-105"
+                  priority
+                />
 
-  {Array.isArray(section.content) ? (
+              </div>
+            )}
 
-  <ul className="list-disc ml-6 space-y-2 text-gray-700">
+            {Array.isArray(section.content) ? (
 
-  {section.content.map((item:string, i:number)=>(
-  <li key={i}>{item}</li>
-  ))}
+              <ul className="list-disc ml-6 space-y-2 text-gray-700">
 
-  </ul>
+                {section.content.map((item: string, i: number) => (
+                  <li key={i}>{item}</li>
+                ))}
 
-  ) : (
+              </ul>
 
-  <p className="text-gray-700 leading-relaxed">
-  {section.content}
-  </p>
+            ) : (
 
-  )}
+              <p className="text-gray-700 leading-relaxed">
+                {section.content}
+              </p>
 
-  </div>
+            )}
 
-  ))}
+          </div>
 
-  </section>
+        ))}
+
+      </section>
 
 
-  {/* FAQ SECTION */}
+      {/* FAQ SECTION */}
 
-  {/* <section className="bg-white py-12">
+      {/* <section className="bg-white py-12">
 
   <div className="max-w-5xl mx-auto px-6">
 
@@ -430,12 +430,12 @@ const jsonLd = JSON.stringify(schemaGraph, null, 2);
 
   </section> */}
 
-  <FAQSection faqs={page.faqs} />
+      <FAQSection faqs={page.faqs} />
 
 
-  {/* NEARBY LOCATIONS */}
+      {/* NEARBY LOCATIONS */}
 
-  {/* <section className="py-12 bg-gray-100">
+      {/* <section className="py-12 bg-gray-100">
 
   <div className="max-w-6xl mx-auto px-6">
 
@@ -474,38 +474,38 @@ const jsonLd = JSON.stringify(schemaGraph, null, 2);
 
   </section> */}
 
-  <NearbyServiceSection page={page} />
+      <NearbyServiceSection page={page} />
 
 
-  {/* CTA */}
+      {/* CTA */}
 
-  <section className="bg-[#344A6C] text-white py-14">
+      <section className="bg-[#344A6C] text-white py-14">
 
-  <div className="max-w-5xl mx-auto px-6 text-center">
+        <div className="max-w-5xl mx-auto px-6 text-center">
 
-  <h2 className="text-3xl font-bold mb-4">
-  Need Anti bird Invisible Grills in {page.location}?
-  </h2>
+          <h2 className="text-3xl font-bold mb-4">
+            Need Anti bird Invisible Grills in {page.location}?
+          </h2>
 
-  <p className="mb-6">
-  Contact Rohini Invisible Grills today for professional installation.
-  Protect your balcony and keep birds away and Secure Your Balcony with anti bird invisible grills.
-  </p>
+          <p className="mb-6">
+            Contact Rohini Invisible Grills today for professional installation.
+            Protect your balcony and keep birds away and Secure Your Balcony with anti bird invisible grills.
+          </p>
 
-  <a
-  href="/contact-us"
-  className="bg-white text-blue-700 px-8 py-4 rounded-lg font-semibold"
-  >
-  Get Free Quote
-  </a>
+          <a
+            href="/contact-us"
+            className="bg-white text-blue-700 px-8 py-4 rounded-lg font-semibold"
+          >
+            Get Free Quote
+          </a>
 
-  </div>
+        </div>
 
-  </section>
+      </section>
 
-  <LocationScroller service="anti-bird-invisible-grills" />
+      <LocationScroller service="anti-bird-invisible-grills" />
 
-  </main>
+    </main>
 
   )
 }

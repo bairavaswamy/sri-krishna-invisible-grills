@@ -12,31 +12,31 @@ type ServiceItem = {
 export const defaultImages: ServiceItem[] = [
   {
     service: "Children Invisible Grills",
-    image: "/images/children-safety-invisible-grills-for-balcony.webp",
+    image: "/cards/children-safety-invisible-grills-for-balcony.webp",
     price: "₹200",
     offerPrice: "₹160"
   },
   {
     service: "Invisible Grills",
-    image: "/images/invisible-grill.webp",
+    image: "/cards/invisible-grill.webp",
     price: "₹140",
     offerPrice: "₹120"
   },
   {
     service: "Stainless Steel Invisible Grill",
-    image: "/images/stainless-steel-invisible-grill.webp",
+    image: "/cards/stainless-steel-invisible-grill.webp",
     price: "₹164",
     offerPrice: "₹132"
   },
   {
     service: "Balcony Invisible Grills",
-    image: "/images/Balcony-Invisible-Grills-1.webp",
+    image: "/cards/Balcony-Invisible-Grills-1.webp",
     price: "₹140",
     offerPrice: "₹124"
   },
   {
     service: "Anti Bird Invisible Grills",
-    image: "/images/anti-bird-invisible-grills.webp",
+    image: "/cards/anti-bird-invisible-grills.webp",
     price: "₹180",
     offerPrice: "₹145"
   },
@@ -66,7 +66,7 @@ export const defaultImages: ServiceItem[] = [
   },
   {
     service: "Invisible Grills for Apartment",
-    image: "/images/invisible-grills-for-apartment.webp",
+    image: "/cards/invisible-grills-for-apartment.webp",
     price: "₹140",
     offerPrice: "₹118"
   },
@@ -138,7 +138,7 @@ function ButtonCardsInner({ images = defaultImages }: { images?: ServiceItem[] }
                   <div className="text-base font-medium">{items.service}</div>
                   <div className="flex items-center gap-2">
                     <span className="text-gray-600 line-through">{items.price}</span>
-                    <span className="text-green-600 font-semibold">{items.offerPrice}</span>
+                    <span className="text-green-900 font-semibold">{items.offerPrice}</span>
                   </div>
                   <div className="text-sm text-gray-500 mt-1">
                     Learn more

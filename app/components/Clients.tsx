@@ -1,7 +1,7 @@
 import Image from 'next/image'
 
 const clients = [
-  {name: 'IKEA'},
+  {name: 'IKEA', img:'/IKEA_Client.webp'},
   {name: 'Satthva'},
   {name: 'Adhitya Enclave', img: '/images/client-adhitya.svg?formate=webp'},
   {name: 'Green Meadows'},
@@ -17,7 +17,7 @@ function Clients(){
         {clients.map((c) => (
           <div key={c.name} className="flex flex-col items-center gap-3 p-4 bg-white border rounded shadow-sm w-full">
             {c.img ? (
-              <div className="relative w-16 h-16">
+              <div className="relative w-24 h-16">
                 <Image src={c.img} alt={c.name} fill className="object-contain" unoptimized loading="lazy" />
               </div>
             ) : (
