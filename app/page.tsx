@@ -88,7 +88,6 @@ export default function Home() {
         <Clients />
       </section>
 
-      
       <section className="mt-8">
         <ContactForm />
       </section>

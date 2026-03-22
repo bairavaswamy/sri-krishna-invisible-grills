@@ -7,7 +7,7 @@ interface ProductCardProps {
 
 export const ProductCard: React.FC<ProductCardProps> = ({ service }) => {
   return (
-    <div className="relative max-w-sm bg-white shadow-lg rounded-md overflow-hidden hover:shadow-2xl transition-shadow duration-300">
+    <div className="relative max-w-sm bg-white shadow-lg rounded-md overflow-hidden hover:shadow-2xl shadow-soft transform transition-transform hover:scale-105">
       {/* Image */}
       <div className="relative">
         <img

@@ -145,7 +145,7 @@ export default function ContactForm(){
 
    
   
- <div className="hidden md:block h-[400px] w-full overflow-hidden relative bg-gray-100 rounded-2xl">
+ <div className="hidden md:block h-[400px] w-full overflow-hidden relative bg-gray-100 rounded-2xl p-4">
   {/* 1. Background Image */}
   <Image
     src={heroImages[2].src}
@@ -171,7 +171,7 @@ export default function ContactForm(){
       </p>
     </div>
 
-    <div className="relative w-full max-w-md mx-auto">
+    <div className="relative w-full max-w-md  m-5 my-3">
 
       {/* METALLIC BLUE GLOW */}
       <div className="absolute -inset-1 rounded-3xl 
@@ -184,25 +184,22 @@ export default function ContactForm(){
 
       {/* MAIN CARD */}
       <div
-        className="
-        relative
-        rounded-3xl
-        p-7 sm:p-9
-        backdrop-blur-xl
-        bg-gradient-to-br
-        from-[#f8fbff]
-        via-[#eaf3ff]
-        to-[#dce9ff]
-        border border-blue-200/40
-        shadow-[0_25px_70px_rgba(0,40,120,0.25)]
-      "
+       className="
+  relative
+  rounded-3xl my-3
+  p-7 sm:p-9
+  backdrop-blur-xl
+  bg-white/15
+  border border-white/10
+  shadow-[0_25px_70px_rgba(0,40,120,0.15)]
+"
       >
         {/* HEADER */}
         <h3
           className="
           text-2xl font-bold text-center mb-7 tracking-wide
           bg-gradient-to-r
-          from-blue-700 via-cyan-600 to-indigo-800
+          from-yellow-500 via-orange-600 to-indigo-800
           bg-clip-text text-transparent
         "
         >

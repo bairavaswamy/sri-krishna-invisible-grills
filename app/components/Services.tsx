@@ -50,7 +50,7 @@ export default function Services(){
           const isExpanded = expanded[s]
 
           return (
-            <article key={s} className="bg-white border rounded-lg p-4 shadow-soft">
+            <article key={s} className="bg-white border rounded-lg p-4 shadow-soft shadow-soft transform transition-transform hover:scale-105 overflow-hidden">
               <div className="flex gap-4">
                 <div className="w-20 h-16 sm:w-28 sm:h-20 flex-shrink-0 overflow-hidden rounded-md">
                   <img
@@ -68,7 +68,7 @@ export default function Services(){
                     {isExpanded ? desc : `${desc.slice(0,80)}`}
                     {desc.length > 80 && !isExpanded && (
                       <span
-                        className="cursor-pointer"
+                        className="cursor-pointer text-gray-900"
                         onClick={() =>
                           setExpanded((prev) => ({ ...prev, [s]: true }))
                         }
