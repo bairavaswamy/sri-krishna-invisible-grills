@@ -310,7 +310,7 @@ export default function Page({ params }: any) {
           <div className="mt-6 flex flex-col sm:flex-row gap-6 justify-center md:justify-start">
 
             <a
-              href="tel:+919999999999"
+              href="tel:+918790518724"
               className="relative group overflow-hidden flex items-center justify-center gap-3 px-5 py-2 rounded-2xl font-semibold text-white backdrop-blur-xl border border-white/20 bg-white/10 shadow-[0_10px_40px_rgba(0,0,0,0.35)] transition-all duration-500 hover:-translate-y-1 hover:shadow-[0_15px_60px_rgba(255,170,0,0.45)]"
             >
               <Phone size={20} />
@@ -318,7 +318,7 @@ export default function Page({ params }: any) {
             </a>
 
             <a
-              href="https://wa.me/919999999999"
+              href="https://wa.me/919491008380"
               className="relative group overflow-hidden flex items-center justify-center gap-3 px-5 py-2 rounded-2xl font-semibold text-white backdrop-blur-xl border border-white/20 bg-white/10 shadow-[0_10px_40px_rgba(0,0,0,0.35)] transition-all duration-500 hover:-translate-y-1 hover:shadow-[0_15px_60px_rgba(34,197,94,0.45)]"
             >
               <MessageCircle size={20} />

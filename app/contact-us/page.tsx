@@ -287,7 +287,7 @@ export default function Contact(){
               </svg>
             </div>
             <h4 className="text-lg font-bold text-gray-800">Call Us</h4>
-            <p className="text-gray-600 mt-2">+91 99 0000 0000<br/>+91 98 1111 1111</p>
+            <p className="text-gray-600 mt-2">+91 8790518724<br/>+91 8481008380</p>
           </div>
 
           <div className="bg-white p-6 rounded-xl shadow-md border border-gray-100 flex flex-col items-center text-center">

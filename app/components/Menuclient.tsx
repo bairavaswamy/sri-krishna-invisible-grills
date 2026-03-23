@@ -67,13 +67,13 @@ type MenuProps = {
               >
                 Home
               </Link>
-
+               {/* contact-us */}
               <Link
-                href="/contact-us"
+                href="/about"
                 onClick={onClose}
                 className="block text-center border border-slate-300 text-slate-700 font-medium py-1 px-4 rounded-lg hover:bg-slate-100 transition"
               >
-                Contact Us
+                About Us
               </Link>
             </div>
 

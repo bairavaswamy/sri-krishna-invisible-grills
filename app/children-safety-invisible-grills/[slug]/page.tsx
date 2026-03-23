@@ -341,7 +341,7 @@ export default function Page({ params }: { params: { slug: string , sections: Se
 
   {/* CALL BUTTON */}
   <a
-    href="tel:+919999999999"
+    href="tel:+918790518724"
     className="relative group overflow-hidden
     flex items-center justify-center gap-3
     px-5 py-2 rounded-2xl
@@ -363,7 +363,7 @@ export default function Page({ params }: { params: { slug: string , sections: Se
 
   {/* WHATSAPP BUTTON */}
   <a
-    href="https://wa.me/919999999999"
+    href="https://wa.me/919491008380"
     className="relative group overflow-hidden
     flex items-center justify-center gap-3
     px-5 py-2 rounded-2xl

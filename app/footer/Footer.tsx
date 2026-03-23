@@ -86,14 +86,14 @@ export default function Footer() {
             <div className="flex items-start gap-3">
               <Phone className="w-5 h-5 text-green-400 mt-1" />
               <div>
-                <p>+91 8790518724</p>
-                <p>+91 9491008380</p>
+                <a href="tel:+918790518724">+91 8790518724</a>
+                <a href="https://wa.me/919491008380"><p>+91 9491008380</p></a>
               </div>
             </div>
 
             <div className="flex items-center gap-3">
               <Mail className="w-5 h-5 text-green-400" />
-              <p>contact@rohiniinvisiblegrills.com</p>
+              <p>rohiniinvisiblegrills@gmail.com</p>
             </div>
 
             <div className="flex items-start gap-3">

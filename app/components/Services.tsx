@@ -73,7 +73,7 @@ export default function Services(){
                 </div>
                 <a 
                   href={slug} 
-                  className="block lg:hidden mt-auto inline-flex items-center justify-center gap-2 px-3 py-2 bg-transparent border border-primary text-primary  rounded-md text-sm transition-transform active:scale-95"
+                  className="block lg:hidden mt-auto inline-flex items-center justify-center gap-2 px-2 py-2 bg-transparent border border-primary text-primary  rounded-md text-sm transition-transform active:scale-95"
                   aria-label={`Call to know more about ${s}`}
                 >
                   Know More <span className="sr-only">about {s}</span>
@@ -105,7 +105,7 @@ export default function Services(){
                     </a>
                    <a
                       href={slug} 
-                      className="hidden lg:inline-flex items-center gap-2 px-3 py-2 
+                      className="hidden lg:inline-flex items-center gap-2 px-2 py-2 
                                 bg-transparent border border-primary text-primary 
                                 rounded-md text-sm"
                     >
