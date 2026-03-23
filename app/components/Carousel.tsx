@@ -10,7 +10,7 @@ const heroImages = [
   },
   { 
     src: '/images/invisible-grill.webp?size=200w200h', 
-    alt: 'Invisible stainless steel grills closeup',
+    alt: 'Invisible stainless steel grills closeup in Hyderabad',
     dec: 'See our invisible stainless steel grills up close. Stylish, strong, and safe for kids and pets. Perfect for homes needing safety without ugly bars.'
   },
   { 
