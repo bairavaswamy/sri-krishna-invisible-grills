@@ -1,4 +1,5 @@
 import { servicesCat } from "./localBusiness";
+import { getIds } from "./idGenerator";
 
 /* ---------------- LOCATION DATA ---------------- */
 
@@ -45,10 +46,12 @@ export const serviceSchema = (
 ) => {
   const locationData = getAddressForLocation(location);
   const locationSlug = location.replace(/\s+/g, "-").toLowerCase();
+  const ids = getIds(url, slug, locationSlug);
+
 
   return {
     "@type": "Service",
-    "@id": `${url}#service-${slug}-${locationSlug}`,
+    "@id": ids.serviceId,
 
     name: `${title} in ${location}`,
 
@@ -77,13 +80,22 @@ export const serviceSchema = (
       name: location,
     },
 
+     hasOfferCatalog: {
+      "@type": "OfferCatalog",
+      name: `${title} Services`
+    },
+
     aggregateRating: {
-      "@id": `${url}#rating-${slug}-${locationSlug}`,
+      "@id": ids.ratingId,
+    },
+
+    offer: {
+      "@id": ids.offerId,
     },
 
     mainEntityOfPage: {
-      "@id": `${url}#webpage-${slug}-${locationSlug}`,
-    },
+      "@id": ids.webpageId,
+        },
 
     keywords: [
       title,

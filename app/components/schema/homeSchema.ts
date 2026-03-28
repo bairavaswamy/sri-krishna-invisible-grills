@@ -4,25 +4,23 @@ import { productSchema } from "./product";
 import { serviceSchema } from "./service";
 import { offerSchema } from "./offer";
 import { webpageSchema } from "./webpage";
-import { faqSchema } from "./faq";
 import { breadcrumbSchema } from "./breadcrumb";
 import { imageSchema } from "./image";
 import { ratingSchema } from "./rating";
 import { reviewSchema } from "./review";
 
-type FAQ = {
-  question: string;
-  answer: string;
-};
+// type FAQ = {
+//   question: string;
+//   answer: string;
+// };
 
-export const buildSchemaGraph = (
+export const buildHoneSchemaGraph = (
   location: string,
   url: string,
 //   lat: string,
 //   lng: string
 serviceName: string,
   serviceSlug:string,
-  faqs:FAQ[],
   galleryImages:string[],
 ) => ({
   "@context": "https://schema.org",
@@ -33,7 +31,6 @@ serviceName: string,
     serviceSchema(serviceName,serviceSlug,location, url),
     offerSchema(location,serviceName,url),
     webpageSchema(serviceName,serviceSlug,location, url),
-    faqSchema(faqs, url),
     breadcrumbSchema(serviceName,serviceSlug,location,url),
     ratingSchema(url,serviceSlug,location),
     reviewSchema(url,serviceSlug, location,serviceName),

@@ -1,12 +1,16 @@
+import { getIds } from "./idGenerator";
 export const webpageSchema = (
   serviceName: string,
   serviceSlug: string,
   location: string,
   url: string
-) => ({
-  "@context": "https://schema.org",
+) => {
+  const ids = getIds(url, serviceSlug, location);
+
+  return {
   "@type": "WebPage",
-  "@id": `${url}#webpage-${serviceSlug}-${location.replace(/\s+/g, "-").toLowerCase()}`,
+  "@id": ids.webpageId,
+  
   url,
   name: `${serviceName} in ${location}`,
   description: `Professional ${serviceName} in ${location}. Expert installation for balcony safety, bird & pigeon prevention, and home protection. Trusted, durable, and high-quality services to secure your property.`,
@@ -17,7 +21,7 @@ export const webpageSchema = (
   },
 
   mainEntity: {
-    "@id": `${url}#service-${serviceSlug}-${location.replace(/\s+/g, "-").toLowerCase()}`
+    "@id": ids.serviceId,
   },
 
   publisher: {
@@ -65,4 +69,4 @@ export const webpageSchema = (
     target: `https://rohiniinvisiblegrills.com/search?q={search_term_string}`,
     "query-input": "required name=search_term_string"
   }
-});
+}};

@@ -41,13 +41,14 @@ export const localBusinessSchema = (
   location: string,
   url: string
 ) => ({
-  "@context": "https://schema.org",
   "@type": "HomeAndConstructionBusiness",
+
+  name: `Rohini Invisible Grills - ${location}`,
 
   "@id": `${url}#localbusiness`,
   url: url,
 
-  name: `Rohini Invisible Grills - ${location}`,
+  
 
   parentOrganization: {
     "@id": "https://rohiniinvisiblegrills.com/#organization"
@@ -56,7 +57,7 @@ export const localBusinessSchema = (
   description: `Rohini Invisible Grills offers ${services.join(", ")} services in ${location}, delivering customized balcony safety and bird protection solutions for modern homes and high-rise buildings. Our expert team ensures safe installation, durable materials and long-lasting protection while preserving ventilation and exterior aesthetics.`,
 
   telephone: "+91-8790518724",
-  priceRange: "₹₹",
+  priceRange: "15-500",
 
   image: [
     "https://rohiniinvisiblegrills.com/images/invisible-grills-installation.webp",

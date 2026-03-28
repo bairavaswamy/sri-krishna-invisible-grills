@@ -15,6 +15,7 @@ import { hyderabadOtherLocations } from "../../components/data/telangana";
 import { getGeo } from "../../components/utils/getGeo";
 import {generateLocationKeywords} from "../../components/seo/keywordGenerator"
 import type { Metadata } from "next";
+import MapSection from "../../components/maps/geoMap";
 
 const locations = [...hyderabadLocations , ...hyderabadOtherLocations]
 
@@ -605,6 +606,11 @@ export default function Page({ params }: { params: { slug: string , sections: Se
   </div>
 
   </section> */}
+
+  
+  {/* MAP SECTION */}
+
+  <MapSection area={page.location} />
 
   <NearbyServiceSection page={page} />
 

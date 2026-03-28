@@ -1,5 +1,4 @@
 export const organizationSchema = {
-  "@context": "https://schema.org",
   "@type": "HomeAndConstructionBusiness",
 
   "@id": "https://rohiniinvisiblegrills.com/#organization",
@@ -12,6 +11,15 @@ export const organizationSchema = {
     "Rohini Invisible Grill Installation",
     "Rohini Sports Nets & Turf for Ground",
   ],
+  telephone: "+91-8790518724",
+  priceRange: "15-500",
+  address: {
+    "@type": "PostalAddress",
+    addressLocality: "Hyderabad",
+    addressRegion: "Telangana",
+    addressCountry: "IN"
+  },
+
 
   url: "https://rohiniinvisiblegrills.com",
 
@@ -99,8 +107,9 @@ knowsAbout: [
   },
 
   sameAs: [
-    "https://www.facebook.com/yourpage",
-    "https://www.instagram.com/yourpage",
+    "https://www.facebook.com/rohiniinvisiblegrills",
+    "https://www.instagram.com/rohiniinviaiblegrills/",
+    "https://www.linkedin.com/in/rohini-invisible-grills-3099423b9/",
     "https://g.page/r/your-gmb"
   ],
 

@@ -1,34 +1,42 @@
+import { getIds } from "./idGenerator";
+
+
 export const reviewSchema = (
   url: string,
   productSlug: string,
   location: string,
   serviceName:string,
-  reviewNumber: number = 1,
-  ratingValue: string = "5",
   reviewText?: string
-) => ({
-  "@context": "https://schema.org/",
+) => {
+  const ids = getIds(url, productSlug, location);
+
+  return{
   "@type": "Review",
-  "@id": `${url}#review-${productSlug}-${location.replace(/\s+/g, "-").toLowerCase()}-${reviewNumber}`,
+  "@id": `${ids.reviewId}-1`,
 
   itemReviewed: {
-    "@id": `${url}#${productSlug}-${location.replace(/\s+/g, "-").toLowerCase()}`
+    "@id": ids.productId
   },
 
   reviewRating: {
     "@type": "Rating",
-    ratingValue,
+    ratingValue:"5",
+    // reviewCount: "100",
     bestRating: "5",
     worstRating: "1"
   },
 
   author: {
     "@type": "Person",
-    name: "Verified Customer"
+    name: "Customer Review"
   },
+  publisher: {
+      "@id": "https://rohiniinvisiblegrills.com/#organization"
+    },
 
   reviewBody:
     reviewText || `Excellent ${serviceName} installation service completed in ${location}. Highly recommended!`,
 
   datePublished: new Date().toISOString().split("T")[0]
-});
+}};
+

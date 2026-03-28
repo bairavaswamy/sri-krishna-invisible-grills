@@ -4,59 +4,91 @@ export const OtherLocations = [
   "Kazipet",
   "Warangal City",
   "Subedari",
-  "Kakatiya University Area",
+  "Kakatiya University area",
+  "Madikonda",
+  "Enumamula",
+  "Hunter Road",
+  "Nakkalagutta",
+  "NGO Colony",
 
   "Karimnagar",
   "Housing Board Colony",
   "Kothirampur",
   "Ramnagar",
   "Jyothinagar",
-  "Mancherial Road Area",
+  "Mancherial Road area",
+  "Rekurthi",
+  "Alugunur",
+  "Mankamma Thota",
+  "Kothapalli",
+  "Bommakal",
 
   "Nizamabad",
   "Vinayak Nagar",
   "Bodhan Road",
   "Armoor Road",
   "Subhash Nagar",
+  "Dichpally",
+  "Nagaram",
+  "Gopanpally",
+  "Mubaraknagar",
 
   "Khammam",
   "Wyra Road",
   "Mamillagudem",
   "Balaji Nagar",
   "SR Nagar",
+  "Bypass Road",
+  "Srinagar Colony",
+  "Yellandu Cross Road",
+  "Rotary Nagar",
 
   "Nalgonda",
   "Devarakonda Road",
   "Miryalaguda Road",
   "Shivaji Nagar",
+  "Cherlapally",
+  "Budharam",
 
   "Siddipet",
   "Gajwel Road",
   "Prashanth Nagar",
-  "Housing Board Colony",
+  "Duddeda",
+  "Komuravelli Road",
+  "Nangunur",
 
   "Mahabubnagar",
   "Gadwal",
+  "Boyapally",
+  "New Town",
+  "Jadcherla Road",
+  "Nawabpet",
+  "Balanagar",
+  "Rajapur",
 
   "Sangareddy",
   "Patancheru",
   "Isnapur",
   "RC Puram",
-  "IIT Hyderabad Surroundings",
+  "IIT Hyderabad surroundings",
+  "Ameenpur",
+  "Beeramguda",
+  "BHEL Township",
+  "Tellapur",
 
   "Suryapet",
-  "Highway Road",
-  "New Layouts",
-  "Residential Colonies",
+  "Highway road",
+  "New layouts",
+  "Residential colonies",
+  "Kodad",
+  "Huzurnagar",
 
   "Miryalaguda",
-  "New Apartment Zones",
-  "Main Road Developments",
-
-  "Boyapally",
-  "New Town",
-  "Jadcherla Road"
-];
+  "New apartment zones",
+  "Main road developments",
+  "Sagar Road",
+  "Nalgonda Road",
+]
 
 
 export const hyderabadHighConversionLocations = [
@@ -171,6 +203,136 @@ export const hyderabadSearchVariations = [
   "Chandanagar Railway Colony"
 ];
 
+const KurnollLocations = [
+  "Kurnool",
+  "Nandyal Road",
+  "Adoni Road",
+  "Bellary Road",
+  "Budhwarpet",
+  "Balaji Nagar",
+  "Ashok Nagar",
+  "Gayatri Estate",
+  "Deva Nagar",
+  "Joharapuram",
+  "Kallur",
+  "Sunkesula Road",
+  "Collector Office Road",
+  "Maddur Nagar"
+]
 
-export const hyderabadOtherLocations = [...hyderabadHighConversionLocations,...hyderabadCommunities,...hyderabadITCorridorLocations,...hyderabadGrowthZones,...hyderabadPremiumAreas,...hyderabadSearchVariations,...OtherLocations]
+
+const kadapaLocations = [
+  "Kadapa",
+  "Akkayapalli",
+  "NGO Colony",
+  "RIMS Road",
+  "Railway Station Road",
+  "Yerramukkapalli",
+  "Ravindra Nagar",
+  "Maria Puram",
+  "ITI Circle",
+  "Putlampalli",
+  "Chinna Chowk",
+  "Sankarapuram"
+]
+
+const tirupathiLocations = [
+  "Tirupati",
+  "Renigunta Road",
+  "Air Bypass Road",
+  "Alipiri Road",
+  "Tiruchanoor",
+  "Bairagi Patteda",
+  "Annamaiah Circle",
+  "Mangalam",
+  "Korlagunta",
+  "Leela Mahal Circle",
+  "Padmavathi Nagar",
+  "Yerpedu Road",
+  "MR Palli"
+]
+
+const mysoreLocations = [
+  "Mysore",
+  "Vijayanagar",
+  "Saraswathipuram",
+  "Kuvempunagar",
+  "Jayalakshmipuram",
+  "Hebbal",
+  "Bogadi",
+  "Hootagalli",
+  "Nazarbad",
+  "Lashkar Mohalla",
+  "Chamrajpura",
+  "Gokulam",
+  "Yadavagiri",
+  "Bannimantap"
+]
+
+export const outerlocationParentMap = {
+
+  // KURNOOL
+  kurnool: "kurnool",
+  "nandyal-road": "kurnool",
+  "adoni-road": "kurnool",
+  "bellary-road": "kurnool",
+  budhwarpet: "kurnool",
+  "balaji-nagar ": "kurnool",
+  "ashok-nagar": "kurnool",
+  "gayatri-estate": "kurnool",
+  "deva-nagar": "kurnool",
+  joharapuram: "kurnool",
+  kallur: "kurnool",
+  "sunkesula-road": "kurnool",
+  "collector-office-road": "kurnool",
+  "maddur-nagar": "kurnool",
+
+  // KADAPA
+  kadapa: "kadapa",
+  akkayapalli: "kadapa",
+  "ngo-colony ": "kadapa",
+  "rims-road": "kadapa",
+  "railway-station-road": "kadapa",
+  yerramukkapalli: "kadapa",
+  "ravindra-nagar": "kadapa",
+  "maria-puram": "kadapa",
+  "iti-circle": "kadapa",
+  putlampalli: "kadapa",
+  "chinna-chowk": "kadapa",
+  sankarapuram: "kadapa",
+
+  // TIRUPATI
+  tirupati: "tirupati",
+  "renigunta-road": "tirupati",
+  "air-bypass-road": "tirupati",
+  "alipiri-road": "tirupati",
+  tiruchanoor: "tirupati",
+  "bairagi-patteda": "tirupati",
+  "annamaiah-circle": "tirupati",
+  mangalam: "tirupati",
+  korlagunta: "tirupati",
+  "leela-mahal-circle": "tirupati",
+  "padmavathi-nagar": "tirupati",
+  "yerpedu-road": "tirupati",
+  "mr-palli": "tirupati",
+
+  // MYSORE
+  mysore: "mysore",
+  vijayanagar: "mysore",
+  saraswathipuram: "mysore",
+  kuvempunagar: "mysore",
+  jayalakshmipuram: "mysore",
+  hebbal: "mysore",
+  bogadi: "mysore",
+  hootagalli: "mysore",
+  nazarbad: "mysore",
+  "lashkar-mohalla": "mysore",
+  chamrajpura: "mysore",
+  gokulam: "mysore",
+  yadavagiri: "mysore",
+  bannimantap: "mysore"
+};
+
+
+export const hyderabadOtherLocations = [...hyderabadHighConversionLocations,...hyderabadCommunities,...hyderabadITCorridorLocations,...hyderabadGrowthZones,...hyderabadPremiumAreas,...hyderabadSearchVariations,...OtherLocations,...KurnollLocations,...kadapaLocations,...tirupathiLocations,...mysoreLocations]
 

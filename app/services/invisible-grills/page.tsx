@@ -13,6 +13,7 @@ import {buildSchemaGraph } from "../../components/schema/combineSchema";
 
 import type { Metadata } from "next";
 import {getGeo} from "../../components/utils/getGeo"
+import MapSection from "../../components/maps/geoMap";
 // import {generateLocationKeywords} from "../../components/seo/keywordGenerator"
 
 export async function generateMetadata({
@@ -575,6 +576,8 @@ const faqs = [
   </div>
 
   </section> */}
+
+  <MapSection area={location} />
 
   {/* <NearbyServiceSection page={page} /> */}
 <LocationScroller service="invisible-grills" />

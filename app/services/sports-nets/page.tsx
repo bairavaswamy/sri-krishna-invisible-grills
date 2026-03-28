@@ -14,6 +14,7 @@ import {buildSchemaGraph } from "../../components/schema/combineSchema";
 import type { Metadata } from "next";
 import {getGeo} from "../../components/utils/getGeo"
 import {generateLocationKeywords} from "../../components/seo/keywordGenerator"
+import MapSection from "../../components/maps/geoMap";
 
 export async function generateMetadata({
   params,
@@ -580,6 +581,8 @@ answer:`Customers searching best sports nets near me in ${location} choose us fo
   </div>
 
   </section> */}
+
+  <MapSection area={location} />
 
   {/* <NearbyServiceSection page={page} /> */}
 <LocationScroller service="sports-nets" />

@@ -58,7 +58,7 @@ export default function Footer() {
           </ul>
         </div>
       {/* ---------------- LOCAL AREAS ---------------- */}
-      <div className="h-[300px] md:h-[450px] overflow-y-scroll overflow-x-hidden scrollbar-hide">
+      <div className="h-[300px] md:h-[310px] overflow-y-scroll overflow-x-hidden scrollbar-hide">
         <h4 className="text-lg font-semibold text-white mb-4">
           Local Areas
         </h4>
@@ -83,10 +83,10 @@ export default function Footer() {
 
           <div className="space-y-4 text-sm">
 
-            <div className="flex items-start gap-3">
+            <div className="flex items-start gap-3 items-center">
               <Phone className="w-5 h-5 text-green-400 mt-1" />
-              <div>
-                <a href="tel:+918790518724">+91 8790518724</a>
+              <div className="flex flex-col items-start gap-2" >
+                <a href="tel:+918790518724" >+91 8790518724</a>
                 <a href="https://wa.me/919491008380"><p>+91 9491008380</p></a>
               </div>
             </div>
@@ -111,6 +111,27 @@ export default function Footer() {
         </div>
 
       </div>
+      <div >
+         <h4 className="text-lg px-6 font-semibold text-white mb-4">
+            Local Branches
+          </h4>
+        <div className="max-w-7xl mx-auto px-6  pb-14 grid gap-10 md:grid-cols-2 lg:grid-cols-4">
+      <div className="flex items-start gap-3">
+          <MapPin className="w-5 h-5 text-green-400 mt-1" />
+          <p className="text-gray-400 leading-relaxed">
+            No,2 /92, Frontline Seven Club House, Frontline seven House,<br/>
+            Kokapet, Gandipet, Hyderabad, Telangana 500075
+          </p>
+        </div>
+        <div className="flex items-start gap-3">
+          <MapPin className="w-5 h-5 text-green-400 mt-1" />
+          <p className="text-gray-400 leading-relaxed">
+            862, Lahari Green Park Rd, opp. vignana jyothi engineering college, <br/>
+            Bachupally, Hyderabad, Telangana 500118
+          </p>
+        </div>
+      </div> </div>
+    
 
       {/* ---------------- BOTTOM BAR ---------------- */}
       <div className="border-t border-white/10 text-center text-sm py-5 text-gray-400">

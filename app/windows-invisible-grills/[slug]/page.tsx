@@ -16,6 +16,7 @@ import { hyderabadOtherLocations } from "../../components/data/telangana";
 import type { Metadata } from "next";
 import {getGeo} from "../../components/utils/getGeo"
 import {generateLocationKeywords} from "../../components/seo/keywordGenerator"
+import MapSection from "../../components/maps/geoMap";
 
 export async function generateMetadata({
   params,
@@ -611,6 +612,11 @@ export default function Page({ params }: { params: { slug: string , sections: Se
   </div>
 
   </section> */}
+
+  
+  {/* MAP SECTION */}
+
+  <MapSection area={page.location} />
 
   <NearbyServiceSection page={page} />
 

@@ -13,6 +13,7 @@ import {buildSchemaGraph } from "../../components/schema/combineSchema";
 import type { Metadata } from "next";
 import {getGeo} from "../../components/utils/getGeo"
 import {generateLocationKeywords} from "../../components/seo/keywordGenerator"
+import MapSection from "../../components/maps/geoMap";
 
 export async function generateMetadata({
   params,
@@ -582,6 +583,8 @@ content:`Invisible grills for windows in ${location} require simple maintenance 
   </div>
 
   </section> */}
+
+  <MapSection area={location} />
 
   {/* <NearbyServiceSection page={page} /> */}
 <LocationScroller service="windows-invisible-grills" />

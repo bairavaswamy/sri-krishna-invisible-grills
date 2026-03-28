@@ -12,6 +12,7 @@ import {buildSchemaGraph } from "../../components/schema/combineSchema";
 
 import type { Metadata } from "next";
 import {getGeo} from "../../components/utils/getGeo"
+import MapSection from "../../components/maps/geoMap";
 // import {generateLocationKeywords} from "../../components/seo/keywordGenerator"
 
 export async function generateMetadata({
@@ -455,6 +456,11 @@ export default function Page({ params }: any) {
       </section>
 
       <FAQSection faqs={faqs} />
+
+      
+  {/* MAP SECTION */}
+
+  <MapSection area={location} />
 
       {/* locations we serve */}
       <LocationScroller service="anti-bird-invisible-grills" />

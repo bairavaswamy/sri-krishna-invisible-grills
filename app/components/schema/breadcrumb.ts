@@ -5,7 +5,6 @@ export const breadcrumbSchema = (
   location: string,
   url: string
 ) => ({
-  "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "@id": `${url}#breadcrumb`,
 

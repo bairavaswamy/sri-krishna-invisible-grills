@@ -1,16 +1,25 @@
+import { getIds } from "./idGenerator";
+
+
 export const offerSchema = (
   location: string,
   service: string,
   url: string
-) => ({
+) => {
+  const ids = getIds(url, service, location);
+
+  return{
+  "@context": "https://schema.org",
   "@type": "Offer",
-  "@id": `${url}#offer-${service.toLowerCase().replace(/\s+/g, "-")}`,
+  "@id": ids.offerId,
 
   name: `${service} Service Offer in ${location}`,
 
-  url,
+  url:url,
 
-  priceCurrency: "INR",
+  // priceCurrency: "INR",
+
+  // price:"150",  
 
   // ✅ Instead of fake fixed pricing
   priceSpecification: {
@@ -22,26 +31,24 @@ export const offerSchema = (
   },
 
   availability: "https://schema.org/InStock",
+  
+  areaServed: {
+    "@type": "City",
+    name: location
+  },
+
 
   eligibleRegion: {
     "@type": "Place",
     name: location
   },
 
-  areaServed: {
-    "@type": "City",
-    name: location
-  },
-
   itemOffered: {
-    "@type": "Service",
-    "@id": `${url}#service-${service.toLowerCase().replace(/\s+/g, "-")}`,
-    name: `${service} in ${location}`,
-    serviceType: service,
+    "@id": ids.serviceId,
 
-    provider: {
-      "@id": `${url}#localbusiness`
-    }
+    // provider: {
+    //   "@id": `${url}#localbusiness`
+    // }
   },
 
   seller: {
@@ -56,5 +63,44 @@ export const offerSchema = (
 
   offeredBy: {
     "@id": `${url}#localbusiness`
-  }
-});
+  },
+  /* ✅ FIX: SHIPPING (required for product results) */
+    shippingDetails: {
+      "@type": "OfferShippingDetails",
+      shippingRate: {
+        "@type": "MonetaryAmount",
+        value: "0",
+        currency: "INR"
+      },
+      shippingDestination: {
+        "@type": "DefinedRegion",
+        addressCountry: "IN"
+      },
+      deliveryTime: {
+        "@type": "ShippingDeliveryTime",
+        handlingTime: {
+          "@type": "QuantitativeValue",
+          minValue: 0,
+          maxValue: 1,
+          unitCode: "d"
+        },
+        transitTime: {
+          "@type": "QuantitativeValue",
+          minValue: 1,
+          maxValue: 3,
+          unitCode: "d"
+        }
+      }
+    },
+
+    /* ✅ FIX: RETURN POLICY */
+    hasMerchantReturnPolicy: {
+      "@type": "MerchantReturnPolicy",
+      returnPolicyCategory:
+        "https://schema.org/MerchantReturnFiniteReturnWindow",
+      merchantReturnDays: 7,
+      returnMethod: "https://schema.org/ReturnBySeller",
+      returnFees: "https://schema.org/FreeReturn"
+    }
+
+}};

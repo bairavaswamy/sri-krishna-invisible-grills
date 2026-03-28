@@ -3,8 +3,9 @@ import "./globals.css";
 import type { Metadata } from "next";
 import { HeaderSkeleton,FloatingContactSkeleton } from "./components/LoadingSkeletons";
 import { Inter, Poppins } from 'next/font/google'
-import { buildSchemaGraph } from "./components/schema/combineSchema";
 import { getGeo } from "./components/utils/getGeo";
+import { buildHoneSchemaGraph } from "./components/schema/homeSchema";
+import { GoogleTagManager } from '@next/third-parties/google'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -98,6 +99,14 @@ const NavBar = dynamic(() => import("./components/NavBar"), {
       },
   
       description,
+
+      icons: {
+    icon: [
+      { url: "/favicon.ico" },
+      { url: "/favicon-Rohini-invisible-grills.webp", sizes: "42x42", type: "image/webp" },
+      { url: "/favicon-Rohini-invisible-grills.webp", sizes: "32x32", type: "image/webp" }
+    ],
+  },
   
      keywords: Array.from(new Set([
     // ...autokeywords,
@@ -241,7 +250,7 @@ const NavBar = dynamic(() => import("./components/NavBar"), {
 
     const url = `https://rohiniinvisiblegrills.com/`;
     const serviceName = "Invisible Grills";
-    const serviceSlug = "nvisible-grills";
+    const serviceSlug = "invisible-grills";
     
     const galleryImages = [
      '/images/children-safety-invisible-grills-for-balcony.webp',
@@ -253,7 +262,7 @@ const NavBar = dynamic(() => import("./components/NavBar"), {
     
     
       // Build the full schema graph
-    const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
+    const schemaGraph = buildHoneSchemaGraph(location, url, serviceName, serviceSlug,  galleryImages);
     
     // Convert to JSON-LD for injecting in the page
     const jsonLd = JSON.stringify(schemaGraph, null, 2);
@@ -267,19 +276,19 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${inter.className} bg-white`}>
         <script
-  type="application/ld+json"
-  dangerouslySetInnerHTML={{
-    __html: jsonLd 
-  }}
-/>
-<div className={poppins.className}>
-    
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: jsonLd 
+          }}
+        />
+       <div className={poppins.className}>
         <NavBar />
         <ContactDetailsBar />
         {children}
         <FloatingContact />
         <Footer />
         </div>
+        <GoogleTagManager gtmId="GTM-57DS2TV8" />
       </body>
     </html>
   );

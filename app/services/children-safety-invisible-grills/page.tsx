@@ -11,6 +11,7 @@ import LocationScroller from "../../components/LocationsWeServe";
 import {buildSchemaGraph } from "../../components/schema/combineSchema";
 import type { Metadata } from "next";
 import {getGeo} from "../../components/utils/getGeo"
+import MapSection from "../../components/maps/geoMap";
 // import {generateLocationKeywords} from "../../components/seo/keywordGenerator"
 
 export async function generateMetadata({
@@ -586,6 +587,8 @@ const faqs = [
 
 
   {/* CTA */}
+
+  <MapSection area={location} />
 
   <LocationScroller service="children-safety-invisible-grills" />
 
