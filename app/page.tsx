@@ -75,6 +75,7 @@ export default function Home() {
     <main className="px-4 bg-[#fff] pb-6 pt-[1px] md:pt-[3px] sm:p-6 overflow-hidden">
          
       <Carousel />
+      
       <ButtonCards />
 
       <ServicesGrid />
@@ -102,10 +103,6 @@ export default function Home() {
       <section className="mt-8">
         <ContactForm />
       </section>
-
-     
-           
-      
     </main>
     </>
   );

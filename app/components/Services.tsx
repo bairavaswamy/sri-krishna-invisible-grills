@@ -1,4 +1,5 @@
 'use client'
+import Link from "next/link"
 import { useState } from "react"
 
 const serviceList = [
@@ -103,14 +104,14 @@ export default function Services(){
                     <a href="https://wa.me/919491008380" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-3 py-2 bg-green-700 text-white rounded-md text-sm">
                       WhatsApp
                     </a>
-                   <a
+                   <Link
                       href={slug} 
                       className="hidden lg:inline-flex items-center gap-2 px-2 py-2 
                                 bg-transparent border border-primary text-primary 
                                 rounded-md text-sm"
                     >
                       Know More
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>

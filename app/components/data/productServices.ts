@@ -42,7 +42,7 @@ export const services: Service[] = [
   },
   {
     title: "Invisible Grills for Windows",
-    slug: "invisible-grills-for-windows",
+    slug: "windows-invisible-grills",
     image: "/cards/invisible-grills-for-apartment.webp",
     price: "₹140",
     offerPrice: "13% off",

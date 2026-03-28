@@ -120,7 +120,7 @@ function ButtonCardsInner({ images = defaultImages }: { images?: ServiceItem[] }
   };
 
   return (
-    <div className="w-full bg-white pb-1 overflow-hidden">
+    <div className="w-full bg-white pb-1 overflow-hidden ">
       {/* --- SHARED HEADER --- */}
       <div className="text-center mt-12 -mb-14 md:mb-4">
         <h1 className="text-2xl md:text-3xl lg:text-4xl font-extrabold text-green-900">
@@ -162,28 +162,25 @@ function ButtonCardsInner({ images = defaultImages }: { images?: ServiceItem[] }
 
       {/* --- DESKTOP VIEW: Horizontal Scroller Fixed --- */}
      {/* --- DESKTOP VIEW --- */}
-<div className="hidden md:block py-2 px-6">
-  <div className="flex gap-6 pb-4 overflow-x-auto scrollbar-hide scroll-smooth">
-    {images.map((item, i) => (
-      <div
-        key={i}
-        className="
-          w-[240px] lg:w-[260px]
-          flex-shrink-0
-          bg-white border rounded-lg shadow-sm
-          hover:shadow-md transition-all hover:scale-105
-          overflow-hidden
-        "
-      >
-        <ProductCardContent item={item} />
-      </div>
-    ))}
-  </div>
+<div className="flex gap-6 pb-4 w-full overflow-x-auto scrollbar-hide scroll-smooth">
+  {images.map((item, i) => (
+    <div
+      key={i}
+      className="
+        w-[240px] lg:w-[260px]
+        flex-shrink-0
+        bg-white border rounded-lg shadow-sm
+        hover:shadow-md transition-all hover:scale-105
+        overflow-hidden
+      "
+    >
+      <ProductCardContent item={item} />
+    </div>
+  ))}
 </div>
     </div>
   );
 }
-// Sub-component to keep card design exactly the same for both
 function ProductCardContent({ item, isMobile = false }: { item: ServiceItem, isMobile?: boolean }) {
   return (
     <>
@@ -196,25 +193,32 @@ function ProductCardContent({ item, isMobile = false }: { item: ServiceItem, isM
           unoptimized
         />
       </div>
-      <div className="p-3 pt-4 pb-7 text-left">
-          <div className="text-base font-medium">{item.service}</div>
-          <div className="flex items-center gap-2">
-            <span className="text-gray-600 line-through">{item.price}</span>
-            <span className="text-green-900 font-semibold">{item.offerPrice}</span>
-          </div>
-          <Link
-            href={item.path}
-            className="text-sm mt-1 text-gray-500 
-              bg-gradient-to-r from-purple-500 to-pink-500
-              bg-[length:0%_2px] bg-left-bottom bg-no-repeat
-              transition-all duration-300
-              hover:bg-[length:100%_2px] hover:text-purple-600"
-            aria-label={`Learn more about ${item.service}`}
-          >
-           Learn more <span className="sr-only">about {item.service}</span>
-          </Link>
+
+      <div className="p-3 pt-4 pb-7 text-left overflow-hidden">
+        <div className="text-base font-medium truncate">
+          {item.service}
+        </div>
+
+        <div className="flex items-center gap-2 flex-wrap">
+          <span className="text-gray-600 line-through whitespace-nowrap">
+            {item.price}
+          </span>
+          <span className="text-green-900 font-semibold whitespace-nowrap">
+            {item.offerPrice}
+          </span>
+        </div>
+
+        <Link
+          href={item.path}
+          className="text-sm mt-1 text-gray-500 break-words
+            bg-gradient-to-r from-purple-500 to-pink-500
+            bg-[length:0%_2px] bg-left-bottom bg-no-repeat
+            transition-all duration-300
+            hover:bg-[length:100%_2px] hover:text-purple-600"
+        >
+          Learn more
+        </Link>
       </div>
-        
     </>
   );
 }
