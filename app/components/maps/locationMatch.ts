@@ -1,5 +1,15 @@
+import {combineBengaloreLocations} from "../constants/locations";
+
 type locatios = {
   [key: string]: string;
+};
+
+const locationArrayToObject = (locations: string[]): locatios => {
+  const locationObj: locatios = {};
+  locations.forEach((location) => {
+    locationObj[location] = "Bengaluru";
+  });
+  return locationObj;
 };
 
 
@@ -144,4 +154,5 @@ Chamrajpura: "Mysore",
 Gokulam: "Mysore",
 Yadavagiri: "Mysore",
 Bannimantap: "Mysore",
+...locationArrayToObject(combineBengaloreLocations),
 }

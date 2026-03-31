@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { hyderabadLocations } from "../../components/constants/locations";
+import { hyderabadLocations,combineBengaloreLocations } from "../../components/constants/locations";
 import { locationHash, slugify, locationImages, createGrillSeed, locationImagesForBalconySafetyInvisibleGrills, BalconySafetyInvisibleGrillsProductImages } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
 import { Phone, MessageCircle,Plus, Minus } from "lucide-react";
@@ -17,7 +17,7 @@ import {generateLocationKeywords} from "../../components/seo/keywordGenerator"
 import type { Metadata } from "next";
 import MapSection from "../../components/maps/geoMap";
 
-const locations = [...hyderabadLocations , ...hyderabadOtherLocations]
+const locations = [...hyderabadLocations , ...hyderabadOtherLocations,...combineBengaloreLocations]
 
 export async function generateMetadata({
   params,

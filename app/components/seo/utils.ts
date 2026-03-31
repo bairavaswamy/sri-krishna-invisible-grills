@@ -20,6 +20,7 @@ export function slugify(location: string) {
   return location
     .toLowerCase()
     .trim()
+    .replace(/,/g, " in")        // 👈 convert comma to " in"
     .replace(/&/g, "and")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/(^-|-$)/g, "");

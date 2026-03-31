@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { hyderabadLocations } from "../../components/constants/locations";
+import { combineBengaloreLocations, hyderabadLocations } from "../../components/constants/locations";
 import { generateService } from "../../components/seo/invisibleGrillsGenerator";
 import { locationHash, slugify, locationImages, createGrillSeed, separator } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
@@ -145,7 +145,7 @@ Expert installation, competitive price & free inspection by Rohini Invisible Gri
   };
 }
 
-const locations = [...hyderabadLocations , ...hyderabadOtherLocations]
+const locations = [...hyderabadLocations , ...hyderabadOtherLocations,...combineBengaloreLocations]
 
 //  const headingFont = Poppins({
 //   subsets: ["latin"],

@@ -1,3 +1,5 @@
+import { combineBengaloreLocations } from "../constants/locations";
+import { slugify } from "../seo/utils";
 import { outerlocationParentMap } from "./telangana";
 export const locationGeo = {
   hyderabad: { lat: "17.3850", lng: "78.4867", region: "IN-TG" },
@@ -14,8 +16,21 @@ export const locationGeo = {
   kurnool: { lat: "15.8281", lng: "78.0373", region: "IN-AP" },
   kadapa: { lat: "14.4673", lng: "78.8242", region: "IN-AP" },
   tirupati: { lat: "13.6288", lng: "79.4192", region: "IN-AP" },
-  mysore: { lat: "12.2958", lng: "76.6394", region: "IN-KA" }
+  mysore: { lat: "12.2958", lng: "76.6394", region: "IN-KA" },
+  bangalore: { lat: "12.9716", lng: "77.5946", region: "IN-KA"},
 } as const;
+
+type locatios = {
+  [key: string]: string;
+};
+
+const locationArrayToObject = (locations: string[]): locatios => {
+  const locationObj: locatios = {};
+  locations.forEach((location) => {
+    locationObj[slugify(location)] = "bangalore";
+  });
+  return locationObj;
+};
 
 export type GeoCity = keyof typeof locationGeo;
 
@@ -115,8 +130,8 @@ export const locationParentMap: Record<string, GeoCity> = {
  miryalaguda: "miryalaguda",
 "sagar-road": "miryalaguda",
 "nalgonda-road": "miryalaguda",
-"new apartment zones": "miryalaguda",
-"main road developments": "miryalaguda",
+// "new apartment zones": "miryalaguda",
+// "main road developments": "miryalaguda",
 
   // KURNOOL
   kurnool: "kurnool",
@@ -124,7 +139,7 @@ export const locationParentMap: Record<string, GeoCity> = {
   "adoni-road": "kurnool",
   "bellary-road": "kurnool",
   budhwarpet: "kurnool",
-  "balaji nagar ": "kurnool",
+  // "balaji nagar ": "kurnool",
   "ashok-nagar": "kurnool",
   "gayatri-estate": "kurnool",
   "deva-nagar": "kurnool",
@@ -185,4 +200,5 @@ export const locationParentMap: Record<string, GeoCity> = {
   "residential-colonies": "hyderabad",
   "new-apartment-zones": "hyderabad",
   "main-road-developments": "hyderabad",
+  ...locationArrayToObject(combineBengaloreLocations),
 };

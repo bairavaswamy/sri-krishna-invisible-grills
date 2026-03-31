@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { hyderabadLocations } from "../../components/constants/locations";
+import { combineBengaloreLocations, hyderabadLocations } from "../../components/constants/locations";
 import { slugify, createGrillSeed, locationImagesForSportsNets, BalconySafetySportsNets, } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
 import { Phone, MessageCircle } from "lucide-react";
@@ -142,7 +142,7 @@ Trusted service by Rohini Invisible Grills.
   };
 }
 
-const locations = [...hyderabadLocations , ...hyderabadOtherLocations]
+const locations = [...hyderabadLocations , ...hyderabadOtherLocations,...combineBengaloreLocations]
 
 //  const headingFont = Poppins({
 //   subsets: ["latin"],

@@ -43,7 +43,7 @@ export const services: Service[] = [
   {
     title: "Invisible Grills for Windows",
     slug: "windows-invisible-grills",
-    image: "/cards/invisible-grills-for-apartment.webp",
+    image: "/cards/window-anti-bird-invisible-grills-installation-near-me.webp",
     price: "₹140",
     offerPrice: "13% off",
     description: "Custom window grills using SS 304/316 grade stainless steel. Invisible yet strong, ideal for child safety and bird protection, letting you enjoy a clear view while keeping your home secure."
@@ -55,5 +55,45 @@ export const services: Service[] = [
     price: "₹200",
     offerPrice: "15% off",
     description: "Specially designed grills for child-safe balconies and apartments. Made from durable stainless steel, these invisible grills prevent accidents and ensure a safe living space for your little ones."
+  },
+   {
+    title: "Cat Safety Invisible Grills",
+    slug: "cat-safety-invisible-grills",
+    image: "/cards/cat-safety-invisible-grills-and-net.webp",
+    price: "₹180",
+    offerPrice: "10% off",
+    description: "Specially designed invisible grills for cat safety in apartments and balconies. Made from SS 304/316 stainless steel, these grills prevent pets from escaping or falling while maintaining ventilation and clear views."
+  },
+  {
+    title: "Bird Spikes",
+    slug: "bird-spikes-installation",
+    image: "/cards/same-day-bird-spikes-installation.webp",
+    price: "₹120",
+    offerPrice: "8% off",
+    description: "High-quality bird spikes installation to prevent pigeons and birds from sitting on ledges, AC units, and windows. Durable, weather-resistant, and effective solution for bird control without harming them."
+  },
+  {
+    title: "Artificial Turf Grass",
+    slug: "artificial-turf-grass-installation",
+    image: "/cards/artificial-grass-and-artificial-turf-for-ground.webp",
+    price: "₹90",
+    offerPrice: "12% off",
+    description: "Premium artificial turf grass installation for balconies, terraces, and grounds. Gives a natural green look with low maintenance, ideal for homes, playgrounds, and commercial spaces."
+  },
+  {
+    title: "Cloth Hangers",
+    slug: "balcony-cloth-hangers-installation",
+    image: "/cards/cloth-hungers-instllations-near-me.webp",
+    price: "₹1500",
+    offerPrice: "5% off",
+    description: "Durable balcony cloth hangers for efficient space utilization. Rust-resistant and easy to install, perfect for drying clothes in apartments without occupying floor space."
+  },
+  {
+    title: "Anti Bird Nets",
+    slug: "anti-bird-nets-installation",
+    image: "/cards/anti-bird-nets-installation-near-me.webp",
+    price: "₹12",
+    offerPrice: "15% off",
+    description: "Strong and long-lasting anti bird nets to protect balconies, windows, and open areas from pigeons and birds. Safe, eco-friendly, and ideal for maintaining hygiene in residential and commercial spaces."
   },
 ];

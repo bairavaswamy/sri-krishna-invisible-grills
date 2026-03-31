@@ -26,8 +26,17 @@ export const overviewVariants: VariantFn[] = [
 
 (loc)=>`Professional sports nets installation in ${loc} improves safety for cricket and badminton players. Customers searching sports nets near me choose strong materials that handle daily use. Our services include box cricket net installation and anti bird nets installation for complete protection.`,
 
-(loc)=>`If you are searching sports nets near me in ${loc}, our team delivers reliable cricket practice nets installation near me and badminton court net installation near me. With pigeon safety nets installation and invisible grill installation, your sports space becomes safe, clean, and ready for daily training.`
+(loc)=>`If you are searching sports nets near me in ${loc}, our team delivers reliable cricket practice nets installation near me and badminton court net installation near me. With pigeon safety nets installation and invisible grill installation, your sports space becomes safe, clean, and ready for daily training.`,
 
+(loc)=>`People in ${loc} searching sports installation near me want safe and strong play areas at home or school. Our terrace sports nets installation near me helps stop balls from falling outside and keeps everyone safe. We also offer box cricket nets installation near me and badminton sports nets installation using high quality materials that last long and handle daily use in all weather conditions.`,
+
+(loc)=>`If you live in ${loc} and search sports installation near me, we provide easy and quick setup for all types of sports nets. Terrace sports nets installation near me is perfect for rooftops and small spaces. Our box cricket nets installation near me and badminton sports nets installation services are designed to give safe practice space for kids and adults without worry.`,
+
+(loc)=>`In ${loc}, many users look for sports installation near me to build safe practice zones at home. Our terrace sports nets installation near me is great for apartments and terraces. We also provide box cricket nets installation near me and badminton sports nets installation that protect windows, vehicles, and nearby areas while allowing full sports practice.`,
+
+(loc)=>`Searching sports installation near me in ${loc} is common for families who want safe sports areas. Our terrace sports nets installation near me helps create a secure space for daily play. We also install box cricket nets installation near me and badminton sports nets installation with strong and weather resistant nets for long time use.`,
+
+(loc)=>`Users in ${loc} looking for sports installation near me choose our expert service for quality and safety. Terrace sports nets installation near me is best for small home spaces and rooftops. We also provide box cricket nets installation near me and badminton sports nets installation that are strong, easy to maintain, and perfect for regular sports practice at home or academy.`
 ];
 
 
@@ -57,8 +66,17 @@ export const aboutVariants: VariantFn[] = [
 
 (loc)=>`Our sports nets installation service in ${loc} supports both residential and professional practice setups using durable materials.`,
 
-(loc)=>`With growing sports demand in ${loc}, our team delivers reliable sports nets near me solutions designed for safety, strength, and long-term performance.`
+(loc)=>`With growing sports demand in ${loc}, our team delivers reliable sports nets near me solutions designed for safety, strength, and long-term performance.`,
 
+(loc)=>`Rohini Invisible Grills offers trusted sports installation near me services in ${loc} for homes and sports areas. Our terrace sports nets installation near me is perfect for rooftops and apartments. We also provide box cricket nets installation near me and badminton sports nets installation using strong materials that ensure safety, durability, and long-lasting performance for daily practice.`,
+
+(loc)=>`In ${loc}, we help customers looking for sports installation near me build safe and secure play zones. Our terrace sports nets installation near me prevents balls from going outside and protects nearby spaces. We also specialize in box cricket nets installation near me and badminton sports nets installation for schools, homes, and academies with reliable setup.`,
+
+(loc)=>`Rohini Invisible Grills in ${loc} delivers high quality sports installation near me services for all types of sports needs. Our terrace sports nets installation near me is ideal for compact areas. Along with box cricket nets installation near me and badminton sports nets installation, we ensure proper fitting, strong support, and safe playing environments.`,
+
+(loc)=>`Customers in ${loc} searching sports installation near me choose us for expert service and durable results. Terrace sports nets installation near me is designed to make rooftop sports safe and easy. We also provide box cricket nets installation near me and badminton sports nets installation using weather resistant nets suitable for long-term use.`,
+
+(loc)=>`Serving ${loc}, Rohini Invisible Grills provides complete sports installation near me solutions for homes and academies. Our terrace sports nets installation near me helps create safe practice spaces. We also handle box cricket nets installation near me and badminton sports nets installation with high quality nets that improve safety and support daily sports activities.`
 ];
 
 
@@ -88,8 +106,17 @@ export const installVariants: VariantFn[] = [
 
 (loc)=>`We combine anti bird nets installation with sports nets to maintain hygiene around courts.`,
 
-(loc)=>`Our installation team ensures every sports nets project in ${loc} meets safety standards.`
+(loc)=>`Our installation team ensures every sports nets project in ${loc} meets safety standards.`,
 
+(loc)=>`Our sports installation near me service in ${loc} starts with checking the area and planning the right setup. Terrace sports nets installation near me is done with proper height and strong pole fixing for safety. We also handle box cricket nets installation near me and badminton sports nets installation with correct net tension so players can practice without interruptions or risk.`,
+
+(loc)=>`In ${loc}, our sports installation near me process focuses on strength and balance. Terrace sports nets installation near me includes secure wall support and corner fixing. For box cricket nets installation near me and badminton sports nets installation, we ensure nets are tightly fitted and aligned properly to avoid sagging and provide a smooth playing experience.`,
+
+(loc)=>`Customers in ${loc} choosing sports installation near me get a complete setup from marking to final fixing. Terrace sports nets installation near me is done using durable hooks and coated wires. We also complete box cricket nets installation near me and badminton sports nets installation with proper spacing to allow safe movement and better practice sessions.`,
+
+(loc)=>`Our team in ${loc} follows a clean and safe method for sports installation near me services. Terrace sports nets installation near me includes strong edge support and wind-resistant fixing. Box cricket nets installation near me and badminton sports nets installation are handled with careful tying and support systems to maintain net shape during regular use.`,
+
+(loc)=>`Sports installation near me in ${loc} is completed with attention to detail and safety. Terrace sports nets installation near me is designed to cover full areas without gaps. We also install box cricket nets installation near me and badminton sports nets installation using strong joining methods that keep nets stable, safe, and ready for daily sports activities.`
 ];
 
 
@@ -119,8 +146,17 @@ export const benefitsVariants: VariantFn[] = [
 
 (loc)=>`Sports nets improve training quality for beginners and professionals.`,
 
-(loc)=>`Strong sports nets installation increases safety and comfort for daily play.`
+(loc)=>`Strong sports nets installation increases safety and comfort for daily play.`,
 
+(loc)=>`People in ${loc} searching sports installation near me get better safety with strong nets. Terrace sports nets installation near me stops balls from falling outside and protects nearby areas. Box cricket nets installation near me and badminton sports nets installation also help players practice freely without fear or damage.`,
+
+(loc)=>`Using sports installation near me in ${loc} helps create safe and clean play spaces at home or school. Terrace sports nets installation near me keeps the area covered and secure. Box cricket nets installation near me and badminton sports nets installation improve safety and reduce ball loss during practice.`,
+
+(loc)=>`In ${loc}, sports installation near me helps protect windows, vehicles, and surroundings from damage. Terrace sports nets installation near me is useful for rooftops and small spaces. Box cricket nets installation near me and badminton sports nets installation allow safe and smooth gameplay every day.`,
+
+(loc)=>`Customers in ${loc} choose sports installation near me to improve safety and comfort while playing. Terrace sports nets installation near me prevents balls from going out of space. Box cricket nets installation near me and badminton sports nets installation help maintain a proper practice area with less disturbance.`,
+
+(loc)=>`Sports installation near me in ${loc} gives better control and safety during daily sports practice. Terrace sports nets installation near me covers open areas properly. Box cricket nets installation near me and badminton sports nets installation support safe training and help players focus without interruptions.`
 ];
 
 
@@ -150,8 +186,17 @@ export const priceVariants: VariantFn[] = [
 
 (loc)=>`Final pricing depends on customization and height requirements.`,
 
-(loc)=>`We provide budget-friendly sports nets installation without compromising quality.`
+(loc)=>`We provide budget-friendly sports nets installation without compromising quality.`,
 
+(loc)=>`Sports installation near me cost in ${loc} depends on space size and net type. Terrace sports nets installation near me is priced based on height and coverage area. Box cricket nets installation near me and badminton sports nets installation costs include materials and proper fixing.`,
+
+(loc)=>`In ${loc}, people searching sports installation near me get pricing based on design and safety needs. Terrace sports nets installation near me charges depend on rooftop size. Box cricket nets installation near me and badminton sports nets installation are planned to fit your budget.`,
+
+(loc)=>`Customers in ${loc} looking for sports installation near me receive cost estimates after site check. Terrace sports nets installation near me varies with area and support type. Box cricket nets installation near me and badminton sports nets installation pricing includes strong net materials.`,
+
+(loc)=>`Sports installation near me in ${loc} offers flexible pricing for homes and academies. Terrace sports nets installation near me cost depends on coverage and height. Box cricket nets installation near me and badminton sports nets installation are priced for both small and large setups.`,
+
+(loc)=>`In ${loc}, sports installation near me pricing is simple and clear. Terrace sports nets installation near me depends on structure and net quality. Box cricket nets installation near me and badminton sports nets installation costs are affordable and suitable for regular sports use.`
 ];
 
 
@@ -181,7 +226,17 @@ export const whyChooseVariants: VariantFn[] = [
 
 (loc)=>`Customers prefer us for neat and professional work.`,
 
-(loc)=>`We focus on durability, safety, and customer satisfaction.`
+(loc)=>`We focus on durability, safety, and customer satisfaction.`,
+
+(loc)=>`Looking for sports installation near me in ${loc}? Our team handles terrace sports nets installation near me with strong fixing and neat finishing. Box cricket nets installation near me and badminton sports nets installation are done carefully to ensure safe and smooth play.`,
+
+(loc)=>`For safe play areas in ${loc}, our sports installation near me service stands out. We complete terrace sports nets installation near me and box cricket nets installation near me using durable materials, making badminton sports nets installation reliable for daily use.`,
+
+(loc)=>`Choosing the right sports installation near me in ${loc} makes a big difference in safety. Terrace sports nets installation near me and box cricket nets installation near me are completed with proper support so badminton sports nets installation stays strong over time.`,
+
+(loc)=>`Need a trusted sports installation near me in ${loc}? We provide terrace sports nets installation near me with secure setup and proper coverage. Box cricket nets installation near me and badminton sports nets installation are designed for long-lasting performance.`,
+
+(loc)=>`A better sports setup in ${loc} starts with expert sports installation near me. Terrace sports nets installation near me is done with strong structure, while box cricket nets installation near me and badminton sports nets installation ensure safe and comfortable play every day.`
 
 ];
 
@@ -212,6 +267,16 @@ export const safetyTipsVariants: VariantFn[] = [
 
 (loc)=>`Sports nets protect both players and surroundings.`,
 
-(loc)=>`Installing quality sports nets is one of the safest upgrades for practice areas.`
+(loc)=>`Installing quality sports nets is one of the safest upgrades for practice areas.`,
+
+(loc)=>`In ${loc}, people searching sports installation near me should ensure proper net fixing for safety. Terrace sports nets installation near me must be tightly secured to avoid accidents and support safe daily play.`,
+
+(loc)=>`For safe play in ${loc}, sports installation near me should include strong support and correct height. Terrace sports nets installation near me and badminton sports nets installation must be checked often for safety.`,
+
+(loc)=>`Choosing sports installation near me in ${loc} requires attention to safety steps. Terrace sports nets installation near me should have firm anchors, while box cricket nets installation near me needs proper tension to avoid loose nets.`,
+
+(loc)=>`In ${loc}, regular checks are important after sports installation near me. Terrace sports nets installation near me and badminton sports nets installation should stay tight and clean for safe and smooth gameplay.`,
+
+(loc)=>`Safe sports areas in ${loc} depend on proper sports installation near me. Terrace sports nets installation near me must be fixed strongly, and box cricket nets installation near me should be maintained to prevent damage or risk.`
 
 ];

@@ -162,7 +162,7 @@ function ButtonCardsInner({ images = defaultImages }: { images?: ServiceItem[] }
 
       {/* --- DESKTOP VIEW: Horizontal Scroller Fixed --- */}
      {/* --- DESKTOP VIEW --- */}
-<div className="flex gap-6 pb-4 w-full overflow-x-auto scrollbar-hide scroll-smooth">
+<div className="hidden md:flex md:gap-6 pb-4 w-full overflow-x-auto scrollbar-hide scroll-smooth">
   {images.map((item, i) => (
     <div
       key={i}

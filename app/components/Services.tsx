@@ -24,7 +24,7 @@ const serviceImages: Record<string, string> = {
   'Balcony Safety Invisible Grills': '/cards/Balcony-Invisible-Grills-1.webp',
   'Anti Bird Invisible Grills': '/cards/anti-bird-invisible-grills.webp',
   'Sports Nets': '/images/sport-nets-installation-hyderabad.webp',
-  'Windows Invisible Grills': '/cards/window-anti-bird-invisible-grills.webp',
+  'Windows Invisible Grills': '/cards/window-anti-bird-invisible-grills-installation-near-me.webp',
   'Children Safety Invisible Grills': '/cards/children-safety-invisible-grills-for-balcony.webp'
 }
 
