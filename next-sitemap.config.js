@@ -1,13 +1,35 @@
-module.exports = {
-  siteUrl: 'https://rohiniinvisiblegrills.com/',
+const config = {
+  siteUrl: 'https://rohiniinvisiblegrills.com',
   generateRobotsTxt: true,
-  exclude: ['/404', '/500', '/_*'],
-  robotsTxtOptions: {
+  changefreq: "daily",
+  priority: 0.7,
+  sitemapSize: 5000,
+   robotsTxtOptions: {
     policies: [
       {
-        userAgent: '*',
-        allow: '/',
+        userAgent: "*",
+        allow: "/",
       },
     ],
+    additionalSitemaps: [
+      "https://rohiniinvisiblegrills.com/sitemap.xml",
+    ],
   },
-}
+  exclude: ["/admin/*", "/api/*", '/private/*', '/404'],
+  transform: async (config, path) => {
+      let priority = 0.8;
+
+      if (path === "/") priority = 1.0;
+      if (path.includes("/services")) priority = 0.9;
+
+      return {
+        loc: path,
+        changefreq: "daily",
+        priority,
+        lastmod: new Date().toISOString(),
+      };
+    },
+    outDir: './out', 
+};
+
+module.exports = config;

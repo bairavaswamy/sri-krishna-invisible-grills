@@ -250,3 +250,27 @@ export const BalconySafetyChildrenSafetyInvisibleGrills = [
   "/images/children-safety-invisible-grills-for-balcony.webp",
   "/images/children-safety-invisible-grills-in-hyderabad.webp",
 ];
+
+
+//bird spikes installation
+
+export const locationImagesForBirdSpikesInstallation = [
+   "/spikes/anti-bird-spikes-installation-near-me.webp",
+    "/spikes/bird-control-spikes.webp",
+    "/spikes/metalic-bird-spikes-installation-near-me.webp",
+    "/spikes/pigeon-bird-spikes-installation-near-me.webp",
+    "/spikes/pvc-anti-bird-spikes-installation.webp",
+    "/spikes/same-day-bird-spikes-installation-near-me.webp",
+    "/spikes/top-rated-bird-spikes-installation-near-me.webp",
+];
+
+export const BalconySafetyBirdSpikesInstallation = [
+  "/spikes/cards/top-rated-bird-control-spikes-installation.webp",
+  "/spikes/cards/same-day-bird-spikes-installation.webp",
+  "/spikes/cards/metalic-bird-spikes-installation.webp",
+  "/spikes/cards/pvc-bird-control-spikes-installation-near-me.webp",
+  "/spikes/cards/pigeon-bird-spikes-installation.webp",
+  "/spikes/cards/bird-spikes-installation-near-me.webp",
+  "/spikes/cards/anti-bird-spikes-installation.webp",
+
+]

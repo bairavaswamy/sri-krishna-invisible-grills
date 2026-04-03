@@ -23,4 +23,9 @@ export const services = [
     title: "Children Safety Invisible Grills",
     slug: "children-safety-invisible-grills",
   },
+  {
+    title: "Bird Spikes Installation",
+    slug: "bird-spikes-installation",
+  },
+  
 ]

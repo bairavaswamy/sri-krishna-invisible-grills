@@ -14,6 +14,14 @@ type ServiceItem = {
 
 
 export const defaultImages: ServiceItem[] = [
+  
+  {
+    service: "Invisible Grill for Windows",
+    image: "/cards/window-anti-bird-invisible-grills-installation-near-me.webp",
+    price: "₹170",
+    offerPrice: "₹140",
+    path:"/services/windows-invisible-grills"
+  },
   {
     service: "Children Invisible Grills",
     image: "/cards/children-safety-invisible-grills-for-balcony.webp",
@@ -21,6 +29,21 @@ export const defaultImages: ServiceItem[] = [
     offerPrice: "₹160",
     path: "/services/children-safety-invisible-grills"
   },
+  {
+    service: "Anti Bird Invisible Grills",
+    image: "/cards/anti-bird-invisible-grills.webp",
+    price: "₹180",
+    offerPrice: "₹145",
+    path: "/services/anti-bird-invisible-grills"
+  },
+  {
+    service: "Children Safety Invisible Grills",
+    image: "/cards/balcony-safety-invisible-grills-installation-near-me.webp",
+    price: "₹200",
+    offerPrice: "₹165",
+    path: "/services/children-safety-invisible-grills"
+  },
+  
   {
     service: "Invisible Grills",
     image: "/cards/invisible-grill.webp",
@@ -42,20 +65,7 @@ export const defaultImages: ServiceItem[] = [
     offerPrice: "₹124",
     path: "/services/balcony-safety-invisible-grills"
   },
-  {
-    service: "Anti Bird Invisible Grills",
-    image: "/cards/anti-bird-invisible-grills.webp",
-    price: "₹180",
-    offerPrice: "₹145",
-    path: "/services/anti-bird-invisible-grills"
-  },
-  {
-    service: "Invisible Grill for Windows",
-    image: "/images/invisible-grill-for-balcony.webp",
-    price: "₹170",
-    offerPrice: "₹140",
-    path:"/services/windows-invisible-grills"
-  },
+  
   {
     service: "Apartment Balcony Invisible Grills",
     image: "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
@@ -63,16 +73,10 @@ export const defaultImages: ServiceItem[] = [
     offerPrice: "₹122",
     path: "/services/anti-bird-invisible-grills"
   },
-  {
-    service: "Children Safety Invisible Grills",
-    image: "/images/children-safety-invisible-grills-in-hyderabad.webp",
-    price: "₹200",
-    offerPrice: "₹165",
-    path: "/services/children-safety-invisible-grills"
-  },
+  
   {
     service: "Dry Balcony Invisible Grills",
-    image: "/images/drybalcony-invisible-grills-near-me.webp",
+    image: "/cards/dry-balcony-invisible-grills-installation-and-nets.webp",
     price: "₹178",
     offerPrice: "₹133",
     path: "/services/balcony-safety-invisible-grills"
@@ -216,7 +220,7 @@ function ProductCardContent({ item, isMobile = false }: { item: ServiceItem, isM
             transition-all duration-300
             hover:bg-[length:100%_2px] hover:text-purple-600"
         >
-          Learn more
+          Learn more <span className="sr-only">about {item.service}</span>
         </Link>
       </div>
     </>

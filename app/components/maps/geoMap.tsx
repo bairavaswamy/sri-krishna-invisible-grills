@@ -23,7 +23,7 @@ const MapSection: React.FC<MapSectionProps> = ({ area }) => {
     style={{ border: 0, borderRadius: "10px"}}
     loading="lazy"
     allowFullScreen
-    src={`https://www.google.com/maps?q=${encodeURIComponent(area + `, ${city}`)}&output=embed`}
+    src={`https://www.google.com/maps?q=${encodeURIComponent(area.split(",")[0] + `, ${city}`)}&output=embed`}
   />
 </section>
   );

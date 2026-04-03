@@ -112,7 +112,7 @@ export default function Footer() {
 
       </div>
       <div >
-         <h4 className="text-lg px-6 font-semibold text-white mb-4">
+         <h4 className="text-lg px-6 md:pl-40 lg:pl-40  font-semibold text-white mb-4">
             Local Branches
           </h4>
         <div className="max-w-7xl mx-auto px-6  pb-14 grid gap-10 md:grid-cols-2 lg:grid-cols-4">
