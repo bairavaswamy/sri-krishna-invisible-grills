@@ -74,7 +74,7 @@ export const services: Service[] = [
   },
   {
     title: "Artificial Turf Grass",
-    slug: "artificial-turf-grass-installation",
+    slug: "artificial-grass-turf",
     image: "/cards/artificial-grass-and-artificial-turf-for-ground.webp",
     price: "₹90",
     offerPrice: "12% off",
