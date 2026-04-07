@@ -16,6 +16,7 @@ import { getGeo } from "../../components/utils/getGeo";
 import {generateLocationKeywords} from "../../components/seo/keywordGenerator"
 import type { Metadata } from "next";
 import MapSection from "../../components/maps/geoMap";
+import ProductsSection from "../../components/similarProducts/ProductSection";
 
 export async function generateMetadata({
   params,
@@ -526,6 +527,10 @@ export default function Page({ params }: { params: { slug: string, sections: Sec
         ))}
 
       </section>
+
+
+
+      {/* <ProductsSection title="SIMILAR PRODUCTS AT NEAR BY LOCATION" /> */}
 
 
       {/* FAQ SECTION */}

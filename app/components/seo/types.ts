@@ -36,3 +36,16 @@ export interface ServicePage {
 }
 
 
+
+
+// types.ts
+export type ProductItem = {
+  id: number;
+  title: string;
+  location: string;
+  image: string;
+  price: string;
+  description: string;
+  tags: string[];
+  color: "orange" | "blue"; // for price & button theme
+};
