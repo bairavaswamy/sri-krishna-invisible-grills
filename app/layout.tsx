@@ -81,7 +81,7 @@ const NavBar = dynamic(() => import("./components/NavBar"), {
     // );
   
     const title =
-      `${primaryKeyword} | Bird Safety Nets & Balcony Protection | Rohini Invisible Grills`;
+      `${primaryKeyword} | Bird Safety Nets & Balcony Protection`;
   
     const description =
       `Looking forbest problem resolved anti bird invisible grills in ${location}? Professional pigeon safety net & balcony protection installation near you. 16+ years experience, ISO quality materials, expert installation, affordable price & free site visit in ${location}. Call Rohini Invisible Grills today.`;

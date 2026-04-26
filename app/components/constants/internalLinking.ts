@@ -1,0 +1,233 @@
+import { searchLocationsByService } from "./searchData"
+import { services } from "./services"
+
+const curatedLocationTargets: Record<string, string[]> = {
+  "invisible-grills": [
+    "Hyderabad",
+    "Gachibowli",
+    "Kondapur",
+    "Kokapet",
+    "Tellapur",
+    "Whitefield",
+    "Sarjapur Road",
+    "Electronic City",
+    "Hebbal",
+    "Thanisandra",
+    "Marathahalli",
+    "Hennur Road",
+  ],
+  "balcony-safety-invisible-grills": [
+    "Hyderabad",
+    "Kokapet",
+    "Gachibowli",
+    "Tellapur",
+    "Kondapur",
+    "Financial District",
+    "Whitefield",
+    "Sarjapur Road",
+    "Electronic City",
+    "Bellandur",
+    "Hebbal",
+    "Thanisandra",
+  ],
+  "anti-bird-invisible-grills": [
+    "Hyderabad",
+    "Gachibowli",
+    "Kondapur",
+    "Madhapur",
+    "Kokapet",
+    "Tellapur",
+    "Manikonda",
+    "Nallagandla",
+    "Kukatpally",
+    "Bachupally",
+    "Miyapur",
+    "Jubilee Hills",
+  ],
+  "sports-nets": [
+    "Hyderabad",
+    "Gachibowli",
+    "Kokapet",
+    "Madhapur",
+    "Whitefield",
+    "Sarjapur Road",
+    "Electronic City",
+    "Hebbal",
+    "HSR Layout",
+    "Marathahalli",
+    "Bannerghatta",
+    "JP Nagar",
+  ],
+  "windows-invisible-grills": [
+    "Hyderabad",
+    "Madhapur",
+    "Gachibowli",
+    "Kondapur",
+    "Kokapet",
+    "Tellapur",
+    "Manikonda",
+    "Nallagandla",
+    "Jubilee Hills",
+    "Banjara Hills",
+    "Kukatpally",
+    "Miyapur",
+  ],
+  "children-safety-invisible-grills": [
+    "Hyderabad",
+    "Kondapur",
+    "Gachibowli",
+    "Kokapet",
+    "Tellapur",
+    "Madhapur",
+    "Nallagandla",
+    "Manikonda",
+    "Financial District",
+    "Bachupally",
+    "Miyapur",
+    "Jubilee Hills",
+  ],
+  "bird-spikes-installation": [
+    "Hyderabad",
+    "Madhapur",
+    "Gachibowli",
+    "Kondapur",
+    "Kokapet",
+    "Tellapur",
+    "Whitefield",
+    "Sarjapur Road",
+    "Electronic City",
+    "Hebbal",
+    "Bellandur",
+    "Marathahalli",
+  ],
+  "artificial-grass-turf": [
+    "Hyderabad",
+    "Kokapet",
+    "Gachibowli",
+    "Tellapur",
+    "Kondapur",
+    "Whitefield",
+    "Sarjapur Road",
+    "Electronic City",
+    "Hebbal",
+    "Thanisandra",
+    "JP Nagar",
+    "Bannerghatta",
+  ],
+  "cloth-hangers": [
+    "Hyderabad",
+    "Kondapur",
+    "Gachibowli",
+    "Kokapet",
+    "Tellapur",
+    "Madhapur",
+    "Whitefield",
+    "Sarjapur Road",
+    "Electronic City",
+    "Bellandur",
+    "Marathahalli",
+    "Thanisandra",
+  ],
+  "anti-bird-net-installation": [
+    "Hyderabad",
+    "Kondapur",
+    "Gachibowli",
+    "Kokapet",
+    "Tellapur",
+    "Madhapur",
+    "Whitefield",
+    "Sarjapur Road",
+    "Electronic City",
+    "Bellandur",
+    "Hebbal",
+    "Thanisandra",
+  ],
+}
+
+export const topLocationsByService = Object.fromEntries(
+  Object.entries(curatedLocationTargets).map(([serviceSlug, curatedLocations]) => {
+    const availableLocations = new Set(searchLocationsByService[serviceSlug] ?? [])
+    const filtered = curatedLocations.filter((location) => availableLocations.has(location))
+
+    return [
+      serviceSlug,
+      filtered.length > 0
+        ? filtered
+        : (searchLocationsByService[serviceSlug] ?? []).slice(0, 12),
+    ]
+  })
+) as Record<string, string[]>
+
+export const relatedServiceSlugs: Record<string, string[]> = {
+  "invisible-grills": [
+    "balcony-safety-invisible-grills",
+    "windows-invisible-grills",
+    "children-safety-invisible-grills",
+    "anti-bird-invisible-grills",
+    "bird-spikes-installation",
+    "anti-bird-net-installation",
+  ],
+  "balcony-safety-invisible-grills": [
+    "invisible-grills",
+    "children-safety-invisible-grills",
+    "windows-invisible-grills",
+    "anti-bird-invisible-grills",
+    "cloth-hangers",
+  ],
+  "anti-bird-invisible-grills": [
+    "invisible-grills",
+    "bird-spikes-installation",
+    "anti-bird-net-installation",
+    "balcony-safety-invisible-grills",
+    "windows-invisible-grills",
+  ],
+  "sports-nets": [
+    "artificial-grass-turf",
+    "anti-bird-net-installation",
+    "invisible-grills",
+    "balcony-safety-invisible-grills",
+  ],
+  "windows-invisible-grills": [
+    "invisible-grills",
+    "children-safety-invisible-grills",
+    "anti-bird-invisible-grills",
+    "bird-spikes-installation",
+    "balcony-safety-invisible-grills",
+  ],
+  "children-safety-invisible-grills": [
+    "balcony-safety-invisible-grills",
+    "windows-invisible-grills",
+    "invisible-grills",
+    "anti-bird-invisible-grills",
+  ],
+  "bird-spikes-installation": [
+    "anti-bird-invisible-grills",
+    "anti-bird-net-installation",
+    "windows-invisible-grills",
+    "invisible-grills",
+  ],
+  "artificial-grass-turf": [
+    "sports-nets",
+    "cloth-hangers",
+    "invisible-grills",
+    "anti-bird-net-installation",
+  ],
+  "cloth-hangers": [
+    "balcony-safety-invisible-grills",
+    "invisible-grills",
+    "windows-invisible-grills",
+    "anti-bird-net-installation",
+  ],
+  "anti-bird-net-installation": [
+    "anti-bird-invisible-grills",
+    "bird-spikes-installation",
+    "balcony-safety-invisible-grills",
+    "children-safety-invisible-grills",
+    "windows-invisible-grills",
+  ],
+}
+
+export const getRelatedServices = (serviceSlug: string) =>
+  (relatedServiceSlugs[serviceSlug] ?? [])
+    .map((slug) => services.find((service) => service.slug === slug))
+    .filter((service): service is { title: string; slug: string } => Boolean(service))

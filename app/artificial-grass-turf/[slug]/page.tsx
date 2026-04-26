@@ -22,6 +22,7 @@ import { services } from "../../components/constants/services";
 import { generateArtificialGrassService } from "../../components/seo/artificialGrassTurfGenerator";
 
 import LocationScroller from "../../components/LocationsWeServe";
+import RelatedServices from "../../components/RelatedServices";
 
 import { buildSchemaGraph } from "../../components/schema/combineSchema";
 import { hyderabadOtherLocations } from "../../components/data/telangana";
@@ -30,6 +31,8 @@ import { generateLocationKeywords } from "../../components/seo/keywordGenerator"
 
 import type { Metadata } from "next";
 import MapSection from "../../components/maps/geoMap";
+import BrandedServiceLayout from "../../components/BrandedServiceLayout";
+import { getServiceLocationPageContent } from "../../components/data/serviceLocationPageContent";
 
 export async function generateMetadata({
   params,
@@ -53,6 +56,10 @@ export async function generateMetadata({
     location,
     locations,
     locations.indexOf(location)
+  );
+  const customPage = getServiceLocationPageContent(
+    "artificial-grass-turf",
+    slugify(location)
   );
 
   const geo = getGeo(params.slug);
@@ -80,13 +87,13 @@ export async function generateMetadata({
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
 
     title: {
-      default: title,
-      template: "%s | Rohini",
+      default: customPage?.metadata?.title?.default ?? title,
+      template: customPage?.metadata?.title?.template ?? "%s | Rohini",
     },
 
-    description,
+    description: customPage?.metadata?.description ?? description,
 
-    keywords: Array.from(
+    keywords: customPage?.metadata?.keywords ?? Array.from(
       new Set([
         primaryKeyword,
         `Artificial grass ${location}`,
@@ -100,10 +107,10 @@ export async function generateMetadata({
     ).slice(0, 30),
 
     alternates: {
-      canonical: url,
+      canonical: customPage?.metadata?.canonical ?? url,
     },
 
-    category: "Home Improvement",
+    category: customPage?.metadata?.category ?? "Home Improvement",
 
     robots: {
       index: true,
@@ -118,9 +125,9 @@ export async function generateMetadata({
     },
 
     openGraph: {
-      title,
-      description,
-      url,
+      title: customPage?.metadata?.openGraph?.title ?? title,
+      description: customPage?.metadata?.openGraph?.description ?? description,
+      url: customPage?.metadata?.openGraph?.url ?? url,
       siteName: "Rohini",
       locale: "en_IN",
       type: "website",
@@ -136,8 +143,8 @@ export async function generateMetadata({
 
     twitter: {
       card: "summary_large_image",
-      title,
-      description,
+      title: customPage?.metadata?.twitter?.title ?? title,
+      description: customPage?.metadata?.twitter?.description ?? description,
       images: [image],
     },
 
@@ -233,13 +240,18 @@ export default function Page({
     locations,
     locations.indexOf(location)
   );
+  const customPage = getServiceLocationPageContent(
+    "artificial-grass-turf",
+    slugify(location)
+  );
+  const resolvedPage = customPage?.resolvedPageData ?? page;
 
   const url = `https://rohiniinvisiblegrills.com/artificial-grass-turf/${slugify(location)}`;
 
   const serviceName = "Artificial Grass Turf";
   const serviceSlug = "artificial-grass-turf";
 
-  const faqs = page.faqs;
+  const faqs = resolvedPage.faqs;
 
   const galleryImages = [
     grassImage,
@@ -259,390 +271,87 @@ export default function Page({
   const jsonLd = JSON.stringify(schemaGraph, null, 2);
 
   return (
-
-    <main className="bg-gray-50 min-h-screen">
-
-      {/* ================= SCHEMA ================= */}
-
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: jsonLd
-        }}
-      />
-
-      {/* Location Authority Schema */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Service",
-            name: page.title,
-            areaServed: page.location,
-            additionalProperty: {
-              "@type": "PropertyValue",
-              name: "Location Authority Score",
-              value: page.authorityScore
-            }
-          })
-        }}
-      />
-
-      {/* ================= HERO SECTION ================= */}
-
-      <section className="relative md:h-[400px] py-10 text-white">
-
-        {/* Background Image */}
-        <div
-          className="absolute inset-0 bg-cover bg-center"
-          style={{
-            backgroundImage: `url('${getLocationImage(location || "Hyderabad")}')`
-          }}
-        />
-
-        {/* Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/60 to-black/50"></div>
-
-        {/* Content */}
-        <div className="relative max-w-6xl mx-auto px-6 text-center md:text-left">
-
-          <h1 className="text-2xl md:text-3xl font-bold leading-tight mb-6 drop-shadow-lg">
-            {page.title}
-          </h1>
-
-          <p className="text-md md:text-lg max-w-3xl text-gray-200">
-            {page.shortDescription}
-          </p>
-
-          <div className="mt-6 flex flex-col sm:flex-row gap-6 justify-center md:justify-start">
-
-            {/* CALL BUTTON */}
-            <a
-              href="tel:+918790518724"
-              className="relative group overflow-hidden
-                flex items-center justify-center gap-3
-                px-5 py-2 rounded-2xl
-                font-semibold text-white
-                backdrop-blur-xl
-                border border-white/20
-                bg-white/10
-                shadow-[0_10px_40px_rgba(0,0,0,0.35)]
-                transition-all duration-500
-                hover:-translate-y-1 hover:shadow-[0_15px_60px_rgba(34,197,94,0.45)]"
-            >
-              <span className="absolute inset-0 bg-gradient-to-r from-green-400/0 via-green-400/40 to-green-400/0 opacity-0 group-hover:opacity-100 transition duration-500"></span>
-
-              <Phone size={20} className="relative z-10" />
-              <span className="relative z-10 tracking-wide">
-                Call Now
-              </span>
-            </a>
-
-            {/* WHATSAPP BUTTON */}
-            <a
-              href="https://wa.me/919491008380"
-              className="relative group overflow-hidden
-                flex items-center justify-center gap-3
-                px-5 py-2 rounded-2xl
-                font-semibold text-white
-                backdrop-blur-xl
-                border border-white/20
-                bg-white/10
-                shadow-[0_10px_40px_rgba(0,0,0,0.35)]
-                transition-all duration-500
-                hover:-translate-y-1 hover:shadow-[0_15px_60px_rgba(16,185,129,0.45)]"
-            >
-              <span className="absolute inset-0 bg-gradient-to-r from-emerald-400/0 via-emerald-400/40 to-emerald-400/0 opacity-0 group-hover:opacity-100 transition duration-500"></span>
-
-              <MessageCircle size={20} className="relative z-10" />
-              <span className="relative z-10 tracking-wide">
-                WhatsApp
-              </span>
-            </a>
-
-          </div>
-        </div>
-      </section>
-
-      {/* ================= IMAGE + TRUST SECTION ================= */}
-
-      <div className="relative bg-white md:bg-[#f1f5f9] md:w-[75%] -mt-[15px] md:-mt-[65px] p-4 md:p-6 rounded-2xl md:rounded-none shadow-xl mx-auto">
-
-        <div className="relative w-full md:w-[100%] h-[300px] md:h-[350px] rounded-xl overflow-hidden shadow-2xl mx-auto">
-
-          {/* Image */}
-          <Image
-            src={grassImage + "?v=" + separator(page.slug)}
-            alt={`Artificial grass turf installation in ${page.location}`}
-            title={`Best artificial grass near me in ${page.location}`}
-            fill
-            className="object-cover transition-transform duration-700 hover:scale-105"
-            priority
+    <BrandedServiceLayout
+      scripts={
+        <>
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: jsonLd,
+            }}
           />
-        </div>
 
-        {/* ICONS SECTION */}
-        <div
-          className="
-            relative md:absolute
-            md:bottom-6 md:left-1/2 md:-translate-x-1/2
-            mt-4 md:mt-0
-            w-full md:w-auto
-            px-4 py-4 md:px-8
-            text-center
-            md:bg-black/20 
-            md:rounded-full
-            md:shadow-xl
-          "
-        >
-
-          <div
-            className="
-              grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3
-              gap-6 md:gap-10
-              items-center
-            "
-          >
-
-            {/* DURABILITY */}
-            <div className="flex flex-col items-center">
-              <Handshake className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
-              <p className="text-gray-900 md:text-white text-sm md:text-[13px] font-semibold">
-                10+ years durability & weather-resistant turf
-              </p>
-            </div>
-
-            {/* QUALITY */}
-            <div className="flex flex-col items-center">
-              <Award className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
-              <p className="text-gray-900 md:text-white text-sm md:text-[13px] font-semibold">
-                Natural look, soft feel & UV protected grass
-              </p>
-            </div>
-
-            {/* INSTALLATION */}
-            <div className="flex flex-col items-center">
-              <ShieldCheck className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
-              <p className="text-gray-900 md:text-white text-xs md:text-[13px] font-semibold max-w-[220px]">
-                Expert installation for balcony, terrace & gardens
-              </p>
-            </div>
-
-          </div>
-
-        </div>
-      </div>
-
-      {/* ================= BREADCRUMBS ================= */}
-
-      <div className="max-w-6xl mx-auto px-6 py-4 text-sm text-gray-600">
-
-        <Link href="/" className="hover:underline">
-          Home
-        </Link>
-
-        {" > "}
-
-        <Link
-          href="/services/artificial-grass-turf"
-          className="hover:underline"
-        >
-          Artificial grass turf
-        </Link>
-
-        {" > "}
-        {page.location}
-      </div>
-            {/* ================= CONTENT SECTIONS ================= */}
-
-      <section className="max-w-6xl mx-auto px-6 py-10 space-y-12">
-
-        {page.sections.map((section: any, index: number) => (
-
-          <div key={index}>
-            <div>
-              <h2 className="text-2xl font-bold mb-4 text-green-900">
-                {section.heading}
-              </h2>
-
-              <div className="w-[100%] h-[1px] bg-black/10 mb-3 rounded-full"></div>
-            </div>
-
-            {/* CONDITIONAL IMAGE */}
-            {section.heading.includes("Artificial Grass Turf Price near me in") && (
-
-              <div className="relative w-full h-[260px] md:h-[320px] my-6 rounded-xl overflow-hidden">
-
-                <Image
-                  src={`${inProductImage}?v=grass-${separator(page.slug)}-hyderabad`}
-                  alt={`Artificial grass installation near me ${page.location}`}
-                  title={`Best artificial grass near me in ${page.location}`}
-                  fill
-                  className="object-cover transition-transform duration-700 hover:scale-105"
-                  priority
-                />
-
-              </div>
-            )}
-
-            {/* CONTENT */}
-            {Array.isArray(section.content) ? (
-
-              <ul className="list-disc ml-6 space-y-2 text-gray-700">
-                {section.content.map((item: string, i: number) => (
-                  <li key={i}>{item}</li>
-                ))}
-              </ul>
-
-            ) : (
-
-              <p className="text-gray-700 leading-relaxed">
-                {section.content}
-              </p>
-
-            )}
-
-          </div>
-
-        ))}
-
-      </section>
-
-
-      {/* ================= FAQ SECTION ================= */}
-
-      {/* OLD FAQ DESIGN (COMMENTED — NOT REMOVED) */}
-
-      {/*
-      <section className="bg-white py-12">
-
-        <div className="max-w-5xl mx-auto px-6">
-
-          <h2 className="text-3xl font-bold mb-8 text-center">
-            Frequently Asked Questions
-          </h2>
-
-          <div className="space-y-4">
-
-            {page.faqs.map((faq:any, i:number)=>(
-
-              <details
-                key={i}
-                className="border rounded-lg p-4 group cursor-pointer"
-              >
-
-                <summary className="font-semibold text-gray-900">
-                  {faq.question}
-                </summary>
-
-                <p className="mt-3 text-gray-700">
-                  {faq.answer}
-                </p>
-
-              </details>
-
-            ))}
-
-          </div>
-
-        </div>
-
-      </section>
-      */}
-
-      {/* NEW FAQ COMPONENT */}
-      <FAQSection faqs={page.faqs} />
-
-
-      {/* ================= NEARBY LOCATIONS ================= */}
-
-      {/* OLD VERSION (COMMENTED — SAME STRUCTURE KEPT) */}
-
-      {/*
-      <section className="py-12 bg-gray-100">
-
-        <div className="max-w-6xl mx-auto px-6">
-
-          <h2 className="text-2xl font-bold mb-6">
-            Artificial Grass Installation Near {page.location}
-          </h2>
-
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-
-            {page.sections
-              .find((s:any)=>s.heading==="Nearby Areas We Serve")
-              ?.content.map((loc:string,i:number)=>{
-
-                const slug = loc
-                  .replace("Artificial grass installation available in ","")
-                  .toLowerCase()
-                  .replace(/\s/g,"-")
-
-                return (
-
-                  <Link
-                    key={i}
-                    href={`/artificial-grass-turf/${slug}`}
-                    className="bg-white p-4 rounded-lg shadow hover:shadow-lg text-center text-green-600 font-medium"
-                  >
-                    {loc.replace("Artificial grass installation available in ","")}
-                  </Link>
-
-                )
-
-              })}
-
-          </div>
-
-        </div>
-
-      </section>
-      */}
-
-
-      {/* ================= MAP SECTION ================= */}
-
-      <MapSection area={page.location} />
-
-
-      {/* ================= NEARBY SERVICES ================= */}
-
-      <NearbyServiceSection page={page} />
-
-
-      {/* ================= CTA SECTION ================= */}
-
-      <section className="bg-[#2f5d3a] text-white py-14">
-
-        <div className="max-w-5xl mx-auto px-6 text-center">
-
-          <h2 className="text-3xl font-bold mb-4">
-            Need Artificial Grass Turf in {page.location}?
-          </h2>
-
-          <p className="mb-6">
-            Transform your balcony, terrace or garden with lush green artificial grass.
-            Enjoy low maintenance, long-lasting beauty and a natural look all year round.
-            Contact us today for expert installation.
-          </p>
-
-          <a
-            href="/contact-us"
-            className="bg-white text-green-700 px-8 py-4 rounded-lg font-semibold"
-          >
-            Get Free Quote
-          </a>
-
-        </div>
-
-      </section>
-
-
-      {/* ================= LOCATION SCROLLER ================= */}
-
-      <LocationScroller service="artificial-grass-turf" />
-
-    </main>
-  );
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "Service",
+                name: resolvedPage.title,
+                areaServed: resolvedPage.location,
+                additionalProperty: {
+                  "@type": "PropertyValue",
+                  name: "Location Authority Score",
+                  value: page.authorityScore ?? 95,
+                },
+              }),
+            }}
+          />
+        </>
+      }
+      title={resolvedPage.title}
+      description={resolvedPage.shortDescription}
+      backgroundImage={grassImage}
+      showcaseImage={`${grassImage}?v=${separator(page.slug)}`}
+      showcaseImageAlt={`${serviceName} installation in ${resolvedPage.location}`}
+      showcaseImageTitle={`${serviceName} in ${resolvedPage.location}`}
+      detailImage={`${inProductImage}?v=detail-${separator(page.slug)}-hyderabad-telangana`}
+      detailImageAlt={`${serviceName} installation near ${resolvedPage.location}`}
+      detailImageTitle={`${serviceName} near me in ${resolvedPage.location}`}
+      serviceName={serviceName}
+      location={resolvedPage.location}
+      serviceHref={`/services/${serviceSlug}`}
+      serviceLabel={
+        customPage?.layoutPropsPassedToBrandedServiceLayout?.serviceLabel ??
+        `${serviceName} in ${resolvedPage.location}`
+      }
+      showcaseBadge={
+        customPage?.layoutPropsPassedToBrandedServiceLayout?.showcaseBadge ??
+        `${serviceName} Experts`
+      }
+      chips={
+        customPage?.layoutPropsPassedToBrandedServiceLayout?.chips ?? [
+          serviceName,
+          "Modern Safety",
+          "Weather Resistant",
+          "Professional Installation",
+        ]
+      }
+      sections={resolvedPage.sections}
+      breadcrumbs={
+        customPage?.layoutPropsPassedToBrandedServiceLayout?.breadcrumbs ?? [
+          { label: "Home", href: "/" },
+          { label: serviceName, href: `/services/${serviceSlug}` },
+          { label: resolvedPage.location },
+        ]
+      }
+      ctaTitle={
+        customPage?.layoutPropsPassedToBrandedServiceLayout?.ctaTitle ??
+        `Need ${serviceName} in ${resolvedPage.location}?`
+      }
+      ctaDescription={
+        customPage?.layoutPropsPassedToBrandedServiceLayout?.ctaDescription ??
+        `Contact Rohini Invisible Grills today for professional installation, premium materials, and a free site visit in ${resolvedPage.location}.`
+      }
+      afterContent={
+        <>
+          <MapSection area={resolvedPage.location} />
+          <RelatedServices serviceSlug={serviceSlug} />
+          <FAQSection faqs={resolvedPage.faqs} />
+          <LocationScroller service={serviceSlug} />
+        </>
+      }
+    />
+  )
 }
+

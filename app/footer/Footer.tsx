@@ -1,17 +1,7 @@
 import Link from "next/link";
 import { Phone, Mail, MapPin } from "lucide-react";
 import { hyderabadLocations } from "../components/constants/locations";
-
-/* ---------------- SERVICES ---------------- */
-
-export const services = [
-  { title: "Invisible Grills", slug: "invisible-grills" },
-  { title: "Balcony Safety Invisible Grills", slug: "balcony-safety-invisible-grills" },
-  { title: "Anti Bird Invisible Grills", slug: "anti-bird-invisible-grills" },
-  { title: "Sports Nets", slug: "sports-nets" },
-  { title: "Invisible Grills for Windows", slug: "invisible-grills-for-windows" },
-  { title: "Children Safety Invisible Grills", slug: "children-safety-invisible-grills" },
-];
+import { services as footerServices } from "../components/constants/services";
 
 /* ---------------- AREAS ---------------- */
 
@@ -45,7 +35,7 @@ export default function Footer() {
           </h4>
 
           <ul className="space-y-2 text-sm">
-            {services.map((service) => (
+            {footerServices.map((service) => (
               <li key={service.slug}>
                 <Link
                   href={`/services/${service.slug}`}

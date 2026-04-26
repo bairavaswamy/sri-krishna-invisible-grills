@@ -302,7 +302,32 @@ export const hyderabadLocations = [
   "Trimulgherry",
   "Mettuguda",
   "Tarnaka X Roads",
-  "Secunderabad Cantonment"
+  "Secunderabad Cantonment",
+  "My Home Bhooja",
+  "My Home Avatar",
+  "My Home Mangala",
+  "My Home Vihanga",
+  "Prestige High Fields",
+  "Prestige Ivy League",
+  "Aparna Sarovar",
+  "Aparna CyberZon",
+  "Aparna Kanopy",
+  "Aparna Zenon",
+  "Aparna Serene Park",
+  "Aparna Elixir",
+  "Ramky One Kosmos",
+  "Ramky Towers",
+  "Lansum Etania",
+  "DSR Fortune Prime",
+  "SMR Vinay City",
+  "Indis One City",
+  "Golf Edge",
+  "Lodha Meridian",
+  "Jayabheri Orange County",
+  "Jayabheri Silicon County",
+  "Vertex Panache",
+  "Vertex Homes",
+  "Sri Aditya Athena"
 ];
 
 export const bangaloreLocations = [

@@ -1,79 +1,51 @@
-"use client";
+"use client"
 
-import Link from "next/link";
-import { useEffect, useRef } from "react";
-import { hyderabadLocations } from "./constants/locations";
-import { slugify } from "./seo/utils";
-import {hyderabadOtherLocations} from "./data/telangana"
+import Link from "next/link"
+import { MapPin } from "lucide-react"
+import { topLocationsByService } from "./constants/internalLinking"
+import { searchLocationsByService } from "./constants/searchData"
+import { slugify } from "./seo/utils"
 
 type Props = {
-  service: string;
-};
-
-const locations = [...hyderabadLocations , ...hyderabadOtherLocations]
-
+  service: string
+}
 
 export default function LocationScroller({ service }: Props) {
-  const scrollRef = useRef<HTMLDivElement>(null);
+  const locations =
+    topLocationsByService[service] ??
+    (searchLocationsByService[service] ?? []).slice(0, 12)
 
-  // ✅ Auto Scroll Logic
-  useEffect(() => {
-    const container = scrollRef.current;
-    if (!container) return;
-
-    let animationFrame: number;
-
-    const autoScroll = () => {
-      container.scrollLeft += 0.5; // speed
-
-      // infinite loop effect
-      if (
-        container.scrollLeft >=
-        container.scrollWidth - container.clientWidth
-      ) {
-        container.scrollLeft = 0;
-      }
-
-      animationFrame = requestAnimationFrame(autoScroll);
-    };
-
-    animationFrame = requestAnimationFrame(autoScroll);
-
-    return () => cancelAnimationFrame(animationFrame);
-  }, []);
+  if (locations.length === 0) {
+    return null
+  }
 
   return (
-    <div className="w-full pt-4 bg-gradient-to-r from-green-50 via-white to-green-50">
-      <div
-        ref={scrollRef}
-        className="flex gap-5 overflow-x-auto scrollbar-hide px-4"
-      >
-        {[...locations, ...locations].map(
-          (location, index) => (
+    <section className="max-w-6xl mx-auto px-6 py-10">
+      <div className="rounded-[28px] border border-green-100 bg-gradient-to-r from-green-50 via-white to-emerald-50 p-6 shadow-sm">
+        <div className="flex items-center gap-3">
+          <MapPin className="text-green-600" size={20} />
+          <div>
+            <p className="text-sm font-semibold uppercase tracking-[0.18em] text-green-700">
+              Popular Areas We Serve
+            </p>
+            <h2 className="mt-1 text-2xl font-bold text-slate-900">
+              Explore this service in top locations
+            </h2>
+          </div>
+        </div>
+
+        <div className="mt-6 flex flex-wrap gap-3">
+          {locations.map((location) => (
             <Link
-              key={index}
+              key={`${service}-${location}`}
               href={`/${service}/${slugify(location)}`}
-              className="
-                whitespace-nowrap
-                px-7 py-3
-                rounded-full
-                font-semibold
-                text-gray-800
-                bg-gradient-to-br from-white to-green-100
-                border border-green-200
-                shadow-md
-                hover:scale-105
-                hover:bg-green-600
-                hover:text-yellow-600
-                hover:shadow-xl
-                transition-all duration-300
-              "
+              className="rounded-full border border-green-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-green-400 hover:bg-green-600 hover:text-white"
             >
               {location}
             </Link>
-          )
-        )}
+          ))}
+        </div>
       </div>
-    </div>
-  );
+    </section>
+  )
 }

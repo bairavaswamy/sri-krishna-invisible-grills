@@ -1,3 +1,5 @@
+import { services } from "../constants/services";
+
 export function createSeed(location: string) {
   return location
     .split("")
@@ -65,11 +67,18 @@ return {
 }
 
 export function generateBreadcrumb(location: string, slug: string) {
-
-return {
-"@context":"https://schema.org",
-"@type":"BreadcrumbList",
-"itemListElement":[
+const cleanSlug = slug.replace(/^\/+|\/+$/g, "");
+const segments = cleanSlug.split("/").filter(Boolean);
+const isServiceHub = segments[0] === "services";
+const serviceSlug = isServiceHub ? segments[1] : segments[0];
+const service = services.find((item) => item.slug === serviceSlug);
+const serviceTitle = service
+  ? service.title
+  : serviceSlug
+      ?.split("-")
+      .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+      .join(" ");
+const itemListElement = [
 {
 "@type":"ListItem",
 "position":1,
@@ -79,16 +88,33 @@ return {
 {
 "@type":"ListItem",
 "position":2,
-"name":"Invisible Grills Locations",
-"item":"https://rohiniinvisiblegrills.com/invisible-grills"
-},
-{
+"name":"Services",
+"item":"https://rohiniinvisiblegrills.com/services"
+}
+];
+
+if (serviceSlug && serviceTitle) {
+itemListElement.push({
 "@type":"ListItem",
 "position":3,
-"name":location,
-"item":"https://rohiniinvisiblegrills.com/"+slug
+"name":serviceTitle,
+"item":"https://rohiniinvisiblegrills.com/services/"+serviceSlug
+});
 }
-]
+
+if (!isServiceHub && serviceSlug && serviceTitle) {
+itemListElement.push({
+"@type":"ListItem",
+"position":4,
+"name":`${serviceTitle} in ${location}`,
+"item":"https://rohiniinvisiblegrills.com/"+cleanSlug
+});
+}
+
+return {
+"@context":"https://schema.org",
+"@type":"BreadcrumbList",
+"itemListElement":itemListElement
 }
 
 }

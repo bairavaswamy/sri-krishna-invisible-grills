@@ -1,32 +1,43 @@
 import Link from "next/link";
-import { hyderabadLocations } from "../../components/constants/locations";
-import { locationHash, slugify, locationImages, createGrillSeed, locationImagesForAntiBirdInvisibleGrills, BalconySafetyAntiBirdInvisibleGrills, } from "../../components/seo/utils";
-import NearbyServiceSection from "../../components/NearbyAreas";
-import { Phone, MessageCircle, Plus, Minus } from "lucide-react";
 import Image from "next/image";
+import type { Metadata } from "next";
+import {
+  ArrowRight,
+  Award,
+  Building2,
+  CheckCircle2,
+  Handshake,
+  MapPin,
+  MessageCircle,
+  Phone,
+  ShieldCheck,
+  Sparkles,
+} from "lucide-react";
+import { hyderabadLocations } from "../../components/constants/locations";
+import {
+  BalconySafetyAntiBirdInvisibleGrills,
+  createGrillSeed,
+  locationImagesForAntiBirdInvisibleGrills,
+  slugify,
+} from "../../components/seo/utils";
 import FAQSection from "../../balcony-safety-invisible-grills/[slug]/Faqs";
-import { Handshake, Award, ShieldCheck } from "lucide-react";
-// import { Poppins, Inter } from "next/font/google";
 import { services } from "../../components/constants/services";
 import { generateAntiBirdInvisibleGrillservice } from "../../components/seo/antiBirdInvisibleGrillsGenerator";
 import LocationScroller from "../../components/LocationsWeServe";
 import { buildSchemaGraph } from "../../components/schema/combineSchema";
-import {hyderabadOtherLocations} from "../../components/data/telangana";
+import { hyderabadOtherLocations } from "../../components/data/telangana";
 import { getGeo } from "../../components/utils/getGeo";
-import {generateLocationKeywords} from "../../components/seo/keywordGenerator"
-import type { Metadata } from "next";
 import MapSection from "../../components/maps/geoMap";
-import ProductsSection from "../../components/similarProducts/ProductSection";
+import BrandedServiceLayout from "../../components/BrandedServiceLayout";
+import RelatedServices from "../../components/RelatedServices";
+import { getServiceLocationPageContent } from "../../components/data/serviceLocationPageContent";
 
 export async function generateMetadata({
   params,
 }: {
   params: { slug: string };
 }): Promise<Metadata> {
-
-  const location = locations.find(
-    (loc) => slugify(loc) === params.slug
-  );
+  const location = locations.find((loc) => slugify(loc) === params.slug);
 
   if (!location) {
     return {
@@ -36,66 +47,58 @@ export async function generateMetadata({
     };
   }
 
+  const customPage = getServiceLocationPageContent(
+    "anti-bird-invisible-grills",
+    slugify(location)
+  );
+
   const page = generateAntiBirdInvisibleGrillservice(
     location,
     locations,
     locations.indexOf(location)
   );
 
-  const geo = getGeo(params.slug)
-
+  const geo = getGeo(params.slug);
   const url = `https://rohiniinvisiblegrills.com/anti-bird-invisible-grills/${params.slug}`;
-
   const image = getLocationImage(location);
-
-  /* =========================
-     ADVANCED SEO VARIABLES
-  ========================== */
-
   const primaryKeyword = `Anti Bird Invisible Grills in ${location}`;
-   const autokeywords = generateLocationKeywords(
-    location,
-    locations
-  );
-  const title =
-    `${primaryKeyword} | Pigeon Safety Nets & Balcony Protection | Rohini Invisible Grills`;
 
-  const description =
-    `Looking for anti bird invisible grills in ${location}? Professional pigeon safety net & balcony protection installation near you. 15+ years experience, ISO quality materials, expert installation, affordable price & free site visit in ${location}. Call Rohini Invisible Grills today.`;
+  const title = `${primaryKeyword} | Pigeon Safety Nets & Balcony Protection | Rohini Invisible Grills`;
 
-  /* =========================
-     METADATA RETURN
-  ========================== */
+  const description = `Looking for anti bird invisible grills in ${location}? Professional pigeon safety net & balcony protection installation near you. 15+ years experience, ISO quality materials, expert installation, affordable price & free site visit in ${location}. Call Rohini Invisible Grills today.`;
+
+  const metadataTitle = customPage?.metadata?.title
+    ? {
+        default: customPage.metadata.title.default,
+        template:
+          customPage.metadata.title.template ?? "%s | Rohini Invisible Grills",
+      }
+    : {
+        default: title,
+        template: "%s | Rohini Invisible Grills",
+      };
 
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
-
-    title: {
-      default: title,
-      template: "%s | Rohini Invisible Grills",
-    },
-
-    description,
-
-   keywords: Array.from(new Set([
-  // ...autokeywords,
-  primaryKeyword,
-  `Anti bird nets ${location}`,
-  `Invisible grills ${location}`,
-  `Bird protection balcony ${location}`,
-  `Pigeon nets installation ${location}`,
-  `Balcony safety grills ${location}`,
-  `Anti bird invisible grills near me`,
-  `Anti bird invisible grills Telangana`,
-  "Rohini Invisible Grills",
-])).slice(0, 30),
-
+    title: metadataTitle,
+    description: customPage?.metadata?.description ?? description,
+    keywords: customPage?.metadata?.keywords ?? Array.from(
+      new Set([
+        primaryKeyword,
+        `Anti bird nets ${location}`,
+        `Invisible grills ${location}`,
+        `Bird protection balcony ${location}`,
+        `Pigeon nets installation ${location}`,
+        `Balcony safety grills ${location}`,
+        `Anti bird invisible grills near me`,
+        `Anti bird invisible grills Telangana`,
+        "Rohini Invisible Grills",
+      ])
+    ).slice(0, 30),
     alternates: {
-      canonical: url,
+      canonical: customPage?.metadata?.canonical ?? url,
     },
-
-    category: "Bird Control",
-
+    category: customPage?.metadata?.category ?? "Bird Control",
     robots: {
       index: true,
       follow: true,
@@ -107,11 +110,10 @@ export async function generateMetadata({
         "max-video-preview": -1,
       },
     },
-
     openGraph: {
-      title,
-      description,
-      url,
+      title: customPage?.metadata?.openGraph?.title ?? title,
+      description: customPage?.metadata?.openGraph?.description ?? description,
+      url: customPage?.metadata?.openGraph?.url ?? url,
       siteName: "Rohini Invisible Grills",
       locale: "en_IN",
       type: "website",
@@ -124,55 +126,37 @@ export async function generateMetadata({
         },
       ],
     },
-
     twitter: {
       card: "summary_large_image",
-      title,
-      description,
+      title: customPage?.metadata?.twitter?.title ?? title,
+      description: customPage?.metadata?.twitter?.description ?? description,
       images: [image],
     },
-
     other: {
-  "geo.region": geo.region,
-  "geo.placename": location,
-  "geo.position": `${geo.lat};${geo.lng}`,
-  ICBM: `${geo.lat}, ${geo.lng}`,
-},
+      "geo.region": geo.region,
+      "geo.placename": location,
+      "geo.position": `${geo.lat};${geo.lng}`,
+      ICBM: `${geo.lat}, ${geo.lng}`,
+    },
   };
 }
 
-
-
-
-//  const headingFont = Poppins({
-//   subsets: ["latin"],
-//   weight: ["500", "600", "700"],
-//   variable: "--font-heading"
-// });
-
-//  const bodyFont = Inter({
-//   subsets: ["latin"],
-//   weight: ["400", "500"],
-//   variable: "--font-body"
-// });
-
-const locations = [...hyderabadLocations , ...hyderabadOtherLocations]
+const locations = [...hyderabadLocations, ...hyderabadOtherLocations];
 
 const separator = (service: string): string => {
   const parts = service.split("/");
 
-  if (parts.length < 2) return service; // safety fallback
+  if (parts.length < 2) return service;
 
   return `${parts[0]}in${parts[1]}`;
 };
-
 
 export async function generateStaticParams() {
   return services.flatMap((service) =>
     locations.map((location) => ({
       service: service?.slug,
       location: slugify(location),
-      slug: slugify(location)
+      slug: slugify(location),
     }))
   );
 }
@@ -185,7 +169,7 @@ interface Section {
 function seededRandom(seed: number) {
   return function () {
     seed |= 0;
-    seed = (seed + 0x6D2B79F5) | 0;
+    seed = (seed + 0x6d2b79f5) | 0;
 
     let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
     t ^= t + Math.imul(t ^ (t >>> 7), 61 | t);
@@ -194,463 +178,178 @@ function seededRandom(seed: number) {
   };
 }
 
-
 function getLocationImage(location: string) {
-
   const seed = createGrillSeed(location.toLowerCase());
-
   const rand = seededRandom(seed);
-
   const index = Math.floor(rand() * locationImagesForAntiBirdInvisibleGrills.length);
 
   return locationImagesForAntiBirdInvisibleGrills[index];
 }
 
-
 function getLocationImageInProduct(location: string) {
-
   const seed = createGrillSeed(location.toLowerCase());
-
   const rand = seededRandom(seed);
-
   const index = Math.floor(rand() * BalconySafetyAntiBirdInvisibleGrills.length);
 
   return BalconySafetyAntiBirdInvisibleGrills[index];
 }
 
+function asList(content?: string | string[]) {
+  if (!content) return [];
+  return Array.isArray(content) ? content : [content];
+}
 
+function asText(content?: string | string[]) {
+  if (!content) return "";
+  return Array.isArray(content) ? content.join(" ") : content;
+}
 
-// export function getLocationImage(location: string) {
-
-//   const hash = locationHash(location);
-
-//   const index = hash % locationImages.length;
-
-//   return locationImages[index];
-
-// }
-
-
-export default function Page({ params }: { params: { slug: string, sections: Section[]; } }) {
-  const location = locations.find(
-    (loc) => slugify(loc) === params.slug
-  );
+export default function Page({
+  params,
+}: {
+  params: { slug: string; sections: Section[] };
+}) {
+  const location = locations.find((loc) => slugify(loc) === params.slug);
 
   if (!location) {
     return <div>Location not found</div>;
   }
 
-
-  if (!location) return null;
-
-  const invisibleGrillImage = getLocationImage(location || "default location");
-  const inProductImage = getLocationImageInProduct(location || "default location");
-
-  
+  const invisibleGrillImage = getLocationImage(location);
+  const inProductImage = getLocationImageInProduct(location);
 
   const page = generateAntiBirdInvisibleGrillservice(
     location,
     locations,
     locations.indexOf(location)
   );
+  const customPage = getServiceLocationPageContent(
+    "anti-bird-invisible-grills",
+    slugify(location)
+  );
+  const resolvedPage = customPage
+    ? {
+        ...page,
+        location: customPage.resolvedPageData.location,
+        title: customPage.resolvedPageData.title,
+        shortDescription: customPage.resolvedPageData.shortDescription,
+        heroImage: customPage.resolvedPageData.heroImage ?? page.heroImage,
+        category: customPage.resolvedPageData.category,
+        sections: customPage.resolvedPageData.sections,
+        faqs: customPage.resolvedPageData.faqs,
+        breadcrumbs: customPage.resolvedPageData.breadcrumbs,
+        meta: {
+          title: customPage.metadata?.title?.default ?? page.meta.title,
+          description: customPage.metadata?.description ?? page.meta.description,
+          keywords:
+            customPage.metadata?.keywords?.join(", ") ?? page.meta.keywords,
+        },
+      }
+    : page;
 
-  const url = `https://rohiniinvisiblegrills.com/anti-bird-invisible-grills/${slugify(location)}`;
+  const url =
+    customPage?.resolvedPageData.url ??
+    `https://rohiniinvisiblegrills.com/anti-bird-invisible-grills/${slugify(location)}`;
   const serviceName = "Anti Bird Invisible Grills";
   const serviceSlug = "anti-bird-invisible-grills";
-
-  const faqs = page.faqs
-  const galleryImages = [
-    invisibleGrillImage,
-    inProductImage
-  ];
-
-
-  // Build the full schema graph
-  const schemaGraph = buildSchemaGraph(location, url, serviceName, serviceSlug, faqs, galleryImages);
-
-  // Convert to JSON-LD for injecting in the page
+  const faqs = resolvedPage.faqs;
+  const galleryImages = [invisibleGrillImage, inProductImage];
+  const schemaGraph = buildSchemaGraph(
+    location,
+    url,
+    serviceName,
+    serviceSlug,
+    faqs,
+    galleryImages
+  );
   const jsonLd = JSON.stringify(schemaGraph, null, 2);
 
   return (
-
-    <main className="bg-gray-50 min-h-screen">
-
-      {/* Schema */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: jsonLd //JSON.stringify(page.schema)
-        }}
-      />
-
-      {/* Breadcrumb Schema */}
-      {/* <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{
-      __html: JSON.stringify(page.breadcrumbs)
-    }}
-  /> */}
-
-      {/*Location Authority Schema */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Service",
-            name: page.title,
-            areaServed: page.location,
-            additionalProperty: {
-              "@type": "PropertyValue",
-              name: "Location Authority Score",
-              value: page.authorityScore
-            }
-          })
-        }}
-      />
-
-      {/* HERO SECTION */}
-
-      <section className="relative md:h-[400px] py-10 text-white">
-
-        {/* Background Image */}
-        <div
-          className="absolute inset-0 bg-cover bg-center"
-          style={{
-            backgroundImage: `url('${getLocationImage(location || "Hyderabad")}')`
-          }}
-        />
-
-        {/* Gradient Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-r  from-black/70 via-black/60 to-black/50"></div>
-
-        {/* Content */}
-        <div className="relative max-w-6xl mx-auto px-6 text-center md:text-left">
-
-          <h1 className={`text-2xl md:text-3xl font-bold leading-tight mb-6 drop-shadow-lg `}>
-            {page.title}
-          </h1>
-
-          <p className={`text-md md:text-lg max-w-3xl text-gray-200 `}>
-            {page.shortDescription}
-          </p>
-
-          <div className="mt-6 flex flex-col sm:flex-row gap-6 justify-center md:justify-start">
-
-            {/* CALL BUTTON */}
-            <a
-              href="tel:+918790518724"
-              className="relative group overflow-hidden
-                  flex items-center justify-center gap-3
-                  px-5 py-2 rounded-2xl
-                  font-semibold text-white
-                  backdrop-blur-xl
-                  border border-white/20
-                  bg-white/10
-                  shadow-[0_10px_40px_rgba(0,0,0,0.35)]
-                  transition-all duration-500
-                  hover:-translate-y-1 hover:shadow-[0_15px_60px_rgba(255,170,0,0.45)]"
-               >
-
-              {/* Glow layer */}
-              <span className="absolute inset-0 bg-gradient-to-r from-amber-400/0 via-amber-400/40 to-amber-400/0 opacity-0 group-hover:opacity-100 transition duration-500"></span>
-
-              <Phone size={20} className="relative z-10" />
-              <span className="relative z-10 tracking-wide">Call Now</span>
-            </a>
-
-            {/* WHATSAPP BUTTON */}
-            <a
-              href="https://wa.me/919491008380"
-              className="relative group overflow-hidden
-                  flex items-center justify-center gap-3
-                  px-5 py-2 rounded-2xl
-                  font-semibold text-white
-                  backdrop-blur-xl
-                  border border-white/20
-                  bg-white/10
-                  shadow-[0_10px_40px_rgba(0,0,0,0.35)]
-                  transition-all duration-500
-                  hover:-translate-y-1 hover:shadow-[0_15px_60px_rgba(34,197,94,0.45)]"
-            >
-
-              {/* Glow layer */}
-              <span className="absolute inset-0 bg-gradient-to-r from-green-400/0 via-green-400/40 to-green-400/0 opacity-0 group-hover:opacity-100 transition duration-500"></span>
-
-              <MessageCircle size={20} className="relative z-10" />
-              <span className="relative z-10 tracking-wide">WhatsApp</span>
-            </a>
-
-          </div>
-
-        </div>
-
-      </section>
-      <div className="relative bg-white md:bg-[#f1f5f9] md:w-[75%] -mt-[15px] md:-mt-[65px] p-4 md:p-6 rounded-2xl md:rounded-none shadow-xl mx-auto">
-
-        <div className="relative w-full md:w-[100%] h-[300px] md:h-[350px] rounded-xl overflow-hidden shadow-2xl mx-auto">
-
-          {/* Image */}
-          <Image
-            src={invisibleGrillImage + "?v=" + separator(page.slug)}
-            alt={`Anti Bird Invisible grill installation in ${page.location}`}
-            title={`Anti bird Invisible grills near me in ${page.location}`}
-            fill
-            className="object-cover transition-transform duration-700 hover:scale-105"
-            priority
+    <BrandedServiceLayout
+      scripts={
+        <>
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: jsonLd,
+            }}
           />
 
-        </div>
-
-        {/* Icons Section */}
-        <div
-          className="
-    relative md:absolute
-    md:bottom-6 md:left-1/2 md:-translate-x-1/2
-    mt-4 md:mt-0
-    w-full md:w-auto
-    px-4 py-4 md:px-8
-    text-center
-
-    md:bg-black/20 
-    md:rounded-full
-    md:shadow-xl
-  "
-        >
-          <div
-            className="
-      grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3
-      gap-6 md:gap-10
-      items-center
-      "
-          >
-
-            {/* Trusted Homes */}
-            <div className="flex flex-col items-center">
-              <Handshake className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
-              <p className="text-gray-900 md:text-white text-sm md:text-[13px] font-semibold">
-                15,300+ Trusted Homes & 15 years warranty.
-              </p>
-            </div>
-
-            {/* Quality */}
-            <div className="flex flex-col items-center">
-              <Award className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
-              <p className="text-gray-900 md:text-white text-sm md:text-[13px] font-semibold">
-                ISO Certified Quality & Best quality invisible grills
-              </p>
-            </div>
-
-            {/* Experience */}
-            <div className="flex flex-col items-center">
-              <ShieldCheck className="w-8 h-8 md:w-10 md:h-10 text-yellow-400 drop-shadow-lg mb-2" />
-              <p className="text-gray-900 md:text-white text-xs md:text-[13px] font-semibold max-w-[220px]">
-                18+ Years Experience & Expert Installation
-              </p>
-            </div>
-
-          </div>
-        </div>
-
-      </div>
-
-
-
-
-      {/* BREADCRUMBS */}
-
-      <div className="max-w-6xl mx-auto px-6 py-4 text-sm text-gray-600">
-
-        <Link href="/" className="hover:underline">Home</Link>
-        {" > "}
-        <Link href="/services/anti-bird-invisible-grills" className="hover:underline">
-          Anti bird invisible grills
-        </Link>
-        {" > "}
-        {page.location}
-
-      </div>
-
-
-      {/* CONTENT SECTIONS */}
-
-      <section className="max-w-6xl mx-auto px-6 py-10 space-y-12">
-
-        {page.sections.map((section: any, index: number) => (
-
-          <div key={index}>
-            <div >
-              <h2 className="text-2xl font-bold mb-4 text-green-900">
-                {section.heading}
-              </h2>
-              <div className="w-[100%] h-[1px] 
-  
-  bg-black/10
-    mb-3  rounded-full"></div>
-            </div>
-
-            {section.heading.includes("Anti Bird Invisible Grill Price near me in") && (
-              <div className="relative w-full h-[260px] md:h-[320px] my-6 rounded-xl overflow-hidden">
-
-                <Image
-                  src={`${inProductImage}?v=near-me-${separator(page.slug)}-hyderabad-telangana`}
-                  alt={`Anti bird Invisible grill installation near me ${page.location}`}
-                  title={`Anti bird Invisible grills near me in ${page.location} Hyderabad`}
-                  fill
-                  className="object-cover transition-transform duration-700 hover:scale-105"
-                  priority
-                />
-
-              </div>
-            )}
-
-            {Array.isArray(section.content) ? (
-
-              <ul className="list-disc ml-6 space-y-2 text-gray-700">
-
-                {section.content.map((item: string, i: number) => (
-                  <li key={i}>{item}</li>
-                ))}
-
-              </ul>
-
-            ) : (
-
-              <p className="text-gray-700 leading-relaxed">
-                {section.content}
-              </p>
-
-            )}
-
-          </div>
-
-        ))}
-
-      </section>
-
-
-
-      {/* <ProductsSection title="SIMILAR PRODUCTS AT NEAR BY LOCATION" /> */}
-
-
-      {/* FAQ SECTION */}
-
-      {/* <section className="bg-white py-12">
-
-  <div className="max-w-5xl mx-auto px-6">
-
-  <h2 className="text-3xl font-bold mb-8 text-center">
-  Frequently Asked Questions
-  </h2>
-
-  <div className="space-y-4">
-
-  {page.faqs.map((faq:any, i:number)=>(
-  
-  <details
-  key={i}
-  className="border rounded-lg p-4 group cursor-pointer"
-  >
-
-  <summary className="font-semibold text-gray-900">
-  {faq.question}
-  </summary>
-
-  <p className="mt-3 text-gray-700">
-  {faq.answer}
-  </p>
-
-  </details>
-
-  ))}
-
-  </div>
-
-  </div>
-
-  </section> */}
-
-      <FAQSection faqs={page.faqs} />
-
-
-      {/* NEARBY LOCATIONS */}
-
-      {/* <section className="py-12 bg-gray-100">
-
-  <div className="max-w-6xl mx-auto px-6">
-
-  <h2 className="text-2xl font-bold mb-6">
-  Invisible Grill Installation Near {page.location}
-  </h2>
-
-  <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-
-  {page.sections
-  .find((s:any)=>s.heading==="Nearby Areas We Serve")
-  ?.content.map((loc:string,i:number)=>{
-
-  const slug = loc
-  .replace("Invisible grill installation available in ","")
-  .toLowerCase()
-  .replace(/\s/g,"-")
-
-  return (
-
-  <Link
-  key={i}
-  href={`/invisible-grills/${slug}`}
-  className="bg-white p-4 rounded-lg shadow hover:shadow-lg text-center text-blue-600 font-medium"
-  >
-  {loc.replace("Invisible grill installation available in ","")}
-  </Link>
-
-  )
-
-  })}
-
-  </div>
-
-  </div>
-
-  </section> */}
-
-  
-  {/* MAP SECTION */}
-
-  <MapSection area={page.location} />
-
-      <NearbyServiceSection page={page} />
-
-
-      {/* CTA */}
-
-      <section className="bg-[#344A6C] text-white py-14">
-
-        <div className="max-w-5xl mx-auto px-6 text-center">
-
-          <h2 className="text-3xl font-bold mb-4">
-            Need Anti bird Invisible Grills in {page.location}?
-          </h2>
-
-          <p className="mb-6">
-            Contact Rohini Invisible Grills today for professional installation.
-            Protect your balcony and keep birds away and Secure Your Balcony with anti bird invisible grills.
-          </p>
-
-          <a
-            href="/contact-us"
-            className="bg-white text-blue-700 px-8 py-4 rounded-lg font-semibold"
-          >
-            Get Free Quote
-          </a>
-
-        </div>
-
-      </section>
-
-      <LocationScroller service="anti-bird-invisible-grills" />
-
-    </main>
-
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "Service",
+                name: resolvedPage.title,
+                areaServed: resolvedPage.location,
+                additionalProperty: {
+                  "@type": "PropertyValue",
+                  name: "Location Authority Score",
+                  value: resolvedPage.authorityScore,
+                },
+              }),
+            }}
+          />
+        </>
+      }
+      title={resolvedPage.title}
+      description={resolvedPage.shortDescription}
+      backgroundImage={invisibleGrillImage}
+      showcaseImage={`${invisibleGrillImage}?v=${separator(resolvedPage.slug)}`}
+      showcaseImageAlt={`${serviceName} installation in ${resolvedPage.location}`}
+      showcaseImageTitle={`${serviceName} in ${resolvedPage.location}`}
+      detailImage={`${inProductImage}?v=detail-${separator(resolvedPage.slug)}-hyderabad-telangana`}
+      detailImageAlt={`${serviceName} installation near ${resolvedPage.location}`}
+      detailImageTitle={`${serviceName} near me in ${resolvedPage.location}`}
+      serviceName={serviceName}
+      location={resolvedPage.location}
+      serviceHref={`/services/${serviceSlug}`}
+      serviceLabel={
+        customPage?.layoutPropsPassedToBrandedServiceLayout?.serviceLabel ??
+        `${serviceName} in ${resolvedPage.location}`
+      }
+      showcaseBadge={
+        customPage?.layoutPropsPassedToBrandedServiceLayout?.showcaseBadge ??
+        customPage?.resolvedPageData.showcaseBadge ??
+        `${serviceName} Experts`
+      }
+      chips={
+        customPage?.layoutPropsPassedToBrandedServiceLayout?.chips ??
+        customPage?.resolvedPageData.chips ?? [
+          serviceName,
+          "Modern Safety",
+          "Weather Resistant",
+          "Professional Installation",
+        ]
+      }
+      sections={resolvedPage.sections}
+      breadcrumbs={[
+        ...(customPage?.layoutPropsPassedToBrandedServiceLayout?.breadcrumbs ??
+          customPage?.resolvedPageData.breadcrumbs ?? [
+            { label: "Home", href: "/" },
+            { label: serviceName, href: `/services/${serviceSlug}` },
+            { label: resolvedPage.location },
+          ]),
+      ]}
+      ctaTitle={
+        customPage?.layoutPropsPassedToBrandedServiceLayout?.ctaTitle ??
+        customPage?.resolvedPageData.cta?.title ??
+        `Need ${serviceName} in ${resolvedPage.location}?`
+      }
+      ctaDescription={
+        customPage?.layoutPropsPassedToBrandedServiceLayout?.ctaDescription ??
+        customPage?.resolvedPageData.cta?.description ??
+        `Contact Rohini Invisible Grills today for professional installation, premium materials, and a free site visit in ${resolvedPage.location}.`
+      }
+      afterContent={
+        <>
+          <MapSection area={resolvedPage.location} />
+          <RelatedServices serviceSlug={serviceSlug} />
+          <FAQSection faqs={resolvedPage.faqs} />
+          <LocationScroller service={serviceSlug} />
+        </>
+      }
+    />
   )
 }

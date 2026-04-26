@@ -1,50 +1,118 @@
 'use client'
 
-import { useState } from 'react'
-import { FORMSPREE_URL, FORM_NAME } from '../config/form.config'
-import Image from 'next/image'
+import { useState } from "react"
+import Image from "next/image"
+import Link from "next/link"
+import {
+  ArrowRight,
+  Building2,
+  CheckCircle2,
+  Clock3,
+  Mail,
+  MapPin,
+  Phone,
+  ShieldCheck,
+  Sparkles,
+} from "lucide-react"
+import { FORMSPREE_URL, FORM_NAME } from "../config/form.config"
+import { services } from "../components/constants/services"
+import {
+  aprtmentsLocationsfromBengalore,
+  bangaloreLocations,
+} from "../components/constants/locations"
 
-const heroImages = [
-  { src: '/images/invisible-grill.webp?size=200w200h', alt: 'Invisible stainless steel grills closeup' },
-  { src: '/images/stainless-steel-invisible-grill.jpg?size=200w200h', alt: 'Durable stainless-steel invisible grills' },
-  { src: '/images/invisible-grill-for-balcony.webp', alt: 'Anti-bird invisible grills in tellapur hyderabad' },
+const trustPoints = [
+  "17 Years Warranty",
+  "304 Grade Stainless Steel",
+  "Free Site Visit",
+  "Same Day Quotation",
 ]
 
-export default function Contact(){
-  const [formData, setFormData] = useState({
-    name: '',
-    purpose: '',
-    email: '',
-    phone: '',
-    message: '',
-  })
-  const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
-  const [errorMessage, setErrorMessage] = useState('')
+const hyderabadBranches = [
+  {
+    title: "Kokapet Branch",
+    area: "Kokapet, Gandipet",
+    address:
+      "No. 2/92, Frontline Seven Club House, Frontline Seven House, Kokapet, Gandipet, Hyderabad, Telangana 500075",
+  },
+  {
+    title: "Bachupally Branch",
+    area: "Bachupally",
+    address:
+      "862, Lahari Green Park Road, opp. Vignana Jyothi Engineering College, Bachupally, Hyderabad, Telangana 500118",
+  },
+]
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-    const { name, value } = e.target
-    setFormData(prev => ({ ...prev, [name]: value }))
+const bangaloreBusinessAreas = [
+  "Whitefield",
+  "Sarjapur Road",
+  "Electronic City",
+  "HSR Layout",
+  "Bellandur",
+  "Marathahalli",
+  "Hebbal",
+  "Bannerghatta",
+  "JP Nagar",
+  "Koramangala",
+  "Indira Nagar",
+  "Thanisandra",
+  "Yelahanka",
+  "KR Puram",
+  "Hennur Road",
+  "Devanahalli",
+].filter((location) => bangaloreLocations.includes(location))
+
+const bangaloreCommunities = [
+  "Prestige Shantiniketan, Whitefield",
+  "The Prestige City, Sarjapur Road",
+  "Sobha Dream Acres, Panathur",
+  "Prestige Sunrise Park, Electronic City",
+  "Purva Atmosphere, Thanisandra",
+  "Embassy Springs, Devanahalli",
+  "Godrej Air, Whitefield",
+  "Brigade Utopia, Whitefield",
+].filter((community) => aprtmentsLocationsfromBengalore.includes(community))
+
+const heroImage = {
+  src: "/images/invisible-grill-for-balcony.webp",
+  alt: "Invisible grill installation for balcony safety",
+}
+
+export default function Contact() {
+  const [formData, setFormData] = useState({
+    name: "",
+    purpose: "",
+    email: "",
+    phone: "",
+    message: "",
+  })
+  const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle")
+  const [errorMessage, setErrorMessage] = useState("")
+
+  const handleChange = (
+    event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
+  ) => {
+    const { name, value } = event.target
+    setFormData((previous) => ({ ...previous, [name]: value }))
   }
 
-  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault()
-    
-    // Validate required fields
+  const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault()
+
     if (!formData.name || !formData.email || !formData.phone) {
-      setErrorMessage('Please fill in all required fields (Name, Email, Phone)')
-      setStatus('error')
+      setErrorMessage("Please fill in Name, Email, and Phone.")
+      setStatus("error")
       return
     }
 
-    setStatus('loading')
-    setErrorMessage('')
+    setStatus("loading")
+    setErrorMessage("")
 
     try {
-      // Send to Formspree
       const response = await fetch(FORMSPREE_URL, {
-        method: 'POST',
+        method: "POST",
         headers: {
-          'Content-Type': 'application/json',
+          "Content-Type": "application/json",
         },
         body: JSON.stringify({
           name: formData.name,
@@ -57,250 +125,414 @@ export default function Contact(){
         }),
       })
 
-      if (response.ok) {
-        setStatus('success')
-        setFormData({ name: '', purpose: '', email: '', phone: '', message: '' })
-        // Reset success message after 5 seconds
-        setTimeout(() => setStatus('idle'), 5000)
-      } else {
-        throw new Error('Failed to submit form')
+      if (!response.ok) {
+        throw new Error("Failed to submit form")
       }
+
+      setStatus("success")
+      setFormData({
+        name: "",
+        purpose: "",
+        email: "",
+        phone: "",
+        message: "",
+      })
+      setTimeout(() => setStatus("idle"), 5000)
     } catch (error) {
-      setStatus('error')
-      setErrorMessage('Failed to send enquiry. Please try again or contact directly.')
-      console.error('Form submission error:', error)
+      console.error("Form submission error:", error)
+      setStatus("error")
+      setErrorMessage("Failed to send enquiry. Please try again or contact us directly.")
     }
   }
 
   return (
-    <>
-   <section className="max-w-5xl mx-auto text-center py-12 px-4">
-  <h1 className="text-3xl sm:text-4xl font-bold text-gray-800">
-    Invisible Grills in Hyderabad – Safe & Strong
-  </h1>
+    <div className="bg-gradient-to-b from-orange-50 via-white to-amber-50">
+      <section className="relative overflow-hidden">
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,_rgba(251,191,36,0.16),_transparent_36%),radial-gradient(circle_at_bottom_right,_rgba(249,115,22,0.14),_transparent_34%)]" />
 
-  <p className="mt-4 text-gray-600 text-lg">
-    We install premium 304 Grade stainless steel invisible grills for balconies and windows.
-    Our grills protect children and stop birds. They are strong, safe, and look modern.
-  </p>
+        <div className="relative mx-auto grid max-w-7xl gap-10 px-4 py-12 lg:grid-cols-[1.05fr_0.95fr] lg:py-16">
+          <div className="space-y-8">
+            <div className="inline-flex items-center gap-2 rounded-full border border-orange-200 bg-white/80 px-4 py-2 text-sm font-semibold text-orange-600 shadow-sm">
+              <Sparkles size={16} />
+              Hyderabad and Bangalore Enquiries
+            </div>
 
-  <p className="mt-4 text-gray-600">
-    ✔ 17 Years Warranty  
-    ✔ Rust-Free Stainless Steel  
-    ✔ Free Site Visit  
-    ✔ Same Day Quotation  
-  </p>
-</section>
+            <div className="space-y-4">
+              <h1 className="max-w-3xl text-4xl font-extrabold leading-tight text-slate-900 sm:text-5xl">
+                Contact Rohini Invisible Grills for premium balcony, window, and safety solutions.
+              </h1>
 
-              
-        <div id="quote" className='flex gap-4 px-4 bg-orange-100 py-6 rounded-lg shadow-sm flex-col lg:flex-row'>
-        
+              <p className="max-w-2xl text-base leading-8 text-slate-600 sm:text-lg">
+                We install invisible grills, bird protection systems, sports nets, cloth
+                hangers, and artificial turf with a clean modern finish. Reach out for
+                site visits in Hyderabad and for service enquiries across key Bangalore
+                business locations.
+              </p>
+            </div>
 
-            <div className="block sm:hidden bg-white border rounded-lg p-6 shadow-sm">
-            <h3 className="text-xl font-semibold mb-3">Contact Us</h3>
-            <form className="grid grid-cols-1 sm:grid-cols-2 gap-4" onSubmit={handleSubmit}>
-                <input 
-                name="name" 
-                placeholder="Name *" 
-                className="border rounded px-3 py-2 focus:outline-none focus:border-primary" 
+            <div className="flex flex-wrap gap-3">
+              {trustPoints.map((point) => (
+                <div
+                  key={point}
+                  className="inline-flex items-center gap-2 rounded-full border border-amber-200 bg-white px-4 py-2 text-sm font-medium text-slate-700 shadow-sm"
+                >
+                  <CheckCircle2 size={16} className="text-orange-500" />
+                  {point}
+                </div>
+              ))}
+            </div>
+
+            <div className="grid gap-4 sm:grid-cols-3">
+              <div className="rounded-3xl border border-orange-100 bg-white p-5 shadow-sm">
+                <p className="text-sm font-semibold uppercase tracking-[0.18em] text-orange-500">
+                  Call Us
+                </p>
+                <p className="mt-3 text-lg font-bold text-slate-900">+91 8790518724</p>
+                <p className="mt-1 text-sm text-slate-500">+91 9491008380</p>
+              </div>
+
+              <div className="rounded-3xl border border-orange-100 bg-white p-5 shadow-sm">
+                <p className="text-sm font-semibold uppercase tracking-[0.18em] text-orange-500">
+                  Working Hours
+                </p>
+                <p className="mt-3 text-lg font-bold text-slate-900">Mon - Sun</p>
+                <p className="mt-1 text-sm text-slate-500">9:00 AM to 8:00 PM</p>
+              </div>
+
+              <div className="rounded-3xl border border-orange-100 bg-white p-5 shadow-sm">
+                <p className="text-sm font-semibold uppercase tracking-[0.18em] text-orange-500">
+                  Main Office
+                </p>
+                <p className="mt-3 text-lg font-bold text-slate-900">Madhapur & Kondapur</p>
+                <p className="mt-1 text-sm text-slate-500">Hyderabad service coordination</p>
+              </div>
+            </div>
+
+            <div className="rounded-[32px] border border-orange-100 bg-white/90 p-5 shadow-xl shadow-orange-100/60">
+              <div className="grid gap-6 lg:grid-cols-[1fr_0.95fr]">
+                <div className="space-y-4">
+                  <div>
+                    <p className="text-sm font-semibold uppercase tracking-[0.2em] text-orange-500">
+                      Services We Handle
+                    </p>
+                    <h2 className="mt-2 text-2xl font-bold text-slate-900">
+                      Every enquiry can start from one page.
+                    </h2>
+                  </div>
+
+                  <div className="flex flex-wrap gap-2">
+                    {services.map((service) => (
+                      <span
+                        key={service.slug}
+                        className="rounded-full border border-orange-200 bg-orange-50 px-3 py-2 text-sm font-medium text-slate-700"
+                      >
+                        {service.title}
+                      </span>
+                    ))}
+                  </div>
+
+                  <div className="flex flex-wrap gap-3 pt-2">
+                    <a
+                      href="tel:+918790518724"
+                      className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-orange-500 to-amber-500 px-5 py-3 font-semibold text-white shadow-md transition hover:scale-[1.02]"
+                    >
+                      <Phone size={18} />
+                      Call Now
+                    </a>
+
+                    <a
+                      href="https://wa.me/919491008380"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-2 rounded-full border border-green-200 bg-green-50 px-5 py-3 font-semibold text-green-700 transition hover:scale-[1.02]"
+                    >
+                      <ArrowRight size={18} />
+                      WhatsApp Us
+                    </a>
+                  </div>
+                </div>
+
+                <div className="relative min-h-[280px] overflow-hidden rounded-[28px]">
+                  <Image
+                    src={heroImage.src}
+                    alt={heroImage.alt}
+                    fill
+                    className="object-cover"
+                    priority
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-br from-slate-950/70 via-slate-900/30 to-orange-500/25" />
+
+                  <div className="absolute inset-x-5 bottom-5 rounded-[24px] border border-white/20 bg-white/12 p-5 backdrop-blur-md">
+                    <p className="text-sm font-semibold uppercase tracking-[0.2em] text-orange-200">
+                      Built For Modern Homes
+                    </p>
+                    <p className="mt-2 text-lg font-bold text-white">
+                      Strong safety, neat installation, and cleaner balconies for families and apartments.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div id="quote" className="rounded-[34px] border border-orange-100 bg-white p-6 shadow-2xl shadow-orange-100/70 sm:p-8">
+            <div className="mb-6">
+              <p className="text-sm font-semibold uppercase tracking-[0.22em] text-orange-500">
+                Free Quote
+              </p>
+              <h2 className="mt-2 text-3xl font-bold text-slate-900">
+                Tell us what you need.
+              </h2>
+              <p className="mt-2 text-sm leading-7 text-slate-600">
+                Share your location, service requirement, and contact details. Our team
+                will get back with a clear quote and installation guidance.
+              </p>
+            </div>
+
+            <form className="grid grid-cols-1 gap-4 sm:grid-cols-2" onSubmit={handleSubmit}>
+              <input
+                name="name"
+                placeholder="Full Name *"
+                className="rounded-2xl border border-slate-200 px-4 py-3 outline-none transition focus:border-orange-400"
                 value={formData.name}
                 onChange={handleChange}
                 required
-                />
-                <input 
-                name="purpose" 
-                placeholder="Purpose (Invisible Grill / Safety Net / Bird Net)" 
-                className="border rounded px-3 py-2 focus:outline-none focus:border-primary"
-                value={formData.purpose}
-                onChange={handleChange}
-                />
-                <input 
-                name="email" 
-                type="email"
-                placeholder="Email *" 
-                className="border rounded px-3 py-2 focus:outline-none focus:border-primary"
-                value={formData.email}
-                onChange={handleChange}
-                required
-                />
-                <input 
-                name="phone" 
-                placeholder="Phone *" 
-                className="border rounded px-3 py-2 focus:outline-none focus:border-primary"
+              />
+              <input
+                name="phone"
+                placeholder="Phone Number *"
+                className="rounded-2xl border border-slate-200 px-4 py-3 outline-none transition focus:border-orange-400"
                 value={formData.phone}
                 onChange={handleChange}
                 required
-                />
-                <textarea 
-                name="message" 
-                placeholder="Message (optional)" 
-                className="col-span-1 sm:col-span-2 border rounded px-3 py-2 focus:outline-none focus:border-primary"
+              />
+              <input
+                name="email"
+                type="email"
+                placeholder="Email Address *"
+                className="rounded-2xl border border-slate-200 px-4 py-3 outline-none transition focus:border-orange-400"
+                value={formData.email}
+                onChange={handleChange}
+                required
+              />
+              <input
+                name="purpose"
+                placeholder="Service Needed"
+                className="rounded-2xl border border-slate-200 px-4 py-3 outline-none transition focus:border-orange-400"
+                value={formData.purpose}
+                onChange={handleChange}
+              />
+              <textarea
+                name="message"
+                placeholder="Project details, location, apartment name, or branch preference..."
+                rows={5}
+                className="rounded-2xl border border-slate-200 px-4 py-3 outline-none transition focus:border-orange-400 sm:col-span-2"
                 value={formData.message}
                 onChange={handleChange}
-                ></textarea>
-                
-                {/* Status messages */}
-                {status === 'success' && (
-                <div className="col-span-1 sm:col-span-2 p-3 bg-green-100 border border-green-400 rounded text-green-700">
-                    ✓ Enquiry sent successfully! We'll contact you soon.
+              ></textarea>
+
+              {status === "success" && (
+                <div className="rounded-2xl border border-green-200 bg-green-50 px-4 py-3 text-sm text-green-700 sm:col-span-2">
+                  Enquiry sent successfully. Our team will contact you shortly.
                 </div>
-                )}
-                {status === 'error' && (
-                <div className="col-span-1 sm:col-span-2 p-3 bg-red-100 border border-red-400 rounded text-red-700">
-                    ✗ {errorMessage}
+              )}
+
+              {status === "error" && (
+                <div className="rounded-2xl border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700 sm:col-span-2">
+                  {errorMessage}
                 </div>
-                )}
+              )}
 
-                <div className="col-span-1 sm:col-span-2">
-                <button 
-                    type="submit"
-                    disabled={status === 'loading'}
-                    className="bg-primary text-white px-4 py-2 rounded hover:opacity-95 disabled:opacity-50 disabled:cursor-not-allowed"
-                >
-                    {status === 'loading' ? 'Sending...' : 'Send Enquiry'}
-                </button>
-                </div>
-            </form>
-            </div>
-
-            <div className="bg-gradient-to-br from-white to-blue-50 border border-blue-100 sm:block hidden rounded-2xl p-8 shadow-lg">
-
-        <h3 className="text-2xl font-bold mb-6 text-center text-gray-800">
-            Get a Free Quote
-        </h3>
-
-        <form
-            className="grid grid-cols-1 sm:grid-cols-2 gap-5"
-            onSubmit={handleSubmit}
-        >
-            <input
-            name="name"
-            placeholder="Full Name *"
-            className="border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent transition"
-            value={formData.name}
-            onChange={handleChange}
-            required
-            />
-
-            <input
-            name="purpose"
-            placeholder="Purpose (Balcony / Bird Net / Safety)"
-            className="border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent transition"
-            value={formData.purpose}
-            onChange={handleChange}
-            />
-
-            <input
-            name="email"
-            type="email"
-            placeholder="Email Address *"
-            className="border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent transition"
-            value={formData.email}
-            onChange={handleChange}
-            required
-            />
-
-            <input
-            name="phone"
-            placeholder="Phone Number *"
-            className="border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent transition"
-            value={formData.phone}
-            onChange={handleChange}
-            required
-            />
-
-            <textarea
-            name="message"
-            placeholder="Tell us about your requirement..."
-            className="col-span-1 sm:col-span-2 border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent transition resize-none"
-            rows={4}
-            value={formData.message}
-            onChange={handleChange}
-            ></textarea>
-
-            {/* Status messages */}
-            {status === "success" && (
-            <div className="col-span-1 sm:col-span-2 p-4 bg-green-50 border border-green-300 rounded-lg text-green-700 text-sm">
-                ✓ Enquiry sent successfully! Our team will contact you shortly.
-            </div>
-            )}
-
-            {status === "error" && (
-            <div className="col-span-1 sm:col-span-2 p-4 bg-red-50 border border-red-300 rounded-lg text-red-600 text-sm">
-                ✗ {errorMessage}
-            </div>
-            )}
-
-            <div className="col-span-1 sm:col-span-2">
-            <button
+              <button
                 type="submit"
                 disabled={status === "loading"}
-                className="w-full sm:w-auto bg-gradient-to-r from-primary to-blue-600 text-white px-6 py-3 rounded-full font-semibold shadow-md hover:shadow-xl hover:scale-[1.02] transition-all duration-300 disabled:opacity-50 disabled:cursor-not-allowed"
-            >
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-r from-orange-500 to-amber-500 px-6 py-3 font-semibold text-white shadow-lg shadow-orange-200 transition hover:scale-[1.01] disabled:cursor-not-allowed disabled:opacity-50 sm:col-span-2"
+              >
                 {status === "loading" ? "Sending..." : "Send Enquiry"}
-            </button>
+                <ArrowRight size={18} />
+              </button>
+            </form>
+
+            <div className="mt-6 grid gap-3 sm:grid-cols-3">
+              <a
+                href="tel:+918790518724"
+                className="rounded-2xl border border-slate-200 bg-slate-50 px-4 py-4 text-center transition hover:border-orange-300"
+              >
+                <Phone className="mx-auto text-orange-500" size={18} />
+                <p className="mt-2 text-sm font-semibold text-slate-900">Phone</p>
+                <p className="mt-1 text-xs text-slate-500">Talk to our team</p>
+              </a>
+
+              <a
+                href="mailto:info@rohiniinvisiblegrills.com"
+                className="rounded-2xl border border-slate-200 bg-slate-50 px-4 py-4 text-center transition hover:border-orange-300"
+              >
+                <Mail className="mx-auto text-orange-500" size={18} />
+                <p className="mt-2 text-sm font-semibold text-slate-900">Email</p>
+                <p className="mt-1 text-xs text-slate-500">Share drawings and details</p>
+              </a>
+
+              <Link
+                href="/"
+                className="rounded-2xl border border-slate-200 bg-slate-50 px-4 py-4 text-center transition hover:border-orange-300"
+              >
+                <ShieldCheck className="mx-auto text-orange-500" size={18} />
+                <p className="mt-2 text-sm font-semibold text-slate-900">Home</p>
+                <p className="mt-1 text-xs text-slate-500">Explore services</p>
+              </Link>
             </div>
-        </form>
+          </div>
         </div>
-        
-        <div className="h-90 sm:h-90 w-full overflow-hidden relative bg-gray-100 sm:block hidden">
-        <Image
-            src={heroImages[2].src}
-            alt={heroImages[2].alt}
-            fill
-            className="object-cover rounded-lg"
-            priority
-        />
+      </section>
 
-        {/* Dark Gradient Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/40 to-transparent rounded-lg" />
-
-        {/* Center Content */}
-        <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-6">
-            
-            <h2 className="text-3xl sm:text-5xl font-extrabold bg-gradient-to-r from-yellow-400 via-orange-500 to-red-500 bg-clip-text text-transparent drop-shadow-lg">
-            Premium Invisible Grills
-            </h2>
-
-            <p className="mt-4 text-white text-lg sm:text-xl font-medium drop-shadow-md">
-            17 Years Warranty • 304 Grade SS Wire • Child & Bird Safety
+      <section className="mx-auto max-w-7xl px-4 py-6 sm:py-10">
+        <div className="grid gap-6 lg:grid-cols-[0.9fr_1.1fr]">
+          <div className="rounded-[30px] border border-orange-100 bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 p-7 text-white shadow-xl">
+            <p className="text-sm font-semibold uppercase tracking-[0.2em] text-orange-300">
+              Contact Details
+            </p>
+            <h2 className="mt-3 text-3xl font-bold">Hyderabad office support</h2>
+            <p className="mt-3 text-sm leading-7 text-slate-300">
+              For site visits, measurements, and quotations in Hyderabad, our team
+              coordinates from our main office addresses and nearby service branches.
             </p>
 
-        </div>
-        </div>
-            </div>
+            <div className="mt-8 space-y-5">
+              <div className="flex items-start gap-4 rounded-2xl border border-white/10 bg-white/5 p-4">
+                <MapPin className="mt-1 text-orange-300" size={20} />
+                <div>
+                  <p className="font-semibold">Main Office</p>
+                  <p className="mt-1 text-sm text-slate-300">
+                    Door No 5-11, Madhapur, Hyderabad, Telangana 500081
+                  </p>
+                  <p className="mt-2 text-sm text-slate-300">
+                    Plot 398, C Block, Kondapur, Hyderabad, Telangana 500084
+                  </p>
+                </div>
+              </div>
 
-             <div className="max-w-7xl mx-auto px-4 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
-          <div className="bg-white p-6 rounded-xl shadow-md border border-gray-100 flex flex-col items-center text-center">
-            <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mb-4">
-              <svg className="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+              <div className="flex items-start gap-4 rounded-2xl border border-white/10 bg-white/5 p-4">
+                <Phone className="mt-1 text-orange-300" size={20} />
+                <div>
+                  <p className="font-semibold">Phone & WhatsApp</p>
+                  <p className="mt-1 text-sm text-slate-300">+91 8790518724</p>
+                  <p className="mt-1 text-sm text-slate-300">+91 9491008380</p>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-4 rounded-2xl border border-white/10 bg-white/5 p-4">
+                <Clock3 className="mt-1 text-orange-300" size={20} />
+                <div>
+                  <p className="font-semibold">Service Window</p>
+                  <p className="mt-1 text-sm text-slate-300">
+                    Monday to Sunday, 9:00 AM to 8:00 PM
+                  </p>
+                </div>
+              </div>
             </div>
-            <h4 className="text-lg font-bold text-gray-800">Our Location</h4>
-            <p className="text-gray-600 mt-2">Tellapur, Ramachandrapuram, Hyderabad, Telangana 502032</p>
           </div>
 
-          <div className="bg-white p-6 rounded-xl shadow-md border border-gray-100 flex flex-col items-center text-center">
-            <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mb-4">
-              <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
-              </svg>
+          <div className="rounded-[30px] border border-orange-100 bg-white p-7 shadow-lg shadow-orange-100/60">
+            <div className="flex items-center gap-3">
+              <Building2 className="text-orange-500" size={22} />
+              <div>
+                <p className="text-sm font-semibold uppercase tracking-[0.2em] text-orange-500">
+                  Hyderabad Branches
+                </p>
+                <h2 className="mt-1 text-3xl font-bold text-slate-900">
+                  Local branches
+                </h2>
+              </div>
             </div>
-            <h4 className="text-lg font-bold text-gray-800">Call Us</h4>
-            <p className="text-gray-600 mt-2">+91 8790518724<br/>+91 8481008380</p>
+
+            <div className="mt-8 grid gap-5 md:grid-cols-2">
+              {hyderabadBranches.map((branch) => (
+                <div
+                  key={branch.title}
+                  className="rounded-[26px] border border-slate-200 bg-gradient-to-br from-white to-orange-50 p-6"
+                >
+                  <p className="text-sm font-semibold uppercase tracking-[0.18em] text-orange-500">
+                    {branch.area}
+                  </p>
+                  <h3 className="mt-2 text-xl font-bold text-slate-900">{branch.title}</h3>
+                  <p className="mt-4 text-sm leading-7 text-slate-600">{branch.address}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-7xl px-4 py-8 pb-14">
+        <div className="rounded-[34px] border border-orange-100 bg-white p-7 shadow-xl shadow-orange-100/50 sm:p-8">
+          <div className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr]">
+            <div>
+              <p className="text-sm font-semibold uppercase tracking-[0.2em] text-orange-500">
+                Bangalore Reach
+              </p>
+              <h2 className="mt-2 text-3xl font-bold text-slate-900">
+                Bangalore service areas
+              </h2>
+              <p className="mt-4 text-sm leading-7 text-slate-600">
+                We also provide service support for Bangalore projects. If you are
+                looking for invisible grills, anti-bird solutions, sports nets, cloth
+                hangers, or artificial turf in Bangalore, our team can assist across
+                the areas and apartment communities listed below.
+              </p>
+            </div>
+
+            <div className="rounded-[28px] border border-orange-100 bg-gradient-to-br from-orange-50 via-white to-amber-50 p-5">
+              <p className="text-sm font-semibold text-slate-900">
+                Popular Bangalore areas
+              </p>
+              <div className="mt-4 flex flex-wrap gap-2">
+                {bangaloreBusinessAreas.map((location) => (
+                  <span
+                    key={location}
+                    className="rounded-full border border-orange-200 bg-white px-3 py-2 text-sm font-medium text-slate-700"
+                  >
+                    {location}
+                  </span>
+                ))}
+              </div>
+            </div>
           </div>
 
-          <div className="bg-white p-6 rounded-xl shadow-md border border-gray-100 flex flex-col items-center text-center">
-            <div className="w-12 h-12 bg-orange-100 rounded-full flex items-center justify-center mb-4">
-              <svg className="w-6 h-6 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-              </svg>
+          <div className="mt-8 grid gap-6 lg:grid-cols-2">
+            <div className="rounded-[28px] border border-slate-200 bg-slate-50 p-6">
+              <p className="text-sm font-semibold uppercase tracking-[0.18em] text-orange-500">
+                Bangalore localities
+              </p>
+              <div className="mt-4 flex flex-wrap gap-2">
+                {bangaloreBusinessAreas.map((location) => (
+                  <span
+                    key={`area-${location}`}
+                    className="rounded-full bg-white px-3 py-2 text-sm text-slate-700 shadow-sm"
+                  >
+                    {location}
+                  </span>
+                ))}
+              </div>
             </div>
-            <h4 className="text-lg font-bold text-gray-800">Working Hours</h4>
-            <p className="text-gray-600 mt-2">Mon - Sun: 9:00 AM - 8:00 PM</p>
+
+            <div className="rounded-[28px] border border-slate-200 bg-slate-50 p-6">
+              <p className="text-sm font-semibold uppercase tracking-[0.18em] text-orange-500">
+                Bangalore apartment communities
+              </p>
+              <div className="mt-4 flex flex-wrap gap-2">
+                {bangaloreCommunities.map((community) => (
+                  <span
+                    key={community}
+                    className="rounded-full bg-white px-3 py-2 text-sm text-slate-700 shadow-sm"
+                  >
+                    {community}
+                  </span>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
-        </div>
-    </>
+      </section>
+    </div>
   )
 }

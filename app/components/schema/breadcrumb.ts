@@ -1,4 +1,3 @@
-import { slugify } from "../seo/utils";
 export const breadcrumbSchema = (
   serviceName: string,
   serviceSlug: string,
@@ -19,15 +18,15 @@ export const breadcrumbSchema = (
     {
       "@type": "ListItem",
       position: 2,
-      name: "Safety Nets & Invisible Grill Services",
-      item: `https://rohiniinvisiblegrills.com/services/${serviceSlug ? `/${serviceSlug}` : ""}`
+      name: "Services",
+      item: "https://rohiniinvisiblegrills.com/services"
     },
 
     {
       "@type": "ListItem",
       position: 3,
       name: serviceName,
-      item: `https://rohiniinvisiblegrills.com/${serviceSlug}/${slugify(location)}`
+      item: `https://rohiniinvisiblegrills.com/services/${serviceSlug}`
     },
 
     {
