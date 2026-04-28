@@ -1,7 +1,12 @@
 import type { Metadata } from "next";
 import FAQSection from "../../invisible-grills/[slug]/Faqs";
 import { buildSchemaGraph } from "../../components/schema/combineSchema";
-import { generateBreadcrumb, locationAuthorityScore } from "../../components/seo/utils";
+import {
+  compactServiceDescription,
+  compactServiceTitle,
+  generateBreadcrumb,
+  locationAuthorityScore,
+} from "../../components/seo/utils";
 import { getGeo } from "../../components/utils/getGeo";
 import MapSection from "../../components/maps/geoMap";
 import BrandedServiceLayout from "../../components/BrandedServiceLayout";
@@ -21,14 +26,13 @@ export async function generateHyderabadCityServiceMetadata(
   const content = getHyderabadCityServiceContent(serviceSlug);
   const geo = getGeo("hyderabad");
   const url = `https://rohiniinvisiblegrills.com/services/${serviceSlug}`;
+  const title = compactServiceTitle(content.serviceName, location);
+  const description = compactServiceDescription(content.serviceName, location);
 
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
-    title: {
-      default: content.metadataTitle,
-      template: "%s | Rohini Invisible Grills",
-    },
-    description: content.metadataDescription,
+    title,
+    description,
     keywords: Array.from(new Set(content.keywords)).slice(0, 30),
     alternates: {
       canonical: url,
@@ -46,8 +50,8 @@ export async function generateHyderabadCityServiceMetadata(
       },
     },
     openGraph: {
-      title: content.metadataTitle,
-      description: content.metadataDescription,
+      title,
+      description,
       url,
       siteName: "Rohini Invisible Grills",
       locale: "en_IN",
@@ -63,8 +67,8 @@ export async function generateHyderabadCityServiceMetadata(
     },
     twitter: {
       card: "summary_large_image",
-      title: content.metadataTitle,
-      description: content.metadataDescription,
+      title,
+      description,
       images: [content.image],
     },
     other: {

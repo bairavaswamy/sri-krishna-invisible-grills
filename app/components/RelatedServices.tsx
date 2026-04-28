@@ -74,6 +74,7 @@ export default function RelatedServices({ serviceSlug }: Props) {
             <Link
               key={service.slug}
               href={`/services/${service.slug}`}
+              prefetch={false}
               className="group overflow-hidden rounded-[26px] border border-slate-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1.5 hover:border-orange-300 hover:shadow-[0_18px_40px_rgba(15,23,42,0.14)]"
             >
               <div className="relative h-56 overflow-hidden">

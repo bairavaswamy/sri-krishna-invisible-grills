@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { combineBengaloreLocations, hyderabadLocations } from "../../components/constants/locations";
 import { generateService } from "../../components/seo/invisibleGrillsGenerator";
-import { locationHash, slugify, locationImages, createGrillSeed, separator } from "../../components/seo/utils";
+import { locationHash, slugify, locationImages, createGrillSeed, separator, compactServiceDescription, compactServiceTitle, normalizeMetaDescription, normalizeMetaTitle, optimizedServiceMetaTitle } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
 import { Phone, MessageCircle,Plus, Minus } from "lucide-react";
 import Image from "next/image";
@@ -64,35 +64,22 @@ export async function generateMetadata({
     location,
     locations
   );
-  const fallbackTitle =
-    `${primaryKeyword} | Pigeon Safety & Balcony Protection & bird spikes | Rohini Invisible Grills`;
-
-  const fallbackDescription = `
-Best invisible grills installation in ${location} for balconies and windows. 
-Strong, rust-free stainless steel safety grills that keep your home secure while maintaining a clear view. 15+ years of experience,  
-Expert installation, competitive price & free inspection by Rohini Invisible Grills.
-`;
-  const title = customPage?.metadata?.title?.default ?? fallbackTitle;
-  const description = customPage?.metadata?.description ?? fallbackDescription;
+  const title = normalizeMetaTitle(
+    customPage?.metadata?.title?.default,
+    optimizedServiceMetaTitle("Invisible Grills", location)
+  );
+  const description = normalizeMetaDescription(
+    customPage?.metadata?.description,
+    compactServiceDescription("Invisible Grills", location)
+  );
   /* =========================
      METADATA RETURN
   ========================== */
 
-  const metadataTitle = customPage?.metadata?.title
-    ? {
-        default: customPage.metadata.title.default,
-        template:
-          customPage.metadata.title.template ?? "%s | Rohini Invisible Grills",
-      }
-    : {
-        default: title,
-        template: "%s | Rohini Invisible Grills",
-      };
-
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
 
-    title: metadataTitle,
+    title,
 
     description,
 
@@ -130,8 +117,11 @@ Expert installation, competitive price & free inspection by Rohini Invisible Gri
     },
 
     openGraph: {
-      title: customPage?.metadata?.openGraph?.title ?? title,
-      description: customPage?.metadata?.openGraph?.description ?? description,
+      title: normalizeMetaTitle(customPage?.metadata?.openGraph?.title, title),
+      description: normalizeMetaDescription(
+        customPage?.metadata?.openGraph?.description,
+        description
+      ),
       url: customPage?.metadata?.openGraph?.url ?? url,
       siteName: "Rohini Invisible Grills",
       locale: "en_IN",
@@ -148,8 +138,11 @@ Expert installation, competitive price & free inspection by Rohini Invisible Gri
 
     twitter: {
       card: "summary_large_image",
-      title: customPage?.metadata?.twitter?.title ?? title,
-      description: customPage?.metadata?.twitter?.description ?? description,
+      title: normalizeMetaTitle(customPage?.metadata?.twitter?.title, title),
+      description: normalizeMetaDescription(
+        customPage?.metadata?.twitter?.description,
+        description
+      ),
       images: [image],
     },
 

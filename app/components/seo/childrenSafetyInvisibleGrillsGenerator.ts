@@ -12,6 +12,7 @@ import {
 import { buildFullSchema } from "./schema";
 import { getNearbyLocations } from "./utils";
 import { ServicePage, ServiceSection } from "./types";
+import { enhanceFallbackServicePage } from "./fallbackContentEnhancer";
 
 export const generateChildrenSafetyInvisibleGrillService: (
   location: string,
@@ -84,7 +85,7 @@ export const generateChildrenSafetyInvisibleGrillService: (
     )
   };
 
-  return {
+  return enhanceFallbackServicePage({
 
     location: location,
 
@@ -94,7 +95,7 @@ export const generateChildrenSafetyInvisibleGrillService: (
 
     shortDescription: `Rohini Invisible Grills installs children safety invisible grills in ${location}. Protect kids, stop pigeons, and improve home safety with strong stainless steel cables and modern invisible grill solutions near you.`,
 
-    heroImage: "/service/invisible-grills.webp",
+    heroImage: "/images/invisible-grill-for-balcony.webp",
 
     category: "invisible-grills",
 
@@ -190,6 +191,6 @@ export const generateChildrenSafetyInvisibleGrillService: (
 
     schema: buildFullSchema(location, slug, faqs)
 
-  };
+  }, "children-safety-invisible-grills");
 
 };

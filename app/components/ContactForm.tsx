@@ -5,9 +5,9 @@ import { FORMSPREE_URL, FORM_NAME } from '../config/form.config'
 import Image from 'next/image'
 
 const heroImages = [
-  { src: '/images/invisible-grill.webp?size=200w200h', alt: 'Invisible stainless steel grills closeup' },
-  { src: '/images/stainless-steel-invisible-grill.jpg?size=200w200h', alt: 'Durable stainless-steel invisible grills' },
-  { src: '/images/invisible-grill-for-balcony.webp', alt: 'Anti-bird invisible grills in tellapur hyderabad' },
+  { src: '/images/invisible-grill.webp', alt: 'Invisible stainless steel grills closeup' },
+  { src: '/images/stainless-steel-invisible-grill.webp', alt: 'Durable stainless-steel invisible grills' },
+  { src: '/images/invisible-grill-for-balcony.webp', alt: 'Balcony invisible grill installation for child and bird safety' },
 ]
 
 export default function ContactForm(){
@@ -152,7 +152,7 @@ export default function ContactForm(){
     alt={heroImages[2].alt}
     fill
     className="object-cover"
-    priority
+    sizes="(max-width: 1024px) 100vw, 50vw"
   />
 
   {/* 2. Dark Overlay (Helps text/form pop) */}
@@ -167,7 +167,7 @@ export default function ContactForm(){
         Premium Invisible Grills
       </h2>
       <p className="mt-4 text-white text-lg sm:text-2xl font-medium drop-shadow-md max-w-lg">
-        17 Years Warranty • 304 Grade SS Wire • Child & Bird Safety
+        Warranty Support • 304 Grade SS Wire • Child & Bird Safety
       </p>
     </div>
 

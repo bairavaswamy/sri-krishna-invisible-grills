@@ -12,6 +12,7 @@ import {
 import { buildFullSchema } from "./schema";
 import { getNearbyLocations } from "./utils";
 import { ServicePage, ServiceSection } from "./types";
+import { enhanceFallbackServicePage } from "./fallbackContentEnhancer";
 
 
 
@@ -83,7 +84,7 @@ export const  generateBalconySafetyInvisibleGrillservice : (location: string, lo
     content: nearby.map((n: string) => `Invisible grill installation available in ${n}`)
   };
 
-  return {
+  return enhanceFallbackServicePage({
 
     location: location,
 
@@ -93,7 +94,7 @@ export const  generateBalconySafetyInvisibleGrillservice : (location: string, lo
 
     shortDescription: `Rohini Invisible Grills installs balcony safety invisible grills in ${location} using 304 & 316 grade stainless steel cables. Protect children, stop pigeons, and improve balcony safety with modern bird control solutions near you.`,
 
-    heroImage: "/service/invisible-grills.webp",
+    heroImage: "/images/invisible-grill-for-balcony.webp",
 
     category: "invisible-grills",
 
@@ -193,6 +194,6 @@ export const  generateBalconySafetyInvisibleGrillservice : (location: string, lo
 
     schema: buildFullSchema(location, slug, faqs)
 
-  };
+  }, "balcony-safety-invisible-grills");
 
 }

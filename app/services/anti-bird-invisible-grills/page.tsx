@@ -5,7 +5,12 @@ import FAQSection from "../../invisible-grills/[slug]/Faqs";
 import { Handshake, Award, ShieldCheck } from "lucide-react";
 // import { Poppins, Inter } from "next/font/google";
 import { buildFullSchema } from "../../components/seo/schema";
-import { generateBreadcrumb, locationAuthorityScore } from "../../components/seo/utils";
+import {
+  compactServiceDescription,
+  compactServiceTitle,
+  generateBreadcrumb,
+  locationAuthorityScore,
+} from "../../components/seo/utils";
 import LocationScroller from "../../components/LocationsWeServe";
 import RelatedServices from "../../components/RelatedServices";
 import {buildSchemaGraph } from "../../components/schema/combineSchema";
@@ -55,11 +60,8 @@ export async function generateMetadata({
   //   locations
   // );
 
-  const title =
-    `${primaryKeyword} | Premium Pigeon Control for Balconies, Windows & Utility Areas | Rohini Invisible Grills`;
-
-  const description =
-    `Looking for anti bird invisible grills in ${location}? Rohini Invisible Grills provides premium pigeon-control systems for balconies, windows, utility spaces, and high-rise homes across Hyderabad. Get expert installation, strong stainless steel wire systems, clean visual finish, and a free site visit anywhere in Hyderabad city.`;
+  const title = compactServiceTitle("Anti Bird Invisible Grills", location);
+  const description = compactServiceDescription("Anti Bird Invisible Grills", location);
 
   /* =========================
      METADATA RETURN
@@ -68,10 +70,7 @@ export async function generateMetadata({
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
 
-    title: {
-      default: title,
-      template: "%s | Rohini Invisible Grills",
-    },
+    title,
 
     description,
 

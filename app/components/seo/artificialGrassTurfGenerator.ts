@@ -12,6 +12,7 @@ import {
 import { buildFullSchema } from "./schema";
 import { getNearbyLocations } from "./utils";
 import { ServicePage, ServiceSection } from "./types";
+import { enhanceFallbackServicePage } from "./fallbackContentEnhancer";
 
 export const generateArtificialGrassService:
 (location: string, locations: string[], index: number) => ServicePage =
@@ -75,7 +76,7 @@ answer:`Artificial grass requires minimal maintenance such as occasional cleanin
     content: nearby.map((n: string) => `Artificial grass turf installation available in ${n}`)
   };
 
-  return {
+  return enhanceFallbackServicePage({
 
     location: location,
 
@@ -85,7 +86,7 @@ answer:`Artificial grass requires minimal maintenance such as occasional cleanin
 
     shortDescription: `Rohini Artificial Grass provides artificial grass turf installation in ${location}. Transform balconies, terraces, and gardens with low-maintenance green lawn solutions near you.`,
 
-    heroImage: "/service/artificial-grass.webp",
+    heroImage: "/images/artificial-grass-and-artificial-turf-for-ground.webp",
 
     category: "artificial-grass",
 
@@ -181,6 +182,6 @@ answer:`Artificial grass requires minimal maintenance such as occasional cleanin
 
     schema: buildFullSchema(location, slug, faqs)
 
-  };
+  }, "artificial-grass-turf");
 
 };

@@ -332,6 +332,7 @@ export const hyderabadLocations = [
 
 export const bangaloreLocations = [
 "Abbigere",
+"Bengaluru",
 "Adugodi",
 "AECS Layout",
 "Akshayanagar",

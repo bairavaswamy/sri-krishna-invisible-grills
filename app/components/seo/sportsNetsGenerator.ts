@@ -12,6 +12,7 @@ import {
 import { buildFullSchema } from "./schema";
 import { getNearbyLocations } from "./utils";
 import { ServicePage, ServiceSection } from "./types";
+import { enhanceFallbackServicePage } from "./fallbackContentEnhancer";
 
 export const generateSportsNetsService:
 (location: string, locations: string[], index: number) => ServicePage =
@@ -77,7 +78,7 @@ answer:`Yes. Sports nets prevent balls from hitting windows, vehicles, or nearby
     )
   };
 
-  return {
+  return enhanceFallbackServicePage({
 
     location: location,
 
@@ -87,7 +88,7 @@ answer:`Yes. Sports nets prevent balls from hitting windows, vehicles, or nearby
 
     shortDescription: `Rohini Invisible Grills provides sports nets installation in ${location} including cricket practice nets, box cricket nets, badminton court net installation, and safety net solutions for homes and academies near you.`,
 
-    heroImage: "/service/sports-nets.webp",
+    heroImage: "/images/sport-nets-installation-hyderabad.webp",
 
     category: "sports-nets",
 
@@ -183,6 +184,6 @@ answer:`Yes. Sports nets prevent balls from hitting windows, vehicles, or nearby
 
     schema: buildFullSchema(location, slug, faqs)
 
-  };
+  }, "sports-nets");
 
 };

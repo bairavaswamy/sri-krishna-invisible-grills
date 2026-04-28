@@ -31,7 +31,7 @@ export const serviceSearchItems = services.map((service) => ({
 }))
 
 export const routeSearchItems = services.flatMap((service) => {
-  const locations = searchLocationsByService[service.slug] ?? hyderabadSearchLocations
+  const locations = searchLocationsByService[service.slug] ?? []
 
   return locations.map((location) => ({
     id: `${service.slug}-${slugify(location)}`,

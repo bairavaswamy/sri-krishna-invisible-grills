@@ -1,5 +1,6 @@
 "use client";
 import Image from "next/image";
+import SocialProfileLinks from "./SocialProfileLinks";
 
 
 const services = [
@@ -12,11 +13,26 @@ const services = [
 ];
 
 const galleryImages = [
-  "/images/children-safety-invisible-grills-for-balcony.webp",
-  "/cards/stainless-steel-invisible-grill.webp",
-  "/images/invisible-grill-for-balcony.webp",
-  "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
-  "/images/sport-nets-installation-hyderabad.webp",
+  {
+    src: "/images/children-safety-invisible-grills-for-balcony.webp",
+    alt: "Children safety invisible grills for apartment balconies",
+  },
+  {
+    src: "/cards/stainless-steel-invisible-grill.webp",
+    alt: "Stainless steel invisible grill cable system",
+  },
+  {
+    src: "/images/invisible-grill-for-balcony.webp",
+    alt: "Balcony invisible grill installation with clear outside view",
+  },
+  {
+    src: "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
+    alt: "Apartment balcony invisible grills in Hyderabad",
+  },
+  {
+    src: "/images/sport-nets-installation-hyderabad.webp",
+    alt: "Sports net installation for practice areas in Hyderabad",
+  },
 ];
 
 
@@ -48,17 +64,17 @@ export default function AboutClient(){
                     compromising your view.
                   </p>
                   <p className="text-gray-600 leading-relaxed">
-                    With expert installation and premium materials, we ensure long-
-                    lasting durability, modern design, and complete peace of mind.
+                    With expert installation and premium materials, we ensure
+                    long-lasting durability, modern design, and complete peace of mind.
                   </p>
                 </div>
         
                 <div className="grid grid-cols-2 gap-4">
-                  {galleryImages.map((img, index) => (
+                  {galleryImages.map((image, index) => (
                     <div key={index} className="relative w-full h-40">
                       <Image
-                        src={img}
-                        alt="gallery"
+                        src={image.src}
+                        alt={image.alt}
                         fill
                         className="object-cover rounded-xl shadow-md"
                       />
@@ -102,7 +118,7 @@ export default function AboutClient(){
                   <div className="p-6 border rounded-xl">
                     <h3 className="font-semibold mb-2">Expert Installation</h3>
                     <p className="text-gray-600 text-sm">
-                      Skilled professionals ensure quick and perfect installation.
+                      Skilled professionals ensure neat, reliable installation.
                     </p>
                   </div>
                   <div className="p-6 border rounded-xl">
@@ -111,6 +127,17 @@ export default function AboutClient(){
                       High-quality service at competitive and transparent pricing.
                     </p>
                   </div>
+                </div>
+              </section>
+
+              <section className="max-w-6xl mx-auto px-6 pb-12">
+                <div className="rounded-[32px] border border-orange-100 bg-gradient-to-br from-orange-50 via-white to-amber-50 p-6 shadow-lg shadow-orange-100/50 md:p-8">
+                  <SocialProfileLinks
+                    heading="Connect With Rohini Invisible Grills"
+                    description="Follow our official profiles for installation updates, balcony safety ideas, bird protection work, and service announcements."
+                    showLabels
+                    variant="warm"
+                  />
                 </div>
               </section>
         

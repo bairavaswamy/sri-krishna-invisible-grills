@@ -12,6 +12,7 @@ import {
 import { buildFullSchema } from "./schema";
 import { getNearbyLocations } from "./utils";
 import { ServicePage, ServiceSection } from "./types";
+import { enhanceFallbackServicePage } from "./fallbackContentEnhancer";
 
 export const generateWindowInvisibleGrillService: (
   location: string,
@@ -84,7 +85,7 @@ export const generateWindowInvisibleGrillService: (
     )
   };
 
-  return {
+  return enhanceFallbackServicePage({
 
     location: location,
 
@@ -94,7 +95,7 @@ export const generateWindowInvisibleGrillService: (
 
     shortDescription: `Rohini Invisible Grills installs window invisible grills in ${location} using high-quality stainless steel cables. Protect children, stop pigeons, and improve home safety with modern window safety solutions near you.`,
 
-    heroImage: "/service/invisible-grills.webp",
+    heroImage: "/images/invisible-grill-for-balcony.webp",
 
     category: "invisible-grills",
 
@@ -190,6 +191,6 @@ export const generateWindowInvisibleGrillService: (
 
     schema: buildFullSchema(location, slug, faqs)
 
-  };
+  }, "windows-invisible-grills");
 
 };

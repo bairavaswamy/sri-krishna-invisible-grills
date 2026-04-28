@@ -1,3 +1,5 @@
+import { socialProfileUrls } from "../constants/socialProfiles";
+
 export const organizationSchema = {
   "@type": "HomeAndConstructionBusiness",
 
@@ -59,6 +61,9 @@ export const organizationSchema = {
   { "@type": "City", name: "Warangal" },
   { "@type": "City", name: "Khammam" },
   { "@type": "City", name: "Bangalore" },
+  { "@type": "City", name: "Kadapa" },
+  { "@type": "City", name: "Tirupati" },
+  { "@type": "City", name: "Kurnool" },
   { "@type": "City", name: "Karimnagar" },
   { "@type": "City", name: "Nizamabad" },
   {"@type": "City", name: "Suryapet"}
@@ -75,9 +80,9 @@ serviceArea: [
     name: "Karnataka"
   },
   {
-//   "@type": "AdministrativeArea",
-//   name: "Andhra Pradesh"
-}
+    "@type": "AdministrativeArea",
+    name: "Andhra Pradesh"
+  }
 ],
 
 knowsAbout: [
@@ -106,12 +111,7 @@ knowsAbout: [
     availableLanguage: ["English", "Hindi", "Telugu"]
   },
 
-  sameAs: [
-    "https://www.facebook.com/rohiniinvisiblegrills",
-    "https://www.instagram.com/rohiniinviaiblegrills/",
-    "https://www.linkedin.com/in/rohini-invisible-grills-3099423b9/",
-    "https://g.page/r/your-gmb"
-  ],
+  sameAs: socialProfileUrls,
 
   hasCredential: [
   {
@@ -126,12 +126,5 @@ knowsAbout: [
   }
 ],
 
-  keywords: "invisible grills installation, anti bird net installation, balcony safety solutions, pigeon protection systems, stainless steel cable grills, sports nets installation, bird spikes installation, balcony safety services Hyderabad",
-
-  potentialAction: {
-    "@type": "SearchAction",
-    target:
-      "https://rohiniinvisiblegrills.com/?s={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
+  keywords: "invisible grills installation, anti bird net installation, balcony safety solutions, pigeon protection systems, stainless steel cable grills, sports nets installation, bird spikes installation, balcony safety services Hyderabad"
 };

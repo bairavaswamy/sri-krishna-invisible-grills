@@ -12,6 +12,7 @@ import {
 import { buildFullSchema } from "./schema";
 import { getNearbyLocations } from "./utils";
 import { ServicePage, ServiceSection } from "./types";
+import { enhanceFallbackServicePage } from "./fallbackContentEnhancer";
 
 
 
@@ -58,12 +59,12 @@ export const  generateService : (location: string, locations: string[], index: n
       answer: `Most installations are completed within a few hours depending on balcony size.`
     },
     {
-      question:`Do invisible grills stop pigeons in ${location}?`,
-      answer:`Yes. The stainless steel cables act as a barrier that prevents birds from entering balconies.`
+      question: `Can you install invisible grills for windows and utility areas in ${location}?`,
+      answer: `Yes. Rohini Invisible Grills installs invisible grills for balconies, windows, utility openings, and duct-side safety requirements in ${location}.`
     },
     {
-        question:`Do invisible grills block balcony view in ${location}?`,
-        answer:`No. The wires are very thin and almost invisible, so the outside view remains clear.`
+      question: `Do you provide a site visit for invisible grills in ${location}?`,
+      answer: `Yes. A site visit helps us measure the opening, check fixing points, and suggest the right invisible grill layout for your home in ${location}.`
     }
   ];
 
@@ -76,7 +77,7 @@ export const  generateService : (location: string, locations: string[], index: n
     content: nearby.map((n: string) => `Invisible grill installation available in ${n}`)
   };
 
-  return {
+  return enhanceFallbackServicePage({
 
     location: location,
 
@@ -86,7 +87,7 @@ export const  generateService : (location: string, locations: string[], index: n
 
     shortDescription: `Rohini Invisible Grills provides professional invisible grill installation in ${location}. Our balcony safety grills protect children, stop pigeons, and keep your home safe while maintaining a modern open view.`,
 
-    heroImage: "/service/invisible-grills.webp",
+    heroImage: "/images/invisible-grill-for-balcony.webp",
 
     category: "invisible-grills",
 
@@ -135,10 +136,10 @@ export const  generateService : (location: string, locations: string[], index: n
   "Weather resistant, corrosion-proof and rust-proof materials",
   "Child safety balcony protection for homes and apartments",
   "Modern minimal design with clear outside view and airflow",
-  "Suitable for balcony safety nets, anti bird nets, and pigeon safety protection",
-  "Low maintenance system with long lifespan durability",
-  "17 Years warranty on installation and materials",
-  "10 Years free service support and maintenance assistance"
+  "Suitable for balcony safety, anti bird protection, and pigeon safety planning",
+  "Low-maintenance system designed for long-term apartment and home use",
+  "Site-measured fitting with neat hardware alignment",
+  "Professional support for balconies, windows, utility openings, and duct-side safety"
 ]
       },
 
@@ -186,6 +187,6 @@ export const  generateService : (location: string, locations: string[], index: n
 
     schema: buildFullSchema(location, slug, faqs)
 
-  };
+  }, "invisible-grills");
 
 }

@@ -46,6 +46,7 @@ export default function NearbyServiceSection({ page }: { page: PageData }) {
               <Link
                 key={i}
                 href={nearbySection.slug ? nearbySection.slug[i] : "#"}
+                prefetch={false}
                 className="bg-white p-4 rounded-lg shadow transition-all hover:shadow-lg hover:text-yellow-400 text-center text-blue-400 font-medium border border-transparent hover:border-blue-200"
               >
                 {locationName}

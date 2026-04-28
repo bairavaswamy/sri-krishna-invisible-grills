@@ -12,6 +12,7 @@ import {
 import { buildFullSchema } from "./schema";
 import { getNearbyLocations } from "./utils";
 import { ServicePage, ServiceSection } from "./types";
+import { enhanceFallbackServicePage } from "./fallbackContentEnhancer";
 
 export const generateClothHangersService:
 (location: string, locations: string[], index: number) => ServicePage =
@@ -75,7 +76,7 @@ answer:`Yes. High-quality cloth hanger systems are designed to handle daily laun
     content: nearby.map((n: string) => `Cloth hanger installation available in ${n}`)
   };
 
-  return {
+  return enhanceFallbackServicePage({
 
     location: location,
 
@@ -85,7 +86,7 @@ answer:`Yes. High-quality cloth hanger systems are designed to handle daily laun
 
     shortDescription: `Rohini Cloth Hangers provides cloth hanger installation in ${location}. Install ceiling drying hangers and balcony cloth hangers to save space and dry clothes efficiently with modern solutions near you.`,
 
-    heroImage: "/service/cloth-hangers.webp",
+    heroImage: "/clothhangers/best-cloth-hangers-near-me.webp",
 
     category: "cloth-hangers",
 
@@ -181,6 +182,6 @@ answer:`Yes. High-quality cloth hanger systems are designed to handle daily laun
 
     schema: buildFullSchema(location, slug, faqs)
 
-  };
+  }, "cloth-hangers");
 
 };

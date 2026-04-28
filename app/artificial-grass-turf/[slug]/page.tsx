@@ -8,6 +8,8 @@ import {
   createGrillSeed,
   locationImagesForArtificialGrass,
   artificialGrassProductImages,
+  compactServiceDescription,
+  compactServiceTitle,
 } from "../../components/seo/utils";
 
 import NearbyServiceSection from "../../components/NearbyAreas";
@@ -77,21 +79,15 @@ export async function generateMetadata({
     locations
   );
 
-  const title =
-    `${primaryKeyword} | Balcony Lawn Grass & Terrace Turf Installation | Rohini`;
-
-  const description =
-    `Looking for artificial grass turf in ${location}? Get premium balcony, terrace & garden turf installation. Natural look, UV resistant, long-lasting & affordable pricing. Book free site visit in ${location} today.`;
+  const title = compactServiceTitle("Artificial Grass Turf", location);
+  const description = compactServiceDescription("Artificial Grass Turf", location);
 
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
 
-    title: {
-      default: customPage?.metadata?.title?.default ?? title,
-      template: customPage?.metadata?.title?.template ?? "%s | Rohini",
-    },
+    title,
 
-    description: customPage?.metadata?.description ?? description,
+    description,
 
     keywords: customPage?.metadata?.keywords ?? Array.from(
       new Set([
@@ -125,8 +121,8 @@ export async function generateMetadata({
     },
 
     openGraph: {
-      title: customPage?.metadata?.openGraph?.title ?? title,
-      description: customPage?.metadata?.openGraph?.description ?? description,
+      title,
+      description,
       url: customPage?.metadata?.openGraph?.url ?? url,
       siteName: "Rohini",
       locale: "en_IN",
@@ -143,8 +139,8 @@ export async function generateMetadata({
 
     twitter: {
       card: "summary_large_image",
-      title: customPage?.metadata?.twitter?.title ?? title,
-      description: customPage?.metadata?.twitter?.description ?? description,
+      title,
+      description,
       images: [image],
     },
 

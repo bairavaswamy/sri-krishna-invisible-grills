@@ -72,6 +72,7 @@ export default function LocationServiceCards({ serviceSlug, location }: Props) {
             <Link
               key={service.href}
               href={service.href}
+              prefetch={false}
               className="group overflow-hidden rounded-[24px] border border-slate-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-orange-300 hover:shadow-[0_18px_40px_rgba(15,23,42,0.14)]"
             >
               <div className="relative h-48 overflow-hidden sm:h-56">

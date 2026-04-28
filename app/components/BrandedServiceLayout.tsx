@@ -57,7 +57,7 @@ const defaultChips = [
 ];
 
 const defaultStats = [
-  { label: "Experience", value: "15+ Years" },
+  { label: "Process", value: "Site-Measured" },
   { label: "Materials", value: "SS 304 / 316" },
   { label: "Service Area", value: "Trusted Local Service" },
 ];
@@ -92,6 +92,12 @@ function trimHeroDescription(text: string, maxChars = 1000) {
   }
 
   return `${trimmed.trimEnd()}...`;
+}
+
+function staticImageSrc(src?: string) {
+  if (!src) return src;
+
+  return src.startsWith("/") ? src.split("?")[0] : src;
 }
 
 export default function BrandedServiceLayout({
@@ -171,15 +177,23 @@ export default function BrandedServiceLayout({
     { label: "Service Area", value: location },
   ];
   const heroDescription = trimHeroDescription(description, 1000);
+  const heroBackgroundImage = staticImageSrc(backgroundImage) ?? backgroundImage;
+  const cleanShowcaseImage = staticImageSrc(showcaseImage) ?? showcaseImage;
+  const cleanDetailImage = staticImageSrc(detailImage);
 
   return (
     <main className="min-h-screen bg-[linear-gradient(180deg,#f8fafc_0%,#fff7ed_32%,#ffffff_100%)]">
       {scripts}
 
       <section className="relative py-10 text-white md:py-14">
-        <div
-          className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: `url('${backgroundImage}')` }}
+        <Image
+          src={heroBackgroundImage}
+          alt=""
+          aria-hidden="true"
+          fill
+          priority
+          sizes="100vw"
+          className="absolute inset-0 object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/60 to-black/50" />
 
@@ -215,11 +229,11 @@ export default function BrandedServiceLayout({
           <div className="grid gap-0 lg:grid-cols-[1.1fr_0.9fr]">
             <div className="relative min-h-[340px] overflow-hidden lg:min-h-[520px]">
               <Image
-                src={showcaseImage}
+                src={cleanShowcaseImage}
                 alt={showcaseImageAlt}
                 title={showcaseImageTitle}
                 fill
-                priority
+                sizes="(max-width: 1024px) 100vw, 55vw"
                 className="object-cover transition-transform duration-700 hover:scale-105"
               />
 
@@ -336,7 +350,11 @@ export default function BrandedServiceLayout({
           {breadcrumbs.map((item, index) => (
             <div key={`${item.label}-${index}`} className="contents">
               {item.href ? (
-                <Link href={item.href} className="transition hover:text-orange-600">
+                <Link
+                  href={item.href}
+                  prefetch={false}
+                  className="transition hover:text-orange-600"
+                >
                   {item.label}
                 </Link>
               ) : (
@@ -434,6 +452,7 @@ export default function BrandedServiceLayout({
                 </a>
                 <Link
                   href={serviceHref}
+                  prefetch={false}
                   className="flex items-center justify-between rounded-2xl border border-white/10 bg-white px-4 py-3 font-semibold text-slate-900 transition hover:bg-orange-50"
                 >
                   Explore service page
@@ -501,14 +520,14 @@ export default function BrandedServiceLayout({
         <section className="mx-auto max-w-6xl px-4 py-2 sm:px-6">
           <div className="grid gap-6 lg:grid-cols-[0.95fr_1.05fr]">
             <div className="overflow-hidden rounded-[26px] border border-slate-200 bg-white shadow-sm md:rounded-[32px]">
-              {detailImage && (
+              {cleanDetailImage && (
                 <div className="relative h-[220px] sm:h-[280px]">
                   <Image
-                    src={detailImage}
+                    src={cleanDetailImage}
                     alt={detailImageAlt ?? showcaseImageAlt}
                     title={detailImageTitle ?? showcaseImageTitle}
                     fill
-                    priority
+                    sizes="(max-width: 1024px) 100vw, 45vw"
                     className="object-cover"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-slate-950/75 via-slate-900/20 to-transparent" />
@@ -632,6 +651,7 @@ export default function BrandedServiceLayout({
                     <Link
                       key={`${item}-${nearbyLinks[index] ?? index}`}
                       href={nearbyLinks[index] ?? "#"}
+                      prefetch={false}
                       className="group rounded-[20px] border border-orange-100 bg-white p-4 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-orange-300 hover:shadow-md sm:rounded-[24px]"
                     >
                       <p className="text-sm leading-7 text-slate-700">{item}</p>

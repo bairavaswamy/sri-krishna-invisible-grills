@@ -152,7 +152,7 @@ export const locationParentMap: Record<string, GeoCity> = {
   // KADAPA
   kadapa: "kadapa",
   akkayapalli: "kadapa",
-  "ngo colony ": "kadapa",
+  "ngo-colony-kadapa": "kadapa",
   "rims-road": "kadapa",
   "railway-station-road": "kadapa",
   yerramukkapalli: "kadapa",

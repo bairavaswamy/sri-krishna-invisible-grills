@@ -22,10 +22,120 @@ export function slugify(location: string) {
   return location
     .toLowerCase()
     .trim()
-    .replace(/,/g, " in")        // 👈 convert comma to " in"
+    .replace(/,/g, "")
     .replace(/&/g, "and")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/(^-|-$)/g, "");
+}
+
+export function compactServiceName(serviceName: string) {
+  const normalized: Record<string, string> = {
+    "Anti Bird Invisible Grills": "Anti Bird Grills",
+    "Anti Bird Net Installation": "Bird Nets",
+    "Artificial Grass Turf": "Artificial Turf",
+    "Balcony Safety Invisible Grills": "Safety Grills",
+    "Bird Spikes Installation": "Bird Spikes",
+    "Children Safety Invisible Grills": "Child Safety Grills",
+    "Windows Invisible Grills": "Window Grills",
+  };
+
+  return normalized[serviceName] ?? serviceName;
+}
+
+function expandedServiceName(serviceName: string) {
+  const expanded: Record<string, string> = {
+    "Anti Bird Net Installation": "Bird Net Installation",
+    "Bird Spikes Installation": "Bird Spikes Installation",
+    "Cloth Hangers": "Cloth Hangers Installation",
+    "Sports Nets": "Sports Nets Installation",
+  };
+
+  return expanded[serviceName] ?? serviceName;
+}
+
+function truncateAtWord(text: string, maxLength: number) {
+  if (text.length <= maxLength) return text;
+
+  const clipped = text
+    .slice(0, Math.max(0, maxLength - 3))
+    .replace(/[\s,]+[^\s,]*$/, "")
+    .replace(/[,\s]+$/, "");
+
+  return `${clipped.length >= 12 ? clipped : text.slice(0, maxLength - 3).trim()}...`;
+}
+
+export function optimizedServiceMetaTitle(serviceName: string, location: string) {
+  const service = compactServiceName(serviceName);
+  const titleOptions = [
+    `${service} in ${location} | Safety & Bird Control`,
+    `${service} in ${location} | Free Site Visit`,
+    `${service} in ${location} | Rohini`,
+  ];
+
+  const safeTitle = titleOptions.find((title) => title.length <= 68);
+
+  if (safeTitle) return safeTitle;
+
+  return compactServiceTitle(serviceName, location);
+}
+
+export function normalizeMetaTitle(title: string | undefined, fallback: string) {
+  const cleanTitle = title?.replace(/\s+/g, " ").trim();
+
+  if (cleanTitle && cleanTitle.length <= 68) return cleanTitle;
+
+  return truncateAtWord(fallback, 68);
+}
+
+export function normalizeMetaDescription(
+  description: string | undefined,
+  fallback: string
+) {
+  const cleanDescription = description?.replace(/\s+/g, " ").trim();
+
+  if (
+    cleanDescription &&
+    cleanDescription.length >= 110 &&
+    cleanDescription.length <= 180
+  ) {
+    return cleanDescription;
+  }
+
+  return truncateAtWord(fallback, 180);
+}
+
+export function compactServiceTitle(serviceName: string, location: string) {
+  const service = compactServiceName(serviceName);
+  const withBrand = `${service} in ${location} | Rohini`;
+
+  if (withBrand.length < 30) {
+    const expandedWithBrand = `${expandedServiceName(serviceName)} in ${location} | Rohini`;
+
+    if (expandedWithBrand.length <= 60) return expandedWithBrand;
+  }
+
+  if (withBrand.length <= 60) return withBrand;
+
+  const withoutBrand = `${service} in ${location}`;
+
+  if (withoutBrand.length <= 60) return withoutBrand;
+
+  const locationLimit = 60 - `${service} in `.length;
+
+  return `${service} in ${truncateAtWord(location, locationLimit)}`;
+}
+
+export function compactServiceDescription(serviceName: string, location: string) {
+  const service = compactServiceName(serviceName);
+  const buildDescription = (place: string) =>
+    `${service} in ${place} by Rohini. Free site visit, neat fitting, durable materials, clear pricing, and local installation support.`;
+  const description = buildDescription(location);
+
+  if (description.length <= 175) return description;
+
+  const locationLimit = 175 - buildDescription("").length;
+
+  return buildDescription(truncateAtWord(location, locationLimit));
 }
 
 export function getNearbyLocations(locations: string[], index: number) {
@@ -38,33 +148,11 @@ export function getNearbyLocations(locations: string[], index: number) {
   return links;
 }
 
-export function generateReviewSchema(location: string) {
+// Review rich snippet helper intentionally disabled.
+// Re-enable only after verified, first-party customer review data is available.
 
-return {
-  "@type":"Review",
-  "author":{
-    "@type":"Person",
-    "name":"Customer from " + location
-  },
-  "reviewRating":{
-    "@type":"Rating",
-    "ratingValue":"5",
-    "bestRating":"5"
-  },
-  "reviewBody":`Invisible grill installation in ${location} was completed with neat finishing and strong materials. The balcony looks modern and safe after installation.`
-}
-
-}
-
-export function generateRatingSchema(){
-
-return {
-  "@type":"AggregateRating",
-  "ratingValue":"4.9",
-  "reviewCount":"185"
-}
-
-}
+// AggregateRating rich snippet helper intentionally disabled.
+// Re-enable only after verified, first-party rating data is available.
 
 export function generateBreadcrumb(location: string, slug: string) {
 const cleanSlug = slug.replace(/^\/+|\/+$/g, "");
@@ -281,7 +369,7 @@ export const BalconySafetyChildrenSafetyInvisibleGrills = [
 export const locationImagesForBirdSpikesInstallation = [
    "/spikes/anti-bird-spikes-installation-near-me.webp",
     "/spikes/bird-control-spikes.webp",
-    "/spikes/metalic-bird-spikes-installation-near-me.webp",
+    "/spikes/bird-control-spikes.webp",
     "/spikes/pigeon-bird-spikes-installation-near-me.webp",
     "/spikes/pvc-anti-bird-spikes-installation.webp",
     "/spikes/same-day-bird-spikes-installation-near-me.webp",
@@ -291,7 +379,7 @@ export const locationImagesForBirdSpikesInstallation = [
 export const BalconySafetyBirdSpikesInstallation = [
   "/spikes/cards/top-rated-bird-control-spikes-installation.webp",
   "/spikes/cards/same-day-bird-spikes-installation.webp",
-  "/spikes/cards/metalic-bird-spikes-installation.webp",
+  "/spikes/cards/bird-spikes-installation-near-me.webp",
   "/spikes/cards/pvc-bird-control-spikes-installation-near-me.webp",
   "/spikes/cards/pigeon-bird-spikes-installation.webp",
   "/spikes/cards/bird-spikes-installation-near-me.webp",
@@ -320,16 +408,16 @@ export const balconyClothHangerImages = [
 
 export const locationImagesForArtificialGrass = [
   "/artificialturf/artificial-grass-for-ramp-near-me-installation.webp",
-  "/artificialturf/artificial-grass-profitional-installation.webp",
+  "/artificialturf/ground-top-rated-artificial-turf-installation.webp",
   "/artificialturf/artificial-turf-installation-for-ground-near-me.webp",
   "/artificialturf/complete-artificial-turf-installation-for-national-ground-near-me.webp",
   "/artificialturf/complete-artificial-turf-installation-for-national-ground-near-me.webp",
-    "/artificial/artificial-turf-grass-installation-for-garden.webp",
+    "/artificialturf/artificial-turf-grass-installation-for-garden.webp",
   "/artificialturf/artificial-turf-grass-material-properties.webp"
 ]
 
 export const artificialGrassProductImages= [
-  "/artificialturf/artificial-grass-profitional-installation.webp", 
+  "/artificialturf/ground-top-rated-artificial-turf-installation.webp",
   "/artificialturf/cards/artificial-turf-for-garden.webp",
   "/artificialturf/cards/artificial-grass-for-ramp.webp",
   "/artificialturf/artificial-turf-installation-for-ground-near-me.webp",
@@ -340,9 +428,9 @@ export const artificialGrassProductImages= [
 ]
 export const locationImagesForAntiBirdNetInstallation = [
   "/birdnet/anti-bird-nets-installation.webp",
-  "/birdnet/balocny-safety-nets-installation.webp",
+  "/birdnet/cards/balcony-safety-nets-near-me.webp",
   "/birdnet/monkey-safety-nets.webp",
-  "/birdnet/transparabt-net-installation.webp",
+  "/birdnet/window-safety-nets-installation.webp",
   "/birdnet/window-safety-nets-installation.webp",
 ];
 
@@ -351,7 +439,7 @@ export const locationImagesForAntiBirdNetInstallation = [
 export const BalconySafetyAntiBirdNetInstallation = [
   "/birdnet/cards/anti-bird-net.webp",
   "/birdnet/cards/balcony-safety-nets-near-me.webp",
-  "/birdnet/transparabt-net-installation.webp",
+  "/birdnet/cards/window-safety-nets.webp",
   "/birdnet/cards/window-safety-nets.webp",
   "/birdnet/monkey-safety-nets.webp",
 ];

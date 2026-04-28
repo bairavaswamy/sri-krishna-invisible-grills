@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { combineBengaloreLocations, hyderabadLocations } from "../../components/constants/locations";
-import { slugify, createGrillSeed, locationImagesForSportsNets, BalconySafetySportsNets, } from "../../components/seo/utils";
+import { slugify, createGrillSeed, locationImagesForSportsNets, BalconySafetySportsNets, compactServiceDescription, compactServiceTitle } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
 import { Phone, MessageCircle } from "lucide-react";
 import Image from "next/image";
@@ -59,41 +59,23 @@ export async function generateMetadata({
      ADVANCED SEO VARIABLES
   ========================== */
 
-  const primaryKeyword = `Invisible Grills in ${location}`;
+  const primaryKeyword = `Sports Nets in ${location}`;
    const autokeywords = generateLocationKeywords(
     location,
     locations
   );
-  const title =
-    `${primaryKeyword} | box cricket nets installation & Balcony Protection  | Rohini Invisible Grills`;
-
-const description = `
-Looking for sports nets installation in ${location}? 
-Professional cricket practice nets, box cricket nets & safety nets for schools, apartments and playgrounds. 
-Strong UV-resistant materials, expert installation & free site visit across ${location}. 
-Trusted service by Rohini Invisible Grills.
-`;
+  const title = compactServiceTitle("Sports Nets", location);
+  const description = compactServiceDescription("Sports Nets", location);
   /* =========================
      METADATA RETURN
   ========================== */
 
-  const metadataTitle = customPage?.metadata?.title
-    ? {
-        default: customPage.metadata.title.default,
-        template:
-          customPage.metadata.title.template ?? "%s | Rohini Invisible Grills",
-      }
-    : {
-        default: title,
-        template: "%s | Rohini Invisible Grills",
-      };
-
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
 
-    title: metadataTitle,
+    title,
 
-    description: customPage?.metadata?.description ?? description,
+    description,
 
    keywords: customPage?.metadata?.keywords ?? Array.from(new Set([
   // ...autokeywords,
@@ -125,8 +107,8 @@ Trusted service by Rohini Invisible Grills.
     },
 
     openGraph: {
-      title: customPage?.metadata?.openGraph?.title ?? title,
-      description: customPage?.metadata?.openGraph?.description ?? description,
+      title,
+      description,
       url: customPage?.metadata?.openGraph?.url ?? url,
       siteName: "Rohini Invisible Grills",
       locale: "en_IN",
@@ -143,8 +125,8 @@ Trusted service by Rohini Invisible Grills.
 
     twitter: {
       card: "summary_large_image",
-      title: customPage?.metadata?.twitter?.title ?? title,
-      description: customPage?.metadata?.twitter?.description ?? description,
+      title,
+      description,
       images: [image],
     },
 

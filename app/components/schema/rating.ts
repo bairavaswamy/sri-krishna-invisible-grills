@@ -1,25 +1,2 @@
-
-import { getIds } from "./idGenerator";
-
-export const ratingSchema = (
-  url: string,
-  productSlug: string,
-  location: string,
-) => {
-  
-  const ids = getIds(url, productSlug, location);
-
-  return {
-  "@context": "https://schema.org/",
-  "@type": "AggregateRating",
-  "@id": ids.ratingId,
-
-  itemReviewed: {
-    "@id": ids.productId,
-  },
-
- ratingValue :"4.9",
-  reviewCount: "131",
-  bestRating: "10",
-  worstRating:"1"
-}};
+// AggregateRating rich snippet schema is intentionally disabled.
+// Re-enable only after verified, first-party review/rating data is available.

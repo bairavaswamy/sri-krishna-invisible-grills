@@ -16,32 +16,32 @@ export const imageSchema = (
 
     inLanguage: "en-IN",
 
-    /* ✅ FIX: creator must have @type */
+    /* Creator must have @type for image SEO. */
     creator: {
       "@type": "Organization",
       "@id": "https://rohiniinvisiblegrills.com/#organization",
       name: "Rohini Invisible Grills"
     },
 
-    /* ✅ FIX: copyright holder */
+    /* Copyright holder must be explicit for image SEO. */
     copyrightHolder: {
       "@type": "Organization",
       "@id": "https://rohiniinvisiblegrills.com/#organization",
       name: "Rohini Invisible Grills"
     },
 
-    /* ✅ NEW: REQUIRED FOR GOOGLE IMAGE SEO */
+    /* Required for Google image SEO. */
     creditText: "Rohini Invisible Grills",
 
     copyrightNotice:
-      "© Rohini Invisible Grills. All rights reserved.",
+      "Copyright Rohini Invisible Grills. All rights reserved.",
 
-    /* ✅ LICENSE (create this page if not exists) */
+    /* Image usage policy page. */
     license: "https://rohiniinvisiblegrills.com/image-license",
 
-    /* ✅ WHERE USERS CAN REQUEST LICENSE */
+    /* Page where users can request image licensing. */
     acquireLicensePage:
-      "https://rohiniinvisiblegrills.com/contact",
+      "https://rohiniinvisiblegrills.com/contact-us",
 
     representativeOfPage: index === 0
   }));

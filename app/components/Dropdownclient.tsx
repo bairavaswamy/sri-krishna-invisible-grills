@@ -4,7 +4,7 @@ import { useState, useEffect } from "react"
 import { services } from "./constants/services"
 import { Briefcase } from "lucide-react"
 import Link from "next/link"
-import { hyderabadLocations } from "./constants/locations"
+import { searchLocationsByService } from "./constants/searchData"
 import { usePathname } from "next/navigation"
 import { slugify } from "./seo/utils"
 
@@ -59,6 +59,7 @@ export default function DropdownClient() {
 
 function ServiceItem({ service, closeMenu }: any) {
   const [subOpen, setSubOpen] = useState(false)
+  const serviceLocations = searchLocationsByService[service.slug] ?? []
 
   return (
     <div
@@ -69,6 +70,7 @@ function ServiceItem({ service, closeMenu }: any) {
       {/* Service Link */}
       <Link
         href={`/services/${service.slug}`}
+        prefetch={false}
         onClick={closeMenu}
         className="block relative  px-5 py-3 text-base font-medium text-gray-700 transition-all duration-300 hover:text-orange-500 group"
       >
@@ -89,10 +91,11 @@ function ServiceItem({ service, closeMenu }: any) {
             : "opacity-0 invisible"
         }`}
       >
-        {hyderabadLocations.map((location: string) => (
+        {serviceLocations.map((location: string) => (
           <Link
             key={`${service.slug}-${location}`}
             href={`/${service.slug}/${slugify(location)}`}
+            prefetch={false}
             onClick={closeMenu}
             className="block px-5 py-3 hover:bg-indigo-50 text-gray-700 hover:text-orange-500 transition-colors duration-300"
           >

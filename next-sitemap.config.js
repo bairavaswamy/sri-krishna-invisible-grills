@@ -11,9 +11,6 @@ const config = {
         allow: "/",
       },
     ],
-    additionalSitemaps: [
-      "https://rohiniinvisiblegrills.com/sitemap.xml",
-    ],
   },
   exclude: ["/admin/*", "/api/*", '/private/*', '/404'],
   transform: async (config, path) => {

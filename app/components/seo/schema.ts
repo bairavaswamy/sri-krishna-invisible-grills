@@ -1,4 +1,5 @@
-import { generateRatingSchema, generateReviewSchema } from "./utils";
+// Review and rating rich snippet helpers are intentionally disabled.
+// import { generateRatingSchema, generateReviewSchema } from "./utils";
 
 export function buildFullSchema(location: string, slug: string, faqs: any[]){
 
@@ -11,9 +12,10 @@ return {
 "url":"https://rohiniinvisiblegrills.com/"+slug,
 "description":"Balcony invisible grill installation service in "+location,
 
-"aggregateRating":generateRatingSchema(),
+// Review/rating rich snippet schema disabled until verified first-party reviews are available.
+// "aggregateRating": generateRatingSchema(),
 
-"review":generateReviewSchema(location),
+// "review": generateReviewSchema(location),
 
 "mainEntity":faqs.map(f=>({
 

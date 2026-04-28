@@ -1,3 +1,5 @@
+import { socialProfileUrls } from "../constants/socialProfiles";
+
 export const services = [
   "Invisible Grill Installation",
   "Anti Bird Net Installation",
@@ -37,10 +39,70 @@ export const servicesCat = [
   "Modern Architectural Safety Installations"
 ];
 
+const getAddressRegion = (location: string) => {
+  const normalizedLocation = location.toLowerCase();
+
+  if (
+    normalizedLocation.includes("kadapa") ||
+    normalizedLocation.includes("tirupati") ||
+    normalizedLocation.includes("kurnool")
+  ) {
+    return "Andhra Pradesh";
+  }
+
+  if (
+    normalizedLocation.includes("bangalore") ||
+    normalizedLocation.includes("bengaluru") ||
+    normalizedLocation.includes("whitefield") ||
+    normalizedLocation.includes("sarjapur") ||
+    normalizedLocation.includes("electronic city")
+  ) {
+    return "Karnataka";
+  }
+
+  return "Telangana";
+};
+
+const getLocalBusinessLocationData = (location: string) => {
+  if (location.toLowerCase() === "bachupally") {
+    return {
+      address: {
+        "@type": "PostalAddress",
+        streetAddress:
+          "862, Lahari Green Park Rd, opp. Vignana Jyothi Engineering College, Near Gothic Pangea",
+        addressLocality: "Bachupally",
+        addressRegion: "Telangana",
+        postalCode: "500118",
+        addressCountry: "IN",
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: 17.546734,
+        longitude: 78.3858506,
+      },
+      hasMap:
+        "https://www.google.com/maps/place/G9WP+M8X+Hyderabad,+Telangana",
+      branchCode: "bachupally",
+    };
+  }
+
+  return {
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: location,
+      addressRegion: getAddressRegion(location),
+      addressCountry: "IN",
+    },
+  };
+};
+
 export const localBusinessSchema = (
   location: string,
   url: string
-) => ({
+) => {
+  const locationData = getLocalBusinessLocationData(location);
+
+  return {
   "@type": "HomeAndConstructionBusiness",
 
   name: `Rohini Invisible Grills - ${location}`,
@@ -57,7 +119,7 @@ export const localBusinessSchema = (
   description: `Rohini Invisible Grills offers ${services.join(", ")} services in ${location}, delivering customized balcony safety and bird protection solutions for modern homes and high-rise buildings. Our expert team ensures safe installation, durable materials and long-lasting protection while preserving ventilation and exterior aesthetics.`,
 
   telephone: "+91-8790518724",
-  priceRange: "15-500",
+  priceRange: "Rs. 15 - Rs. 500",
 
   image: [
     "https://rohiniinvisiblegrills.com/images/invisible-grills-installation.webp",
@@ -68,12 +130,7 @@ export const localBusinessSchema = (
     "https://rohiniinvisiblegrills.com/images/children-safety-invisible-grills-in-hyderabad.webp"
   ],
 
-  address: {
-    "@type": "PostalAddress",
-    addressLocality: location,
-    addressRegion: "Telangana",
-    addressCountry: "IN"
-  },
+  ...locationData,
 
   areaServed: {
     "@type": "City",
@@ -122,9 +179,24 @@ contactPoint: {
     availableLanguage: ["English", "Hindi", "Telugu"]
   },
 
-  sameAs: [
-    "https://g.page/r/YOUR-GMB-ID"
+  openingHoursSpecification: [
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      opens: "09:00",
+      closes: "20:00"
+    }
   ],
+
+  sameAs: socialProfileUrls,
 
   makesOffer: [
   {
@@ -169,4 +241,5 @@ contactPoint: {
     name: "Book Installation Service"
   }
 
-});
+};
+};

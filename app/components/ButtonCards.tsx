@@ -1,4 +1,4 @@
-// "use client";
+﻿// "use client";
 // import { useState, useRef, memo } from 'react';
 // import { motion, AnimatePresence } from "framer-motion";
 // import Image from 'next/image';
@@ -18,88 +18,88 @@
 //   {
 //     service: "Invisible Grill for Windows",
 //     image: "/cards/window-anti-bird-invisible-grills-installation-near-me.webp",
-//     price: "₹170",
-//     offerPrice: "₹140",
+//     price: "Rs. 170",
+//     offerPrice: "Rs. 140",
 //     path:"/services/windows-invisible-grills"
 //   },
 //   {
 //     service: "Children Invisible Grills",
 //     image: "/cards/children-safety-invisible-grills-for-balcony.webp",
-//     price: "₹200",
-//     offerPrice: "₹160",
+//     price: "Rs. 200",
+//     offerPrice: "Rs. 160",
 //     path: "/services/children-safety-invisible-grills"
 //   },
 //   {
 //     service: "Anti Bird Invisible Grills",
 //     image: "/cards/anti-bird-invisible-grills.webp",
-//     price: "₹180",
-//     offerPrice: "₹145",
+//     price: "Rs. 180",
+//     offerPrice: "Rs. 145",
 //     path: "/services/anti-bird-invisible-grills"
 //   },
 //   {
 //     service: "Children Safety Invisible Grills",
 //     image: "/cards/balcony-safety-invisible-grills-installation-near-me.webp",
-//     price: "₹200",
-//     offerPrice: "₹165",
+//     price: "Rs. 200",
+//     offerPrice: "Rs. 165",
 //     path: "/services/children-safety-invisible-grills"
 //   },
   
 //   {
 //     service: "Invisible Grills",
 //     image: "/cards/invisible-grill.webp",
-//     price: "₹140",
-//     offerPrice: "₹120",
+//     price: "Rs. 140",
+//     offerPrice: "Rs. 120",
 //     path: "/services/invisible-grills"
 //   },
 //   {
 //     service: "Stainless Steel Invisible Grill",
 //     image: "/cards/stainless-steel-invisible-grill.webp",
-//     price: "₹164",
-//     offerPrice: "₹132",
+//     price: "Rs. 164",
+//     offerPrice: "Rs. 132",
 //     path: "/services/invisible-grills"
 //   },
 //   {
 //     service: "Balcony Invisible Grills",
 //     image: "/cards/Balcony-Invisible-Grills-1.webp",
-//     price: "₹140",
-//     offerPrice: "₹124",
+//     price: "Rs. 140",
+//     offerPrice: "Rs. 124",
 //     path: "/services/balcony-safety-invisible-grills"
 //   },
   
 //   {
 //     service: "Apartment Balcony Invisible Grills",
 //     image: "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
-//     price: "₹175",
-//     offerPrice: "₹122",
+//     price: "Rs. 175",
+//     offerPrice: "Rs. 122",
 //     path: "/services/anti-bird-invisible-grills"
 //   },
   
 //   {
 //     service: "Dry Balcony Invisible Grills",
 //     image: "/cards/dry-balcony-invisible-grills-installation-and-nets.webp",
-//     price: "₹178",
-//     offerPrice: "₹133",
+//     price: "Rs. 178",
+//     offerPrice: "Rs. 133",
 //     path: "/services/balcony-safety-invisible-grills"
 //   },
 //   {
 //     service: "Invisible Grills for Apartment",
 //     image: "/cards/invisible-grills-for-apartment.webp",
-//     price: "₹140",
-//     offerPrice: "₹118",
+//     price: "Rs. 140",
+//     offerPrice: "Rs. 118",
 //     path: "/services/anti-bird-invisible-grills"
 //   },
 //   {
 //     service: "Pigeon Safety Invisible Grills",
 //     image: "/images/pigeon-safety-invisible-grills.webp",
-//     price: "₹180",
-//     offerPrice: "₹149",
+//     price: "Rs. 180",
+//     offerPrice: "Rs. 149",
 //     path: "/services/balcony-safety-invisible-grills"
 //   },
 //   {
 //     service: "Sports Nets Installation",
 //     image: "/images/Box-cricket-practice-net-installation-near-me.webp",
-//     price: "₹25",
-//     offerPrice: "₹19",
+//     price: "Rs. 25",
+//     offerPrice: "Rs. 19",
 //     path:"/services/sports-nets"
 //   }
 // ]
@@ -166,7 +166,7 @@
 
 //       {/* --- DESKTOP VIEW: Horizontal Scroller Fixed --- */}
 //      {/* --- DESKTOP VIEW --- */}
-// <div className="hidden md:flex md:gap-6 pb-4 w-full overflow-x-auto scrollbar-hide scroll-smooth">
+// Legacy desktop layout removed because it created horizontal overflow.
 //   {images.map((item, i) => (
 //     <div
 //       key={i}
@@ -248,85 +248,85 @@ export const defaultImages: ServiceItem[] = [
   {
     service: "Invisible Grill for Windows",
     image: "/cards/window-anti-bird-invisible-grills-installation-near-me.webp",
-    price: "₹170",
-    offerPrice: "₹140",
+    price: "Rs. 170",
+    offerPrice: "Rs. 140",
     path: "/services/windows-invisible-grills",
   },
   {
     service: "Children Invisible Grills",
     image: "/cards/children-safety-invisible-grills-for-balcony.webp",
-    price: "₹200",
-    offerPrice: "₹160",
+    price: "Rs. 200",
+    offerPrice: "Rs. 160",
     path: "/services/children-safety-invisible-grills",
   },
   {
     service: "Anti Bird Invisible Grills",
     image: "/cards/anti-bird-invisible-grills.webp",
-    price: "₹180",
-    offerPrice: "₹145",
+    price: "Rs. 180",
+    offerPrice: "Rs. 145",
     path: "/services/anti-bird-invisible-grills",
   },
   {
     service: "Children Safety Invisible Grills",
     image: "/cards/balcony-safety-invisible-grills-installation-near-me.webp",
-    price: "₹200",
-    offerPrice: "₹165",
+    price: "Rs. 200",
+    offerPrice: "Rs. 165",
     path: "/services/children-safety-invisible-grills",
   },
   {
     service: "Invisible Grills",
     image: "/cards/invisible-grill.webp",
-    price: "₹140",
-    offerPrice: "₹120",
+    price: "Rs. 140",
+    offerPrice: "Rs. 120",
     path: "/services/invisible-grills",
   },
   {
     service: "Stainless Steel Invisible Grill",
     image: "/cards/stainless-steel-invisible-grill.webp",
-    price: "₹164",
-    offerPrice: "₹132",
+    price: "Rs. 164",
+    offerPrice: "Rs. 132",
     path: "/services/invisible-grills",
   },
   {
     service: "Balcony Invisible Grills",
     image: "/cards/Balcony-Invisible-Grills-1.webp",
-    price: "₹140",
-    offerPrice: "₹124",
+    price: "Rs. 140",
+    offerPrice: "Rs. 124",
     path: "/services/balcony-safety-invisible-grills",
   },
   {
     service: "Apartment Balcony Invisible Grills",
     image: "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
-    price: "₹175",
-    offerPrice: "₹122",
+    price: "Rs. 175",
+    offerPrice: "Rs. 122",
     path: "/services/anti-bird-invisible-grills",
   },
   {
     service: "Dry Balcony Invisible Grills",
     image: "/cards/dry-balcony-invisible-grills-installation-and-nets.webp",
-    price: "₹178",
-    offerPrice: "₹133",
+    price: "Rs. 178",
+    offerPrice: "Rs. 133",
     path: "/services/balcony-safety-invisible-grills",
   },
   {
     service: "Invisible Grills for Apartment",
     image: "/cards/invisible-grills-for-apartment.webp",
-    price: "₹140",
-    offerPrice: "₹118",
+    price: "Rs. 140",
+    offerPrice: "Rs. 118",
     path: "/services/anti-bird-invisible-grills",
   },
   {
     service: "Pigeon Safety Invisible Grills",
     image: "/images/pigeon-safety-invisible-grills.webp",
-    price: "₹180",
-    offerPrice: "₹149",
+    price: "Rs. 180",
+    offerPrice: "Rs. 149",
     path: "/services/balcony-safety-invisible-grills",
   },
   {
     service: "Sports Nets Installation",
     image: "/images/Box-cricket-practice-net-installation-near-me.webp",
-    price: "₹25",
-    offerPrice: "₹19",
+    price: "Rs. 25",
+    offerPrice: "Rs. 19",
     path: "/services/sports-nets",
   },
 ];
@@ -346,12 +346,12 @@ function ButtonCardsInner({ images = defaultImages }: { images?: ServiceItem[] }
   };
 
   return (
-    <div className="w-full bg-white pb-1 overflow-x-hidden">
+    <section className="w-full max-w-full overflow-clip bg-white pb-1">
       {/* HEADER */}
       <div className="text-center mt-12 -mb-14 md:mb-4">
-        <h1 className="text-2xl md:text-3xl lg:text-4xl font-extrabold text-green-900">
+        <h2 className="text-2xl md:text-3xl lg:text-4xl font-extrabold text-green-900">
           Our Products & Best Deals
-        </h1>
+        </h2>
         <div className="w-28 h-1 bg-gradient-to-r from-yellow-400 via-orange-400 to-yellow-500 mx-auto mt-4 rounded-full"></div>
       </div>
 
@@ -386,18 +386,18 @@ function ButtonCardsInner({ images = defaultImages }: { images?: ServiceItem[] }
         </AnimatePresence>
       </div>
 
-      {/* DESKTOP SCROLLER (FIXED) */}
-      <div className="hidden md:flex gap-6 pb-4 w-full overflow-x-auto overflow-y-hidden scrollbar-hide scroll-smooth">
+      {/* DESKTOP GRID */}
+      <div className="mx-auto hidden w-full max-w-7xl grid-cols-2 gap-6 px-4 pb-4 md:grid lg:grid-cols-3 xl:grid-cols-4">
         {images.map((item, i) => (
           <div
             key={i}
-            className="w-[240px] lg:w-[260px] flex-shrink-0 bg-white border rounded-lg shadow-sm hover:shadow-md transition-all hover:scale-105 overflow-hidden"
+            className="min-w-0 overflow-hidden rounded-lg border bg-white shadow-sm transition-shadow hover:shadow-md"
           >
             <ProductCardContent item={item} />
           </div>
         ))}
       </div>
-    </div>
+    </section>
   );
 }
 
@@ -413,7 +413,11 @@ function ProductCardContent({
       <div className={`${isMobile ? "h-48" : "h-36"} w-full relative bg-gray-100`}>
         <Image
           src={item.image}
-          alt={item.service}
+          alt={
+            isMobile
+              ? `${item.service} compact service card by Rohini Invisible Grills`
+              : `${item.service} installation service by Rohini Invisible Grills`
+          }
           fill
           className="object-cover"
           unoptimized
@@ -430,6 +434,7 @@ function ProductCardContent({
 
         <Link
           href={item.path}
+          prefetch={false}
           className="text-sm mt-1 text-gray-500
           bg-gradient-to-r from-purple-500 to-pink-500
           bg-[length:0%_2px] bg-left-bottom bg-no-repeat

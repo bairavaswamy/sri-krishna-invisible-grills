@@ -17,7 +17,7 @@ export const webpageSchema = (
 
   inLanguage: "en-IN",
   isPartOf: {
-    "@id": `${url}#website`
+    "@id": "https://rohiniinvisiblegrills.com/#website"
   },
 
   mainEntity: {
@@ -68,11 +68,5 @@ export const webpageSchema = (
       item: url
     }
   ]
-},
-
-  potentialAction: {
-    "@type": "SearchAction",
-    target: `https://rohiniinvisiblegrills.com/search?q={search_term_string}`,
-    "query-input": "required name=search_term_string"
   }
 }};

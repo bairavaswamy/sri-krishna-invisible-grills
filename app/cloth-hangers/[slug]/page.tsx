@@ -7,6 +7,8 @@ import {
   createGrillSeed,
   locationImagesForClothHangers,
   balconyClothHangerImages,
+  compactServiceDescription,
+  compactServiceTitle,
 } from "../../components/seo/utils";
 
 import NearbyServiceSection from "../../components/NearbyAreas";
@@ -77,28 +79,15 @@ export async function generateMetadata({
     locations
   );
 
-  const title =
-    `${primaryKeyword} | Balcony Drying Hangers & Ceiling Cloth Hangers | Rohini`;
-
-  const description =
-    `Looking for cloth hangers in ${location}? Get premium balcony & ceiling cloth drying hangers installed. Rust-proof materials, expert installation, affordable pricing & free site visit in ${location}. Contact Rohini today.`;
-
-  const metadataTitle = customPage?.metadata?.title
-    ? {
-        default: customPage.metadata.title.default,
-        template: customPage.metadata.title.template ?? "%s | Rohini",
-      }
-    : {
-        default: title,
-        template: "%s | Rohini",
-      };
+  const title = compactServiceTitle("Cloth Hangers", location);
+  const description = compactServiceDescription("Cloth Hangers", location);
 
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
 
-    title: metadataTitle,
+    title,
 
-    description: customPage?.metadata?.description ?? description,
+    description,
 
     keywords:
       customPage?.metadata?.keywords ??
@@ -134,8 +123,8 @@ export async function generateMetadata({
     },
 
     openGraph: {
-      title: customPage?.metadata?.openGraph?.title ?? title,
-      description: customPage?.metadata?.openGraph?.description ?? description,
+      title,
+      description,
       url: customPage?.metadata?.openGraph?.url ?? url,
       siteName: "Rohini",
       locale: "en_IN",
@@ -152,8 +141,8 @@ export async function generateMetadata({
 
     twitter: {
       card: "summary_large_image",
-      title: customPage?.metadata?.twitter?.title ?? title,
-      description: customPage?.metadata?.twitter?.description ?? description,
+      title,
+      description,
       images: [image],
     },
 

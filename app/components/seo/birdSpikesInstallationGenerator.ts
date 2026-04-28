@@ -12,6 +12,7 @@ import {
 import { buildFullSchema } from "./schema";
 import { getNearbyLocations } from "./utils";
 import { ServicePage, ServiceSection } from "./types";
+import { enhanceFallbackServicePage } from "./fallbackContentEnhancer";
 
 export const generateBirdSpikesService: (
   location: string,
@@ -80,7 +81,7 @@ export const generateBirdSpikesService: (
     content: nearby.map((n: string) => `Bird spikes installation available in ${n}`)
   };
 
-  return {
+  return enhanceFallbackServicePage({
 
     location,
 
@@ -90,7 +91,7 @@ export const generateBirdSpikesService: (
 
     shortDescription: `Rohini Invisible Grills provides bird spikes installation in ${location}. Stop pigeons, reduce mess, and improve hygiene with strong and affordable bird control solutions near you.`,
 
-    heroImage: "/service/bird-spikes.webp",
+    heroImage: "/images/bird-spikes-installation.webp",
 
     category: "bird-spikes",
 
@@ -185,6 +186,6 @@ export const generateBirdSpikesService: (
 
     schema: buildFullSchema(location, slug, faqs)
 
-  };
+  }, "bird-spikes-installation");
 
 };

@@ -16,6 +16,8 @@ import {
 import { hyderabadLocations } from "../../components/constants/locations";
 import {
   BalconySafetyAntiBirdInvisibleGrills,
+  compactServiceDescription,
+  compactServiceTitle,
   createGrillSeed,
   locationImagesForAntiBirdInvisibleGrills,
   slugify,
@@ -62,26 +64,13 @@ export async function generateMetadata({
   const url = `https://rohiniinvisiblegrills.com/anti-bird-invisible-grills/${params.slug}`;
   const image = getLocationImage(location);
   const primaryKeyword = `Anti Bird Invisible Grills in ${location}`;
-
-  const title = `${primaryKeyword} | Pigeon Safety Nets & Balcony Protection | Rohini Invisible Grills`;
-
-  const description = `Looking for anti bird invisible grills in ${location}? Professional pigeon safety net & balcony protection installation near you. 15+ years experience, ISO quality materials, expert installation, affordable price & free site visit in ${location}. Call Rohini Invisible Grills today.`;
-
-  const metadataTitle = customPage?.metadata?.title
-    ? {
-        default: customPage.metadata.title.default,
-        template:
-          customPage.metadata.title.template ?? "%s | Rohini Invisible Grills",
-      }
-    : {
-        default: title,
-        template: "%s | Rohini Invisible Grills",
-      };
+  const title = compactServiceTitle("Anti Bird Invisible Grills", location);
+  const description = compactServiceDescription("Anti Bird Invisible Grills", location);
 
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
-    title: metadataTitle,
-    description: customPage?.metadata?.description ?? description,
+    title,
+    description,
     keywords: customPage?.metadata?.keywords ?? Array.from(
       new Set([
         primaryKeyword,
@@ -111,8 +100,8 @@ export async function generateMetadata({
       },
     },
     openGraph: {
-      title: customPage?.metadata?.openGraph?.title ?? title,
-      description: customPage?.metadata?.openGraph?.description ?? description,
+      title,
+      description,
       url: customPage?.metadata?.openGraph?.url ?? url,
       siteName: "Rohini Invisible Grills",
       locale: "en_IN",
@@ -128,8 +117,8 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      title: customPage?.metadata?.twitter?.title ?? title,
-      description: customPage?.metadata?.twitter?.description ?? description,
+      title,
+      description,
       images: [image],
     },
     other: {

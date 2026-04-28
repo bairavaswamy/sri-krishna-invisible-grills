@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { combineBengaloreLocations, hyderabadLocations } from "../../components/constants/locations";
-import { locationHash, slugify, locationImages, createGrillSeed, locationImagesForAntiBirdNetInstallation, BalconySafetyAntiBirdNetInstallation, } from "../../components/seo/utils";
+import { locationHash, slugify, locationImages, createGrillSeed, locationImagesForAntiBirdNetInstallation, BalconySafetyAntiBirdNetInstallation, compactServiceDescription, compactServiceTitle } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
 import { Phone, MessageCircle, Plus, Minus } from "lucide-react";
 import Image from "next/image";
@@ -55,12 +55,8 @@ const url = `https://rohiniinvisiblegrills.com/anti-bird-net-installation/${para
 
   const primaryKeyword = `Anti Bird Net Installation in ${location}`;
   const autokeywords = generateLocationKeywords(location, locations);
-
-  const title =
-    `${primaryKeyword} | Balcony Safety Nets & Pigeon Control | Rohini Safety Nets`;
-
-  const description =
-    `Looking for anti bird net installation in ${location}? Get top rated balcony safety nets, pigeon nets, and bird control solutions near you. 15+ years experience, high quality materials, expert installation, and affordable pricing in ${location}.`;
+  const title = compactServiceTitle("Anti Bird Net Installation", location);
+  const description = compactServiceDescription("Anti Bird Net Installation", location);
 
   /* =========================
      METADATA RETURN
@@ -69,18 +65,9 @@ const url = `https://rohiniinvisiblegrills.com/anti-bird-net-installation/${para
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
 
-    title: customPage?.metadata?.title
-      ? {
-          default: customPage.metadata.title.default,
-          template:
-            customPage.metadata.title.template ?? "%s | Rohini Invisible Grills",
-        }
-      : {
-          default: title,
-          template: "%s | Rohini Invisible Grills",
-        },
+    title,
 
-    description: customPage?.metadata?.description ?? description,
+    description,
 
     keywords: customPage?.metadata?.keywords ?? Array.from(new Set([
     //   primaryKeyword,
@@ -113,8 +100,8 @@ const url = `https://rohiniinvisiblegrills.com/anti-bird-net-installation/${para
     },
 
     openGraph: {
-      title: customPage?.metadata?.openGraph?.title ?? title,
-      description: customPage?.metadata?.openGraph?.description ?? description,
+      title,
+      description,
       url: customPage?.metadata?.openGraph?.url ?? url,
       siteName: "Rohini Invisible Grills",
       locale: "en_IN",
@@ -131,8 +118,8 @@ const url = `https://rohiniinvisiblegrills.com/anti-bird-net-installation/${para
 
     twitter: {
       card: "summary_large_image",
-      title: customPage?.metadata?.twitter?.title ?? title,
-      description: customPage?.metadata?.twitter?.description ?? description,
+      title,
+      description,
       images: [image],
     },
 

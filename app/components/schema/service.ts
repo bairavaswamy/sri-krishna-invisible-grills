@@ -66,9 +66,10 @@ export const serviceSchema = (
       ...locationData, // ✅ dynamic address + geo injected
     },
 
-    serviceOutput: {
-      "@id": `${url}#product-${slug}-${locationSlug}`,
-    },
+    // Product rich snippet output is intentionally disabled.
+    // serviceOutput: {
+    //   "@id": `${url}#product-${slug}-${locationSlug}`,
+    // },
 
     serviceType: title,
 
@@ -85,9 +86,10 @@ export const serviceSchema = (
       name: `${title} Services`
     },
 
-    aggregateRating: {
-      "@id": ids.ratingId,
-    },
+    // Review/rating rich snippet output is intentionally disabled.
+    // aggregateRating: {
+    //   "@id": ids.ratingId,
+    // },
 
     offer: {
       "@id": ids.offerId,

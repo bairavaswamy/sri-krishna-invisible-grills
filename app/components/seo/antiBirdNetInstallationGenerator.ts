@@ -12,6 +12,7 @@ import {
 import { buildFullSchema } from "./schema";
 import { getNearbyLocations } from "./utils";
 import { ServicePage, ServiceSection } from "./types";
+import { enhanceFallbackServicePage } from "./fallbackContentEnhancer";
 
 export const generateAntiBirdNetService:
 (location: string, locations: string[], index: number) => ServicePage =
@@ -75,7 +76,7 @@ answer:`No. The nets are designed to be light and less visible, so they allow ai
     content: nearby.map((n: string) => `Anti bird net installation available in ${n}`)
   };
 
-  return {
+  return enhanceFallbackServicePage({
 
     location: location,
 
@@ -85,7 +86,7 @@ answer:`No. The nets are designed to be light and less visible, so they allow ai
 
     shortDescription: `Rohini Safety Nets provides anti bird net installation in ${location}. Stop pigeons, prevent nesting, and keep balconies clean with high quality safety nets near you.`,
 
-    heroImage: "/service/safety-nets.webp",
+    heroImage: "/birdnet/anti-bird-nets-installation.webp",
 
     category: "safety-nets",
 
@@ -181,6 +182,6 @@ answer:`No. The nets are designed to be light and less visible, so they allow ai
 
     schema: buildFullSchema(location, slug, faqs)
 
-  };
+  }, "anti-bird-net-installation");
 
 };

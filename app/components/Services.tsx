@@ -106,6 +106,7 @@ export default function Services(){
                     </a>
                    <Link
                       href={slug} 
+                      prefetch={false}
                       className="hidden lg:inline-flex items-center gap-2 px-2 py-2 
                                 bg-transparent border border-primary text-primary 
                                 rounded-md text-sm"

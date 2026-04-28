@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { hyderabadLocations,combineBengaloreLocations } from "../../components/constants/locations";
-import { locationHash, slugify, locationImages, createGrillSeed, locationImagesForBalconySafetyInvisibleGrills, BalconySafetyInvisibleGrillsProductImages, locationImagesForBirdSpikesInstallation, BalconySafetyBirdSpikesInstallation } from "../../components/seo/utils";
+import { locationHash, slugify, locationImages, createGrillSeed, locationImagesForBalconySafetyInvisibleGrills, BalconySafetyInvisibleGrillsProductImages, locationImagesForBirdSpikesInstallation, BalconySafetyBirdSpikesInstallation, compactServiceDescription, compactServiceTitle } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
 import { Phone, MessageCircle,Plus, Minus } from "lucide-react";
 import Image from "next/image";
@@ -60,33 +60,19 @@ export async function generateMetadata({
     location,
     locations
   );
-  const title =
-    `${primaryKeyword} | Anti Bird Spikes & Balcony Protection | Rohini Invisible Grills`;
-
-  const description =
-    `Looking for Bird Spikes Installation in ${location}? Professional pigeon safety net & balcony protection installation near you. 15+ years experience, ISO quality materials, expert installation, affordable price & free site visit in ${location}. Call Rohini Invisible Grills today.`;
+  const title = compactServiceTitle("Bird Spikes Installation", location);
+  const description = compactServiceDescription("Bird Spikes Installation", location);
 
   /* =========================
      METADATA RETURN
   ========================== */
 
-  const metadataTitle = customPage?.metadata?.title
-    ? {
-        default: customPage.metadata.title.default,
-        template:
-          customPage.metadata.title.template ?? "%s | Rohini Invisible Grills",
-      }
-    : {
-        default: title,
-        template: "%s | Rohini Invisible Grills",
-      };
-
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
 
-    title: metadataTitle,
+    title,
 
-    description: customPage?.metadata?.description ?? description,
+    description,
 
    keywords: customPage?.metadata?.keywords ?? [
   `Bird spikes installation ${location}`,
@@ -116,8 +102,8 @@ export async function generateMetadata({
     },
 
     openGraph: {
-      title: customPage?.metadata?.openGraph?.title ?? title,
-      description: customPage?.metadata?.openGraph?.description ?? description,
+      title,
+      description,
       url: customPage?.metadata?.openGraph?.url ?? url,
       siteName: "Rohini Invisible Grills",
       locale: "en_IN",
@@ -134,8 +120,8 @@ export async function generateMetadata({
 
     twitter: {
       card: "summary_large_image",
-      title: customPage?.metadata?.twitter?.title ?? title,
-      description: customPage?.metadata?.twitter?.description ?? description,
+      title,
+      description,
       images: [image],
     },
 

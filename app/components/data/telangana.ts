@@ -224,7 +224,7 @@ const KurnollLocations = [
 const kadapaLocations = [
   "Kadapa",
   "Akkayapalli",
-  "NGO Colony",
+  "NGO Colony, Kadapa",
   "RIMS Road",
   "Railway Station Road",
   "Yerramukkapalli",
@@ -290,7 +290,7 @@ export const outerlocationParentMap = {
   // KADAPA
   kadapa: "kadapa",
   akkayapalli: "kadapa",
-  "ngo-colony ": "kadapa",
+  "ngo-colony-kadapa": "kadapa",
   "rims-road": "kadapa",
   "railway-station-road": "kadapa",
   yerramukkapalli: "kadapa",
@@ -333,6 +333,51 @@ export const outerlocationParentMap = {
   bannimantap: "mysore"
 };
 
+const linkedNearbyLocationAliases = [
+  "Ameenpur",
+  "Aparna Cyber Zon",
+  "Beeramguda",
+  "Chaitanyapuri",
+  "Chevella Road",
+  "Darbeerpura",
+  "Fatehnagar",
+  "Gajwel",
+  "Ghatkesar",
+  "Goshamahal",
+  "Greenlands Colony",
+  "Habsiguda",
+  "Karwan",
+  "Kismatpur",
+  "Koti",
+  "Langar Houz",
+  "Langer Houz",
+  "LB Nagar",
+  "Madhinaguda",
+  "Madinaguda",
+  "Mehdipatnam",
+  "Mettuguda Road",
+  "Moin Bagh",
+  "Musheerabad",
+  "Nagaram Nizamabad",
+  "Nampally",
+  "Nanalnagar",
+  "RC Puram",
+  "S R Nagar",
+  "Saidabad",
+  "Sri Nagar",
+  "Tolichowki",
+  "Vikarabad",
+];
 
-export const hyderabadOtherLocations = [...hyderabadHighConversionLocations,...hyderabadCommunities,...hyderabadITCorridorLocations,...hyderabadGrowthZones,...hyderabadPremiumAreas,...hyderabadSearchVariations,...OtherLocations,...KurnollLocations,...kadapaLocations,...tirupathiLocations,...mysoreLocations]
+export const hyderabadOtherLocations = [
+  ...hyderabadHighConversionLocations,
+  ...hyderabadCommunities,
+  ...hyderabadITCorridorLocations,
+  ...hyderabadGrowthZones,
+  ...hyderabadPremiumAreas,
+  ...hyderabadSearchVariations,
+  ...linkedNearbyLocationAliases,
+  ...kadapaLocations,
+  ...OtherLocations,
+]
 

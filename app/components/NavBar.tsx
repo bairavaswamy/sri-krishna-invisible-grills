@@ -79,21 +79,20 @@ const Header: React.FC = () => {
   return (
     <>
       <div className="fixed top-0 left-0 z-50 w-full bg-white shadow-md">
-        <header className="flex items-center justify-between bg-gradient-to-br from-white via-orange-50 to-gray-100 px-6 pt-4 pb-0">
-          <div className="flex items-center gap-3">
-            <Link href="/">
+        <header className="flex items-center justify-between gap-3 bg-gradient-to-br from-white via-orange-50 to-gray-100 px-3 pt-3 pb-1 sm:px-6 sm:pt-4 sm:pb-0">
+          <div className="flex min-w-0 flex-1 items-center gap-2 sm:gap-3">
+            <Link href="/" prefetch={false}>
               <Image
                 src="/Rohini_logo.webp"
                 alt="Rohini Invisible Grills"
                 width={120}
                 height={95}
-                priority
-                className="h-16 w-auto sm:h-22"
+                className="h-12 w-auto sm:h-16"
               />
             </Link>
 
-            <div>
-              <p className="relative text-sm font-extrabold tracking-wider text-gray-800 sm:text-lg md:text-xl">
+            <div className="min-w-0">
+              <p className="relative max-w-[175px] truncate text-sm font-extrabold tracking-wider text-gray-800 sm:max-w-none sm:text-lg md:text-xl">
                 <span className="absolute inset-0 bg-gradient-to-r from-yellow-600 via-yellow-400 to-yellow-500 bg-clip-text text-transparent opacity-70 blur-sm"></span>
                 <span className="relative bg-gradient-to-r from-yellow-700 via-yellow-500 to-yellow-400 bg-clip-text text-transparent">
                   Rohini Invisible Grills
@@ -116,6 +115,7 @@ const Header: React.FC = () => {
             <div className="flex items-center space-x-2">
               <Link
                 href="/"
+                prefetch={false}
                 className="group relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-orange-500"
               >
                 Home
@@ -126,6 +126,7 @@ const Header: React.FC = () => {
 
               <Link
                 href="/contact-us"
+                prefetch={false}
                 className="group relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-orange-500"
               >
                 Contact Us
@@ -134,6 +135,7 @@ const Header: React.FC = () => {
 
               <Link
                 href="/about"
+                prefetch={false}
                 className="group relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-orange-500"
               >
                 About Us
@@ -151,7 +153,7 @@ const Header: React.FC = () => {
             </div>
           </nav>
 
-          <div className="flex items-center gap-3">
+          <div className="flex shrink-0 items-center gap-3">
             <div className="hidden sm:inline-block">
               <div className="flex items-center">
                 <button
@@ -166,21 +168,27 @@ const Header: React.FC = () => {
               </div>
             </div>
 
-            <div className="block lg:hidden">
+            <div className="block shrink-0 lg:hidden">
               <button
-                aria-label="menu"
+                type="button"
+                aria-label={open ? "Close menu" : "Open menu"}
+                aria-expanded={open}
                 onClick={() => setOpen(!open)}
-                className="rounded-md p-2"
+                className="relative z-[70] inline-flex h-11 w-11 items-center justify-center rounded-full border border-orange-200 bg-white text-slate-900 shadow-md shadow-orange-100 transition hover:border-orange-400 hover:text-orange-500 focus:outline-none focus:ring-2 focus:ring-orange-400"
               >
-                <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
-                  <path
-                    d="M4 6h16M4 12h16M4 18h16"
-                    stroke="#111827"
-                    strokeWidth="2"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                  />
-                </svg>
+                {open ? (
+                  <X size={22} aria-hidden="true" />
+                ) : (
+                  <svg width="26" height="26" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <path
+                      d="M4 6h16M4 12h16M4 18h16"
+                      stroke="currentColor"
+                      strokeWidth="2.2"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                  </svg>
+                )}
               </button>
             </div>
           </div>
@@ -246,6 +254,7 @@ const Header: React.FC = () => {
                       <Link
                         key={service.id}
                         href={service.href}
+                        prefetch={false}
                         onClick={closeSearch}
                         className="block rounded-xl border border-transparent bg-white px-4 py-3 text-sm font-medium text-slate-700 shadow-sm transition hover:border-orange-200 hover:text-orange-500"
                       >
@@ -317,6 +326,7 @@ const Header: React.FC = () => {
                       <Link
                         key={item.id}
                         href={item.href}
+                        prefetch={false}
                         onClick={closeSearch}
                         className="rounded-2xl border border-slate-200 bg-white px-4 py-4 transition hover:border-orange-300 hover:shadow-md"
                       >

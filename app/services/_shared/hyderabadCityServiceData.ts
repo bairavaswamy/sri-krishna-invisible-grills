@@ -650,10 +650,10 @@ const serviceConfigs: Record<ServiceSlug, ServiceConfig> = {
     metadataDescription:
       "Book anti bird net installation in Hyderabad for balconies, utility spaces, shafts, windows, ducts, and sit-outs. Rohini Invisible Grills delivers premium pigeon-control netting with cleaner routing, better finish, and city-specific planning across Hyderabad.",
     category: "Bird Control",
-    image: "/birdnet/balocny-safety-nets-installation.webp",
+    image: "/birdnet/cards/balcony-safety-nets-near-me.webp",
     galleryImages: [
-      "/birdnet/balocny-safety-nets-installation.webp",
-      "/birdnet/transparabt-net-installation.webp",
+      "/birdnet/cards/balcony-safety-nets-near-me.webp",
+      "/birdnet/cards/window-safety-nets.webp",
     ],
     keywords: [
       "Anti bird net installation in Hyderabad",
@@ -1114,7 +1114,7 @@ const serviceConfigs: Record<ServiceSlug, ServiceConfig> = {
     galleryImages: [
       "/spikes/anti-bird-spikes-installation-near-me.webp",
       "/spikes/bird-control-spikes.webp",
-      "/spikes/metalic-bird-spikes-installation-near-me.webp",
+      "/spikes/bird-control-spikes.webp",
     ],
     keywords: [
       "Bird spikes installation in Hyderabad",

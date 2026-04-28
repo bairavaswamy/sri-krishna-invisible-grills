@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import AboutClient from "../components/aboutClient";
+import { socialProfileUrls } from "../components/constants/socialProfiles";
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
     title:
-      "Rohini Invisible Grills | Best Invisible Grills Near Me | Balcony Safety Grills Installation",
+      "About Rohini Invisible Grills Hyderabad",
     description:
-      "Looking for invisible grills near you? Rohini Invisible Grills provides balcony safety grills, anti bird grills, children safety grills & sports nets installation with best price, expert service & fast installation. Call 8790518724.",
+      "Learn about Rohini Invisible Grills, Hyderabad installers for invisible grills, balcony safety grills, bird protection, sports nets, and child-safe windows.",
     keywords: [
       "invisible grills near me",
       "best invisible grills",
@@ -22,9 +23,9 @@ export async function generateMetadata(): Promise<Metadata> {
     },
     openGraph: {
       title:
-        "Best Invisible Grills Near Me | Rohini Invisible Grills",
+        "About Rohini Invisible Grills Hyderabad",
       description:
-        "Premium invisible grill installation with best price & fast service. Call now.",
+        "Hyderabad-based invisible grill, balcony safety, bird protection, and sports net installation services.",
       url: "https://rohiniinvisiblegrills.com/about",
       siteName: "Rohini Invisible Grills",
       images: [
@@ -36,6 +37,13 @@ export async function generateMetadata(): Promise<Metadata> {
       ],
       locale: "en_IN",
       type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "About Rohini Invisible Grills Hyderabad",
+      description:
+        "Hyderabad-based invisible grill, balcony safety, bird protection, and sports net installation services.",
+      images: ["/images/invisible-grill-for-balcony.webp"],
     },
   };
 }
@@ -50,17 +58,18 @@ export default function AboutPage() {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
       "name": "Rohini Invisible Grills",
-      "image": "https://yourdomain.com/images/invisible-grill-for-balcony.webp",
+      "image": "https://rohiniinvisiblegrills.com/images/invisible-grill-for-balcony.webp",
       "telephone": "+91-8790518724",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "IN"
       },
       "areaServed": "India",
-      "url": "https://yourdomain.com",
+      "url": "https://rohiniinvisiblegrills.com/about",
       "description":
         "Rohini Invisible Grills provides best invisible grill installation, balcony safety grills, anti bird grills, and sports nets services.",
-      "priceRange": "₹₹",
+      "sameAs": socialProfileUrls,
+      "priceRange": "INR",
       "openingHours": "Mo-Su 08:00-20:00"
     }),
   }}

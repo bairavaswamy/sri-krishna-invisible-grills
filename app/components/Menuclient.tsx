@@ -94,6 +94,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
             <div className="grid grid-cols-2 gap-3">
               <Link
                 href="/"
+                prefetch={false}
                 onClick={closeMenuAndReset}
                 className="block rounded-xl border border-slate-300 bg-white px-4 py-2 text-center text-sm font-medium text-slate-700 shadow-sm transition hover:border-orange-300 hover:bg-orange-50"
               >
@@ -102,6 +103,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
 
               <Link
                 href="/about"
+                prefetch={false}
                 onClick={closeMenuAndReset}
                 className="block rounded-xl border border-slate-300 bg-white px-4 py-2 text-center text-sm font-medium text-slate-700 shadow-sm transition hover:border-orange-300 hover:bg-orange-50"
               >
@@ -110,6 +112,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
 
               <Link
                 href="/contact-us"
+                prefetch={false}
                 onClick={closeMenuAndReset}
                 className="col-span-2 block rounded-xl border border-orange-200 bg-gradient-to-r from-orange-500 to-amber-500 px-4 py-2 text-center text-sm font-semibold text-white shadow-sm transition hover:opacity-95"
               >
@@ -169,6 +172,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                         <Link
                           key={service.id}
                           href={service.href}
+                          prefetch={false}
                           onClick={closeMenuAndReset}
                           className="block rounded-xl border border-slate-200 px-3 py-2 text-sm font-medium text-slate-700 transition hover:border-orange-300 hover:text-orange-500"
                         >
@@ -209,6 +213,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                             <Link
                               key={item.id}
                               href={item.href}
+                              prefetch={false}
                               onClick={closeMenuAndReset}
                               className="block rounded-xl border border-slate-200 px-3 py-3 text-sm transition hover:border-orange-300"
                             >
@@ -244,6 +249,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                   <div className="flex items-center gap-3">
                     <Link
                       href={`/services/${service.slug}`}
+                      prefetch={false}
                       onClick={closeMenuAndReset}
                       className="flex-1 text-left font-semibold text-slate-800 transition hover:text-green-600"
                     >
@@ -275,6 +281,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                         <Link
                           key={`${service.slug}-${location}`}
                           href={`/${service.slug}/${slugify(location)}`}
+                          prefetch={false}
                           onClick={closeMenuAndReset}
                           className="block rounded-md px-3 py-1.5 text-sm font-medium text-slate-600 transition-all duration-200 hover:bg-orange-100 hover:text-green-600"
                         >
@@ -284,6 +291,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
 
                       <Link
                         href={`/services/${service.slug}`}
+                        prefetch={false}
                         onClick={closeMenuAndReset}
                         className="mt-2 block text-sm font-semibold text-blue-600 hover:underline"
                       >

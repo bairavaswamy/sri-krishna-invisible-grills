@@ -2,11 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-html, body, #__next {
-  height: 100%;
+html {
+  min-height: 100%;
+  overflow-x: clip;
 }
 
 body {
+  min-height: 100%;
+  overflow-x: clip;
   background: linear-gradient(180deg, #f9fafb 0%, #eefaf0 100%);
   color: #0f172a;
   -webkit-font-smoothing: antialiased;
@@ -90,9 +93,5 @@ img { max-width: 100%; height: auto; display: block; }
     -ms-overflow-style: none;
     scrollbar-width: none;
   }
-}
-
-html, body {
-  overflow-x: hidden;
 }
 

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function ContactDetailsBar() {
   return (
-    <div className="bg-[#1f2937] text-white w-full text-sm transition-transform duration-300">
+    <div className="bg-[#1f2937] text-white w-full -mt-[10px] md:mt-[2px] text-sm transition-transform duration-300">
       {/* Phone Bar */}
       <div className="flex flex-wrap justify-center gap-1 md:gap-6 py-2 md:py-3">
         <a href="tel:+918790518724"

@@ -1,7 +1,4 @@
-"use client";
-
 import Link from "next/link";
-import { Star } from "lucide-react";
 import { Service } from "../data/productServices";
 
 interface ProductCardProps {
@@ -30,22 +27,21 @@ export const ProductCard: React.FC<ProductCardProps> = ({ service }) => {
       <div className="relative overflow-hidden">
   <img
     src={service.image}
-    alt={service.title}
+    alt={`${service.title} product and installation service by Rohini Invisible Grills`}
+    loading="lazy"
+    decoding="async"
     className="w-full h-64 object-cover transition-transform duration-700 group-hover:scale-110"
   />
 
-  {/* ✅ SAME Offer Badge (unchanged) */}
   <div className="absolute top-4 left-4 bg-black text-white w-14 h-14 rounded-full flex items-center justify-center font-semibold text-xs shadow-lg">
     {service.offerPrice}
   </div>
 
-  {/* ⭐ Rating (Clean Premium Style) */}
   <div className="absolute top-4 right-4 bg-white/90 backdrop-blur-md px-3 py-1 rounded-full flex items-center gap-1 text-xs font-semibold shadow border border-white/40">
     <span className="text-yellow-500">★</span>
     <span className="text-gray-800">{service.rating}</span>
   </div>
 
-  {/* 🔥 Bottom Badge (Elegant Minimal Tag) */}
   {service.badge && (
     <div className="absolute bottom-4 right-4">
       <span className="bg-black text-white text-[11px] px-3 py-1 rounded-full shadow-md backdrop-blur-sm">
@@ -70,6 +66,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ service }) => {
 
         <Link
           href={`/services/${service.slug}`}
+          prefetch={false}
           className="inline-block bg-black text-white text-sm font-medium py-2 px-6 rounded-full hover:bg-gray-800 transition"
         >
           Explore Product

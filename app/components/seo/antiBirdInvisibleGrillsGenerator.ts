@@ -12,6 +12,7 @@ import {
 import { buildFullSchema } from "./schema";
 import { getNearbyLocations } from "./utils";
 import { ServicePage, ServiceSection } from "./types";
+import { enhanceFallbackServicePage } from "./fallbackContentEnhancer";
 
 export const generateAntiBirdInvisibleGrillservice:
 (location: string, locations: string[], index: number) => ServicePage =
@@ -75,7 +76,7 @@ answer:`No. The stainless steel wires are very thin and almost invisible, so the
     content: nearby.map((n: string) => `Anti bird invisible grill installation available in ${n}`)
   };
 
-  return {
+  return enhanceFallbackServicePage({
 
     location: location,
 
@@ -85,7 +86,7 @@ answer:`No. The stainless steel wires are very thin and almost invisible, so the
 
     shortDescription: `Rohini Invisible Grills provides anti bird invisible grill installation in ${location}. Stop pigeons, prevent nesting, and keep balconies clean with strong stainless steel bird protection systems near you.`,
 
-    heroImage: "/service/invisible-grills.webp",
+    heroImage: "/images/invisible-grill-for-balcony.webp",
 
     category: "invisible-grills",
 
@@ -181,6 +182,6 @@ answer:`No. The stainless steel wires are very thin and almost invisible, so the
 
     schema: buildFullSchema(location, slug, faqs)
 
-  };
+  }, "anti-bird-invisible-grills");
 
 };

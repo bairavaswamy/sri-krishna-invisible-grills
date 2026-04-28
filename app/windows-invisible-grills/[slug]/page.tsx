@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { hyderabadLocations } from "../../components/constants/locations";
-import { locationHash, slugify, locationImages, createGrillSeed, locationImagesForWindowsInvisibleGrills, BalconySafetyWindowsInvisibleGrills, } from "../../components/seo/utils";
+import { locationHash, slugify, locationImages, createGrillSeed, locationImagesForWindowsInvisibleGrills, BalconySafetyWindowsInvisibleGrills, compactServiceDescription, compactServiceTitle } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
 import { Phone, MessageCircle,Plus, Minus } from "lucide-react";
 import Image from "next/image";
@@ -64,35 +64,18 @@ export async function generateMetadata({
     location,
     locations
   );
-  const title =
-    `${primaryKeyword} | windows Pigeon Safety & Balcony Protection & bird spikes | Rohini Invisible Grills`;
-
-  const description = `
-Looking for windows invisible grills installation in ${location}? 
-Secure your windows with strong stainless steel invisible grills that prevent falls and birds while keeping ventilation and outside view clear. 
-15+ years experience, expert fitting & free site inspection by Rohini Invisible Grills.
-`;
+  const title = compactServiceTitle("Windows Invisible Grills", location);
+  const description = compactServiceDescription("Windows Invisible Grills", location);
   /* =========================
      METADATA RETURN
   ========================== */
 
-  const metadataTitle = customPage?.metadata?.title
-    ? {
-        default: customPage.metadata.title.default,
-        template:
-          customPage.metadata.title.template ?? "%s | Rohini Invisible Grills",
-      }
-    : {
-        default: title,
-        template: "%s | Rohini Invisible Grills",
-      };
-
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
 
-    title: metadataTitle,
+    title,
 
-    description: customPage?.metadata?.description ?? description,
+    description,
 
    keywords: customPage?.metadata?.keywords ?? Array.from(new Set([
   // ...autokeywords,
@@ -130,8 +113,8 @@ Secure your windows with strong stainless steel invisible grills that prevent fa
     },
 
     openGraph: {
-      title: customPage?.metadata?.openGraph?.title ?? title,
-      description: customPage?.metadata?.openGraph?.description ?? description,
+      title,
+      description,
       url: customPage?.metadata?.openGraph?.url ?? url,
       siteName: "Rohini Invisible Grills",
       locale: "en_IN",
@@ -148,8 +131,8 @@ Secure your windows with strong stainless steel invisible grills that prevent fa
 
     twitter: {
       card: "summary_large_image",
-      title: customPage?.metadata?.twitter?.title ?? title,
-      description: customPage?.metadata?.twitter?.description ?? description,
+      title,
+      description,
       images: [image],
     },
 

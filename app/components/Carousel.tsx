@@ -1,21 +1,20 @@
 'use client'
 import { useEffect, useRef, useState } from 'react'
-import Image from 'next/image'
 
 const heroImages = [
-  { 
+  {
     src: '/images/balcony-invisible-safety-installation.webp',
-    mobileSrc: '/cards/balcony-safety-invisible-grills-installation-near-me.webp', // ✅ mobile image
+    mobileSrc: '/cards/balcony-safety-invisible-grills-installation-near-me.webp',
     alt: 'Anti-bird invisible grills in tellapur hyderabad',
     dec: 'Protect your balcony with strong invisible grills in Tellapur Hyderabad. Keep birds out, kids safe, and enjoy fresh air without compromising view.'
   },
-  { 
-    src: '/images/invisible-grill.webp?size=200w200h', 
+  {
+    src: '/images/invisible-grill.webp',
     alt: 'Invisible stainless steel grills closeup in Hyderabad',
     dec: 'See our invisible stainless steel grills up close. Stylish, strong, and safe for kids and pets. Perfect for homes needing safety without ugly bars.'
   },
-  { 
-    src: '/images/children-safety-invisible-grills-for-balcony.webp?size=200w200h', 
+  {
+    src: '/images/children-safety-invisible-grills-for-balcony.webp',
     alt: 'Durable stainless-steel invisible grills',
     dec: 'Keep children safe on your balcony with durable invisible grills. Made of stainless steel, these grills are strong, safe, and look elegant too.'
   },
@@ -23,25 +22,19 @@ const heroImages = [
 
 export default function Carousel(){
   const [index, setIndex] = useState(0)
-  const [isMobile, setIsMobile] = useState(false)
   const intervalRef = useRef<number | null>(null)
 
-  // ✅ detect mobile screen
-  useEffect(() => {
-    const checkScreen = () => setIsMobile(window.innerWidth < 768)
-    checkScreen()
-
-    window.addEventListener('resize', checkScreen)
-    return () => window.removeEventListener('resize', checkScreen)
-  }, [])
-
-  // ✅ auto slider
+  // Rotate slides automatically after the first paint.
   useEffect(() => {
     const advance = () => setIndex((i) => (i + 1) % heroImages.length)
+    let startTimer: number | null = null
 
-    intervalRef.current = window.setInterval(advance, 4500)
+    startTimer = window.setTimeout(() => {
+      intervalRef.current = window.setInterval(advance, 4500)
+    }, 15000)
 
     return () => {
+      if (startTimer) window.clearTimeout(startTimer)
       if (intervalRef.current) window.clearInterval(intervalRef.current)
     }
   }, [])
@@ -58,21 +51,21 @@ export default function Carousel(){
         >
           {heroImages.map((item, i) => {
 
-            const imageSrc =
-              i === 0 && isMobile && item.mobileSrc
-                ? item.mobileSrc
-                : item.src
-
             return (
               <div key={i} className="w-full h-full flex-shrink-0 relative">
-                
-                <Image
-                  src={imageSrc}
-                  alt={item.alt}
-                  fill
-                  className="object-cover"
-                  priority={i === 0}
-                />
+                <picture className="absolute inset-0 block">
+                  {item.mobileSrc && (
+                    <source media="(max-width: 767px)" srcSet={item.mobileSrc} />
+                  )}
+                  <img
+                    src={item.src}
+                    alt={item.alt}
+                    className="h-full w-full object-cover"
+                    loading={i === 0 ? "eager" : "lazy"}
+                    decoding={i === 0 ? "sync" : "async"}
+                    fetchPriority={i === 0 ? "high" : "auto"}
+                  />
+                </picture>
 
                 {/* Caption Overlay */}
                 <div className="absolute inset-0 flex items-center justify-start md:justify-center bg-black/15 text-left md:text-center">
@@ -92,11 +85,12 @@ export default function Carousel(){
                       {item.dec}
                     </p>
 
-                    <button className="mt-4 px-4 py-2 md:px-8 md:py-3 border-2 hover:bg-gray-800 md:border-4 border-[#C9A227] text-[#C9A227] font-semibold hover:scale-105 transition">
-                      <a href="tel:+919900000000" className="font-medium">
-                        Call Now
-                      </a>
-                    </button>
+                    <a
+                      href="tel:+918790518724"
+                      className="mt-4 inline-flex px-4 py-2 md:px-8 md:py-3 border-2 hover:bg-gray-800 md:border-4 border-[#C9A227] text-[#C9A227] font-semibold hover:scale-105 transition"
+                    >
+                      Call Now
+                    </a>
                   </div>
 
                 </div>

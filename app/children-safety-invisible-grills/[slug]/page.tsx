@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { hyderabadLocations } from "../../components/constants/locations";
-import { slugify, createGrillSeed, locationImagesForChildrenSafetyInvisibleGrills, BalconySafetyChildrenSafetyInvisibleGrills, } from "../../components/seo/utils";
+import { slugify, createGrillSeed, locationImagesForChildrenSafetyInvisibleGrills, BalconySafetyChildrenSafetyInvisibleGrills, compactServiceDescription, compactServiceTitle } from "../../components/seo/utils";
 import NearbyServiceSection from "../../components/NearbyAreas";
 import { Phone, MessageCircle,} from "lucide-react";
 import Image from "next/image";
@@ -58,42 +58,31 @@ export async function generateMetadata({
      ADVANCED SEO VARIABLES
   ========================== */
 
-  const primaryKeyword = `Children safety Invisible Grills in ${location}`;
+  const primaryKeyword = `Children Safety Invisible Grills in ${location}`;
    const autokeywords = generateLocationKeywords(
     location,
     locations
   );
-  const title =
-    `${primaryKeyword} | Pigeon Safety & anti fall Nets & Balcony Protection | Rohini Invisible Grills`;
+  const title = compactServiceTitle("Children Safety Invisible Grills", location);
+  const description = compactServiceDescription("Children Safety Invisible Grills", location);
 
-  const description = `
+  /*
 Need children safety invisible grills in ${location}? 
 Secure your balcony with child-proof invisible grills that prevent accidents while keeping your view open. 
-15+ years experience, durable stainless steel cables, expert fitting & free site visit across ${location}. 
+Site-measured fitting, durable stainless steel cables, expert installation & free site visit across ${location}.
 Rohini Invisible Grills — safety parents trust.
-`;
+  */
 
   /* =========================
      METADATA RETURN
   ========================== */
 
-  const metadataTitle = customPage?.metadata?.title
-    ? {
-        default: customPage.metadata.title.default,
-        template:
-          customPage.metadata.title.template ?? "%s | Rohini Invisible Grills",
-      }
-    : {
-        default: title,
-        template: "%s | Rohini Invisible Grills",
-      };
-
   return {
     metadataBase: new URL("https://rohiniinvisiblegrills.com"),
 
-    title: metadataTitle,
+    title,
 
-    description: customPage?.metadata?.description ?? description,
+    description,
 
    keywords: customPage?.metadata?.keywords ?? Array.from(new Set([
   primaryKeyword,
@@ -128,8 +117,8 @@ Rohini Invisible Grills — safety parents trust.
     },
 
     openGraph: {
-      title: customPage?.metadata?.openGraph?.title ?? title,
-      description: customPage?.metadata?.openGraph?.description ?? description,
+      title,
+      description,
       url: customPage?.metadata?.openGraph?.url ?? url,
       siteName: "Rohini Invisible Grills",
       locale: "en_IN",
@@ -146,8 +135,8 @@ Rohini Invisible Grills — safety parents trust.
 
     twitter: {
       card: "summary_large_image",
-      title: customPage?.metadata?.twitter?.title ?? title,
-      description: customPage?.metadata?.twitter?.description ?? description,
+      title,
+      description,
       images: [image],
     },
 
