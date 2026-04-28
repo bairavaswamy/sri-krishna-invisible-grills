@@ -37,7 +37,8 @@ const highlights = ["Clean installation", "Open balcony view", "Local Hyderabad 
 
 function Stars() {
   return (
-    <div className="flex items-center gap-1" aria-label="5 star rating">
+    <div className="flex items-center gap-1">
+      <span className="sr-only">5 out of 5 star rating</span>
       {[...Array(5)].map((_, index) => (
         <svg
           key={index}
