@@ -8,7 +8,7 @@ Your contact form is **ready to use**! It now:
 - ✅ Shows success/error messages
 - ✅ Clears after submission
 - ✅ Works completely static (no backend needed!)
-- ✅ Sends emails to: **gopijami8790@gmail.com**
+- ✅ Sends emails to the central site email: **info@dksafetysolutions.com**
 
 ## 3-Step Setup
 
@@ -23,8 +23,8 @@ Go to: https://formspree.io
 ### 2️⃣ Create a Form
 ```
 - Click "New Form" 
-- Enter email: gopijami8790@gmail.com
-- Name: "Rohini Invisible Grills Contact"
+- Enter the central site email: info@dksafetysolutions.com
+- Name: "DK Safety Solutions Contact"
 - Click Create
 ```
 
@@ -64,8 +64,8 @@ npm run dev
 Email arrives like this:
 ```
 From: contact@formspree.io
-To: gopijami8790@gmail.com
-Subject: Rohini Invisible Grills - Contact Form - New Enquiry from [Name]
+To: info@dksafetysolutions.com
+Subject: DK Safety Solutions - Contact Form - New Enquiry from [Name]
 
 ---
 Name: Shankar

@@ -9,8 +9,8 @@
 
 ### Step 2: Create a Form
 1. Click "New Form" or "Get Started"
-2. Enter your email: `gopijami8790@gmail.com`
-3. Name it: "Contact Form - Rohini Invisible Grills"
+2. Enter the same email used in `siteConfig.contact.email` (`info@dksafetysolutions.com` by default)
+3. Name it: "Contact Form - DK Safety Solutions"
 4. Click "Create"
 
 ### Step 3: Get Your Form ID

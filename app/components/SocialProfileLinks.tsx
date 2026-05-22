@@ -51,6 +51,12 @@ const iconMap: Record<string, ReactNode> = {
       <circle cx="16.8" cy="7.2" r="1" fill="currentColor" />
     </svg>
   ),
+  WhatsApp: (
+    <svg viewBox="0 0 24 24" aria-hidden="true" className="h-4 w-4">
+      <path d="M5.5 19 6.6 15.7A7 7 0 1 1 9 18.1L5.5 19Z" fill="none" stroke="currentColor" strokeLinejoin="round" strokeWidth="2" />
+      <path d="M9.4 8.7c.2-.4.4-.4.7-.4h.5c.2 0 .4 0 .5.4l.5 1.2c.1.3.1.5-.1.7l-.4.5c.6 1 1.4 1.8 2.5 2.3l.5-.5c.2-.2.4-.3.7-.2l1.2.5c.4.2.4.4.4.7v.4c0 .5-.4.9-.9 1-3.2.2-6.7-3.2-6.6-6.5 0-.4.4-.8.9-.8Z" fill="currentColor" />
+    </svg>
+  ),
   Blogspot: (
     <svg viewBox="0 0 24 24" aria-hidden="true" className="h-4 w-4">
       <rect x="4" y="4" width="16" height="16" rx="4" fill="none" stroke="currentColor" strokeWidth="2" />
@@ -63,17 +69,17 @@ const variantClasses = {
   dark: {
     heading: "text-white",
     text: "text-gray-400",
-    link: "border-white/10 bg-white/5 text-gray-200 hover:border-green-300/50 hover:bg-green-400/10 hover:text-green-300",
+    link: "border-white/10 bg-white/5 text-gray-200 hover:border-sky-300/50 hover:bg-sky-400/10 hover:text-sky-300",
   },
   light: {
     heading: "text-slate-900",
     text: "text-slate-600",
-    link: "border-slate-200 bg-white text-slate-700 hover:border-orange-300 hover:bg-orange-50 hover:text-orange-600",
+    link: "border-slate-200 bg-white text-slate-700 hover:border-sky-300 hover:bg-sky-50 hover:text-sky-600",
   },
   warm: {
     heading: "text-slate-900",
     text: "text-slate-600",
-    link: "border-orange-200 bg-white/90 text-slate-700 hover:border-orange-400 hover:bg-orange-50 hover:text-orange-600",
+    link: "border-sky-200 bg-white/90 text-slate-700 hover:border-sky-400 hover:bg-sky-50 hover:text-sky-600",
   },
 };
 

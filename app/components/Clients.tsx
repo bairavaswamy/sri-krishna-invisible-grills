@@ -1,34 +1,24 @@
-import Image from 'next/image'
+import { memo } from "react";
+import { siteConfig } from "../config/site.config";
 
-const clients = [
-  {name: 'IKEA', img:'/IKEA_Client.webp'},
-  {name: 'Satthva', img:"/sattva.webp"},
-  {name: 'Adhitya Enclave', img: '/Adhitya_Enclave.webp'},
-  {name: 'Green Meadows',img:"/Green_meadows.webp"},
-  {name: 'Sunrise Apartments', img:"/Sunrise_Apartments.webp"}
-]
-
-import { memo } from 'react'
-
-function Clients(){
+function Clients() {
   return (
-    <div className="w-full ">
-      <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
-        {clients.map((c) => (
-          <div key={c.name} className="flex flex-col items-center gap-3 p-4 bg-white border rounded shadow-sm w-full shadow-soft transform transition-transform hover:scale-105 overflow-hidden">
-            {c.img ? (
-              <div className="relative w-24 h-16">
-                <Image src={c.img} alt={c.name} fill className="object-contain" unoptimized loading="lazy" />
-              </div>
-            ) : (
-              <div className="w-16 h-16 bg-gray-200 rounded" />
-            )}
-            <div className="text-sm font-medium text-center">{c.name}</div>
+    <div className="w-full">
+      <div className="grid grid-cols-2 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
+        {siteConfig.clients.map((client) => (
+          <div
+            key={client}
+            className="flex min-h-[112px] w-full flex-col items-center justify-center gap-3 overflow-hidden rounded border bg-white p-4 text-center shadow-sm shadow-soft transition-transform hover:scale-105"
+          >
+            <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gradient-to-br from-indigo-800 to-lime-500 text-sm font-black text-white">
+              {client.slice(0, 2).toUpperCase()}
+            </div>
+            <div className="text-sm font-medium">{client}</div>
           </div>
         ))}
       </div>
     </div>
-  )
+  );
 }
 
-export default memo(Clients)
+export default memo(Clients);

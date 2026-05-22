@@ -1,358 +1,191 @@
-'use client'
+"use client";
 
-import { memo, useEffect, useState } from "react"
-import Image from "next/image"
-import Link from "next/link"
-import dynamic from "next/dynamic"
-import { Briefcase, MapPin, Search, X } from "lucide-react"
-import { services } from "./constants/services"
-import {
-  allSearchLocations,
-  routeSearchItems,
-  serviceSearchItems,
-} from "./constants/searchData"
+import { memo, useState } from "react";
+import Image from "next/image";
+import Link from "next/link";
+import dynamic from "next/dynamic";
+import { ChevronDown, Menu, Phone, X } from "lucide-react";
+import { chennaiConfig } from "../config/chennai.config";
+import { siteConfig } from "../config/site.config";
 
 const MenuClient = dynamic(() => import("./Menuclient"), {
   ssr: false,
-})
-
-const DropdownClient = dynamic(() => import("./Dropdownclient"), {
-  ssr: false,
-  loading: () => (
-    <p className="group relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-orange-500">
-      Services
-      <span className="absolute left-0 -bottom-1 h-[2px] w-0 bg-orange-500 transition-all duration-300 group-hover:w-full"></span>
-    </p>
-  ),
-})
-
-const MAX_LOCATION_PREVIEW = 16
-const MAX_ROUTE_RESULTS = 30
+});
 
 const Header: React.FC = () => {
-  const [open, setOpen] = useState(false)
-  const [searchOpen, setSearchOpen] = useState(false)
-  const [searchQuery, setSearchQuery] = useState("")
+  const [open, setOpen] = useState(false);
+  const cityHref = `/${chennaiConfig.citySlug}`;
+  const standardLinks = siteConfig.navLinks.filter((link) => link.href !== cityHref);
 
-  useEffect(() => {
-    if (!searchOpen) {
-      return
-    }
-
-    const handleKeyDown = (event: KeyboardEvent) => {
-      if (event.key === "Escape") {
-        setSearchOpen(false)
-        setSearchQuery("")
-      }
-    }
-
-    window.addEventListener("keydown", handleKeyDown)
-
-    return () => window.removeEventListener("keydown", handleKeyDown)
-  }, [searchOpen])
-
-  const closeSearch = () => {
-    setSearchOpen(false)
-    setSearchQuery("")
-  }
-
-  const normalizedQuery = searchQuery.trim().toLowerCase()
-
-  const matchingServices = normalizedQuery
-    ? serviceSearchItems.filter((service) =>
-        service.title.toLowerCase().includes(normalizedQuery)
-      )
-    : serviceSearchItems
-
-  const matchingLocations = normalizedQuery
-    ? allSearchLocations.filter((location) =>
-        location.toLowerCase().includes(normalizedQuery)
-      )
-    : allSearchLocations.slice(0, MAX_LOCATION_PREVIEW)
-
-  const matchingRoutes = normalizedQuery
-    ? routeSearchItems
-        .filter((item) => item.label.toLowerCase().includes(normalizedQuery))
-        .slice(0, MAX_ROUTE_RESULTS)
-    : []
+  const scrollToQuote = () => {
+    const element = document.getElementById("quote");
+    element?.scrollIntoView({ behavior: "smooth" });
+  };
 
   return (
     <>
-      <div className="fixed top-0 left-0 z-50 w-full bg-white shadow-md">
-        <header className="flex items-center justify-between gap-3 bg-gradient-to-br from-white via-orange-50 to-gray-100 px-3 pt-3 pb-1 sm:px-6 sm:pt-4 sm:pb-0">
-          <div className="flex min-w-0 flex-1 items-center gap-2 sm:gap-3">
-            <Link href="/" prefetch={false}>
-              <Image
-                src="/Rohini_logo.webp"
-                alt="Rohini Invisible Grills"
-                width={120}
-                height={95}
-                className="h-12 w-auto sm:h-16"
-              />
-            </Link>
+      <div className="fixed left-0 top-0 z-50 w-full bg-white shadow-md">
+        <header className="flex items-center justify-between gap-3 bg-transparent px-3 py-3 sm:px-6 sm:py-4">
+          <Link href="/" prefetch={false} className="flex min-w-0 items-center">
+            <Image
+              src={siteConfig.logos.desktop}
+              alt={`${siteConfig.name} mobile logo`}
+              width={200}
+              height={60}
+              priority
+              className="h-12 w-auto shrink-0 sm:hidden"
+            />
+            <Image
+              src={siteConfig.logos.desktop}
+              alt={`${siteConfig.name} desktop logo`}
+              width={260}
+              height={64}
+              priority
+              className="hidden h-14 w-auto sm:block lg:h-16"
+            />
+          </Link>
 
-            <div className="min-w-0">
-              <p className="relative max-w-[175px] truncate text-sm font-extrabold tracking-wider text-gray-800 sm:max-w-none sm:text-lg md:text-xl">
-                <span className="absolute inset-0 bg-gradient-to-r from-yellow-600 via-yellow-400 to-yellow-500 bg-clip-text text-transparent opacity-70 blur-sm"></span>
-                <span className="relative bg-gradient-to-r from-yellow-700 via-yellow-500 to-yellow-400 bg-clip-text text-transparent">
-                  Rohini Invisible Grills
-                </span>
-              </p>
+          <nav className="hidden items-center gap-1 lg:flex">
+            {standardLinks.slice(0, 1).map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                prefetch={false}
+                className="group relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-sky-500"
+              >
+                {link.label}
+                <span className="absolute -bottom-1 left-0 h-[2px] w-0 bg-sky-500 transition-all duration-300 group-hover:w-full" />
+              </Link>
+            ))}
 
-              <div className="flex items-center gap-2">
-                <span className="h-[1px] flex-1 bg-gray-400"></span>
+            <div className="group relative">
+              <Link
+                href={cityHref}
+                prefetch={false}
+                className="group/menu relative inline-flex items-center gap-1 px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-sky-500"
+              >
+                Services
+                <ChevronDown
+                  size={16}
+                  className="transition-transform duration-300 group-hover:rotate-180 group-focus-within:rotate-180"
+                />
+                <span className="absolute -bottom-1 left-0 h-[2px] w-0 bg-sky-500 transition-all duration-300 group-hover/menu:w-full" />
+              </Link>
 
-                <p className="whitespace-nowrap text-[10px] text-gray-600 md:font-medium">
-                  Safety Nets Distribution
-                </p>
+              <div className="invisible absolute left-1/2 top-full z-[80] mt-3 w-[760px] -translate-x-1/2 opacity-0 shadow-2xl transition-all duration-200 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
+                <div className="overflow-hidden rounded-xl border border-sky-100 bg-white">
+                  <div className="flex items-center justify-between gap-4 border-b border-slate-100 bg-gradient-to-r from-sky-50 via-white to-indigo-50 px-5 py-4">
+                    <div>
+                      <p className="text-xs font-black uppercase tracking-[0.2em] text-sky-500">
+                        Chennai Directory
+                      </p>
+                      <p className="mt-1 text-sm font-semibold text-slate-700">
+                        Open a Chennai service page or browse by area.
+                      </p>
+                    </div>
+                    <Link
+                      href={cityHref}
+                      prefetch={false}
+                      className="shrink-0 rounded-full bg-slate-950 px-4 py-2 text-sm font-bold text-white transition hover:bg-slate-800"
+                    >
+                      Open Directory
+                    </Link>
+                  </div>
 
-                <span className="h-[1px] flex-1 bg-gray-400"></span>
+                  <div className="grid grid-cols-[0.9fr_1.1fr] gap-4 p-4">
+                    <div>
+                      <p className="px-2 text-xs font-black uppercase tracking-[0.18em] text-indigo-700">
+                        Services
+                      </p>
+                      <div className="mt-3 max-h-[420px] space-y-2 overflow-y-auto pr-2">
+                        {chennaiConfig.services.map((service) => (
+                          <Link
+                            key={service.slug}
+                            href={`${cityHref}/${service.slug}`}
+                            prefetch={false}
+                            className="block rounded-lg border border-slate-200 px-3 py-2.5 transition hover:border-sky-300 hover:bg-sky-50"
+                          >
+                            <span className="block text-sm font-black text-slate-900">
+                              {service.name}
+                            </span>
+                            <span className="mt-1 line-clamp-2 block text-xs leading-5 text-slate-500">
+                              {service.angle}
+                            </span>
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+
+                    <div>
+                      <p className="px-2 text-xs font-black uppercase tracking-[0.18em] text-indigo-700">
+                        Areas
+                      </p>
+                      <div className="mt-3 max-h-[420px] grid grid-cols-2 gap-2 overflow-y-auto pr-2">
+                        {chennaiConfig.areas.map((area) => (
+                          <Link
+                            key={area.slug}
+                            href={`${cityHref}/${area.slug}`}
+                            prefetch={false}
+                            className="rounded-lg border border-slate-200 px-3 py-2 text-sm font-bold text-slate-700 transition hover:border-sky-300 hover:bg-sky-50 hover:text-sky-600"
+                          >
+                            {area.name}
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-          </div>
 
-          <nav className="hidden items-center justify-between lg:flex">
-            <div className="flex items-center space-x-2">
+            {standardLinks.slice(1).map((link) => (
               <Link
-                href="/"
+                key={link.href}
+                href={link.href}
                 prefetch={false}
-                className="group relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-orange-500"
+                className="group relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-sky-500"
               >
-                Home
-                <span className="absolute left-0 -bottom-1 h-[2px] w-0 bg-orange-500 transition-all duration-300 group-hover:w-full"></span>
+                {link.label}
+                <span className="absolute -bottom-1 left-0 h-[2px] w-0 bg-sky-500 transition-all duration-300 group-hover:w-full" />
               </Link>
-
-              <DropdownClient />
-
-              <Link
-                href="/contact-us"
-                prefetch={false}
-                className="group relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-orange-500"
-              >
-                Contact Us
-                <span className="absolute left-0 -bottom-1 h-[2px] w-0 bg-orange-500 transition-all duration-300 group-hover:w-full"></span>
-              </Link>
-
-              <Link
-                href="/about"
-                prefetch={false}
-                className="group relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-orange-500"
-              >
-                About Us
-                <span className="absolute left-0 -bottom-1 h-[2px] w-0 bg-orange-500 transition-all duration-300 group-hover:w-full"></span>
-              </Link>
-              <button
-                type="button"
-                onClick={() => setSearchOpen(true)}
-                className="group inline-flex items-center gap-2 rounded-full border border-orange-200 bg-white px-4 py-2 text-base font-medium text-gray-700 shadow-sm transition-all duration-300 hover:border-orange-400 hover:text-orange-500"
-                aria-label="Search services and locations"
-              >
-                <Search size={17} />
-                Search
-              </button>
-            </div>
+            ))}
           </nav>
 
-          <div className="flex shrink-0 items-center gap-3">
-            <div className="hidden sm:inline-block">
-              <div className="flex items-center">
-                <button
-                  onClick={() => {
-                    const element = document.getElementById("quote")
-                    element?.scrollIntoView({ behavior: "smooth" })
-                  }}
-                  className="hidden rounded px-4 py-2 text-sm text-white transition hover:opacity-90 sm:inline-block md:px-2 md:py-1 md:text-sm lg:px-4 lg:py-2 lg:text-xl btn-accent"
-                >
-                  Request Quote
-                </button>
-              </div>
-            </div>
+          <div className="flex shrink-0 items-center gap-2">
+            <a
+              href={siteConfig.contact.phoneHref}
+              className="hidden items-center gap-2 rounded-full border border-sky-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm transition hover:border-sky-400 hover:text-sky-500 sm:inline-flex"
+            >
+              <Phone size={16} />
+              {siteConfig.contact.phoneLabel}
+            </a>
 
-            <div className="block shrink-0 lg:hidden">
-              <button
-                type="button"
-                aria-label={open ? "Close menu" : "Open menu"}
-                aria-expanded={open}
-                onClick={() => setOpen(!open)}
-                className="relative z-[70] inline-flex h-11 w-11 items-center justify-center rounded-full border border-orange-200 bg-white text-slate-900 shadow-md shadow-orange-100 transition hover:border-orange-400 hover:text-orange-500 focus:outline-none focus:ring-2 focus:ring-orange-400"
-              >
-                {open ? (
-                  <X size={22} aria-hidden="true" />
-                ) : (
-                  <svg width="26" height="26" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-                    <path
-                      d="M4 6h16M4 12h16M4 18h16"
-                      stroke="currentColor"
-                      strokeWidth="2.2"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                  </svg>
-                )}
-              </button>
-            </div>
+            <button
+              onClick={scrollToQuote}
+              className="hidden rounded-full px-4 py-2 text-sm font-semibold text-white transition hover:opacity-90 md:inline-block btn-accent"
+            >
+              Request Quote
+            </button>
+
+            <button
+              type="button"
+              aria-label={open ? "Close menu" : "Open menu"}
+              aria-expanded={open}
+              onClick={() => setOpen(!open)}
+              className="relative z-[70] inline-flex h-11 w-11 items-center justify-center rounded-full border border-sky-200 bg-white text-slate-900 shadow-md shadow-sky-100 transition hover:border-sky-400 hover:text-sky-500 focus:outline-none focus:ring-2 focus:ring-sky-400 lg:hidden"
+            >
+              {open ? <X size={22} aria-hidden="true" /> : <Menu size={22} aria-hidden="true" />}
+            </button>
           </div>
         </header>
       </div>
-
-      {searchOpen && (
-        <div
-          className="fixed inset-0 z-[80] bg-slate-950/45 px-4 py-24 backdrop-blur-sm"
-          onClick={closeSearch}
-        >
-          <div
-            className="mx-auto flex max-h-[78vh] w-full max-w-5xl flex-col overflow-hidden rounded-[28px] border border-orange-100 bg-white shadow-2xl"
-            onClick={(event) => event.stopPropagation()}
-          >
-            <div className="border-b border-orange-100 bg-gradient-to-r from-white via-orange-50 to-amber-50 px-5 py-4 sm:px-6">
-              <div className="flex items-start justify-between gap-4">
-                <div>
-                  <p className="text-xs font-semibold uppercase tracking-[0.25em] text-orange-500">
-                    Search
-                  </p>
-                  <h2 className="mt-1 text-xl font-bold text-slate-900">
-                    Explore every service and location
-                  </h2>
-                  <p className="mt-1 text-sm text-slate-600">
-                    Search across {services.length} services and {allSearchLocations.length} locations.
-                  </p>
-                </div>
-
-                <button
-                  type="button"
-                  onClick={closeSearch}
-                  className="inline-flex items-center justify-center rounded-full border border-orange-200 p-2 text-slate-600 transition hover:border-orange-400 hover:text-orange-500"
-                  aria-label="Close search"
-                >
-                  <X size={18} />
-                </button>
-              </div>
-
-              <div className="mt-4 flex items-center gap-3 rounded-2xl border border-orange-200 bg-white px-4 py-3 shadow-sm">
-                <Search size={18} className="text-orange-500" />
-                <input
-                  type="text"
-                  value={searchQuery}
-                  onChange={(event) => setSearchQuery(event.target.value)}
-                  placeholder="Search by service, city, area or apartment name"
-                  className="w-full bg-transparent text-sm text-slate-800 outline-none placeholder:text-slate-400 sm:text-base"
-                  autoFocus
-                />
-              </div>
-            </div>
-
-            <div className="grid min-h-0 gap-0 overflow-hidden lg:grid-cols-[280px_minmax(0,1fr)]">
-              <div className="min-h-0 overflow-y-auto border-b border-orange-100 bg-slate-50/70 p-5 lg:border-b-0 lg:border-r">
-                <div>
-                  <div className="mb-3 flex items-center gap-2 text-sm font-semibold text-slate-800">
-                    <Briefcase size={16} className="text-orange-500" />
-                    Services
-                  </div>
-
-                  <div className="space-y-2">
-                    {matchingServices.map((service) => (
-                      <Link
-                        key={service.id}
-                        href={service.href}
-                        prefetch={false}
-                        onClick={closeSearch}
-                        className="block rounded-xl border border-transparent bg-white px-4 py-3 text-sm font-medium text-slate-700 shadow-sm transition hover:border-orange-200 hover:text-orange-500"
-                      >
-                        {service.title}
-                      </Link>
-                    ))}
-                  </div>
-                </div>
-
-                <div className="mt-6">
-                  <div className="mb-3 flex items-center gap-2 text-sm font-semibold text-slate-800">
-                    <MapPin size={16} className="text-orange-500" />
-                    Locations
-                  </div>
-
-                  <div className="flex max-h-64 flex-wrap gap-2 overflow-y-auto pr-1">
-                    {matchingLocations.map((location) => (
-                      <button
-                        key={location}
-                        type="button"
-                        onClick={() => setSearchQuery(location)}
-                        className="rounded-full border border-orange-200 bg-white px-3 py-2 text-xs font-medium text-slate-700 transition hover:border-orange-400 hover:text-orange-500 sm:text-sm"
-                      >
-                        {location}
-                      </button>
-                    ))}
-                  </div>
-
-                  {!normalizedQuery && (
-                    <p className="mt-3 text-xs leading-5 text-slate-500">
-                      Start typing to search every area, city, and apartment community covered by the site.
-                    </p>
-                  )}
-                </div>
-              </div>
-
-              <div className="min-h-[320px] overflow-y-auto p-5 sm:p-6">
-                <div className="flex items-center justify-between gap-3">
-                  <div>
-                    <h3 className="text-lg font-semibold text-slate-900">
-                      Matching pages
-                    </h3>
-                    <p className="text-sm text-slate-500">
-                      {normalizedQuery
-                        ? `Showing up to ${MAX_ROUTE_RESULTS} service pages for "${searchQuery.trim()}".`
-                        : "Use the search box or tap a location to see service pages."}
-                    </p>
-                  </div>
-                </div>
-
-                {!normalizedQuery && (
-                  <div className="mt-6 rounded-2xl border border-dashed border-orange-200 bg-orange-50/60 p-5 text-sm text-slate-600">
-                    Try searches like <span className="font-semibold text-slate-900">Invisible Grills</span>,{" "}
-                    <span className="font-semibold text-slate-900">Gachibowli</span>,{" "}
-                    <span className="font-semibold text-slate-900">Whitefield</span>, or{" "}
-                    <span className="font-semibold text-slate-900">Prestige Shantiniketan</span>.
-                  </div>
-                )}
-
-                {normalizedQuery && matchingRoutes.length === 0 && (
-                  <div className="mt-6 rounded-2xl border border-dashed border-slate-200 bg-slate-50 p-5 text-sm text-slate-600">
-                    No matching service pages found for this search yet.
-                  </div>
-                )}
-
-                {normalizedQuery && matchingRoutes.length > 0 && (
-                  <div className="mt-6 grid gap-3 sm:grid-cols-2">
-                    {matchingRoutes.map((item) => (
-                      <Link
-                        key={item.id}
-                        href={item.href}
-                        prefetch={false}
-                        onClick={closeSearch}
-                        className="rounded-2xl border border-slate-200 bg-white px-4 py-4 transition hover:border-orange-300 hover:shadow-md"
-                      >
-                        <p className="text-sm font-semibold text-slate-900">
-                          {item.serviceTitle}
-                        </p>
-                        <p className="mt-1 text-sm text-slate-600">{item.location}</p>
-                        <p className="mt-3 text-xs font-semibold uppercase tracking-[0.18em] text-orange-500">
-                          Open page
-                        </p>
-                      </Link>
-                    ))}
-                  </div>
-                )}
-              </div>
-            </div>
-          </div>
-        </div>
-      )}
 
       <div className="pt-20" />
       <div className="block lg:hidden">
         <MenuClient open={open} onClose={() => setOpen(false)} />
       </div>
     </>
-  )
-}
+  );
+};
 
-export default memo(Header)
+export default memo(Header);

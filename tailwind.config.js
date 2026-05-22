@@ -7,22 +7,22 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
-        fontFamily: {
-        serif: ["Merriweather", "serif"], // Title font like design
+      fontFamily: {
+        serif: ["Merriweather", "serif"],
       },
+      colors: {
         primary: {
-          DEFAULT: "#0b5f3c",
-          600: "#0a5a36",
+          DEFAULT: "#0f3a5f",
+          600: "#0b2f4d",
         },
         accent: {
-          DEFAULT: "#f59e0b",
-          500: "#f59e0b",
+          DEFAULT: "#0284c7",
+          500: "#0284c7",
         },
-        accent2: "#06b6d4",
+        accent2: "#84cc16",
         neutral: {
-          50: "#f9fafb",
-          100: "#f3f6f9",
+          50: "#f8fbff",
+          100: "#eaf4ff",
         },
         card: "#ffffff",
       },

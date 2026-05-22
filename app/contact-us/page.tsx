@@ -1,12 +1,17 @@
 import type { Metadata } from "next";
 import ContactPageClient from "./ContactPageClient";
-import { localBusinessSchema } from "../components/schema/localBusiness";
-import { organizationSchema } from "../components/schema/organization";
+import {
+  getBreadcrumbListSchema,
+  getGraphSchema,
+  getWebPageSchema,
+  schemaIds,
+  stringifySchema,
+} from "../config/schema.config";
+import { absoluteUrl, siteConfig } from "../config/site.config";
 
-const url = "https://rohiniinvisiblegrills.com/contact-us";
-const title = "Contact Rohini Invisible Grills | Free Site Visit";
-const description =
-  "Contact Rohini Invisible Grills for invisible grill installation, bird nets, balcony safety systems, and Bachupally branch service enquiries.";
+const url = absoluteUrl("/contact-us");
+const title = `Contact ${siteConfig.name}`;
+const description = `Contact ${siteConfig.name} for Chennai safety net, invisible grill, bird-control, sports net, and utility installation enquiries.`;
 
 export const metadata: Metadata = {
   title,
@@ -15,25 +20,24 @@ export const metadata: Metadata = {
     canonical: url,
   },
   keywords: [
-    "contact Rohini Invisible Grills",
-    "invisible grills free site visit",
-    "Bachupally invisible grills branch",
-    "balcony safety grills Hyderabad contact",
-    "bird net installation Hyderabad contact",
+    `contact ${siteConfig.name}`,
+    siteConfig.domain,
+    "DK Safety Solutions phone",
+    "home safety enquiry",
   ],
   openGraph: {
     title,
     description,
     url,
-    siteName: "Rohini Invisible Grills",
+    siteName: siteConfig.name,
     locale: "en_IN",
     type: "website",
     images: [
       {
-        url: "/images/invisible-grill-for-balcony.webp",
+        url: siteConfig.defaultImage,
         width: 1200,
         height: 630,
-        alt: "Rohini Invisible Grills contact and Bachupally branch",
+        alt: `${siteConfig.name} contact page`,
       },
     ],
   },
@@ -41,31 +45,30 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title,
     description,
-    images: ["/images/invisible-grill-for-balcony.webp"],
+    images: [siteConfig.defaultImage],
   },
 };
 
-const contactJsonLd = JSON.stringify({
-  "@context": "https://schema.org",
-  "@graph": [
-    organizationSchema,
-    localBusinessSchema("Bachupally", url),
+const contactJsonLd = stringifySchema(
+  getGraphSchema([
     {
-      "@type": "ContactPage",
-      "@id": `${url}#webpage`,
-      url,
-      name: title,
-      description,
-      inLanguage: "en-IN",
-      about: {
-        "@id": "https://rohiniinvisiblegrills.com/#organization",
-      },
+      ...getWebPageSchema({
+        url,
+        name: title,
+        description,
+        image: absoluteUrl(siteConfig.defaultImage),
+        type: "ContactPage",
+      }),
       mainEntity: {
-        "@id": `${url}#localbusiness`,
+        "@id": schemaIds.localBusiness,
       },
     },
-  ],
-});
+    getBreadcrumbListSchema([
+      { name: "Home", url: absoluteUrl("/") },
+      { name: "Contact", url },
+    ]),
+  ])
+);
 
 export default function ContactPage() {
   return (

@@ -1,142 +1,96 @@
 import Link from "next/link";
-import { Phone, Mail, MapPin } from "lucide-react";
-import { hyderabadLocations } from "../components/constants/locations";
-import { services as footerServices } from "../components/constants/services";
+import Image from "next/image";
+import { Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import SocialProfileLinks from "../components/SocialProfileLinks";
-
-const areas = hyderabadLocations;
+import { siteConfig } from "../config/site.config";
 
 export default function Footer() {
   return (
-    <footer className="bg-[#0b1f2a] text-gray-300 mt-16">
-      <div className="max-w-7xl mx-auto px-6 py-14 grid gap-10 md:grid-cols-2 lg:grid-cols-4">
+    <footer className="mt-16 bg-[#0b1f2a] text-gray-300">
+      <div className="mx-auto grid max-w-7xl gap-10 px-6 py-14 md:grid-cols-2 lg:grid-cols-[1.3fr_0.8fr_1fr]">
         <div>
-          <h3 className="text-xl font-semibold text-white mb-4">
-            Rohini Invisible Grills
-          </h3>
+          <Image
+            src={siteConfig.logos.desktop}
+            alt={`${siteConfig.name} logo`}
+            width={260}
+            height={64}
+            className="mb-5 h-16 w-auto rounded-lg bg-white"
+          />
 
-          <p className="text-sm leading-relaxed text-gray-400">
-            Rohini Invisible Grills is a trusted name in modern home safety
-            solutions. We specialize in invisible grills, balcony safety
-            protection, and anti-bird systems designed for modern apartments
-            and villas.
-          </p>
+          <p className="text-sm leading-relaxed text-gray-400">{siteConfig.description}</p>
 
           <SocialProfileLinks
             className="mt-6"
             heading="Follow Us"
-            description="Connect with Rohini Invisible Grills across our official social profiles."
+            description={`Connect with ${siteConfig.name} across our official social profiles.`}
             variant="dark"
           />
         </div>
 
         <div>
-          <h4 className="text-lg font-semibold text-white mb-4">Services</h4>
+          <h4 className="mb-4 text-lg font-semibold text-white">Pages</h4>
 
           <ul className="space-y-2 text-sm">
-            {footerServices.map((service) => (
-              <li key={service.slug}>
+            {siteConfig.navLinks.map((link) => (
+              <li key={link.href}>
                 <Link
-                  href={`/services/${service.slug}`}
+                  href={link.href}
                   prefetch={false}
-                  className="hover:text-green-400 transition-colors duration-300"
+                  className="transition-colors duration-300 hover:text-sky-400"
                 >
-                  &bull; {service.title}
+                  {link.label}
                 </Link>
               </li>
             ))}
           </ul>
         </div>
 
-        <div className="min-w-0 h-[330px] overflow-y-auto overflow-x-hidden pr-2 hide-scrollbar">
-          <h4 className="text-lg font-semibold text-white mb-4">
-            Local Areas
-          </h4>
-
-          <ul className="columns-2 gap-6 space-y-2 text-sm md:columns-1">
-            {areas.map((area) => (
-              <li
-                key={area}
-                className="break-inside-avoid hover:text-green-400 cursor-pointer transition-colors duration-300"
-              >
-                &bull; {area}
-              </li>
-            ))}
-          </ul>
-        </div>
-
         <div>
-          <h4 className="text-lg font-semibold text-white mb-4">
-            Contact Us
-          </h4>
+          <h4 className="mb-4 text-lg font-semibold text-white">Contact Us</h4>
 
           <div className="space-y-4 text-sm">
-            <div className="flex items-start gap-3 items-center">
-              <Phone className="w-5 h-5 text-green-400 mt-1" />
-              <div className="flex flex-col items-start gap-2">
-                <a href="tel:+918790518724">+91 8790518724</a>
-                <a href="https://wa.me/919491008380">
-                  <p>+91 9491008380</p>
-                </a>
-              </div>
-            </div>
+            <a
+              href={siteConfig.contact.phoneHref}
+              className="flex items-center gap-3 transition hover:text-sky-300"
+            >
+              <Phone className="h-5 w-5 text-sky-400" />
+              {siteConfig.contact.phoneLabel}
+            </a>
 
-            <div className="flex items-center gap-3">
-              <Mail className="w-5 h-5 text-green-400" />
-              <p>info@rohiniinvisiblegrills.com</p>
-            </div>
+            <a
+              href={siteConfig.contact.whatsappHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 transition hover:text-sky-300"
+            >
+              <MessageCircle className="h-5 w-5 text-sky-400" />
+              WhatsApp {siteConfig.contact.whatsappLabel}
+            </a>
+
+            <a
+              href={siteConfig.contact.emailHref}
+              className="flex items-center gap-3 transition hover:text-sky-300"
+            >
+              <Mail className="h-5 w-5 text-sky-400" />
+              {siteConfig.contact.email}
+            </a>
 
             <div className="flex items-start gap-3">
-              <MapPin className="w-5 h-5 text-green-400 mt-1" />
-              <p className="text-gray-400 leading-relaxed">
-                Door No 5-11, Madhapur,
-                <br />
-                Hyderabad &ndash; 500081
-                <br />
-                <br />
-                Plot 398, C Block,
-                <br />
-                Kondapur, Hyderabad &ndash; 500084
+              <MapPin className="mt-1 h-5 w-5 text-sky-400" />
+              <p className="leading-relaxed text-gray-400">
+                {siteConfig.contact.addressLines.map((line) => (
+                  <span key={line} className="block">
+                    {line}
+                  </span>
+                ))}
               </p>
             </div>
           </div>
         </div>
       </div>
 
-      <div>
-        <h4 className="text-lg px-6 md:pl-40 lg:pl-40 font-semibold text-white mb-4">
-          Local Branches
-        </h4>
-        <div className="max-w-7xl mx-auto px-6 pb-14 grid gap-10 md:grid-cols-2 lg:grid-cols-4">
-          <div className="flex items-start gap-3">
-            <MapPin className="w-5 h-5 text-green-400 mt-1" />
-            <p className="text-gray-400 leading-relaxed">
-              No,2 /92, Frontline Seven Club House, Frontline seven House,
-              <br />
-              Kokapet, Gandipet, Hyderabad, Telangana 500075
-            </p>
-          </div>
-          <div className="flex items-start gap-3">
-            <MapPin className="w-5 h-5 text-green-400 mt-1" />
-            <p className="text-gray-400 leading-relaxed">
-              862, Lahari Green Park Rd, opp. vignana jyothi engineering
-              college,
-              <br />
-              Bachupally, Hyderabad, Telangana 500118
-            </p>
-          </div>
-        </div>
-      </div>
-      <div>
-        <p className="text-center text-sm text-gray-400 max-w-4xl mx-auto leading-relaxed px-6">
-          We are committed to providing top-notch invisible grill solutions and <a href="https://www.srinuvasulusafetynets.com/" target="_blank" > balcony safety nets </a> that enhance the safety and aesthetics of your home. Contact us today to learn
-          more about our services or to schedule a consultation.
-        </p>
-      </div>
-
-      <div className="border-t border-white/10 text-center text-sm py-5 text-gray-400">
-        &copy; {new Date().getFullYear()} Rohini Invisible Grills. All Rights
-        Reserved.
+      <div className="border-t border-white/10 py-5 text-center text-sm text-gray-400">
+        Copyright {new Date().getFullYear()} {siteConfig.name}. All Rights Reserved.
       </div>
     </footer>
   );

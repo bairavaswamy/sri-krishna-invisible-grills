@@ -1,15 +1,10 @@
 import dynamic from "next/dynamic";
 import "./globals.css";
 import type { Metadata } from "next";
-import { HeaderSkeleton,FloatingContactSkeleton } from "./components/LoadingSkeletons";
-import { Poppins } from 'next/font/google'
+import { HeaderSkeleton, FloatingContactSkeleton } from "./components/LoadingSkeletons";
 import DelayedGoogleTagManager from "./components/DelayedGoogleTagManager";
-
-const poppins = Poppins({
-  subsets: ['latin'],
-  weight: ['400','600','700'],
-  display: 'swap',
-})
+import SiteStructuredData from "./components/SiteStructuredData";
+import { siteConfig } from "./config/site.config";
 
 const FloatingContact = dynamic(() => import("./components/FloatingContact"), {
   loading: () => <FloatingContactSkeleton />,
@@ -32,15 +27,16 @@ const NavBar = dynamic(() => import("./components/NavBar"), {
   });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://rohiniinvisiblegrills.com"),
-  title: "Rohini Invisible Grills | Balcony Safety & Bird Control",
-  description:
-    "Rohini Invisible Grills installs invisible grills, balcony safety systems, bird nets, and window protection solutions across Hyderabad.",
+  metadataBase: new URL(siteConfig.url),
+  title: `${siteConfig.name} | Home Safety Solutions`,
+  description: siteConfig.description,
   icons: {
     icon: [
-      { url: "/favicon-Rohini-invisible-grills.webp", sizes: "42x42", type: "image/webp" },
-      { url: "/favicon-Rohini-invisible-grills.webp", sizes: "32x32", type: "image/webp" }
+      { url: siteConfig.logos.favicon, type: "image/svg+xml" },
+      { url: siteConfig.logos.faviconPng, sizes: "32x32", type: "image/png" },
     ],
+    shortcut: [{ url: siteConfig.logos.favicon }],
+    apple: [{ url: siteConfig.logos.appleTouchIcon, sizes: "180x180", type: "image/png" }],
   },
   robots: {
     index: true,
@@ -63,14 +59,15 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="bg-white">
-       <div className={poppins.className}>
+        <SiteStructuredData />
+       <div>
         <NavBar />
         <ContactDetailsBar />
         {children}
         <FloatingContact />
         <Footer />
         </div>
-        <DelayedGoogleTagManager gtmId="GTM-57DS2TV8" />
+        <DelayedGoogleTagManager gtmId="GTM-MQR73NTD" />
       </body>
     </html>
   );

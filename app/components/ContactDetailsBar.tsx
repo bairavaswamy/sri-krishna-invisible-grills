@@ -1,25 +1,30 @@
-import React from "react";
+import { siteConfig } from "../config/site.config";
 
 export default function ContactDetailsBar() {
   return (
-    <div className="bg-[#1f2937] text-white w-full -mt-[10px] md:mt-[2px] text-sm transition-transform duration-300">
-      {/* Phone Bar */}
-      <div className="flex flex-wrap justify-center gap-1 md:gap-6 py-2 md:py-3">
-        <a href="tel:+918790518724"
-            className="text-xs font-medium px-4 text-white hover:text-[#C9A227] transition-colors duration-300"
-          >
-            +91 87 9051 8724
-          </a>
-
-        <a href="tel:+919491008380" className="text-xs font-medium px-4 text-white  hover:text-[#C9A227] transition-colors duration-300">
-          +91 94 9100 8380
+    <div className="w-full overflow-hidden bg-[#1f2937] text-sm text-white transition-transform duration-300 md:mt-[2px]">
+      <div className="mx-auto flex max-w-7xl items-center justify-center gap-3 overflow-x-auto whitespace-nowrap px-3 py-2 md:gap-6 md:py-3">
+        <a
+          href={siteConfig.contact.phoneHref}
+          className="text-[11px] font-bold text-white transition-colors duration-300 hover:text-[#C9A227] sm:text-xs"
+        >
+          {siteConfig.contact.phoneLabel}
         </a>
 
         <a
-          href="mailto:rohiniinvisiblegrills@gmail.com"
-          className="text-xs font-medium text-white hover:text-[#C9A227] transition-colors duration-300 text-center "
+          href={siteConfig.contact.whatsappHref}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[11px] font-bold text-white transition-colors duration-300 hover:text-[#C9A227] sm:text-xs"
         >
-          Rohiniinvisiblegrills@gmail.com
+          WhatsApp {siteConfig.contact.whatsappLabel}
+        </a>
+
+        <a
+          href={siteConfig.contact.emailHref}
+          className="hidden text-center text-xs font-bold text-white transition-colors duration-300 hover:text-[#C9A227] sm:inline"
+        >
+          {siteConfig.contact.email}
         </a>
       </div>
     </div>

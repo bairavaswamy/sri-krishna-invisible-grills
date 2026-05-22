@@ -1,18 +1,23 @@
 import dynamic from "next/dynamic";
+import Image from "next/image";
+import Link from "next/link";
 import type { Metadata } from "next";
+import { ArrowRight } from "lucide-react";
 import ButtonCards from "./components/ButtonCards";
 import HomeStats from "./components/HomeStats";
-import ServicesGrid from "./components/products/ServicesGrid";
-import { buildHoneSchemaGraph } from "./components/schema/homeSchema";
-import { getGeo } from "./components/utils/getGeo";
-
+import { chennaiConfig } from "./config/chennai.config";
+import {
+  getBreadcrumbListSchema,
+  getGraphSchema,
+  getWebPageSchema,
+  stringifySchema,
+} from "./config/schema.config";
+import { absoluteUrl, siteConfig } from "./config/site.config";
 import {
   CarouselSkeleton,
-  ServicesSkeleton,
   TestimonialsSkeleton,
   ClientsSkeleton,
 } from "./components/LoadingSkeletons";
-
 
 const Carousel = dynamic(() => import("./components/Carousel"), {
   loading: () => <CarouselSkeleton />,
@@ -22,11 +27,6 @@ const Carousel = dynamic(() => import("./components/Carousel"), {
 const ContactForm = dynamic(() => import("./components/ContactForm"), {
   ssr: true,
   loading: () => null,
-});
-
-const Services = dynamic(() => import("./components/Services"), {
-  loading: () => <ServicesSkeleton />,
-  ssr: true,
 });
 
 const Testimonials = dynamic(() => import("./components/Testimonials"), {
@@ -39,50 +39,36 @@ const Clients = dynamic(() => import("./components/Clients"), {
   ssr: true,
 });
 
-const LocationScroller = dynamic(()=> import("./components/LocationsWeServe"),{
-   ssr: true,
-  loading: () => null,
-})
-
-const location = "Hyderabad";
-const homeUrl = "https://rohiniinvisiblegrills.com/";
-const homeImage = "/images/invisible-grill-for-balcony.webp";
-const primaryKeyword = `Invisible Grills in ${location}`;
-const homeTitle = `Invisible Grills ${location} | Balcony Safety | Rohini`;
-const homeDescription = `Rohini Invisible Grills installs balcony safety grills, bird protection nets, and window safety systems in ${location} with free site visits.`;
+const homeTitle = `${siteConfig.name} | Chennai Safety Nets and Invisible Grills`;
+const homeDescription = siteConfig.description;
 
 export const metadata: Metadata = {
   title: homeTitle,
   description: homeDescription,
-  keywords: Array.from(new Set([
-    primaryKeyword,
-    `Anti bird nets ${location}`,
-    `Invisible grills ${location}`,
-    `Bird protection balcony ${location}`,
-    `Pigeon nets installation ${location}`,
-    `Balcony safety grills ${location}`,
-    "bird spikes installation",
-    "Anti bird invisible grills near me",
-    "Anti bird invisible grills Telangana",
-    "Rohini Invisible Grills",
-  ])).slice(0, 30),
+  keywords: [
+    "DK Safety Solutions",
+    "dksafetysolutions.com",
+    "balcony safety",
+    "window safety",
+    "bird control",
+    "home safety solutions",
+  ],
   alternates: {
-    canonical: homeUrl,
+    canonical: absoluteUrl("/"),
   },
-  category: "Bird Control",
   openGraph: {
     title: homeTitle,
     description: homeDescription,
-    url: homeUrl,
-    siteName: "Rohini Invisible Grills",
+    url: absoluteUrl("/"),
+    siteName: siteConfig.name,
     locale: "en_IN",
     type: "website",
     images: [
       {
-        url: homeImage,
+        url: siteConfig.defaultImage,
         width: 1200,
         height: 630,
-        alt: primaryKeyword,
+        alt: siteConfig.name,
       },
     ],
   },
@@ -90,28 +76,20 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: homeTitle,
     description: homeDescription,
-    images: [homeImage],
-  },
-  other: {
-    "geo.region": getGeo("hyderabad").region,
-    "geo.placename": location,
-    "geo.position": `${getGeo("hyderabad").lat};${getGeo("hyderabad").lng}`,
-    ICBM: `${getGeo("hyderabad").lat}, ${getGeo("hyderabad").lng}`,
+    images: [siteConfig.defaultImage],
   },
 };
 
-const galleryImages = [
-  "/images/children-safety-invisible-grills-for-balcony.webp",
-  "/cards/stainless-steel-invisible-grill.webp",
-  "/images/invisible-grill-for-balcony.webp",
-  "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
-  "/images/sport-nets-installation-hyderabad.webp",
-];
-
-const homeJsonLd = JSON.stringify(
-  buildHoneSchemaGraph("hyderabad", homeUrl, "Invisible Grills", "invisible-grills", galleryImages),
-  null,
-  2
+const homeJsonLd = stringifySchema(
+  getGraphSchema([
+    getWebPageSchema({
+      url: absoluteUrl("/"),
+      name: homeTitle,
+      description: homeDescription,
+      image: absoluteUrl(siteConfig.defaultImage),
+    }),
+    getBreadcrumbListSchema([{ name: "Home", url: absoluteUrl("/") }]),
+  ])
 );
 
 export default function Home() {
@@ -120,14 +98,14 @@ export default function Home() {
       <link
         rel="preload"
         as="image"
-        href="/cards/balcony-safety-invisible-grills-installation-near-me.webp"
+        href="/images/site/chennai-home-hero-safety-nets.png"
         media="(max-width: 767px)"
         fetchPriority="high"
       />
       <link
         rel="preload"
         as="image"
-        href="/images/balcony-invisible-safety-installation.webp"
+        href="/images/site/chennai-home-hero-safety-nets.png"
         media="(min-width: 768px)"
         fetchPriority="high"
       />
@@ -137,44 +115,96 @@ export default function Home() {
           __html: homeJsonLd,
         }}
       />
-      {/* <NavBar />
-      <ContactDetailsBar /> */}
-    <main className="px-4 bg-[#fff] pb-6 pt-[1px] md:pt-[3px] sm:p-6 overflow-hidden">
-      <h1 className="sr-only">
-        Invisible Grills in Hyderabad for Balcony Safety, Window Protection, and Bird Control
-      </h1>
-         
-      <Carousel />
-      
-      <ButtonCards />
+      <main className="overflow-hidden bg-white px-4 pb-6 pt-[1px] md:pt-[3px] sm:p-6">
+        <h1 className="sr-only">{siteConfig.name}</h1>
 
-      <ServicesGrid />
+        <Carousel />
 
-      <section className="mt-10">
-        <h2 className="text-2xl font-semibold mb-4 text-green-900">Our Services</h2>
-        <Services />
-      </section>
+        <ButtonCards />
 
-      <section className="mt-10">
-        <Testimonials />
-      </section>
+        <section className="mx-auto mt-10 grid max-w-7xl gap-6 rounded-[34px] border border-sky-100 bg-gradient-to-br from-sky-50 via-white to-lime-50 p-6 shadow-lg shadow-sky-100/50 lg:grid-cols-[0.95fr_1.05fr] lg:p-8">
+          <div>
+            <p className="text-sm font-bold uppercase tracking-[0.22em] text-sky-500">
+              Chennai Service Network
+            </p>
+            <h2 className="mt-3 text-3xl font-black tracking-tight text-slate-950">
+              Chennai service pages are ready for quick enquiry.
+            </h2>
+            <p className="mt-4 text-sm leading-7 text-slate-600">
+              DK Safety Solutions connects Chennai customers to safety net,
+              invisible grill, bird control, sports net, and utility installation
+              pages with clear service choices before the area-specific visit.
+            </p>
+            <div className="mt-5 flex flex-wrap gap-2">
+              {[
+                "Chennai service pages",
+                "Area-specific planning",
+                "Phone and WhatsApp actions",
+                "Clean installation focus",
+              ].map((point) => (
+                <span
+                  key={point}
+                  className="rounded-full border border-sky-200 bg-white px-3 py-2 text-sm font-semibold text-slate-700"
+                >
+                  {point}
+                </span>
+              ))}
+            </div>
+            <Link
+              href={`/${chennaiConfig.citySlug}`}
+              prefetch={false}
+              className="mt-6 inline-flex items-center gap-2 rounded-full bg-slate-950 px-5 py-3 text-sm font-bold text-white transition hover:bg-slate-800"
+            >
+              Open Chennai Directory
+              <ArrowRight size={17} />
+            </Link>
+          </div>
 
-      <HomeStats />
+          <div className="grid gap-4 sm:grid-cols-3">
+            {siteConfig.galleryImages.slice(0, 3).map((image) => (
+              <Link
+                href="/gallery"
+                prefetch={false}
+                key={image.src}
+                className="group overflow-hidden rounded-[24px] border border-white bg-white shadow-sm"
+              >
+                <div className="relative h-52">
+                  <Image
+                    src={image.src}
+                    alt={image.alt}
+                    fill
+                    className="object-cover transition duration-500 group-hover:scale-105"
+                    sizes="(max-width: 768px) 100vw, 33vw"
+                  />
+                </div>
+                <div className="p-4">
+                  <p className="text-xs font-bold uppercase tracking-[0.18em] text-sky-500">
+                    {image.category}
+                  </p>
+                  <h3 className="mt-1 text-sm font-bold text-slate-950">{image.title}</h3>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
 
-      <section className="mt-10 mt-6 mx-auto bg-[#E5E5E5] px-4 sm:px-6 lg:px-8 py-12">
-        <h2 className="text-2xl font-semibold mb-4 text-green-900">Clients & Societies</h2>
-        <Clients />
-      </section>
+        <section className="mt-10">
+          <Testimonials />
+        </section>
 
-       <section className="mt-10">
-      <h2 className="text-2xl ml-auto mr-auto text-center font-semibold mb-4 text-green-900">Areas We Serve</h2>
-        <LocationScroller service="anti-bird-invisible-grills" />
-      </section>
+        <HomeStats />
 
-      <section className="mt-8">
-        <ContactForm />
-      </section>
-    </main>
+        <section className="mx-auto mt-10 bg-[#E5E5E5] px-4 py-12 sm:px-6 lg:px-8">
+          <h2 className="mb-4 text-2xl font-semibold text-sky-900">
+            Audiences We Are Preparing For
+          </h2>
+          <Clients />
+        </section>
+
+        <section className="mt-8">
+          <ContactForm />
+        </section>
+      </main>
     </>
   );
 }

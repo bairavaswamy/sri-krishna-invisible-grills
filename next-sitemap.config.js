@@ -1,5 +1,5 @@
 const config = {
-  siteUrl: 'https://rohiniinvisiblegrills.com',
+  siteUrl: 'https://dksafetysolutions.com',
   generateRobotsTxt: true,
   changefreq: "daily",
   priority: 0.7,
@@ -17,7 +17,7 @@ const config = {
       let priority = 0.8;
 
       if (path === "/") priority = 1.0;
-      if (path.includes("/services")) priority = 0.9;
+      if (path === "/contact-us") priority = 0.9;
 
       return {
         loc: path,
