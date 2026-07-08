@@ -1,6 +1,14 @@
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, CheckCircle2, MessageCircle, Phone } from "lucide-react";
+import {
+  ArrowRight,
+  CheckCircle2,
+  IndianRupee,
+  ListChecks,
+  MessageCircle,
+  Phone,
+  Scale,
+} from "lucide-react";
 import type { ManualServicePage } from "../content/manualServicePages";
 import { siteConfig } from "../config/site.config";
 import { getServiceDetail, type ServiceSlug } from "../content/serviceDetails";
@@ -55,16 +63,16 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
 
           <div className="w-full max-w-full rounded-[24px] border border-white/15 bg-white/12 p-5 text-white shadow-2xl backdrop-blur-md sm:rounded-[34px] sm:p-6">
             <p className="text-xs font-bold uppercase tracking-[0.22em] text-amber-200">
-              Article Details
+              Site Visit Notes
             </p>
-            <h2 className="mt-3 text-2xl font-black">Full service guide</h2>
+            <h2 className="mt-3 text-2xl font-black">What we check before quoting</h2>
             <p className="mt-3 text-sm leading-7 text-slate-100">
-              This page explains the area condition, service route, fixing choices,
-              access needs, and contact steps before a site visit.
+              Share the opening photos, floor level, access details, and the main
+              safety issue. The quote should follow the measured site, not a guess.
             </p>
             <div className="mt-6 rounded-2xl bg-white/12 p-4 text-sm leading-7 text-slate-100">
-              Use it to compare the real site requirement before choosing material,
-              access method, and finishing style.
+              The visit confirms material, fixing line, finish, and after-care
+              before installation starts.
             </div>
           </div>
         </div>
@@ -83,6 +91,135 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
           </div>
         ))}
       </section>
+
+      {page.priceGuide || page.comparisonTable || page.process ? (
+        <section className="mx-auto max-w-7xl px-4 py-12 lg:px-6">
+          <div className="grid gap-5 lg:grid-cols-[0.42fr_0.58fr]">
+            {page.priceGuide ? (
+              <div className="rounded-[26px] border border-blue-100 bg-[#f8fbff] p-5 shadow-sm">
+                <div className="flex items-center gap-3">
+                  <span className="grid h-11 w-11 place-items-center rounded-full bg-[#fff4d9] text-[#b47a14]">
+                    <IndianRupee size={21} />
+                  </span>
+                  <div>
+                    <p className="text-xs font-bold uppercase tracking-[0.16em] text-blue-600">
+                      Price
+                    </p>
+                    <h2 className="text-2xl font-black text-slate-950">
+                      {page.priceGuide.range}
+                    </h2>
+                  </div>
+                </div>
+                <p className="mt-4 text-sm leading-7 text-slate-600">
+                  {page.priceGuide.note}
+                </p>
+                <div className="mt-5 flex flex-wrap gap-2">
+                  {page.priceGuide.factors.map((factor) => (
+                    <span
+                      key={factor}
+                      className="rounded-full border border-blue-100 bg-white px-3 py-1 text-xs font-bold text-blue-700"
+                    >
+                      {factor}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            ) : null}
+
+            {page.process ? (
+              <div className="rounded-[26px] border border-blue-100 bg-white p-5 shadow-sm">
+                <div className="flex items-center gap-3">
+                  <span className="grid h-11 w-11 place-items-center rounded-full bg-blue-50 text-blue-700">
+                    <ListChecks size={21} />
+                  </span>
+                  <div>
+                    <p className="text-xs font-bold uppercase tracking-[0.16em] text-blue-600">
+                      Process
+                    </p>
+                    <h2 className="text-2xl font-black text-slate-950">
+                      {page.process.heading}
+                    </h2>
+                  </div>
+                </div>
+                <div className="mt-5 grid gap-3 sm:grid-cols-2">
+                  {page.process.steps.map((step, index) => (
+                    <div key={step.title} className="flex gap-3 rounded-[18px] bg-[#f8fbff] p-4">
+                      <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-[#08275a] text-sm font-black text-white">
+                        {index + 1}
+                      </span>
+                      <div>
+                        <h3 className="text-sm font-black text-slate-950">{step.title}</h3>
+                        <p className="mt-1 text-xs leading-6 text-slate-600">
+                          {step.description}
+                        </p>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            ) : null}
+          </div>
+
+          {page.comparisonTable ? (
+            <div className="mt-5 rounded-[26px] border border-blue-100 bg-white p-5 shadow-sm">
+              <div className="flex items-center gap-3">
+                <span className="grid h-11 w-11 place-items-center rounded-full bg-[#fff4d9] text-[#b47a14]">
+                  <Scale size={21} />
+                </span>
+                <div>
+                  <p className="text-xs font-bold uppercase tracking-[0.16em] text-blue-600">
+                    Difference Table
+                  </p>
+                  <h2 className="text-2xl font-black text-slate-950">
+                    {page.comparisonTable.heading}
+                  </h2>
+                </div>
+              </div>
+
+              <div className="mt-5 hidden overflow-hidden rounded-[18px] border border-slate-200 md:block">
+                <table className="w-full border-collapse text-left text-sm">
+                  <thead className="bg-[#08275a] text-white">
+                    <tr>
+                      <th className="px-4 py-3 font-bold">Check</th>
+                      <th className="px-4 py-3 font-bold">Basic quote</th>
+                      <th className="px-4 py-3 font-bold">Sri Krishna plan</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {page.comparisonTable.rows.map((row) => (
+                      <tr key={row.feature} className="border-t border-slate-200">
+                        <td className="px-4 py-4 font-black text-slate-950">{row.feature}</td>
+                        <td className="px-4 py-4 text-slate-600">{row.basic}</td>
+                        <td className="px-4 py-4 font-semibold text-slate-800">
+                          {row.sriKrishna}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+
+              <div className="mt-5 grid gap-3 md:hidden">
+                {page.comparisonTable.rows.map((row) => (
+                  <div key={row.feature} className="rounded-[18px] border border-slate-200 p-4">
+                    <h3 className="text-sm font-black text-slate-950">{row.feature}</h3>
+                    <p className="mt-3 text-xs font-bold uppercase tracking-[0.12em] text-slate-500">
+                      Basic quote
+                    </p>
+                    <p className="mt-1 text-sm leading-6 text-slate-600">{row.basic}</p>
+                    <p className="mt-3 text-xs font-bold uppercase tracking-[0.12em] text-blue-600">
+                      Sri Krishna plan
+                    </p>
+                    <p className="mt-1 text-sm leading-6 font-semibold text-slate-800">
+                      {row.sriKrishna}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          ) : null}
+        </section>
+      ) : null}
 
       <section className="mx-auto grid max-w-7xl gap-10 px-4 py-14 lg:grid-cols-[0.7fr_0.3fr] lg:px-6">
         <article>
@@ -140,7 +277,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
               {serviceDetail.category}
             </p>
             <h2 className="mt-3 text-2xl font-black text-slate-950">
-              Ask for a manual site visit.
+              Ask for a site visit.
             </h2>
             <p className="mt-3 text-sm leading-7 text-slate-600">
               Share the opening size, floor level, usage pattern, and location. The

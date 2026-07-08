@@ -3,9 +3,9 @@ export const siteConfig = {
   shortName: "Sri Krishna",
   domain: "srikrishnainvisiblegrills.com",
   url: "https://srikrishnainvisiblegrills.com",
-  tagline: "Invisible grills, safety nets, and bird-control protection for Chennai homes.",
+  tagline: "Window invisible grills, safety nets, and bird-control protection for Chennai homes.",
   description:
-    "SRI KRISHNA INVISIBLE GRILLS provides balcony invisible grills, safety nets, window protection, pigeon control, cricket practice nets, and utility safety services across Chennai.",
+    "SRI KRISHNA INVISIBLE GRILLS provides window invisible grills, balcony invisible grills, safety nets, pigeon control, cricket practice nets, and utility safety services across Chennai.",
   defaultImage: "/images/site/chennai-home-hero-safety-nets.png",
   logo: "/brand/sri-krishna-logo-full.png",
   logos: {
@@ -84,6 +84,13 @@ export const siteConfig = {
         "Open-view stainless steel cable protection for high-rise balconies.",
       image: "/images/services/balcony-invisible-grills/balcony-invisible-grills-context.webp",
       href: "/chennai/balcony-invisible-grills",
+    },
+    {
+      title: "Window Invisible Grills",
+      description:
+        "Open-view stainless steel cable protection for premium window openings.",
+      image: "/images/services/window-invisible-grills/window-invisible-grills-context.webp",
+      href: "/chennai/window-invisible-grills",
     },
     {
       title: "Pigeon Safety Nets",
@@ -169,10 +176,11 @@ export const siteConfig = {
   trustPoints: [
     "Free site visit",
     "Clean installation",
-    "Invisible grill finish",
+    "Window invisible grill finish",
     "Warranty support",
   ],
   marqueeItems: [
+    "Window invisible grills",
     "Balcony invisible grills",
     "Balcony safety nets",
     "Window safety nets",

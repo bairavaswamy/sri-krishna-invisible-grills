@@ -4,18 +4,14 @@ const path = require("path");
 const services = [
   ["balcony-safety-nets", "balcony", ["#0f766e", "#f59e0b"]],
   ["children-safety-nets", "children", ["#2563eb", "#f97316"]],
-  ["anti-bird-nets", "birdNet", ["#0f766e", "#7c3aed"]],
   ["pigeon-safety-nets", "birdNet", ["#334155", "#14b8a6"]],
-  ["invisible-grills", "grill", ["#0369a1", "#94a3b8"]],
+  ["window-invisible-grills", "window", ["#0369a1", "#94a3b8"]],
   ["balcony-invisible-grills", "balconyGrill", ["#0f172a", "#f59e0b"]],
   ["window-safety-nets", "window", ["#0284c7", "#10b981"]],
   ["duct-area-safety-nets", "duct", ["#475569", "#f97316"]],
   ["building-covering-safety-nets", "building", ["#064e3b", "#eab308"]],
   ["terrace-safety-nets", "terrace", ["#047857", "#38bdf8"]],
-  ["staircase-safety-nets", "staircase", ["#7c2d12", "#f59e0b"]],
-  ["swimming-pool-safety-nets", "pool", ["#0369a1", "#22d3ee"]],
   ["cricket-practice-nets", "cricket", ["#166534", "#facc15"]],
-  ["football-sports-nets", "football", ["#14532d", "#60a5fa"]],
   ["bird-spikes-installation", "spikes", ["#374151", "#f97316"]],
   ["cloth-hanger-installation", "hanger", ["#9333ea", "#22c55e"]],
 ];
@@ -207,7 +203,7 @@ function visual(slug, kind, colors, variant) {
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="${id}-title ${id}-desc">
   <title id="${id}-title">${esc(slug.replace(/-/g, " "))} service visual</title>
-  <desc id="${id}-desc">Unique DK Safety Solutions service illustration with safety net, fixing, or protection details.</desc>
+  <desc id="${id}-desc">Unique SRI KRISHNA INVISIBLE GRILLS service illustration with safety net, fixing, or protection details.</desc>
   <defs>
     <linearGradient id="${id}-bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="${a}"/>

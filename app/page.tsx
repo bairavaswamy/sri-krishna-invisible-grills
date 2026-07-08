@@ -35,7 +35,7 @@ const Testimonials = dynamic(() => import("./components/Testimonials"), {
   ssr: true,
 });
 
-const homeTitle = `${siteConfig.name} | Chennai Safety Nets and Invisible Grills`;
+const homeTitle = `${siteConfig.name} | Chennai Safety Nets and Window Invisible Grills`;
 const homeDescription = siteConfig.description;
 
 export const metadata: Metadata = {
@@ -45,6 +45,7 @@ export const metadata: Metadata = {
     "SRI KRISHNA INVISIBLE GRILLS",
     "srikrishnainvisiblegrills.com",
     "balcony safety",
+    "window invisible grills",
     "window safety",
     "bird control",
     "home safety solutions",

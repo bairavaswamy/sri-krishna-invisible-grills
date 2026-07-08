@@ -33,7 +33,7 @@ try {
   console.log(`Manual page validation passed for ${manualServicePages.length} published page(s).`);
 
   for (const page of manualServicePages) {
-    const url = `/${page.citySlug}/${page.areaSlug}/${page.serviceSlug}`;
+    const url = `/${page.citySlug}/${page.serviceSlug}/${page.areaSlug}`;
     const words = registry.countManualPageWords(page);
     console.log(`- ${url}: ${words} words, ${page.faq.length} FAQs`);
   }

@@ -5,10 +5,10 @@ import { siteConfig } from "../config/site.config";
 
 const heroImages = [
   {
-    src: "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
+    src: "/images/services/window-invisible-grills/window-invisible-grills-hero.webp",
     mobileSrc: "/images/site/chennai-home-hero-safety-nets.png",
-    alt: "Chennai balcony safety net installation",
-    dec: "Balcony, window, bird-control, sports, and utility services connected across Chennai.",
+    alt: "Chennai window invisible grill installation",
+    dec: "Window invisible grills, balcony safety, bird-control, sports, and utility services connected across Chennai.",
   },
   {
     src: "/images/site/chennai-service-directory-montage.png",

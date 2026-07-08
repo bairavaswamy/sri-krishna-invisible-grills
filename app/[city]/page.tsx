@@ -110,7 +110,7 @@ export default function ChennaiPage({ params }: CityPageProps) {
               Chennai Service Directory
             </p>
             <h1 className="mt-5 max-w-4xl text-4xl font-black leading-tight text-white sm:text-5xl lg:text-6xl">
-              SRI KRISHNA INVISIBLE GRILLS across every Chennai area
+              SRI KRISHNA INVISIBLE GRILLS across Chennai
             </h1>
             <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-100">
               Pick a safety service, choose your Chennai area, and open a page built
@@ -195,17 +195,17 @@ export default function ChennaiPage({ params }: CityPageProps) {
                 Areas
               </p>
               <h2 className="mt-3 text-3xl font-black text-slate-950">
-                Chennai service areas
+                Main Chennai service areas
               </h2>
             </div>
             <p className="max-w-xl text-sm leading-7 text-slate-600">
-              Each area hub links to the matching safety service pages, so customers
-              can move from a neighborhood to the right solution without dead ends.
+              These are common enquiry locations. For any other Chennai area, call
+              or send site photos and the team can confirm the visit.
             </p>
           </div>
 
           <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-            {chennaiConfig.areas.map((area) => (
+            {featuredAreas.map((area) => (
               <article key={area.slug} className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm">
                 <div className="flex items-start justify-between gap-3">
                   <div>
@@ -254,9 +254,9 @@ export default function ChennaiPage({ params }: CityPageProps) {
       <section className="mx-auto max-w-7xl px-4 py-14 lg:px-6">
         <div className="grid gap-4 md:grid-cols-3">
           {[
-            "Service pages start from Chennai before moving into the exact area.",
-            "Area pages include nearby links, practical planning copy, and contact actions.",
-            "Main service cards now open Chennai service pages first.",
+            "Service pages explain the Chennai work clearly before asking for a site visit.",
+            "Quotes are based on photos, measurements, access, and the real opening.",
+            "Phone and WhatsApp stay available for areas not shown on the page.",
           ].map((item) => (
             <div key={item} className="flex gap-3 rounded-lg border border-blue-100 bg-blue-50 p-5 text-sm font-semibold leading-6 text-slate-700">
               <CheckCircle2 className="mt-0.5 shrink-0 text-blue-700" size={18} />

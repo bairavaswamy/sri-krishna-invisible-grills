@@ -4,7 +4,7 @@ import { siteConfig } from "../config/site.config";
 
 const enquiryServices = [
   { label: "Balcony Safety Net", href: "/chennai/balcony-safety-nets" },
-  { label: "Invisible Grills", href: "/chennai/invisible-grills" },
+  { label: "Window Invisible Grills", href: "/chennai/window-invisible-grills" },
   { label: "Pigeon Safety Net", href: "/chennai/pigeon-safety-nets" },
   { label: "Children Safety Net", href: "/chennai/children-safety-nets" },
   { label: "Window Safety Net", href: "/chennai/window-safety-nets" },

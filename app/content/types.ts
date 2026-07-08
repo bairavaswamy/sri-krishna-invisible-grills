@@ -28,6 +28,27 @@ export type ManualServicePage = {
     heading: string;
     paragraphs: string[];
   };
+  priceGuide?: {
+    heading: string;
+    range: string;
+    note: string;
+    factors: string[];
+  };
+  comparisonTable?: {
+    heading: string;
+    rows: {
+      feature: string;
+      basic: string;
+      sriKrishna: string;
+    }[];
+  };
+  process?: {
+    heading: string;
+    steps: {
+      title: string;
+      description: string;
+    }[];
+  };
   sections: {
     eyebrow: string;
     heading: string;

@@ -36,14 +36,12 @@ export const dynamicParams = true;
 
 export async function generateStaticParams(): Promise<ManualRouteParams[]> {
   const catalogPaths = getAllServiceAreaPaths();
-  const serviceFirstPaths = catalogPaths.map((path) => ({
+
+  return catalogPaths.map((path) => ({
     city: path.city,
     area: path.service,
     service: path.area,
   }));
-  const legacyAreaFirstPaths = catalogPaths;
-
-  return [...serviceFirstPaths, ...legacyAreaFirstPaths];
 }
 
 function normalizePublicRouteParams(params: ManualRouteParams): ManualRouteParams {

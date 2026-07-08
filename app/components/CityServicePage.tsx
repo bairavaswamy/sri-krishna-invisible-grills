@@ -4,6 +4,7 @@ import { ArrowRight, CheckCircle2, MapPin, MessageCircle, Phone, Ruler } from "l
 import { chennaiConfig } from "../config/chennai.config";
 import {
   getBreadcrumbListSchema,
+  getFAQPageSchema,
   getGraphSchema,
   getServiceSchema,
   getWebPageSchema,
@@ -12,6 +13,7 @@ import {
 import { absoluteUrl, siteConfig } from "../config/site.config";
 import { serviceAreaPath } from "../config/routes.config";
 import type { ChennaiService } from "../content/serviceAreaCatalog";
+import { getChennaiServiceManualPage } from "../content/chennaiServiceManualPages";
 import { getServiceDetail } from "../content/serviceDetails";
 import { getServiceVisuals } from "../content/serviceVisuals";
 
@@ -19,30 +21,49 @@ type CityServicePageProps = {
   service: ChennaiService;
 };
 
+const featuredAreaSlugs = [
+  "adyar",
+  "anna-nagar",
+  "velachery",
+  "tambaram",
+  "sholinganallur",
+  "thiruvanmiyur",
+  "porur",
+  "medavakkam",
+  "pallavaram",
+  "madipakkam",
+  "mylapore",
+  "t-nagar",
+] as const;
+
+const featuredAreas = featuredAreaSlugs
+  .map((slug) => chennaiConfig.areas.find((area) => area.slug === slug))
+  .filter((area): area is (typeof chennaiConfig.areas)[number] => Boolean(area));
+
 export default function CityServicePage({ service }: CityServicePageProps) {
   const detail = getServiceDetail(service.slug);
   const visuals = getServiceVisuals(service.slug);
+  const manual = getChennaiServiceManualPage(service.slug);
   const relatedServices = chennaiConfig.services
     .filter((item) => item.slug !== service.slug)
-    .slice(0, 6);
-  const featuredAreas = chennaiConfig.areas.slice(0, 12);
+    .slice(0, 4);
   const pageUrl = absoluteUrl(`/${chennaiConfig.citySlug}/${service.slug}/`);
   const imageUrl = absoluteUrl(visuals.hero);
-  const pageTitle = `${service.name} in Chennai`;
   const jsonLd = getGraphSchema([
     getWebPageSchema({
       url: pageUrl,
-      name: pageTitle,
-      description: detail.shortBenefit,
+      name: manual.title,
+      description: manual.lead,
       image: imageUrl,
     }),
     getServiceSchema({
       url: pageUrl,
-      name: pageTitle,
-      description: detail.shortBenefit,
+      name: manual.title,
+      description: manual.lead,
       image: imageUrl,
       areaName: "Chennai",
     }),
+    getFAQPageSchema(pageUrl, manual.faq),
     getBreadcrumbListSchema([
       { name: "Home", url: absoluteUrl("/") },
       { name: "Chennai", url: absoluteUrl(`/${chennaiConfig.citySlug}/`) },
@@ -62,27 +83,24 @@ export default function CityServicePage({ service }: CityServicePageProps) {
         <div className="absolute inset-0">
           <Image
             src={visuals.hero}
-            alt={`${service.name} in Chennai`}
+            alt={manual.title}
             fill
             priority
             className="object-cover"
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/80 to-slate-900/35" />
+          <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/82 to-slate-900/35" />
         </div>
 
         <div className="relative mx-auto grid min-h-[620px] max-w-7xl items-center gap-8 px-4 py-16 lg:grid-cols-[1fr_0.75fr] lg:px-6">
           <div className="min-w-0">
             <p className="text-sm font-bold uppercase tracking-[0.2em] text-amber-300">
-              Chennai {detail.category}
+              {manual.eyebrow}
             </p>
             <h1 className="mt-5 max-w-4xl text-4xl font-black leading-tight text-white sm:text-5xl lg:text-6xl">
-              {service.name} in Chennai
+              {manual.title}
             </h1>
             <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-100">
-              SRI KRISHNA INVISIBLE GRILLS plans {service.name.toLowerCase()} for Chennai
-              apartments, villas, communities, terraces, utility spaces, and open
-              building edges with clean fixing, practical access, and a finish that
-              suits daily use.
+              {manual.lead}
             </p>
 
             <div className="mt-8 flex flex-wrap gap-3">
@@ -100,17 +118,17 @@ export default function CityServicePage({ service }: CityServicePageProps) {
                 className="inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 px-5 py-3 font-bold text-white backdrop-blur transition hover:bg-white/20"
               >
                 <MessageCircle size={18} />
-                WhatsApp Details
+                WhatsApp Photos
               </a>
             </div>
           </div>
 
           <div className="rounded-lg border border-white/15 bg-white/12 p-6 text-white shadow-2xl backdrop-blur-md">
             <MapPin size={26} className="text-amber-200" />
-            <h2 className="mt-4 text-2xl font-black">Choose your Chennai area</h2>
+            <h2 className="mt-4 text-2xl font-black">Chennai service coverage</h2>
             <p className="mt-3 text-sm leading-7 text-slate-100">
-              Start from this city service page, then open the exact area page for
-              measurement, access notes, nearby service links, and contact action.
+              This page is written for Chennai enquiries. Open a main area below,
+              or call with your location and photos for a direct site visit.
             </p>
             <div className="mt-5 grid gap-2">
               {featuredAreas.slice(0, 4).map((area) => (
@@ -132,26 +150,15 @@ export default function CityServicePage({ service }: CityServicePageProps) {
       <section className="mx-auto grid max-w-7xl gap-8 px-4 py-14 lg:grid-cols-[0.7fr_0.3fr] lg:px-6">
         <article>
           <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
-            Chennai Service Planning
+            Chennai Service Details
           </p>
           <h2 className="mt-3 text-3xl font-black tracking-tight text-slate-950">
-            Built around site condition, not a fixed template
+            What this service is meant to solve
           </h2>
           <div className="mt-5 space-y-5 text-[17px] leading-8 text-slate-700">
-            <p>
-              {service.name} in Chennai needs a practical check of the opening,
-              fixing surface, access route, weather exposure, and how the space is
-              used every day. A balcony, duct, terrace, staircase, window, play
-              zone, or building face can all need a different material line and
-              fixing pattern.
-            </p>
-            <p>
-              The service visit should confirm where the protection starts and ends,
-              how cleaning or maintenance will happen later, and whether the finish
-              should stay low-profile from inside the home or from the building
-              exterior. That planning keeps the finished work useful after
-              installation, not just neat on the first day.
-            </p>
+            {manual.intro.map((paragraph) => (
+              <p key={paragraph}>{paragraph}</p>
+            ))}
           </div>
 
           <div className="mt-10 grid gap-5 md:grid-cols-2">
@@ -177,7 +184,7 @@ export default function CityServicePage({ service }: CityServicePageProps) {
                 Site Checks
               </p>
               <h2 className="mt-3 text-2xl font-black text-slate-950">
-                What should be checked first
+                Checked before quotation
               </h2>
               <div className="mt-5 grid gap-3">
                 {detail.checks.map((item) => (
@@ -190,15 +197,107 @@ export default function CityServicePage({ service }: CityServicePageProps) {
             </section>
           </div>
 
-          <section className="mt-12">
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-700">
-              Chennai Areas
+          <div className="mt-12 grid gap-6">
+            {manual.sections.map((section) => (
+              <section key={section.title} className="rounded-lg border border-slate-200 bg-white p-6 shadow-sm">
+                <h2 className="text-2xl font-black text-slate-950">{section.title}</h2>
+                <p className="mt-4 text-[17px] leading-8 text-slate-700">{section.body}</p>
+              </section>
+            ))}
+          </div>
+
+          <div className="mt-12 grid gap-6">
+            {manual.guideSections.map((section, sectionIndex) => (
+              <section
+                key={section.title}
+                className="overflow-hidden rounded-lg border border-blue-100 bg-white shadow-sm"
+              >
+                <div className="border-b border-blue-100 bg-gradient-to-r from-blue-50 via-white to-amber-50 p-6">
+                  <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-600">
+                    {section.eyebrow}
+                  </p>
+                  <h2 className="mt-3 text-3xl font-black text-slate-950">
+                    {section.title}
+                  </h2>
+                  <p className="mt-4 text-[17px] leading-8 text-slate-700">
+                    {section.intro}
+                  </p>
+                </div>
+                <div className="grid gap-0 md:grid-cols-2">
+                  {section.points.map((point, pointIndex) => (
+                    <div
+                      key={point.label}
+                      className={`border-t border-slate-100 p-6 ${pointIndex % 2 === 0 ? "md:border-r" : ""}`}
+                    >
+                      <div className="flex items-start gap-4">
+                        <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-blue-950 text-sm font-black text-amber-300">
+                          {sectionIndex + 1}.{pointIndex + 1}
+                        </span>
+                        <div>
+                          <h3 className="text-lg font-black text-slate-950">
+                            {point.label}
+                          </h3>
+                          <p className="mt-3 text-[15px] leading-7 text-slate-700">
+                            {point.text}
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </section>
+            ))}
+          </div>
+
+          <section className="mt-12 rounded-lg border border-amber-100 bg-amber-50/50 p-6">
+            <p className="text-sm font-bold uppercase tracking-[0.2em] text-amber-700">
+              Chennai Service Note
             </p>
             <h2 className="mt-3 text-3xl font-black text-slate-950">
-              Open the area page for {service.name.toLowerCase()}
+              A practical finish for {service.name.toLowerCase()}
             </h2>
+            <div className="mt-5 grid gap-4">
+              {manual.closing.map((paragraph) => (
+                <p key={paragraph} className="text-[17px] leading-8 text-slate-700">
+                  {paragraph}
+                </p>
+              ))}
+            </div>
+          </section>
+
+          <section className="mt-12">
+            <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-700">
+              Work Flow
+            </p>
+            <h2 className="mt-3 text-3xl font-black text-slate-950">
+              How the Chennai visit is handled
+            </h2>
+            <div className="mt-6 grid gap-4 md:grid-cols-2">
+              {manual.process.map((item, index) => (
+                <div key={item} className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm">
+                  <p className="text-sm font-black uppercase tracking-[0.18em] text-blue-500">
+                    Step {index + 1}
+                  </p>
+                  <p className="mt-3 text-sm leading-7 text-slate-700">{item}</p>
+                </div>
+              ))}
+            </div>
+          </section>
+
+          <section className="mt-12">
+            <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-700">
+              Main Chennai Areas
+            </p>
+            <h2 className="mt-3 text-3xl font-black text-slate-950">
+              Common Chennai enquiry areas
+            </h2>
+            <p className="mt-4 max-w-3xl text-sm leading-7 text-slate-600">
+              These are frequent enquiry locations for this service. For any other
+              Chennai area, call or send photos on WhatsApp and the team can confirm
+              the visit.
+            </p>
             <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-              {chennaiConfig.areas.map((area) => (
+              {featuredAreas.map((area) => (
                 <Link
                   key={area.slug}
                   href={serviceAreaPath(service.slug, area.slug)}
@@ -231,8 +330,8 @@ export default function CityServicePage({ service }: CityServicePageProps) {
               Ask for {service.name.toLowerCase()}.
             </h2>
             <p className="mt-3 text-sm leading-7 text-slate-600">
-              Share photos, area name, approximate opening size, floor access, and
-              the main issue. The visit can then follow the real site condition.
+              Share the area, opening photos, floor access, and the main issue. The
+              visit can then follow the real site condition.
             </p>
             <div className="mt-5 grid gap-3">
               <a
@@ -242,14 +341,29 @@ export default function CityServicePage({ service }: CityServicePageProps) {
                 <Phone size={17} />
                 Call Now
               </a>
-              <Link
-                href="/contact-us"
-                prefetch={false}
+              <a
+                href={siteConfig.contact.whatsappHref}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 rounded-full border border-blue-200 bg-white px-5 py-3 font-bold text-blue-600 shadow-sm transition hover:border-blue-400 hover:bg-blue-50"
               >
-                Contact Page
-                <ArrowRight size={17} />
-              </Link>
+                WhatsApp
+                <MessageCircle size={17} />
+              </a>
+            </div>
+          </div>
+
+          <div className="mt-5 rounded-lg border border-slate-200 bg-white p-6 shadow-sm">
+            <p className="text-sm font-bold uppercase tracking-[0.18em] text-slate-500">
+              Highlights
+            </p>
+            <div className="mt-4 grid gap-2">
+              {manual.highlights.map((item) => (
+                <div key={item} className="flex items-center gap-2 rounded-lg border border-slate-200 px-3 py-2 text-sm font-semibold text-slate-700">
+                  <CheckCircle2 size={15} className="text-blue-600" />
+                  {item}
+                </div>
+              ))}
             </div>
           </div>
         </aside>
@@ -258,28 +372,47 @@ export default function CityServicePage({ service }: CityServicePageProps) {
       <section className="bg-slate-50 px-4 py-14 lg:px-6">
         <div className="mx-auto max-w-7xl">
           <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
-            Related Services
+            FAQ
           </p>
           <h2 className="mt-3 text-3xl font-black text-slate-950">
-            Other Chennai safety services
+            Questions about {service.name.toLowerCase()} in Chennai
           </h2>
-          <div className="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-            {relatedServices.map((related) => (
-              <Link
-                key={related.slug}
-                href={`/${chennaiConfig.citySlug}/${related.slug}`}
-                prefetch={false}
-                className="group rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition hover:border-blue-300 hover:shadow-md"
-              >
-                <p className="text-lg font-black text-slate-950">{related.name}</p>
-                <p className="mt-2 text-sm leading-6 text-slate-600">{related.angle}</p>
-                <span className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-blue-600">
-                  Open Chennai page
-                  <ArrowRight size={16} className="transition group-hover:translate-x-1" />
-                </span>
-              </Link>
+          <div className="mt-6 grid gap-4 md:grid-cols-2">
+            {manual.faq.map((item) => (
+              <details key={item.question} className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm">
+                <summary className="cursor-pointer text-lg font-bold text-slate-950">
+                  {item.question}
+                </summary>
+                <p className="mt-4 text-sm leading-7 text-slate-600">{item.answer}</p>
+              </details>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-7xl px-4 py-14 lg:px-6">
+        <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
+          Related Services
+        </p>
+        <h2 className="mt-3 text-3xl font-black text-slate-950">
+          Other Chennai services
+        </h2>
+        <div className="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+          {relatedServices.map((related) => (
+            <Link
+              key={related.slug}
+              href={`/${chennaiConfig.citySlug}/${related.slug}`}
+              prefetch={false}
+              className="group rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition hover:border-blue-300 hover:shadow-md"
+            >
+              <p className="text-lg font-black text-slate-950">{related.name}</p>
+              <p className="mt-2 text-sm leading-6 text-slate-600">{related.angle}</p>
+              <span className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-blue-600">
+                Open Chennai page
+                <ArrowRight size={16} className="transition group-hover:translate-x-1" />
+              </span>
+            </Link>
+          ))}
         </div>
       </section>
     </main>

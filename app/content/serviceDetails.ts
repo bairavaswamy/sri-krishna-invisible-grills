@@ -31,19 +31,19 @@ const serviceDetailsWithOriginalImages = {
   },
   "pigeon-safety-nets": {
     image: "/images/pigeon-safety-invisible-grills.webp",
-    cardImage: "/birdnet/anti-bird-nets-installation.webp",
+    cardImage: "/birdnet/pigeon-safety-nets-installation.webp",
     category: "Pigeon Control",
     shortBenefit: "Focused pigeon route control for ledges, balcony corners, and utility areas.",
     bestFor: ["Pigeon-prone balconies", "AC ledges", "Window corners", "Shaft openings"],
     checks: ["Nesting spots", "Entry direction", "Waste buildup", "Cleaning interval"],
   },
-  "invisible-grills": {
+  "window-invisible-grills": {
     image: "/images/invisible-grill.webp",
     cardImage: "/cards/invisible-grill.webp",
-    category: "Invisible Grills",
-    shortBenefit: "Open-view stainless steel cable protection for modern apartment faces.",
-    bestFor: ["Premium apartments", "Open views", "Large windows", "Balcony fronts"],
-    checks: ["Cable spacing", "Frame strength", "View line", "Association rules"],
+    category: "Window Grills",
+    shortBenefit: "Open-view stainless steel cable protection for modern window openings.",
+    bestFor: ["High-rise windows", "Premium rooms", "Open views", "Pet safety"],
+    checks: ["Cable spacing", "Frame strength", "Sill height", "Cleaning access"],
   },
   "balcony-invisible-grills": {
     image: "/images/invisible-grill-for-balcony.webp",
@@ -84,14 +84,6 @@ const serviceDetailsWithOriginalImages = {
     shortBenefit: "Open-edge protection for terraces, rooftops, and common play corners.",
     bestFor: ["Terraces", "Rooftop play", "Open parapets", "Common areas"],
     checks: ["Parapet height", "Wind load", "Access safety", "Drainage points"],
-  },
-  "staircase-safety-nets": {
-    image: "/images/children-safety-invisible-grills-for-balcony.webp",
-    cardImage: "/cards/children-safety-invisible-grills-for-balcony.webp",
-    category: "Staircase Safety",
-    shortBenefit: "Vertical fall protection for staircase wells, duplex voids, and railing gaps.",
-    bestFor: ["Duplex homes", "Stair wells", "Kids play zones", "Open railings"],
-    checks: ["Void height", "Railing gap", "Fixing side", "Visibility"],
   },
   "cricket-practice-nets": {
     image: "/images/Box-cricket-sports-nets-installation.webp",
