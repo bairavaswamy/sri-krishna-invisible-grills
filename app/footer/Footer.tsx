@@ -6,15 +6,15 @@ import { siteConfig } from "../config/site.config";
 
 export default function Footer() {
   return (
-    <footer className="mt-16 bg-[#0b1f2a] text-gray-300">
+    <footer className="mt-16 bg-[#061b3d] text-gray-300">
       <div className="mx-auto grid max-w-7xl gap-10 px-6 py-14 md:grid-cols-2 lg:grid-cols-[1.3fr_0.8fr_1fr]">
         <div>
           <Image
             src={siteConfig.logos.desktop}
             alt={`${siteConfig.name} logo`}
-            width={260}
-            height={64}
-            className="mb-5 h-16 w-auto rounded-lg bg-white"
+            width={2172}
+            height={724}
+            className="mb-5 h-auto w-full max-w-[310px] rounded-lg bg-white p-2"
           />
 
           <p className="text-sm leading-relaxed text-gray-400">{siteConfig.description}</p>
@@ -36,7 +36,7 @@ export default function Footer() {
                 <Link
                   href={link.href}
                   prefetch={false}
-                  className="transition-colors duration-300 hover:text-sky-400"
+                  className="transition-colors duration-300 hover:text-[#d6a039]"
                 >
                   {link.label}
                 </Link>
@@ -51,9 +51,9 @@ export default function Footer() {
           <div className="space-y-4 text-sm">
             <a
               href={siteConfig.contact.phoneHref}
-              className="flex items-center gap-3 transition hover:text-sky-300"
+              className="flex items-center gap-3 transition hover:text-[#d6a039]"
             >
-              <Phone className="h-5 w-5 text-sky-400" />
+              <Phone className="h-5 w-5 text-[#d6a039]" />
               {siteConfig.contact.phoneLabel}
             </a>
 
@@ -61,22 +61,22 @@ export default function Footer() {
               href={siteConfig.contact.whatsappHref}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-3 transition hover:text-sky-300"
+              className="flex items-center gap-3 transition hover:text-[#d6a039]"
             >
-              <MessageCircle className="h-5 w-5 text-sky-400" />
+              <MessageCircle className="h-5 w-5 text-[#d6a039]" />
               WhatsApp {siteConfig.contact.whatsappLabel}
             </a>
 
             <a
               href={siteConfig.contact.emailHref}
-              className="flex items-center gap-3 transition hover:text-sky-300"
+              className="flex items-center gap-3 transition hover:text-[#d6a039]"
             >
-              <Mail className="h-5 w-5 text-sky-400" />
+              <Mail className="h-5 w-5 text-[#d6a039]" />
               {siteConfig.contact.email}
             </a>
 
             <div className="flex items-start gap-3">
-              <MapPin className="mt-1 h-5 w-5 text-sky-400" />
+              <MapPin className="mt-1 h-5 w-5 text-[#d6a039]" />
               <p className="leading-relaxed text-gray-400">
                 {siteConfig.contact.addressLines.map((line) => (
                   <span key={line} className="block">

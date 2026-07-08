@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="SRI KRISHNA INVISIBLE GRILLS favicon">
+  <defs>
+    <linearGradient id="favBlue" x1="8" y1="5" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b3f8f"/>
+      <stop offset="0.62" stop-color="#007bff"/>
+      <stop offset="1" stop-color="#08275a"/>
+    </linearGradient>
+    <clipPath id="favClip">
+      <circle cx="32" cy="30" r="24"/>
+    </clipPath>
+  </defs>
+  <rect width="64" height="64" rx="13" fill="#ffffff"/>
+  <circle cx="32" cy="30" r="26" fill="url(#favBlue)"/>
+  <g clip-path="url(#favClip)" opacity="0.42">
+    <path d="M7 18h50M5 28h54M7 38h50" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M16 4v52M26 2v56M36 2v56M46 4v52" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"/>
+  </g>
+  <circle cx="32" cy="30" r="24" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <path d="M43 43 52 34l5 5-14 14-9-9 5-5 4 4Z" fill="#ffc107" stroke="#ffffff" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="32" y="38" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900">SK</text>
+</svg>

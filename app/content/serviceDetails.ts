@@ -29,14 +29,6 @@ const serviceDetailsWithOriginalImages = {
     bestFor: ["Family apartments", "Window openings", "Balconies", "Duplex edges"],
     checks: ["Climb points", "Furniture position", "Gap width", "Family routine"],
   },
-  "anti-bird-nets": {
-    image: "/birdnet/anti-bird-nets-installation.webp",
-    cardImage: "/birdnet/cards/anti-bird-net.webp",
-    category: "Bird Control",
-    shortBenefit: "Netting that blocks bird entry into balconies, ducts, and service shafts.",
-    bestFor: ["Balconies", "Utility ducts", "Shafts", "Open ledges"],
-    checks: ["Bird routes", "Cleaning access", "Side gaps", "Drainage path"],
-  },
   "pigeon-safety-nets": {
     image: "/images/pigeon-safety-invisible-grills.webp",
     cardImage: "/birdnet/anti-bird-nets-installation.webp",
@@ -101,14 +93,6 @@ const serviceDetailsWithOriginalImages = {
     bestFor: ["Duplex homes", "Stair wells", "Kids play zones", "Open railings"],
     checks: ["Void height", "Railing gap", "Fixing side", "Visibility"],
   },
-  "swimming-pool-safety-nets": {
-    image: "/images/sports-nets-installation-for-cricket-and-football-practice.webp",
-    cardImage: "/images/Box-cricket-sports-nets-installation.webp",
-    category: "Pool Safety",
-    shortBenefit: "Custom net planning for pool edges, decks, and shared amenity areas.",
-    bestFor: ["Pool decks", "Amenities", "Clubs", "Gated communities"],
-    checks: ["Pool edge", "Drainage", "Access gates", "Common-area rules"],
-  },
   "cricket-practice-nets": {
     image: "/images/Box-cricket-sports-nets-installation.webp",
     cardImage: "/images/Box-cricket-sports-nets-installation.webp",
@@ -116,14 +100,6 @@ const serviceDetailsWithOriginalImages = {
     shortBenefit: "Containment netting for practice lanes, terraces, academies, and play zones.",
     bestFor: ["Practice lanes", "Terraces", "Academies", "Society play zones"],
     checks: ["Ball direction", "Height", "Pole support", "Ground surface"],
-  },
-  "football-sports-nets": {
-    image: "/images/services/football-sports-nets/football-sports-nets-hero.webp",
-    cardImage: "/images/services/football-sports-nets/football-sports-nets-context.webp",
-    category: "Sports Nets",
-    shortBenefit: "Sports containment for football courts, turf edges, and community play areas.",
-    bestFor: ["Football courts", "Turf grounds", "Play zones", "Community sports"],
-    checks: ["Boundary height", "Ball impact", "Pole spacing", "Ground anchoring"],
   },
   "bird-spikes-installation": {
     image: "/images/bird-spikes-installation.webp",

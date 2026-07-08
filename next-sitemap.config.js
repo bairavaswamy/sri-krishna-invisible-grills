@@ -1,5 +1,5 @@
 const config = {
-  siteUrl: 'https://dksafetysolutions.com',
+  siteUrl: 'https://srikrishnainvisiblegrills.com',
   generateRobotsTxt: true,
   changefreq: "daily",
   priority: 0.7,

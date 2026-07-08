@@ -6,14 +6,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "adyar",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Adyar Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Adyar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Adyar, Chennai, covering apartment use, child safety, pigeon routes, installation planning, material choice, and maintenance.",
       "keywords": [
         "balcony safety nets in Adyar",
         "balcony safety nets Chennai",
         "children safety nets Adyar",
         "apartment balcony safety Adyar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Adyar Chennai",
       "openGraphDescription": "A unique service page for Adyar balcony safety net planning, written for family apartments, high-rise balconies, and area installation decisions.",
@@ -106,7 +106,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Someone searching for balcony safety nets in Adyar may not be ready to book immediately. They may be checking whether nets are allowed in their apartment, whether the work will look clean from the hall, whether pets can still enjoy the balcony, whether the net will stop pigeons, or whether a weekend installation is possible without disturbing the building. Good area content should make those decisions easier before a call happens. It should help the customer recognize the correct scope for their home.",
-          "This is why DK Safety Solutions should treat each Chennai area page as a small area consultation. Adyar needs details about older walls, tree-facing balconies, river-side humidity, busy-road dust, premium apartment finishes, and family homes where grandparents and children share the same balcony. Another area will need a different angle. When the writing is specific, the page can answer service, price, safety, pigeon control, pet safety, association approval, and customer search intent without feeling like a thin service page."
+          "This is why SRI KRISHNA INVISIBLE GRILLS should treat each Chennai area page as a small area consultation. Adyar needs details about older walls, tree-facing balconies, river-side humidity, busy-road dust, premium apartment finishes, and family homes where grandparents and children share the same balcony. Another area will need a different angle. When the writing is specific, the page can answer service, price, safety, pigeon control, pet safety, association approval, and customer search intent without feeling like a thin service page."
         ]
       },
       {
@@ -184,7 +184,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "A good safety net should make the balcony safer without making the home feel smaller. It should consider children, pets, birds, plants, drying needs, association rules, and the way Chennai weather affects material over time.",
         "If you are comparing balcony safety nets in Adyar, start with a site visit and a clear explanation. The right quote should feel specific to your balcony, not pulled from a generic price list."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -192,14 +192,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "alandur",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Alandur Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Alandur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Alandur, Chennai, covering transport dust, compact flats, rental approvals, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Alandur",
         "balcony safety nets Alandur Chennai",
         "children safety nets Alandur",
         "apartment balcony safety Alandur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Alandur Chennai",
       "openGraphDescription": "A manual Alandur balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -369,7 +369,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Alandur?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Alandur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Alandur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Alandur apartments?",
@@ -415,7 +415,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Alandur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -423,14 +423,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ambattur",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Ambattur Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Ambattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Ambattur, Chennai, covering mixed housing, larger openings, utility balconies, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Ambattur",
         "balcony safety nets Ambattur Chennai",
         "children safety nets Ambattur",
         "apartment balcony safety Ambattur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Ambattur Chennai",
       "openGraphDescription": "A manual Ambattur balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -601,7 +601,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Ambattur?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Ambattur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Ambattur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Ambattur apartments?",
@@ -647,7 +647,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Ambattur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -655,14 +655,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "aminjikarai",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Aminjikarai Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Aminjikarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Aminjikarai, Chennai, covering older buildings, street-facing openings, careful drilling, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Aminjikarai",
         "balcony safety nets Aminjikarai Chennai",
         "children safety nets Aminjikarai",
         "apartment balcony safety Aminjikarai",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Aminjikarai Chennai",
       "openGraphDescription": "A manual Aminjikarai balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -832,7 +832,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Aminjikarai?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Aminjikarai, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Aminjikarai, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Aminjikarai apartments?",
@@ -878,7 +878,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Aminjikarai, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -886,14 +886,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "anna-nagar",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Anna Nagar Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Anna Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Anna Nagar, Chennai, covering wide balconies, premium fronts, family routines, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Anna Nagar",
         "balcony safety nets Anna Nagar Chennai",
         "children safety nets Anna Nagar",
         "apartment balcony safety Anna Nagar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Anna Nagar Chennai",
       "openGraphDescription": "A manual Anna Nagar balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -1063,7 +1063,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Anna Nagar?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Anna Nagar, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Anna Nagar, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Anna Nagar apartments?",
@@ -1109,7 +1109,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Anna Nagar, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1117,14 +1117,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "arumbakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Arumbakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Arumbakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Arumbakkam, Chennai, covering compact balconies, busy lanes, quick access, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Arumbakkam",
         "balcony safety nets Arumbakkam Chennai",
         "children safety nets Arumbakkam",
         "apartment balcony safety Arumbakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Arumbakkam Chennai",
       "openGraphDescription": "A manual Arumbakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -1294,7 +1294,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Arumbakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Arumbakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Arumbakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Arumbakkam apartments?",
@@ -1340,7 +1340,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Arumbakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1348,14 +1348,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ashok-nagar",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Ashok Nagar Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Ashok Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Ashok Nagar, Chennai, covering family flats, visible fronts, older railings, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Ashok Nagar",
         "balcony safety nets Ashok Nagar Chennai",
         "children safety nets Ashok Nagar",
         "apartment balcony safety Ashok Nagar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Ashok Nagar Chennai",
       "openGraphDescription": "A manual Ashok Nagar balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -1525,7 +1525,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Ashok Nagar?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Ashok Nagar, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Ashok Nagar, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Ashok Nagar apartments?",
@@ -1571,7 +1571,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Ashok Nagar, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1579,14 +1579,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "avadi",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Avadi Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Avadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Avadi, Chennai, covering suburban layouts, terraces, independent homes, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Avadi",
         "balcony safety nets Avadi Chennai",
         "children safety nets Avadi",
         "apartment balcony safety Avadi",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Avadi Chennai",
       "openGraphDescription": "A manual Avadi balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -1756,7 +1756,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Avadi?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Avadi, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Avadi, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Avadi apartments?",
@@ -1802,7 +1802,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Avadi, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1810,14 +1810,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "besant-nagar",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Besant Nagar Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Besant Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Besant Nagar, Chennai, covering coastal breeze, pets, open views, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Besant Nagar",
         "balcony safety nets Besant Nagar Chennai",
         "children safety nets Besant Nagar",
         "apartment balcony safety Besant Nagar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Besant Nagar Chennai",
       "openGraphDescription": "A manual Besant Nagar balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -1987,7 +1987,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Besant Nagar?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Besant Nagar, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Besant Nagar, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Besant Nagar apartments?",
@@ -2033,7 +2033,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Besant Nagar, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2041,14 +2041,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "chetpet",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Chetpet Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Chetpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Chetpet, Chennai, covering premium flats, quiet finish, older surfaces, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Chetpet",
         "balcony safety nets Chetpet Chennai",
         "children safety nets Chetpet",
         "apartment balcony safety Chetpet",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Chetpet Chennai",
       "openGraphDescription": "A manual Chetpet balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -2218,7 +2218,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Chetpet?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Chetpet, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Chetpet, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Chetpet apartments?",
@@ -2264,7 +2264,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Chetpet, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2272,14 +2272,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "choolaimedu",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Choolaimedu Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Choolaimedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Choolaimedu, Chennai, covering rental homes, dense balconies, utility corners, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Choolaimedu",
         "balcony safety nets Choolaimedu Chennai",
         "children safety nets Choolaimedu",
         "apartment balcony safety Choolaimedu",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Choolaimedu Chennai",
       "openGraphDescription": "A manual Choolaimedu balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -2449,7 +2449,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Choolaimedu?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Choolaimedu, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Choolaimedu, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Choolaimedu apartments?",
@@ -2495,7 +2495,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Choolaimedu, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2503,14 +2503,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "chromepet",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Chromepet Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Chromepet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Chromepet, Chennai, covering GST Road dust, compact flats, budget clarity, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Chromepet",
         "balcony safety nets Chromepet Chennai",
         "children safety nets Chromepet",
         "apartment balcony safety Chromepet",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Chromepet Chennai",
       "openGraphDescription": "A manual Chromepet balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -2681,7 +2681,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Chromepet?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Chromepet, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Chromepet, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Chromepet apartments?",
@@ -2727,7 +2727,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Chromepet, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2735,14 +2735,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "egmore",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Egmore Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Egmore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Egmore, Chennai, covering central buildings, visible balconies, older ledges, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Egmore",
         "balcony safety nets Egmore Chennai",
         "children safety nets Egmore",
         "apartment balcony safety Egmore",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Egmore Chennai",
       "openGraphDescription": "A manual Egmore balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -2912,7 +2912,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Egmore?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Egmore, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Egmore, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Egmore apartments?",
@@ -2958,7 +2958,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Egmore, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2966,14 +2966,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "guindy",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Guindy Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Guindy Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Guindy, Chennai, covering working schedules, traffic dust, rental flats, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Guindy",
         "balcony safety nets Guindy Chennai",
         "children safety nets Guindy",
         "apartment balcony safety Guindy",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Guindy Chennai",
       "openGraphDescription": "A manual Guindy balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -3144,7 +3144,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Guindy?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Guindy, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Guindy, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Guindy apartments?",
@@ -3190,7 +3190,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Guindy, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3198,14 +3198,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "injambakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Injambakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Injambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Injambakkam, Chennai, covering ECR exposure, villas, terraces, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Injambakkam",
         "balcony safety nets Injambakkam Chennai",
         "children safety nets Injambakkam",
         "apartment balcony safety Injambakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Injambakkam Chennai",
       "openGraphDescription": "A manual Injambakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -3376,7 +3376,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Injambakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Injambakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Injambakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Injambakkam apartments?",
@@ -3422,7 +3422,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Injambakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3430,14 +3430,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "k-k-nagar",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in K K Nagar Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in K K Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in K K Nagar, Chennai, covering elders, grandchildren, older apartments, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in K K Nagar",
         "balcony safety nets K K Nagar Chennai",
         "children safety nets K K Nagar",
         "apartment balcony safety K K Nagar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in K K Nagar Chennai",
       "openGraphDescription": "A manual K K Nagar balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -3606,7 +3606,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in K K Nagar?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in K K Nagar, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in K K Nagar, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in K K Nagar apartments?",
@@ -3652,7 +3652,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For K K Nagar, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3660,14 +3660,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kandanchavadi",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Kandanchavadi Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Kandanchavadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Kandanchavadi, Chennai, covering OMR towers, high floors, association rules, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Kandanchavadi",
         "balcony safety nets Kandanchavadi Chennai",
         "children safety nets Kandanchavadi",
         "apartment balcony safety Kandanchavadi",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Kandanchavadi Chennai",
       "openGraphDescription": "A manual Kandanchavadi balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -3838,7 +3838,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Kandanchavadi?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Kandanchavadi, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Kandanchavadi, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Kandanchavadi apartments?",
@@ -3884,7 +3884,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Kandanchavadi, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3892,14 +3892,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "karapakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Karapakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Karapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Karapakkam, Chennai, covering new towers, height wind, move-in safety, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Karapakkam",
         "balcony safety nets Karapakkam Chennai",
         "children safety nets Karapakkam",
         "apartment balcony safety Karapakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Karapakkam Chennai",
       "openGraphDescription": "A manual Karapakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -4070,7 +4070,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Karapakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Karapakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Karapakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Karapakkam apartments?",
@@ -4116,7 +4116,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Karapakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4124,14 +4124,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kelambakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Kelambakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Kelambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Kelambakkam, Chennai, covering villa layouts, terraces, larger homes, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Kelambakkam",
         "balcony safety nets Kelambakkam Chennai",
         "children safety nets Kelambakkam",
         "apartment balcony safety Kelambakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Kelambakkam Chennai",
       "openGraphDescription": "A manual Kelambakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -4302,7 +4302,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Kelambakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Kelambakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Kelambakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Kelambakkam apartments?",
@@ -4348,7 +4348,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Kelambakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4356,14 +4356,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kilpauk",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Kilpauk Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Kilpauk Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Kilpauk, Chennai, covering premium central flats, older walls, discreet finish, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Kilpauk",
         "balcony safety nets Kilpauk Chennai",
         "children safety nets Kilpauk",
         "apartment balcony safety Kilpauk",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Kilpauk Chennai",
       "openGraphDescription": "A manual Kilpauk balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -4533,7 +4533,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Kilpauk?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Kilpauk, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Kilpauk, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Kilpauk apartments?",
@@ -4579,7 +4579,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Kilpauk, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4587,14 +4587,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kodambakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Kodambakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Kodambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Kodambakkam, Chennai, covering older flats, narrow balconies, rental homes, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Kodambakkam",
         "balcony safety nets Kodambakkam Chennai",
         "children safety nets Kodambakkam",
         "apartment balcony safety Kodambakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Kodambakkam Chennai",
       "openGraphDescription": "A manual Kodambakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -4765,7 +4765,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Kodambakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Kodambakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Kodambakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Kodambakkam apartments?",
@@ -4811,7 +4811,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Kodambakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4819,14 +4819,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kolathur",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Kolathur Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Kolathur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Kolathur, Chennai, covering family homes, utility use, north Chennai dust, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Kolathur",
         "balcony safety nets Kolathur Chennai",
         "children safety nets Kolathur",
         "apartment balcony safety Kolathur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Kolathur Chennai",
       "openGraphDescription": "A manual Kolathur balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -4996,7 +4996,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Kolathur?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Kolathur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Kolathur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Kolathur apartments?",
@@ -5042,7 +5042,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Kolathur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5050,14 +5050,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "korattur",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Korattur Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Korattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Korattur, Chennai, covering lake-side humidity, mixed homes, open balconies, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Korattur",
         "balcony safety nets Korattur Chennai",
         "children safety nets Korattur",
         "apartment balcony safety Korattur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Korattur Chennai",
       "openGraphDescription": "A manual Korattur balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -5227,7 +5227,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Korattur?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Korattur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Korattur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Korattur apartments?",
@@ -5273,7 +5273,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Korattur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5281,14 +5281,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kottivakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Kottivakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Kottivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Kottivakkam, Chennai, covering coastal wind, ECR flats, open views, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Kottivakkam",
         "balcony safety nets Kottivakkam Chennai",
         "children safety nets Kottivakkam",
         "apartment balcony safety Kottivakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Kottivakkam Chennai",
       "openGraphDescription": "A manual Kottivakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -5459,7 +5459,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Kottivakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Kottivakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Kottivakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Kottivakkam apartments?",
@@ -5505,7 +5505,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Kottivakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5513,14 +5513,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "koyambedu",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Koyambedu Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Koyambedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Koyambedu, Chennai, covering market dust, transport access, compact balconies, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Koyambedu",
         "balcony safety nets Koyambedu Chennai",
         "children safety nets Koyambedu",
         "apartment balcony safety Koyambedu",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Koyambedu Chennai",
       "openGraphDescription": "A manual Koyambedu balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -5690,7 +5690,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Koyambedu?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Koyambedu, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Koyambedu, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Koyambedu apartments?",
@@ -5736,7 +5736,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Koyambedu, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5744,14 +5744,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "madipakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Madipakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Madipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Madipakkam, Chennai, covering wet-season cleaning, family flats, pet safety, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Madipakkam",
         "balcony safety nets Madipakkam Chennai",
         "children safety nets Madipakkam",
         "apartment balcony safety Madipakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Madipakkam Chennai",
       "openGraphDescription": "A manual Madipakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -5923,7 +5923,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Madipakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Madipakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Madipakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Madipakkam apartments?",
@@ -5969,7 +5969,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Madipakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5977,14 +5977,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "madhavaram",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Madhavaram Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Madhavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Madhavaram, Chennai, covering terraces, independent homes, utility edges, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Madhavaram",
         "balcony safety nets Madhavaram Chennai",
         "children safety nets Madhavaram",
         "apartment balcony safety Madhavaram",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Madhavaram Chennai",
       "openGraphDescription": "A manual Madhavaram balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -6154,7 +6154,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Madhavaram?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Madhavaram, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Madhavaram, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Madhavaram apartments?",
@@ -6200,7 +6200,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Madhavaram, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6208,14 +6208,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "medavakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Medavakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Medavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Medavakkam, Chennai, covering new apartments, budget clarity, family safety, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Medavakkam",
         "balcony safety nets Medavakkam Chennai",
         "children safety nets Medavakkam",
         "apartment balcony safety Medavakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Medavakkam Chennai",
       "openGraphDescription": "A manual Medavakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -6386,7 +6386,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Medavakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Medavakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Medavakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Medavakkam apartments?",
@@ -6432,7 +6432,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Medavakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6440,14 +6440,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mogappair",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Mogappair Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Mogappair Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Mogappair, Chennai, covering apartment communities, children, visible fronts, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Mogappair",
         "balcony safety nets Mogappair Chennai",
         "children safety nets Mogappair",
         "apartment balcony safety Mogappair",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Mogappair Chennai",
       "openGraphDescription": "A manual Mogappair balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -6618,7 +6618,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Mogappair?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Mogappair, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Mogappair, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Mogappair apartments?",
@@ -6664,7 +6664,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Mogappair, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6672,14 +6672,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mugalivakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Mugalivakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Mugalivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Mugalivakkam, Chennai, covering growth corridor, mixed layouts, balcony utility, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Mugalivakkam",
         "balcony safety nets Mugalivakkam Chennai",
         "children safety nets Mugalivakkam",
         "apartment balcony safety Mugalivakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Mugalivakkam Chennai",
       "openGraphDescription": "A manual Mugalivakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -6849,7 +6849,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Mugalivakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Mugalivakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Mugalivakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Mugalivakkam apartments?",
@@ -6895,7 +6895,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Mugalivakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6903,14 +6903,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mylapore",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Mylapore Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Mylapore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Mylapore, Chennai, covering older homes, elders, quiet appearance, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Mylapore",
         "balcony safety nets Mylapore Chennai",
         "children safety nets Mylapore",
         "apartment balcony safety Mylapore",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Mylapore Chennai",
       "openGraphDescription": "A manual Mylapore balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -7082,7 +7082,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Mylapore?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Mylapore, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Mylapore, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Mylapore apartments?",
@@ -7128,7 +7128,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Mylapore, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7136,14 +7136,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "nanganallur",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Nanganallur Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Nanganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Nanganallur, Chennai, covering multi-generation homes, older railings, family trust, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Nanganallur",
         "balcony safety nets Nanganallur Chennai",
         "children safety nets Nanganallur",
         "apartment balcony safety Nanganallur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Nanganallur Chennai",
       "openGraphDescription": "A manual Nanganallur balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -7314,7 +7314,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Nanganallur?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Nanganallur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Nanganallur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Nanganallur apartments?",
@@ -7360,7 +7360,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Nanganallur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7368,14 +7368,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "navalur",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Navalur Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Navalur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Navalur, Chennai, covering gated communities, high-rises, pet safety, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Navalur",
         "balcony safety nets Navalur Chennai",
         "children safety nets Navalur",
         "apartment balcony safety Navalur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Navalur Chennai",
       "openGraphDescription": "A manual Navalur balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -7547,7 +7547,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Navalur?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Navalur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Navalur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Navalur apartments?",
@@ -7593,7 +7593,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Navalur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7601,14 +7601,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "neelankarai",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Neelankarai Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Neelankarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Neelankarai, Chennai, covering coastal villas, open terraces, premium views, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Neelankarai",
         "balcony safety nets Neelankarai Chennai",
         "children safety nets Neelankarai",
         "apartment balcony safety Neelankarai",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Neelankarai Chennai",
       "openGraphDescription": "A manual Neelankarai balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -7779,7 +7779,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Neelankarai?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Neelankarai, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Neelankarai, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Neelankarai apartments?",
@@ -7825,7 +7825,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Neelankarai, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7833,14 +7833,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "nungambakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Nungambakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Nungambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Nungambakkam, Chennai, covering premium apartments, discreet lines, association finish, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Nungambakkam",
         "balcony safety nets Nungambakkam Chennai",
         "children safety nets Nungambakkam",
         "apartment balcony safety Nungambakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Nungambakkam Chennai",
       "openGraphDescription": "A manual Nungambakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -8011,7 +8011,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Nungambakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Nungambakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Nungambakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Nungambakkam apartments?",
@@ -8057,7 +8057,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Nungambakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8065,14 +8065,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "pallavaram",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Pallavaram Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Pallavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Pallavaram, Chennai, covering road-facing balconies, mid-rise homes, wind, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Pallavaram",
         "balcony safety nets Pallavaram Chennai",
         "children safety nets Pallavaram",
         "apartment balcony safety Pallavaram",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Pallavaram Chennai",
       "openGraphDescription": "A manual Pallavaram balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -8244,7 +8244,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Pallavaram?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Pallavaram, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Pallavaram, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Pallavaram apartments?",
@@ -8290,7 +8290,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Pallavaram, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8298,14 +8298,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "pallikaranai",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Pallikaranai Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Pallikaranai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Pallikaranai, Chennai, covering rain maintenance, family apartments, utility spaces, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Pallikaranai",
         "balcony safety nets Pallikaranai Chennai",
         "children safety nets Pallikaranai",
         "apartment balcony safety Pallikaranai",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Pallikaranai Chennai",
       "openGraphDescription": "A manual Pallikaranai balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -8476,7 +8476,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Pallikaranai?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Pallikaranai, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Pallikaranai, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Pallikaranai apartments?",
@@ -8522,7 +8522,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Pallikaranai, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8530,14 +8530,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "perambur",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Perambur Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Perambur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Perambur, Chennai, covering older homes, compact openings, clear pricing, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Perambur",
         "balcony safety nets Perambur Chennai",
         "children safety nets Perambur",
         "apartment balcony safety Perambur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Perambur Chennai",
       "openGraphDescription": "A manual Perambur balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -8707,7 +8707,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Perambur?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Perambur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Perambur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Perambur apartments?",
@@ -8753,7 +8753,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Perambur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8761,14 +8761,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "perungudi",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Perungudi Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Perungudi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Perungudi, Chennai, covering OMR high-rises, working families, facade lines, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Perungudi",
         "balcony safety nets Perungudi Chennai",
         "children safety nets Perungudi",
         "apartment balcony safety Perungudi",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Perungudi Chennai",
       "openGraphDescription": "A manual Perungudi balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -8939,7 +8939,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Perungudi?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Perungudi, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Perungudi, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Perungudi apartments?",
@@ -8985,7 +8985,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Perungudi, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8993,14 +8993,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "poonamallee",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Poonamallee Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Poonamallee Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Poonamallee, Chennai, covering mixed homes, practical budgets, terraces, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Poonamallee",
         "balcony safety nets Poonamallee Chennai",
         "children safety nets Poonamallee",
         "apartment balcony safety Poonamallee",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Poonamallee Chennai",
       "openGraphDescription": "A manual Poonamallee balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -9172,7 +9172,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Poonamallee?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Poonamallee, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Poonamallee, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Poonamallee apartments?",
@@ -9218,7 +9218,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Poonamallee, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9226,14 +9226,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "porur",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Porur Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Porur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Porur, Chennai, covering newer blocks, move-in planning, family homes, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Porur",
         "balcony safety nets Porur Chennai",
         "children safety nets Porur",
         "apartment balcony safety Porur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Porur Chennai",
       "openGraphDescription": "A manual Porur balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -9404,7 +9404,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Porur?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Porur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Porur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Porur apartments?",
@@ -9450,7 +9450,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Porur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9458,14 +9458,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "purasawalkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Purasawalkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Purasawalkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Purasawalkam, Chennai, covering central lanes, older buildings, street-facing balconies, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Purasawalkam",
         "balcony safety nets Purasawalkam Chennai",
         "children safety nets Purasawalkam",
         "apartment balcony safety Purasawalkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Purasawalkam Chennai",
       "openGraphDescription": "A manual Purasawalkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -9636,7 +9636,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Purasawalkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Purasawalkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Purasawalkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Purasawalkam apartments?",
@@ -9682,7 +9682,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Purasawalkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9690,14 +9690,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ramapuram",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Ramapuram Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Ramapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Ramapuram, Chennai, covering duplex homes, terraces, family layouts, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Ramapuram",
         "balcony safety nets Ramapuram Chennai",
         "children safety nets Ramapuram",
         "apartment balcony safety Ramapuram",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Ramapuram Chennai",
       "openGraphDescription": "A manual Ramapuram balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -9868,7 +9868,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Ramapuram?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Ramapuram, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Ramapuram, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Ramapuram apartments?",
@@ -9914,7 +9914,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Ramapuram, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9922,14 +9922,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "royapettah",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Royapettah Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Royapettah Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Royapettah, Chennai, covering older central flats, narrow access, visible windows, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Royapettah",
         "balcony safety nets Royapettah Chennai",
         "children safety nets Royapettah",
         "apartment balcony safety Royapettah",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Royapettah Chennai",
       "openGraphDescription": "A manual Royapettah balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -10099,7 +10099,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Royapettah?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Royapettah, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Royapettah, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Royapettah apartments?",
@@ -10145,7 +10145,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Royapettah, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10153,14 +10153,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "saidapet",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Saidapet Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Saidapet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Saidapet, Chennai, covering road dust, rental flats, compact balconies, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Saidapet",
         "balcony safety nets Saidapet Chennai",
         "children safety nets Saidapet",
         "apartment balcony safety Saidapet",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Saidapet Chennai",
       "openGraphDescription": "A manual Saidapet balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -10330,7 +10330,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Saidapet?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Saidapet, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Saidapet, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Saidapet apartments?",
@@ -10376,7 +10376,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Saidapet, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10384,14 +10384,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "selaiyur",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Selaiyur Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Selaiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Selaiyur, Chennai, covering suburban homes, terraces, growing families, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Selaiyur",
         "balcony safety nets Selaiyur Chennai",
         "children safety nets Selaiyur",
         "apartment balcony safety Selaiyur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Selaiyur Chennai",
       "openGraphDescription": "A manual Selaiyur balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -10561,7 +10561,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Selaiyur?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Selaiyur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Selaiyur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Selaiyur apartments?",
@@ -10607,7 +10607,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Selaiyur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10615,14 +10615,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "sholinganallur",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Sholinganallur Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Sholinganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Sholinganallur, Chennai, covering OMR towers, height wind, association approvals, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Sholinganallur",
         "balcony safety nets Sholinganallur Chennai",
         "children safety nets Sholinganallur",
         "apartment balcony safety Sholinganallur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Sholinganallur Chennai",
       "openGraphDescription": "A manual Sholinganallur balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -10793,7 +10793,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Sholinganallur?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Sholinganallur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Sholinganallur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Sholinganallur apartments?",
@@ -10839,7 +10839,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Sholinganallur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10847,14 +10847,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "siruseri",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Siruseri Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Siruseri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Siruseri, Chennai, covering new communities, move-in safety, IT schedules, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Siruseri",
         "balcony safety nets Siruseri Chennai",
         "children safety nets Siruseri",
         "apartment balcony safety Siruseri",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Siruseri Chennai",
       "openGraphDescription": "A manual Siruseri balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -11025,7 +11025,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Siruseri?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Siruseri, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Siruseri, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Siruseri apartments?",
@@ -11071,7 +11071,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Siruseri, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11079,14 +11079,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "tambaram",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Tambaram Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Tambaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Tambaram, Chennai, covering mixed housing, renters and owners, terraces, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Tambaram",
         "balcony safety nets Tambaram Chennai",
         "children safety nets Tambaram",
         "apartment balcony safety Tambaram",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Tambaram Chennai",
       "openGraphDescription": "A manual Tambaram balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -11257,7 +11257,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Tambaram?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Tambaram, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Tambaram, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Tambaram apartments?",
@@ -11303,7 +11303,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Tambaram, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11311,14 +11311,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "t-nagar",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in T Nagar Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in T Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in T Nagar, Chennai, covering apartment use, child safety, pigeon routes, installation planning, material choice, and maintenance.",
       "keywords": [
         "balcony safety nets in T Nagar",
         "balcony safety nets Chennai",
         "children safety nets T Nagar",
         "apartment balcony safety T Nagar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in T Nagar Chennai",
       "openGraphDescription": "A unique service page for T Nagar balcony safety net planning, written for busy area apartments, commercial building balconies, and area installation decisions.",
@@ -11411,7 +11411,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Someone searching for balcony safety nets in T Nagar may not be ready to book immediately. They may be checking whether nets are allowed in their apartment, whether the work will look clean from the hall, whether pets can still enjoy the balcony, whether the net will stop pigeons, or whether a weekend installation is possible without disturbing the building. Good area content should make those decisions easier before a call happens. It should help the customer recognize the correct scope for their home.",
-          "This is why DK Safety Solutions should treat each Chennai area page as a small area consultation. T Nagar needs details about busy street dust, commercial building apartments, older walls, tree-facing balconies, humidity, premium finishes, and family homes where grandparents and children share the same balcony. Another area will need a different angle. When the writing is specific, the page can answer service, price, safety, pigeon control, pet safety, association approval, and customer search intent without feeling like a thin service page."
+          "This is why SRI KRISHNA INVISIBLE GRILLS should treat each Chennai area page as a small area consultation. T Nagar needs details about busy street dust, commercial building apartments, older walls, tree-facing balconies, humidity, premium finishes, and family homes where grandparents and children share the same balcony. Another area will need a different angle. When the writing is specific, the page can answer service, price, safety, pigeon control, pet safety, association approval, and customer search intent without feeling like a thin service page."
         ]
       },
       {
@@ -11489,7 +11489,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "A good safety net should make the balcony safer without making the home feel smaller. It should consider children, pets, birds, plants, drying needs, association rules, and the way Chennai weather affects material over time.",
         "If you are comparing balcony safety nets in T Nagar, start with a site visit and a clear explanation. The right quote should feel specific to your balcony, not pulled from a generic price list."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11497,14 +11497,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "teynampet",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Teynampet Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Teynampet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Teynampet, Chennai, covering premium central homes, visible fronts, quiet work, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Teynampet",
         "balcony safety nets Teynampet Chennai",
         "children safety nets Teynampet",
         "apartment balcony safety Teynampet",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Teynampet Chennai",
       "openGraphDescription": "A manual Teynampet balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -11674,7 +11674,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Teynampet?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Teynampet, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Teynampet, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Teynampet apartments?",
@@ -11720,7 +11720,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Teynampet, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11728,14 +11728,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "thiruvanmiyur",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Thiruvanmiyur Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Thiruvanmiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Thiruvanmiyur, Chennai, covering coastal humidity, OMR access, utility balconies, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Thiruvanmiyur",
         "balcony safety nets Thiruvanmiyur Chennai",
         "children safety nets Thiruvanmiyur",
         "apartment balcony safety Thiruvanmiyur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Thiruvanmiyur Chennai",
       "openGraphDescription": "A manual Thiruvanmiyur balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -11906,7 +11906,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Thiruvanmiyur?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Thiruvanmiyur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Thiruvanmiyur, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Thiruvanmiyur apartments?",
@@ -11952,7 +11952,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Thiruvanmiyur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11960,14 +11960,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "thoraipakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Thoraipakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Thoraipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Thoraipakkam, Chennai, covering rental flats, OMR balconies, working schedules, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Thoraipakkam",
         "balcony safety nets Thoraipakkam Chennai",
         "children safety nets Thoraipakkam",
         "apartment balcony safety Thoraipakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Thoraipakkam Chennai",
       "openGraphDescription": "A manual Thoraipakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -12138,7 +12138,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Thoraipakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Thoraipakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Thoraipakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Thoraipakkam apartments?",
@@ -12184,7 +12184,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Thoraipakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12192,14 +12192,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "triplicane",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Triplicane Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Triplicane Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Triplicane, Chennai, covering older lanes, compact balconies, patient access, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Triplicane",
         "balcony safety nets Triplicane Chennai",
         "children safety nets Triplicane",
         "apartment balcony safety Triplicane",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Triplicane Chennai",
       "openGraphDescription": "A manual Triplicane balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -12369,7 +12369,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Triplicane?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Triplicane, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Triplicane, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Triplicane apartments?",
@@ -12415,7 +12415,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Triplicane, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12423,14 +12423,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "vadapalani",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Vadapalani Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Vadapalani Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Vadapalani, Chennai, covering traffic dust, rental homes, busy surroundings, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Vadapalani",
         "balcony safety nets Vadapalani Chennai",
         "children safety nets Vadapalani",
         "apartment balcony safety Vadapalani",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Vadapalani Chennai",
       "openGraphDescription": "A manual Vadapalani balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -12600,7 +12600,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Vadapalani?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Vadapalani, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Vadapalani, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Vadapalani apartments?",
@@ -12646,7 +12646,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Vadapalani, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12654,14 +12654,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "valasaravakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Valasaravakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Valasaravakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Valasaravakkam, Chennai, covering duplex homes, terraces, family apartments, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Valasaravakkam",
         "balcony safety nets Valasaravakkam Chennai",
         "children safety nets Valasaravakkam",
         "apartment balcony safety Valasaravakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Valasaravakkam Chennai",
       "openGraphDescription": "A manual Valasaravakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -12833,7 +12833,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Valasaravakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Valasaravakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Valasaravakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Valasaravakkam apartments?",
@@ -12879,7 +12879,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Valasaravakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12887,14 +12887,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "velachery",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Velachery Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Velachery Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Velachery, Chennai, covering dense apartments, wet-season use, utility balconies, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Velachery",
         "balcony safety nets Velachery Chennai",
         "children safety nets Velachery",
         "apartment balcony safety Velachery",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Velachery Chennai",
       "openGraphDescription": "A manual Velachery balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -13065,7 +13065,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Velachery?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Velachery, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Velachery, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Velachery apartments?",
@@ -13111,7 +13111,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Velachery, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -13119,14 +13119,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "villivakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Villivakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Villivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Villivakkam, Chennai, covering older homes, family flats, utility use, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Villivakkam",
         "balcony safety nets Villivakkam Chennai",
         "children safety nets Villivakkam",
         "apartment balcony safety Villivakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Villivakkam Chennai",
       "openGraphDescription": "A manual Villivakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -13296,7 +13296,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Villivakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Villivakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Villivakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Villivakkam apartments?",
@@ -13342,7 +13342,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Villivakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -13350,14 +13350,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "virugambakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Virugambakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Virugambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in Virugambakkam, Chennai, covering compact rentals, family flats, low-disruption work, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Virugambakkam",
         "balcony safety nets Virugambakkam Chennai",
         "children safety nets Virugambakkam",
         "apartment balcony safety Virugambakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Virugambakkam Chennai",
       "openGraphDescription": "A manual Virugambakkam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -13528,7 +13528,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in Virugambakkam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in Virugambakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in Virugambakkam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in Virugambakkam apartments?",
@@ -13574,7 +13574,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For Virugambakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -13582,14 +13582,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "west-mambalam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in West Mambalam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in West Mambalam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed area guide for balcony safety nets in West Mambalam, Chennai, covering older homes, elders, visible balcony fronts, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in West Mambalam",
         "balcony safety nets West Mambalam Chennai",
         "children safety nets West Mambalam",
         "apartment balcony safety West Mambalam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in West Mambalam Chennai",
       "openGraphDescription": "A manual West Mambalam balcony safety net guide for child-safe openings, pets, pigeons, materials, and apartment-ready installation.",
@@ -13758,7 +13758,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "faq": [
       {
         "question": "Do you install balcony safety nets in West Mambalam?",
-        "answer": "Yes, DK Safety Solutions installs balcony safety nets in West Mambalam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
+        "answer": "Yes, SRI KRISHNA INVISIBLE GRILLS installs balcony safety nets in West Mambalam, Chennai. The site visit checks opening size, railing gaps, side corners, fixing surface, bird routes, and how the family uses the balcony."
       },
       {
         "question": "Are balcony safety nets useful for children in West Mambalam apartments?",
@@ -13804,7 +13804,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "For West Mambalam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
         "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -13812,14 +13812,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "adambakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Adambakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Adambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Adambakkam, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Adambakkam",
         "balcony safety nets Adambakkam Chennai",
         "balcony safety nets near Adambakkam",
         "Adambakkam balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Adambakkam Chennai",
       "openGraphDescription": "A manual Adambakkam guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13856,7 +13856,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Adambakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Adambakkam work often needs attention to compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Adambakkam, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adambakkam, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13884,7 +13884,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Adambakkam, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13920,7 +13920,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13972,8 +13972,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Adambakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Adambakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Adambakkam?",
@@ -13985,7 +13985,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Adambakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14003,7 +14003,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Adambakkam with a site-specific visit",
       "paragraphs": [
-        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Adambakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Adambakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14022,14 +14022,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ayanavaram",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Ayanavaram Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Ayanavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Ayanavaram, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Ayanavaram",
         "balcony safety nets Ayanavaram Chennai",
         "balcony safety nets near Ayanavaram",
         "Ayanavaram balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Ayanavaram Chennai",
       "openGraphDescription": "A manual Ayanavaram guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14066,7 +14066,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Ayanavaram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ayanavaram work often needs attention to older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ayanavaram, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ayanavaram, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14094,7 +14094,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Ayanavaram, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14130,7 +14130,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14182,8 +14182,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ayanavaram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ayanavaram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Ayanavaram?",
@@ -14195,7 +14195,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ayanavaram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14213,7 +14213,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Ayanavaram with a site-specific visit",
       "paragraphs": [
-        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Ayanavaram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ayanavaram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14232,14 +14232,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ekkattuthangal",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Ekkattuthangal Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Ekkattuthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Ekkattuthangal, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Ekkattuthangal",
         "balcony safety nets Ekkattuthangal Chennai",
         "balcony safety nets near Ekkattuthangal",
         "Ekkattuthangal balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Ekkattuthangal Chennai",
       "openGraphDescription": "A manual Ekkattuthangal guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14276,7 +14276,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Ekkattuthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ekkattuthangal work often needs attention to workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ekkattuthangal, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ekkattuthangal, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14304,7 +14304,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Ekkattuthangal, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14340,7 +14340,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14392,8 +14392,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ekkattuthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ekkattuthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Ekkattuthangal?",
@@ -14405,7 +14405,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ekkattuthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14423,7 +14423,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Ekkattuthangal with a site-specific visit",
       "paragraphs": [
-        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Ekkattuthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ekkattuthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14442,14 +14442,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "iyyappanthangal",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Iyyappanthangal Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Iyyappanthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Iyyappanthangal, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Iyyappanthangal",
         "balcony safety nets Iyyappanthangal Chennai",
         "balcony safety nets near Iyyappanthangal",
         "Iyyappanthangal balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Iyyappanthangal Chennai",
       "openGraphDescription": "A manual Iyyappanthangal guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14486,7 +14486,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Iyyappanthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Iyyappanthangal work often needs attention to fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Iyyappanthangal, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Iyyappanthangal, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14514,7 +14514,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Iyyappanthangal, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14550,7 +14550,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14602,8 +14602,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Iyyappanthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Iyyappanthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Iyyappanthangal?",
@@ -14615,7 +14615,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Iyyappanthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14633,7 +14633,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Iyyappanthangal with a site-specific visit",
       "paragraphs": [
-        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Iyyappanthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Iyyappanthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14652,14 +14652,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "manapakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Manapakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Manapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Manapakkam, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Manapakkam",
         "balcony safety nets Manapakkam Chennai",
         "balcony safety nets near Manapakkam",
         "Manapakkam balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Manapakkam Chennai",
       "openGraphDescription": "A manual Manapakkam guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14696,7 +14696,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Manapakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Manapakkam work often needs attention to IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Manapakkam, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Manapakkam, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14724,7 +14724,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Manapakkam, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14760,7 +14760,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14812,8 +14812,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Manapakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Manapakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Manapakkam?",
@@ -14825,7 +14825,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Manapakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14843,7 +14843,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Manapakkam with a site-specific visit",
       "paragraphs": [
-        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Manapakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Manapakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14862,14 +14862,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mandaveli",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Mandaveli Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Mandaveli Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Mandaveli, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Mandaveli",
         "balcony safety nets Mandaveli Chennai",
         "balcony safety nets near Mandaveli",
         "Mandaveli balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Mandaveli Chennai",
       "openGraphDescription": "A manual Mandaveli guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14906,7 +14906,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Mandaveli, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mandaveli, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14934,7 +14934,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Mandaveli, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14970,7 +14970,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15022,8 +15022,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Mandaveli for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Mandaveli for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Mandaveli?",
@@ -15035,7 +15035,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Mandaveli conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15053,7 +15053,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Mandaveli with a site-specific visit",
       "paragraphs": [
-        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Mandaveli should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Mandaveli, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15072,14 +15072,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "palavakkam",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Palavakkam Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Palavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Palavakkam, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Palavakkam",
         "balcony safety nets Palavakkam Chennai",
         "balcony safety nets near Palavakkam",
         "Palavakkam balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Palavakkam Chennai",
       "openGraphDescription": "A manual Palavakkam guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15116,7 +15116,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Palavakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Palavakkam work often needs attention to coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Palavakkam, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Palavakkam, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15144,7 +15144,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Palavakkam, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15180,7 +15180,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15232,8 +15232,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Palavakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Palavakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Palavakkam?",
@@ -15245,7 +15245,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Palavakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15263,7 +15263,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Palavakkam with a site-specific visit",
       "paragraphs": [
-        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Palavakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Palavakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15282,14 +15282,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "periyar-nagar",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Periyar Nagar Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Periyar Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Periyar Nagar, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Periyar Nagar",
         "balcony safety nets Periyar Nagar Chennai",
         "balcony safety nets near Periyar Nagar",
         "Periyar Nagar balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Periyar Nagar Chennai",
       "openGraphDescription": "A manual Periyar Nagar guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15326,7 +15326,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Periyar Nagar should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Periyar Nagar work often needs attention to dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Periyar Nagar, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Periyar Nagar, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15354,7 +15354,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Periyar Nagar, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15390,7 +15390,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15442,8 +15442,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Periyar Nagar for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Periyar Nagar for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Periyar Nagar?",
@@ -15455,7 +15455,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Periyar Nagar conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15473,7 +15473,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Periyar Nagar with a site-specific visit",
       "paragraphs": [
-        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Periyar Nagar should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Periyar Nagar, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15491,14 +15491,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "royapuram",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Royapuram Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Royapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Royapuram, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Royapuram",
         "balcony safety nets Royapuram Chennai",
         "balcony safety nets near Royapuram",
         "Royapuram balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Royapuram Chennai",
       "openGraphDescription": "A manual Royapuram guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15535,7 +15535,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Royapuram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Royapuram work often needs attention to coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Royapuram, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapuram, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15563,7 +15563,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Royapuram, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15599,7 +15599,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15651,8 +15651,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Royapuram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Royapuram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Royapuram?",
@@ -15664,7 +15664,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Royapuram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15682,7 +15682,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Royapuram with a site-specific visit",
       "paragraphs": [
-        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Royapuram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Royapuram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15701,14 +15701,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "semmancheri",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Semmancheri Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Semmancheri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Semmancheri, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Semmancheri",
         "balcony safety nets Semmancheri Chennai",
         "balcony safety nets near Semmancheri",
         "Semmancheri balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Semmancheri Chennai",
       "openGraphDescription": "A manual Semmancheri guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15745,7 +15745,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Semmancheri should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Semmancheri work often needs attention to OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Semmancheri, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Semmancheri, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15773,7 +15773,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Semmancheri, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15809,7 +15809,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15861,8 +15861,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Semmancheri for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Semmancheri for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Semmancheri?",
@@ -15874,7 +15874,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Semmancheri conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15892,7 +15892,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Semmancheri with a site-specific visit",
       "paragraphs": [
-        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Semmancheri should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Semmancheri, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15911,14 +15911,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "tondiarpet",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Tondiarpet Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Tondiarpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Tondiarpet, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Tondiarpet",
         "balcony safety nets Tondiarpet Chennai",
         "balcony safety nets near Tondiarpet",
         "Tondiarpet balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Tondiarpet Chennai",
       "openGraphDescription": "A manual Tondiarpet guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15955,7 +15955,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Tondiarpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Tondiarpet work often needs attention to industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Tondiarpet, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tondiarpet, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15983,7 +15983,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Tondiarpet, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -16019,7 +16019,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -16071,8 +16071,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Tondiarpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Tondiarpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Tondiarpet?",
@@ -16084,7 +16084,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Tondiarpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -16102,7 +16102,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Tondiarpet with a site-specific visit",
       "paragraphs": [
-        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Tondiarpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Tondiarpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -16121,14 +16121,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "areaSlug": "washermanpet",
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
-      "title": "Balcony Safety Nets in Washermanpet Chennai | DK Safety Solutions",
+      "title": "Balcony Safety Nets in Washermanpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for balcony safety nets in Washermanpet, Chennai, covering balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, balcony fall protection, child safety, pet safety, and pigeon-control support, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "balcony safety nets in Washermanpet",
         "balcony safety nets Washermanpet Chennai",
         "balcony safety nets near Washermanpet",
         "Washermanpet balcony safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Balcony Safety Nets in Washermanpet Chennai",
       "openGraphDescription": "A manual Washermanpet guide for balcony safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -16165,7 +16165,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Balcony Safety Nets in Washermanpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Washermanpet work often needs attention to busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Washermanpet, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Washermanpet, SRI KRISHNA INVISIBLE GRILLS should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -16193,7 +16193,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "For Washermanpet, the material should be chosen around UV-stabilized safety net, strong rope borders, neat hooks, and balcony-friendly anchor spacing. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -16229,7 +16229,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect knots, avoid cutting access gaps, clean dust gently, and call for re-tensioning after heavy work near the balcony. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -16281,8 +16281,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, railing type, side return depth, access height, net grade, drilling points, and finishing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Washermanpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Washermanpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does balcony safety nets installation take in Washermanpet?",
@@ -16294,7 +16294,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Washermanpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -16312,7 +16312,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan balcony safety nets in Washermanpet with a site-specific visit",
       "paragraphs": [
-        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why balcony safety nets in Washermanpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Washermanpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",

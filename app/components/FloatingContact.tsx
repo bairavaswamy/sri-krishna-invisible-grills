@@ -18,7 +18,7 @@ export default function FloatingContact() {
         href={siteConfig.contact.whatsappHref}
         target="_blank"
         rel="noopener noreferrer"
-        className="flex h-12 w-12 items-center justify-center rounded-full bg-sky-600 text-white shadow-lg transition hover:scale-105"
+        className="flex h-12 w-12 items-center justify-center rounded-full bg-[#0b4fb3] text-white shadow-lg transition hover:scale-105"
         aria-label={`Chat with ${siteConfig.name} on WhatsApp`}
       >
         <MessageCircle size={20} />

@@ -12,6 +12,7 @@ import {
   stringifySchema,
 } from "../../config/schema.config";
 import { absoluteUrl, siteConfig } from "../../config/site.config";
+import { serviceAreaPath } from "../../config/routes.config";
 import {
   getAreaBySlug,
   getServiceBySlug,
@@ -45,14 +46,14 @@ export function generateMetadata({ params }: AreaPageProps): Metadata {
 
   if (params.city !== chennaiConfig.citySlug || (!area && !service)) {
     return {
-      title: "Page Not Found | DK Safety Solutions",
+      title: "Page Not Found | SRI KRISHNA INVISIBLE GRILLS",
       description: "The requested Chennai service page could not be found.",
     };
   }
 
   if (service) {
     const detail = getServiceDetail(service.slug);
-    const title = `${service.name} in Chennai | DK Safety Solutions`;
+    const title = `${service.name} in Chennai | SRI KRISHNA INVISIBLE GRILLS`;
     const description = `${detail.shortBenefit} Chennai service planning for homes, apartments, communities, terraces, utility spaces, and open building edges.`;
 
     return {
@@ -82,13 +83,13 @@ export function generateMetadata({ params }: AreaPageProps): Metadata {
 
   if (!area) {
     return {
-      title: "Area Not Found | DK Safety Solutions",
+      title: "Area Not Found | SRI KRISHNA INVISIBLE GRILLS",
       description: "The requested Chennai area page could not be found.",
     };
   }
 
-  const title = `${area.name} Chennai Safety Services | DK Safety Solutions`;
-  const description = `Browse DK Safety Solutions services in ${area.name}, Chennai, including safety nets, invisible grills, bird control, sports nets, and utility installations.`;
+  const title = `${area.name} Chennai Safety Services | SRI KRISHNA INVISIBLE GRILLS`;
+  const description = `Browse SRI KRISHNA INVISIBLE GRILLS services in ${area.name}, Chennai, including safety nets, invisible grills, bird control, sports nets, and utility installations.`;
 
   return {
     title,
@@ -144,8 +145,8 @@ export default function AreaPage({ params }: AreaPageProps) {
   const nearbyAreas = getNearbyAreas(area.slug);
   const firstService = chennaiConfig.services[0];
   const pageUrl = absoluteUrl(`/${chennaiConfig.citySlug}/${area.slug}/`);
-  const pageTitle = `${area.name} Chennai Safety Services | DK Safety Solutions`;
-  const pageDescription = `Browse DK Safety Solutions services in ${area.name}, Chennai, including safety nets, invisible grills, bird control, sports nets, and utility installations.`;
+  const pageTitle = `${area.name} Chennai Safety Services | SRI KRISHNA INVISIBLE GRILLS`;
+  const pageDescription = `Browse SRI KRISHNA INVISIBLE GRILLS services in ${area.name}, Chennai, including safety nets, invisible grills, bird control, sports nets, and utility installations.`;
   const jsonLd = getGraphSchema([
     getWebPageSchema({
       url: pageUrl,
@@ -183,7 +184,7 @@ export default function AreaPage({ params }: AreaPageProps) {
 
         <div className="relative mx-auto grid min-h-[560px] max-w-7xl items-center gap-8 px-4 py-16 lg:grid-cols-[1fr_0.75fr] lg:px-6">
           <div>
-            <p className="text-sm font-bold uppercase tracking-[0.22em] text-lime-300">
+            <p className="text-sm font-bold uppercase tracking-[0.22em] text-amber-300">
               {area.name} Chennai
             </p>
             <h1 className="mt-5 max-w-4xl text-4xl font-black leading-tight text-white sm:text-5xl lg:text-6xl">
@@ -198,13 +199,13 @@ export default function AreaPage({ params }: AreaPageProps) {
             <div className="mt-8 flex flex-wrap gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center gap-2 rounded-full bg-sky-500 px-5 py-3 font-bold text-white shadow-lg transition hover:bg-sky-600"
+                className="inline-flex items-center gap-2 rounded-full bg-blue-500 px-5 py-3 font-bold text-white shadow-lg transition hover:bg-blue-600"
               >
                 <Phone size={18} />
                 Call for {area.name}
               </a>
               <Link
-                href={`/${chennaiConfig.citySlug}/${area.slug}/${firstService.slug}`}
+                href={serviceAreaPath(firstService.slug, area.slug)}
                 prefetch={false}
                 className="inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 px-5 py-3 font-bold text-white backdrop-blur transition hover:bg-white/20"
               >
@@ -215,16 +216,16 @@ export default function AreaPage({ params }: AreaPageProps) {
           </div>
 
           <div className="rounded-lg border border-white/15 bg-white/12 p-6 text-white shadow-2xl backdrop-blur-md">
-            <MapPin size={26} className="text-lime-200" />
+            <MapPin size={26} className="text-amber-200" />
             <h2 className="mt-4 text-2xl font-black">{area.name} service hub</h2>
             <p className="mt-3 text-sm leading-7 text-slate-100">
               Each card below opens a direct service page for {area.name}, with
               area-specific planning, nearby links, and contact actions.
             </p>
             <Link
-              href={`/${chennaiConfig.citySlug}/${area.slug}/${firstService.slug}`}
+              href={serviceAreaPath(firstService.slug, area.slug)}
               prefetch={false}
-              className="mt-6 inline-flex items-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-bold text-slate-950 transition hover:bg-sky-50"
+              className="mt-6 inline-flex items-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-bold text-slate-950 transition hover:bg-blue-50"
             >
               Open first service
               <ArrowRight size={16} />
@@ -235,7 +236,7 @@ export default function AreaPage({ params }: AreaPageProps) {
 
       <section className="mx-auto max-w-7xl px-4 py-14 lg:px-6">
         <div>
-          <p className="text-sm font-bold uppercase tracking-[0.2em] text-sky-500">
+          <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
             Services in {area.name}
           </p>
           <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -254,17 +255,17 @@ export default function AreaPage({ params }: AreaPageProps) {
                 </div>
                 <div className="p-5">
                   <div className="flex items-center justify-between gap-3">
-                    <p className="text-xs font-bold uppercase tracking-[0.18em] text-sky-500">
+                    <p className="text-xs font-bold uppercase tracking-[0.18em] text-blue-500">
                       {detail.category}
                     </p>
-                    <ShieldCheck className="shrink-0 text-indigo-700" size={18} />
+                    <ShieldCheck className="shrink-0 text-blue-700" size={18} />
                   </div>
                   <h3 className="mt-2 text-xl font-black text-slate-950">
                     {service.name}
                   </h3>
                   <p className="mt-3 text-sm leading-6 text-slate-600">{detail.shortBenefit}</p>
                   <Link
-                    href={`/${chennaiConfig.citySlug}/${area.slug}/${service.slug}`}
+                    href={serviceAreaPath(service.slug, area.slug)}
                     prefetch={false}
                     className="mt-5 inline-flex items-center gap-2 rounded-full bg-slate-950 px-4 py-2 text-sm font-bold text-white transition hover:bg-slate-800"
                   >
@@ -282,7 +283,7 @@ export default function AreaPage({ params }: AreaPageProps) {
         <div className="mx-auto max-w-7xl">
           <div className="flex flex-col justify-between gap-4 md:flex-row md:items-end">
             <div>
-              <p className="text-sm font-bold uppercase tracking-[0.2em] text-indigo-700">
+              <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-700">
                 Nearby Areas
               </p>
               <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -292,7 +293,7 @@ export default function AreaPage({ params }: AreaPageProps) {
             <Link
               href={`/${chennaiConfig.citySlug}`}
               prefetch={false}
-              className="inline-flex items-center gap-2 rounded-full border border-indigo-200 px-5 py-3 text-sm font-bold text-indigo-700 transition hover:border-indigo-400 hover:bg-indigo-50"
+              className="inline-flex items-center gap-2 rounded-full border border-blue-200 px-5 py-3 text-sm font-bold text-blue-700 transition hover:border-blue-400 hover:bg-blue-50"
             >
               View all areas
               <ArrowRight size={17} />
@@ -305,7 +306,7 @@ export default function AreaPage({ params }: AreaPageProps) {
                 key={nearby.slug}
                 href={`/${chennaiConfig.citySlug}/${nearby.slug}`}
                 prefetch={false}
-                className="flex items-center justify-between rounded-lg border border-slate-200 bg-white px-4 py-4 text-sm font-bold text-slate-800 shadow-sm transition hover:border-sky-300 hover:text-sky-600"
+                className="flex items-center justify-between rounded-lg border border-slate-200 bg-white px-4 py-4 text-sm font-bold text-slate-800 shadow-sm transition hover:border-blue-300 hover:text-blue-600"
               >
                 {nearby.name}
                 <ArrowRight size={16} />

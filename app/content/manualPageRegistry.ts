@@ -1,7 +1,7 @@
 import { manualServicePages, type ManualServicePage } from "./manualServicePages";
 
-export const MANUAL_PAGE_WORD_MIN = 2450;
-export const MANUAL_PAGE_WORD_MAX = 2550;
+export const MANUAL_PAGE_WORD_MIN = 900;
+export const MANUAL_PAGE_WORD_MAX = 2200;
 
 type ManualPageParams = {
   city: string;

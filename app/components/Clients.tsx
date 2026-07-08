@@ -10,7 +10,7 @@ function Clients() {
             key={client}
             className="flex min-h-[112px] w-full flex-col items-center justify-center gap-3 overflow-hidden rounded border bg-white p-4 text-center shadow-sm shadow-soft transition-transform hover:scale-105"
           >
-            <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gradient-to-br from-indigo-800 to-lime-500 text-sm font-black text-white">
+            <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gradient-to-br from-blue-800 to-amber-500 text-sm font-black text-white">
               {client.slice(0, 2).toUpperCase()}
             </div>
             <div className="text-sm font-medium">{client}</div>

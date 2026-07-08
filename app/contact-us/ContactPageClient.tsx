@@ -1,135 +1,235 @@
+import Image from "next/image";
 import Link from "next/link";
-import { Clock3, Mail, MapPin, MessageCircle, Phone, ShieldCheck } from "lucide-react";
+import {
+  CalendarCheck,
+  Camera,
+  CheckCircle2,
+  Clock3,
+  Mail,
+  MapPin,
+  MessageCircle,
+  Phone,
+  Ruler,
+  ShieldCheck,
+} from "lucide-react";
 import ContactForm from "../components/ContactForm";
 import SocialProfileLinks from "../components/SocialProfileLinks";
 import { siteConfig } from "../config/site.config";
 
 const contactCards = [
   {
-    label: "Call",
+    label: "Call Direct",
     value: siteConfig.contact.phoneLabel,
+    note: "Speak with the installation team",
     href: siteConfig.contact.phoneHref,
     icon: Phone,
   },
   {
-    label: "WhatsApp",
+    label: "WhatsApp Photos",
     value: siteConfig.contact.whatsappLabel,
+    note: "Send balcony or window pictures",
     href: siteConfig.contact.whatsappHref,
     icon: MessageCircle,
     external: true,
   },
   {
-    label: "Email",
+    label: "Email Request",
     value: siteConfig.contact.email,
+    note: "Share details for planned work",
     href: siteConfig.contact.emailHref,
     icon: Mail,
   },
 ];
 
+const plannerSteps = [
+  {
+    title: "Send Photos",
+    detail: "Share balcony, window, duct, or bird-control photos on WhatsApp.",
+    icon: Camera,
+  },
+  {
+    title: "Measure Site",
+    detail: "We inspect fixing points, access, and opening size before quoting.",
+    icon: Ruler,
+  },
+  {
+    title: "Confirm Visit",
+    detail: "Choose a Chennai visit slot and service scope with clear pricing.",
+    icon: CalendarCheck,
+  },
+  {
+    title: "Install Cleanly",
+    detail: "Invisible grills and nets are finished with neat, safe fixing details.",
+    icon: ShieldCheck,
+  },
+];
+
 export default function ContactPageClient() {
   return (
-    <div className="bg-gradient-to-b from-sky-50 via-white to-lime-50">
-      <section className="mx-auto max-w-7xl px-4 py-12 lg:py-16">
-        <div className="grid gap-8 lg:grid-cols-[0.85fr_1.15fr]">
-          <div className="space-y-6">
-            <div className="inline-flex items-center gap-2 rounded-full border border-sky-200 bg-white/80 px-4 py-2 text-sm font-semibold text-sky-600 shadow-sm">
-              <ShieldCheck size={16} />
-              Chennai enquiry desk
-            </div>
+    <main className="bg-gradient-to-b from-white via-blue-50/40 to-[#fff8e8]">
+      <section className="relative overflow-hidden bg-gradient-to-br from-white via-blue-50/70 to-[#fff8e8] px-4 py-14 text-[#08275a] sm:py-16">
+        <Image
+          src={siteConfig.defaultImage}
+          alt={`${siteConfig.name} contact enquiry`}
+          fill
+          priority
+          className="object-cover opacity-15"
+          sizes="100vw"
+        />
+        <div className="absolute inset-0 bg-gradient-to-r from-white via-white/90 to-white/55" />
+        <div className="absolute inset-x-0 bottom-0 h-1 bg-[#d6a039]" />
+        <div className="relative mx-auto max-w-7xl">
+          <p className="inline-flex rounded-full border border-[#d6a039]/50 bg-white/80 px-4 py-2 text-xs font-black uppercase tracking-[0.22em] text-[#0b4fb3] shadow-sm">
+            Chennai Enquiry Desk
+          </p>
+          <h1 className="mt-5 max-w-4xl text-4xl font-black leading-tight sm:text-5xl lg:text-6xl">
+            Contact {siteConfig.name} for a clean, open-view safety finish.
+          </h1>
+          <p className="mt-5 max-w-3xl text-base leading-8 text-slate-600 sm:text-lg">
+            Call, WhatsApp photos, or submit the form with your area, floor level,
+            service requirement, and preferred site visit time.
+          </p>
 
-            <div>
-              <h1 className="max-w-3xl text-4xl font-extrabold leading-tight text-slate-900 sm:text-5xl">
-                Contact {siteConfig.name}.
-              </h1>
-              <p className="mt-4 max-w-2xl text-base leading-8 text-slate-600 sm:text-lg">
-                Call, WhatsApp, or send the form with your area, service, floor
-                level, and photos. The same contact details are used across every
-                Chennai service page.
+          <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+            <a
+              href={siteConfig.contact.phoneHref}
+              className="inline-flex items-center justify-center gap-2 rounded-full bg-[#d6a039] px-6 py-3 text-sm font-black uppercase tracking-[0.08em] text-[#08275a] shadow-sm transition hover:bg-amber-500"
+            >
+              <Phone size={18} />
+              Call Now
+            </a>
+            <a
+              href={siteConfig.contact.whatsappHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center gap-2 rounded-full border border-[#08275a]/25 bg-white/80 px-6 py-3 text-sm font-black uppercase tracking-[0.08em] text-[#08275a] shadow-sm transition hover:bg-[#08275a] hover:text-white"
+            >
+              <MessageCircle size={18} />
+              WhatsApp
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section className="mx-auto mt-6 max-w-7xl px-4">
+        <div className="grid overflow-hidden rounded-md border border-blue-100 bg-white shadow-[0_24px_70px_rgba(8,39,90,0.14)] md:grid-cols-3">
+          {contactCards.map((card) => {
+            const Icon = card.icon;
+
+            return (
+              <a
+                key={card.label}
+                href={card.href}
+                target={card.external ? "_blank" : undefined}
+                rel={card.external ? "noopener noreferrer" : undefined}
+                className="group border-b border-blue-100 p-5 transition hover:bg-blue-50/70 md:border-b-0 md:border-r last:md:border-r-0"
+              >
+                <div className="flex items-start gap-4">
+                  <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-[#08275a] text-white ring-4 ring-[#d6a039]/20 transition group-hover:bg-[#d6a039] group-hover:text-[#08275a]">
+                    <Icon size={22} />
+                  </span>
+                  <span className="min-w-0">
+                    <span className="block text-xs font-black uppercase tracking-[0.2em] text-[#0b4fb3]">
+                      {card.label}
+                    </span>
+                    <span className="mt-2 block break-words text-sm font-black text-[#08275a]">
+                      {card.value}
+                    </span>
+                    <span className="mt-1 block text-sm leading-6 text-slate-600">
+                      {card.note}
+                    </span>
+                  </span>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+
+      <section className="mx-auto grid max-w-7xl gap-8 px-4 py-12 lg:grid-cols-[0.86fr_1.14fr] lg:py-14">
+        <div className="space-y-6">
+          <div className="overflow-hidden rounded-md border border-blue-100 bg-white shadow-md shadow-blue-100/50">
+            <div className="border-b border-blue-100 bg-gradient-to-br from-blue-50 via-white to-[#fff7e6] px-6 py-6">
+              <p className="text-xs font-black uppercase tracking-[0.22em] text-[#0b4fb3]">
+                Visit Planner
               </p>
+              <h2 className="mt-3 text-2xl font-black tracking-tight text-[#08275a]">
+                How your enquiry moves from photos to installation.
+              </h2>
             </div>
-
-            <div className="grid gap-4 sm:grid-cols-3">
-              {contactCards.map((card) => {
-                const Icon = card.icon;
+            <div className="divide-y divide-blue-100">
+              {plannerSteps.map((step, index) => {
+                const Icon = step.icon;
 
                 return (
-                  <a
-                    key={card.label}
-                    href={card.href}
-                    target={card.external ? "_blank" : undefined}
-                    rel={card.external ? "noopener noreferrer" : undefined}
-                    className="rounded-3xl border border-sky-100 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-sky-300"
-                  >
-                    <Icon className="text-sky-500" size={22} />
-                    <p className="mt-4 text-sm font-semibold uppercase tracking-[0.18em] text-sky-500">
-                      {card.label}
-                    </p>
-                    <p className="mt-2 break-words text-sm font-bold text-slate-900">{card.value}</p>
-                  </a>
+                  <div key={step.title} className="flex gap-4 p-5">
+                    <div className="flex flex-col items-center">
+                      <span className="flex h-11 w-11 items-center justify-center rounded-full bg-[#fff7e6] text-[#08275a] ring-1 ring-[#d6a039]/40">
+                        <Icon size={20} />
+                      </span>
+                      {index < plannerSteps.length - 1 ? (
+                        <span className="mt-2 h-full min-h-8 w-px bg-blue-100" />
+                      ) : null}
+                    </div>
+                    <div>
+                      <p className="text-sm font-black text-[#08275a]">{step.title}</p>
+                      <p className="mt-1 text-sm leading-6 text-slate-600">{step.detail}</p>
+                    </div>
+                  </div>
                 );
               })}
             </div>
+          </div>
 
-            <div className="rounded-[30px] border border-sky-100 bg-white p-6 shadow-lg shadow-sky-100/60">
-              <div className="grid gap-5 sm:grid-cols-2">
-                <div className="flex items-start gap-4 rounded-2xl border border-slate-200 bg-slate-50 p-4">
-                  <MapPin className="mt-1 text-sky-500" size={20} />
-                  <div>
-                    <p className="font-semibold text-slate-950">Location</p>
-                    <p className="mt-1 text-sm leading-6 text-slate-600">
-                      {siteConfig.contact.addressLines.join(", ")}
-                    </p>
-                  </div>
-                </div>
-
-                <div className="flex items-start gap-4 rounded-2xl border border-slate-200 bg-slate-50 p-4">
-                  <Clock3 className="mt-1 text-sky-500" size={20} />
-                  <div>
-                    <p className="font-semibold text-slate-950">Working Hours</p>
-                    <p className="mt-1 text-sm leading-6 text-slate-600">
-                      {siteConfig.contact.hours}
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <SocialProfileLinks
-                className="mt-6 rounded-2xl border border-sky-100 bg-sky-50/70 p-4"
-                heading="Social Profiles"
-                description="Add or replace final profile URLs in the central site config."
-                showLabels
-                variant="warm"
-              />
+          <div className="grid gap-4 sm:grid-cols-2">
+            <div className="rounded-md border border-blue-100 bg-white p-5 shadow-sm">
+              <MapPin className="text-[#d6a039]" size={22} />
+              <h3 className="mt-4 text-base font-black text-[#08275a]">Service Location</h3>
+              <p className="mt-2 text-sm leading-6 text-slate-600">
+                {siteConfig.contact.addressLines.join(", ")}
+              </p>
+            </div>
+            <div className="rounded-md border border-blue-100 bg-white p-5 shadow-sm">
+              <Clock3 className="text-[#d6a039]" size={22} />
+              <h3 className="mt-4 text-base font-black text-[#08275a]">Working Hours</h3>
+              <p className="mt-2 text-sm leading-6 text-slate-600">
+                {siteConfig.contact.hours}
+              </p>
             </div>
           </div>
 
-          <div>
-            <ContactForm />
+          <div className="rounded-md border border-blue-100 bg-white p-5 shadow-sm">
+            <p className="text-xs font-black uppercase tracking-[0.2em] text-[#0b4fb3]">
+              Popular Enquiries
+            </p>
+            <div className="mt-4 flex flex-wrap gap-2">
+              {siteConfig.focusAreas.slice(0, 8).map((service) => (
+                <Link
+                  key={service.href}
+                  href={service.href}
+                  prefetch={false}
+                  className="inline-flex items-center gap-2 rounded-full border border-blue-200 bg-blue-50 px-3 py-2 text-xs font-bold text-[#08275a] transition hover:border-[#d6a039] hover:bg-[#fff7e6]"
+                >
+                  <CheckCircle2 size={14} />
+                  {service.title}
+                </Link>
+              ))}
+            </div>
           </div>
-        </div>
-      </section>
 
-      <section className="mx-auto max-w-7xl px-4 pb-14">
-        <div className="rounded-[34px] border border-sky-100 bg-white p-7 text-center shadow-xl shadow-sky-100/50 sm:p-8">
-          <h2 className="text-2xl font-bold text-slate-950">Service pages are connected.</h2>
-          <p className="mx-auto mt-3 max-w-2xl text-sm leading-7 text-slate-600">
-            Continue from Home, Chennai, About, Gallery, or Contact and move into
-            the right Chennai service page whenever you need a site quote.
-          </p>
-          <div className="mt-5 flex flex-wrap justify-center gap-3">
-            {siteConfig.navLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                prefetch={false}
-                className="rounded-full border border-sky-200 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-sky-400 hover:text-sky-500"
-              >
-                {link.label}
-              </Link>
-            ))}
-          </div>
+          <SocialProfileLinks
+            className="rounded-md border border-blue-100 bg-white p-5 shadow-sm"
+            heading="Social Profiles"
+            description="Follow our official pages for project photos, updates, and quick contact."
+            showLabels
+            variant="warm"
+          />
+        </div>
+
+        <div className="lg:sticky lg:top-24 lg:self-start">
+          <ContactForm />
         </div>
       </section>
-    </div>
+    </main>
   );
 }

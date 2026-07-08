@@ -48,7 +48,7 @@ export default function ChennaiServiceFinder({
 
   const href =
     selectedArea && selectedService
-      ? `/${citySlug}/${selectedArea.slug}/${selectedService.slug}`
+      ? `/${citySlug}/${selectedService.slug}/${selectedArea.slug}`
       : `/${citySlug}`;
 
   return (
@@ -63,7 +63,7 @@ export default function ChennaiServiceFinder({
             id="chennai-area-select"
             value={areaSlug}
             onChange={(event) => setAreaSlug(event.target.value)}
-            className="h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-sky-400 focus:ring-2 focus:ring-sky-100"
+            className="h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-400 focus:ring-2 focus:ring-blue-100"
           >
             {areas.map((area) => (
               <option key={area.slug} value={area.slug}>
@@ -82,7 +82,7 @@ export default function ChennaiServiceFinder({
             id="chennai-service-select"
             value={serviceSlug}
             onChange={(event) => setServiceSlug(event.target.value)}
-            className="h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-sky-400 focus:ring-2 focus:ring-sky-100"
+            className="h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-400 focus:ring-2 focus:ring-blue-100"
           >
             {services.map((service) => (
               <option key={service.slug} value={service.slug}>
@@ -96,7 +96,7 @@ export default function ChennaiServiceFinder({
           <Link
             href={href}
             prefetch={false}
-            className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full bg-sky-500 px-6 text-sm font-black text-white shadow transition hover:bg-sky-600 lg:w-auto"
+            className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full bg-blue-500 px-6 text-sm font-black text-white shadow transition hover:bg-blue-600 lg:w-auto"
           >
             Open Page
             <ArrowRight size={17} />
@@ -128,8 +128,8 @@ export default function ChennaiServiceFinder({
               onClick={() => setAreaSlug(area.slug)}
               className={`rounded-full border px-3 py-2 text-sm font-semibold transition ${
                 area.slug === areaSlug
-                  ? "border-sky-500 bg-sky-500 text-white"
-                  : "border-slate-200 bg-white text-slate-700 hover:border-sky-300 hover:text-sky-600"
+                  ? "border-blue-500 bg-blue-500 text-white"
+                  : "border-slate-200 bg-white text-slate-700 hover:border-blue-300 hover:text-blue-600"
               }`}
             >
               {area.name}

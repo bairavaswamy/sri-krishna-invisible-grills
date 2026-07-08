@@ -1,38 +1,32 @@
 export const siteConfig = {
-  name: "DK Safety Solutions",
-  shortName: "DK Safety",
-  domain: "dksafetysolutions.com",
-  url: "https://dksafetysolutions.com",
-  tagline: "Modern safety systems for homes, balconies, windows, and open spaces.",
+  name: "SRI KRISHNA INVISIBLE GRILLS",
+  shortName: "Sri Krishna",
+  domain: "srikrishnainvisiblegrills.com",
+  url: "https://srikrishnainvisiblegrills.com",
+  tagline: "Invisible grills, safety nets, and bird-control protection for Chennai homes.",
   description:
-    "DK Safety Solutions provides balcony protection, window safety, bird control, sports netting, and utility safety services across Chennai.",
+    "SRI KRISHNA INVISIBLE GRILLS provides balcony invisible grills, safety nets, window protection, pigeon control, cricket practice nets, and utility safety services across Chennai.",
   defaultImage: "/images/site/chennai-home-hero-safety-nets.png",
-  logo: "/brand/dk-safety-logo-mobile.svg",
+  logo: "/brand/sri-krishna-logo-full.png",
   logos: {
-    desktop: "/brand/dk-safety-logo-desktop.svg",
-    desktopPng: "/brand/dk-safety-logo-desktop.png",
-    mobile: "/brand/dk-safety-logo-mobile.svg",
-    mobilePng: "/brand/dk-safety-logo-mobile.png",
-    favicon: "/brand/dk-safety-favicon.svg",
-    faviconPng: "/brand/favicon-32.png",
-    appleTouchIcon: "/brand/dk-safety-apple-touch-icon.png",
-    icon192: "/brand/dk-safety-icon-192.png",
-    icon512: "/brand/dk-safety-icon-512.png",
+    desktop: "/brand/sri-krishna-logo-full.png",
+    mobile: "/brand/sri-krishna-logo-mark.png",
+    favicon: "/brand/sri-krishna-logo-mark.png",
   },
   contact: {
-    phoneLabel: "+91 9573838331",
-    phoneHref: "tel:+919573838331",
-    whatsappLabel: "+91 95738 38331",
-    whatsappHref: "https://wa.me/919573838331",
-    email: "info@dksafetysolutions.com",
-    emailHref: "mailto:info@dksafetysolutions.com",
+    phoneLabel: "+91 98765 43210",
+    phoneHref: "tel:+919876543210",
+    whatsappLabel: "+91 98765 43210",
+    whatsappHref: "https://wa.me/919876543210",
+    email: "info@srikrishnainvisiblegrills.com",
+    emailHref: "mailto:info@srikrishnainvisiblegrills.com",
     hours: "Mon - Sun, 9:00 AM to 8:00 PM",
     location: "Chennai, Tamil Nadu",
     addressLines: ["Chennai, Tamil Nadu", "India"],
   },
   business: {
     schemaTypes: ["LocalBusiness", "HomeAndConstructionBusiness"],
-    legalName: "DK Safety Solutions",
+    legalName: "SRI KRISHNA INVISIBLE GRILLS",
     priceRange: "Contact for quote",
     currenciesAccepted: "INR",
     paymentAccepted: "Cash, UPI, Bank Transfer",
@@ -78,32 +72,60 @@ export const siteConfig = {
   ],
   focusAreas: [
     {
-      title: "Balcony Protection",
+      title: "Balcony Safety Nets",
       description:
-        "Clean, modern safety finishes for apartments, villas, and high-rise homes.",
-      image: "/images/site/chennai-home-hero-safety-nets.png",
+        "Fall protection and bird control for daily-use apartment balconies.",
+      image: "/images/services/balcony-safety-nets/balcony-safety-nets-context.webp",
       href: "/chennai/balcony-safety-nets",
     },
     {
-      title: "Window Safety",
+      title: "Balcony Invisible Grills",
       description:
-        "Slim protective systems that keep airflow and natural light feeling open.",
-      image: "/images/site/chennai-article-anchor-detail.png",
+        "Open-view stainless steel cable protection for high-rise balconies.",
+      image: "/images/services/balcony-invisible-grills/balcony-invisible-grills-context.webp",
+      href: "/chennai/balcony-invisible-grills",
+    },
+    {
+      title: "Pigeon Safety Nets",
+      description:
+        "Focused pigeon route control for ledges, balcony corners, and utility areas.",
+      image: "/images/services/pigeon-safety-nets/pigeon-safety-nets-context.webp",
+      href: "/chennai/pigeon-safety-nets",
+    },
+    {
+      title: "Children Safety Nets",
+      description:
+        "Family-focused protection for balconies, windows, and open edges.",
+      image: "/images/services/children-safety-nets/children-safety-nets-context.webp",
+      href: "/chennai/children-safety-nets",
+    },
+    {
+      title: "Window Safety Nets",
+      description:
+        "Window-level safety and bird protection while keeping ventilation open.",
+      image: "/images/services/window-safety-nets/window-safety-nets-context.webp",
       href: "/chennai/window-safety-nets",
     },
     {
-      title: "Bird Control",
+      title: "Bird Spikes Installation",
       description:
-        "Neat balcony and utility-area protection planned for low maintenance living.",
-      image: "/images/site/chennai-service-directory-montage.png",
-      href: "/chennai/anti-bird-nets",
+        "Perch control for ledges, parapets, AC units, pipes, and facade edges.",
+      image: "/images/services/bird-spikes-installation/bird-spikes-installation-context.webp",
+      href: "/chennai/bird-spikes-installation",
     },
     {
-      title: "Outdoor Utility",
+      title: "Duct Area Safety Nets",
       description:
-        "Practical safety and utility setups for terraces, play zones, and service areas.",
-      image: "/images/site/chennai-area-balcony-safety-view.png",
-      href: "/chennai/terrace-safety-nets",
+        "Coverage for service shafts, ducts, open voids, and utility cut-outs.",
+      image: "/images/services/duct-area-safety-nets/duct-area-safety-nets-context.webp",
+      href: "/chennai/duct-area-safety-nets",
+    },
+    {
+      title: "Cricket Practice Nets",
+      description:
+        "Containment netting for terraces, academies, and society play zones.",
+      image: "/images/services/cricket-practice-nets/cricket-practice-nets-context.webp",
+      href: "/chennai/cricket-practice-nets",
     },
   ],
   galleryImages: [
@@ -128,7 +150,7 @@ export const siteConfig = {
     {
       src: "/images/site/chennai-service-directory-montage.png",
       title: "Connected Service Set",
-      alt: "Chennai safety services including balcony nets, bird control, invisible grills, and sports netting",
+      alt: "Chennai safety services including balcony nets, pigeon control, invisible grills, and cricket practice nets",
       category: "Services",
     },
     {
@@ -147,14 +169,24 @@ export const siteConfig = {
   trustPoints: [
     "Free site visit",
     "Clean installation",
-    "Modern finish",
+    "Invisible grill finish",
     "Warranty support",
   ],
+  marqueeItems: [
+    "Balcony invisible grills",
+    "Balcony safety nets",
+    "Window safety nets",
+    "Pigeon safety nets",
+    "Children safety nets",
+    "Bird spikes",
+    "Cricket practice nets",
+    "Free site visit in Chennai",
+  ],
   stats: [
-    { value: "Proven", label: "Bird Control", detail: "Protects balconies, terraces, and utility areas from pest birds." },
-    { value: "Reliable", label: "Net Installation", detail: "Strong, low-profile nets installed with clean, safe finishes." },
-    { value: "Safe", label: "Home Protection", detail: "Keeps families safe while preserving airflow and views." },
-    { value: "Fast", label: "Site Survey", detail: "Quick site visits and tailored bird-control solutions for your home." },
+    { value: "15+", label: "Years Experience", detail: "Chennai-focused safety planning for balconies, windows, ducts, and open spaces." },
+    { value: "2000+", label: "Projects", detail: "Apartment, villa, community, and utility-area installations across the city." },
+    { value: "150+", label: "Clients", detail: "Homes, associations, commercial spaces, and sports facilities served." },
+    { value: "Same Day", label: "Site Visit", detail: "Quick phone and WhatsApp enquiry flow for measurement and quotation." },
   ],
   testimonials: [
     {
@@ -163,7 +195,7 @@ export const siteConfig = {
       location: "Adyar",
       project: "Balcony safety nets",
       quote:
-        "The balcony safety net was planned around our railing gaps and cleaning access, so the space still feels open.",
+        "The balcony grill and safety net work looks neat, keeps the view open, and gives us much better child safety.",
     },
     {
       name: "Anna Nagar Home Owner",
@@ -171,7 +203,7 @@ export const siteConfig = {
       location: "Anna Nagar",
       project: "Window safety nets",
       quote:
-        "The team explained the fixing points clearly and kept the window movement easy after installation.",
+        "They measured every window properly, explained the fixing points, and finished without disturbing the frame movement.",
     },
     {
       name: "OMR Community Manager",
@@ -179,7 +211,7 @@ export const siteConfig = {
       location: "Sholinganallur",
       project: "Sports and duct nets",
       quote:
-        "Our service areas needed different net types, and the Chennai page helped us compare the options quickly.",
+        "Our apartment needed balcony, duct, and play-area protection. The team suggested the right net type for each space.",
     },
     {
       name: "Mylapore Family",
@@ -187,30 +219,40 @@ export const siteConfig = {
       location: "Mylapore",
       project: "Bird control",
       quote:
-        "The bird-control plan covered side gaps and cleaning needs instead of only the front balcony opening.",
+        "The bird-control work covered the side gaps properly and still left enough access for regular balcony cleaning.",
     },
   ],
   clients: ["Residential Homes", "Apartments", "Villas", "Commercial Spaces", "Communities"],
   socialProfiles: [
     {
       name: "Instagram",
-      href: "https://www.instagram.com/dksafetysolutions",
-      label: "DK Safety Solutions on Instagram",
+      href: "https://www.instagram.com/srikrishnainvisiblegrills",
+      label: "SRI KRISHNA INVISIBLE GRILLS on Instagram",
     },
     {
       name: "Facebook",
-      href: "https://www.facebook.com/dksafetysolutions",
-      label: "DK Safety Solutions on Facebook",
+      href: "https://www.facebook.com/srikrishnainvisiblegrills",
+      label: "SRI KRISHNA INVISIBLE GRILLS on Facebook",
+    },
+    {
+      name: "Pinterest",
+      href: "https://www.pinterest.com/srikrishnainvisiblegrills",
+      label: "SRI KRISHNA INVISIBLE GRILLS on Pinterest",
+    },
+    {
+      name: "Medium",
+      href: "https://medium.com/@srikrishnainvisiblegrills",
+      label: "SRI KRISHNA INVISIBLE GRILLS on Medium",
     },
     {
       name: "LinkedIn",
-      href: "https://www.linkedin.com/company/dksafetysolutions",
-      label: "DK Safety Solutions on LinkedIn",
+      href: "https://www.linkedin.com/company/sri-krishna-invisible-grills",
+      label: "SRI KRISHNA INVISIBLE GRILLS on LinkedIn",
     },
     {
       name: "WhatsApp",
-      href: "https://wa.me/919573838331",
-      label: "DK Safety Solutions on WhatsApp",
+      href: "https://wa.me/919876543210",
+      label: "SRI KRISHNA INVISIBLE GRILLS on WhatsApp",
     },
   ],
 } as const;

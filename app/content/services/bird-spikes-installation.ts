@@ -6,14 +6,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "adyar",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Adyar Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Adyar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Adyar, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Adyar",
         "bird spikes installation Adyar Chennai",
         "bird spikes installation near Adyar",
         "Adyar bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Adyar Chennai",
       "openGraphDescription": "A manual Adyar guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -50,7 +50,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Adyar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Adyar work often needs calm finishing around established apartments, tree-facing balconies, older wall surfaces, and homes where children, elders, plants, and bird control needs overlap. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Adyar, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adyar, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -171,7 +171,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Adyar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Adyar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -208,14 +208,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Adyar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Adyar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -223,14 +223,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "alandur",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Alandur Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Alandur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Alandur, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Alandur",
         "bird spikes installation Alandur Chennai",
         "bird spikes installation near Alandur",
         "Alandur bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Alandur Chennai",
       "openGraphDescription": "A manual Alandur guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -267,7 +267,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Alandur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Alandur projects need practical scheduling, dust-aware materials, careful drilling in compact flats, and neat work that does not disturb busy family routines. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Alandur, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Alandur, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -388,7 +388,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Alandur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Alandur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -425,14 +425,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Alandur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Alandur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -440,14 +440,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "ambattur",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Ambattur Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Ambattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Ambattur, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Ambattur",
         "bird spikes installation Ambattur Chennai",
         "bird spikes installation near Ambattur",
         "Ambattur bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Ambattur Chennai",
       "openGraphDescription": "A manual Ambattur guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -484,7 +484,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Ambattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ambattur installations should stay durable and budget-aware while handling mixed home types, dust, birds, children, pets, and everyday balcony utility use. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Ambattur, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ambattur, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -605,7 +605,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ambattur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ambattur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -642,14 +642,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ambattur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ambattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -657,14 +657,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "aminjikarai",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Aminjikarai Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Aminjikarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Aminjikarai, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Aminjikarai",
         "bird spikes installation Aminjikarai Chennai",
         "bird spikes installation near Aminjikarai",
         "Aminjikarai bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Aminjikarai Chennai",
       "openGraphDescription": "A manual Aminjikarai guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -701,7 +701,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Aminjikarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Aminjikarai homes often need careful access planning, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Aminjikarai, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Aminjikarai, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -822,7 +822,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Aminjikarai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Aminjikarai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -859,14 +859,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Aminjikarai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Aminjikarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -874,14 +874,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "anna-nagar",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Anna Nagar Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Anna Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Anna Nagar, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Anna Nagar",
         "bird spikes installation Anna Nagar Chennai",
         "bird spikes installation near Anna Nagar",
         "Anna Nagar bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Anna Nagar Chennai",
       "openGraphDescription": "A manual Anna Nagar guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -918,7 +918,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Anna Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Anna Nagar service pages should emphasize premium finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Anna Nagar, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Anna Nagar, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1039,7 +1039,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Anna Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Anna Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1076,13 +1076,13 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Anna Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Anna Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1090,14 +1090,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "arumbakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Arumbakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Arumbakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Arumbakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Arumbakkam",
         "bird spikes installation Arumbakkam Chennai",
         "bird spikes installation near Arumbakkam",
         "Arumbakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Arumbakkam Chennai",
       "openGraphDescription": "A manual Arumbakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1134,7 +1134,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Arumbakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Arumbakkam jobs benefit from quick measurement, minimal disruption, strong anchors, and low-maintenance finishes for homes close to active roads and commercial pockets. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Arumbakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Arumbakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1255,7 +1255,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Arumbakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Arumbakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1292,14 +1292,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Arumbakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Arumbakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1307,14 +1307,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "ashok-nagar",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Ashok Nagar Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Ashok Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Ashok Nagar, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Ashok Nagar",
         "bird spikes installation Ashok Nagar Chennai",
         "bird spikes installation near Ashok Nagar",
         "Ashok Nagar bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Ashok Nagar Chennai",
       "openGraphDescription": "A manual Ashok Nagar guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1351,7 +1351,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Ashok Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ashok Nagar work should protect children and pets while keeping front-facing balconies neat from the hall, the street, and neighboring homes. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Ashok Nagar, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ashok Nagar, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1472,7 +1472,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ashok Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ashok Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1509,13 +1509,13 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ashok Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ashok Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1523,14 +1523,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "avadi",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Avadi Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Avadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Avadi, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Avadi",
         "bird spikes installation Avadi Chennai",
         "bird spikes installation near Avadi",
         "Avadi bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Avadi Chennai",
       "openGraphDescription": "A manual Avadi guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1567,7 +1567,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Avadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Avadi projects often need strong material selection, practical pricing, and coverage for apartments, terraces, windows, and homes with more exposed outdoor edges. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Avadi, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Avadi, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1688,7 +1688,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Avadi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Avadi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1725,14 +1725,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Avadi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Avadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1740,14 +1740,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "besant-nagar",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Besant Nagar Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Besant Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Besant Nagar, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Besant Nagar",
         "bird spikes installation Besant Nagar Chennai",
         "bird spikes installation near Besant Nagar",
         "Besant Nagar bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Besant Nagar Chennai",
       "openGraphDescription": "A manual Besant Nagar guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1784,7 +1784,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Besant Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety planning for balconies that face breeze, sand, and humidity. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Besant Nagar, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Besant Nagar, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1905,7 +1905,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Besant Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Besant Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1942,13 +1942,13 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Besant Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Besant Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1956,14 +1956,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "chetpet",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Chetpet Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Chetpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Chetpet, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Chetpet",
         "bird spikes installation Chetpet Chennai",
         "bird spikes installation near Chetpet",
         "Chetpet bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Chetpet Chennai",
       "openGraphDescription": "A manual Chetpet guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2000,7 +2000,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Chetpet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Chetpet jobs should balance refined appearance with careful anchoring, because many homes expect quiet finishes, low disturbance, and trustworthy installation behavior. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Chetpet, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Chetpet, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2121,7 +2121,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Chetpet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Chetpet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2158,14 +2158,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chetpet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chetpet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2173,14 +2173,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "choolaimedu",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Choolaimedu Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Choolaimedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Choolaimedu, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Choolaimedu",
         "bird spikes installation Choolaimedu Chennai",
         "bird spikes installation near Choolaimedu",
         "Choolaimedu bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Choolaimedu Chennai",
       "openGraphDescription": "A manual Choolaimedu guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2217,7 +2217,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Choolaimedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Choolaimedu pages should focus on practical installation, renter-friendly planning, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Choolaimedu, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Choolaimedu, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2338,7 +2338,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Choolaimedu?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Choolaimedu?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2375,14 +2375,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Choolaimedu page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Choolaimedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2390,14 +2390,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "chromepet",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Chromepet Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Chromepet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Chromepet, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Chromepet",
         "bird spikes installation Chromepet Chennai",
         "bird spikes installation near Chromepet",
         "Chromepet bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Chromepet Chennai",
       "openGraphDescription": "A manual Chromepet guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2434,7 +2434,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Chromepet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Chromepet work needs budget clarity, strong material choices, neat drilling, and dust-aware finishing for families comparing quality against low short-term quotes. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Chromepet, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Chromepet, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2555,7 +2555,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Chromepet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Chromepet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2592,14 +2592,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chromepet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chromepet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2607,14 +2607,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "egmore",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Egmore Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Egmore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Egmore, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Egmore",
         "bird spikes installation Egmore Chennai",
         "bird spikes installation near Egmore",
         "Egmore bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Egmore Chennai",
       "openGraphDescription": "A manual Egmore guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2651,7 +2651,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Egmore should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Egmore service calls should consider careful access, older surfaces, clean finishing, and safety solutions that look composed in established central-Chennai buildings. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Egmore, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Egmore, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2772,7 +2772,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Egmore?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Egmore?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2809,14 +2809,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Egmore page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Egmore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2824,14 +2824,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "guindy",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Guindy Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Guindy Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Manual Guindy guide for bird spikes installation in Chennai, covering ledges, parapets, AC units, commercial fronts, pigeon perching, humane deterrence, and maintenance.",
       "keywords": [
         "bird spikes installation in Guindy",
         "pigeon spikes Chennai",
         "bird control spikes Guindy",
         "anti bird spikes Chennai",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Guindy Chennai",
       "openGraphDescription": "A area Guindy guide for bird spikes on ledges, parapets, signage, AC units, commercial fronts, and apartment edges.",
@@ -3064,7 +3064,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Check for loose sections, dirt buildup, and disturbed fixing after cleaning or building work. Maintenance keeps the deterrent line effective."
       },
       {
-        "question": "Can DK Safety Solutions combine spikes and nets?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS combine spikes and nets?",
         "answer": "Yes, when the site requires both perch control and entry blocking. The quote should clearly separate spike areas and net areas so the scope is easy to understand."
       },
       {
@@ -3129,7 +3129,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "When the perch line is understood, spike installation becomes cleaner, more humane, and easier to maintain.",
         "For Guindy buildings, that careful line can save repeated cleaning near entrances, windows, and service equipment."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3137,14 +3137,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "injambakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Injambakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Injambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Injambakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Injambakkam",
         "bird spikes installation Injambakkam Chennai",
         "bird spikes installation near Injambakkam",
         "Injambakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Injambakkam Chennai",
       "openGraphDescription": "A manual Injambakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3181,7 +3181,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Injambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Injambakkam installations should account for coastal wind, larger home layouts, terraces, pets, and material durability in more exposed seaside residential pockets. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Injambakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Injambakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3302,7 +3302,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Injambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Injambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3339,14 +3339,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Injambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Injambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3354,14 +3354,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "k-k-nagar",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in K K Nagar Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in K K Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in K K Nagar, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in K K Nagar",
         "bird spikes installation K K Nagar Chennai",
         "bird spikes installation near K K Nagar",
         "K K Nagar bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in K K Nagar Chennai",
       "openGraphDescription": "A manual K K Nagar guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3398,7 +3398,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in K K Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "K K Nagar work should feel careful and respectful, with attention to older railings, visiting grandchildren, low visual clutter, and easy maintenance. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in K K Nagar, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in K K Nagar, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3519,7 +3519,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in K K Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in K K Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3556,12 +3556,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the K K Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger K K Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3569,14 +3569,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "kandanchavadi",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Kandanchavadi Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Kandanchavadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Kandanchavadi, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Kandanchavadi",
         "bird spikes installation Kandanchavadi Chennai",
         "bird spikes installation near Kandanchavadi",
         "Kandanchavadi bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Kandanchavadi Chennai",
       "openGraphDescription": "A manual Kandanchavadi guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3613,7 +3613,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Kandanchavadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kandanchavadi service pages should address high-rise access, quick scheduling, association expectations, wind exposure, and practical safety for working families. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Kandanchavadi, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kandanchavadi, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3734,7 +3734,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kandanchavadi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kandanchavadi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3771,14 +3771,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kandanchavadi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kandanchavadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3786,14 +3786,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "karapakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Karapakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Karapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Karapakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Karapakkam",
         "bird spikes installation Karapakkam Chennai",
         "bird spikes installation near Karapakkam",
         "Karapakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Karapakkam Chennai",
       "openGraphDescription": "A manual Karapakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3830,7 +3830,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Karapakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in planning, and durable finishes for newer residential towers. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Karapakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Karapakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3951,7 +3951,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Karapakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Karapakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3988,14 +3988,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Karapakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Karapakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4003,14 +4003,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "kelambakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Kelambakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Kelambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Kelambakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Kelambakkam",
         "bird spikes installation Kelambakkam Chennai",
         "bird spikes installation near Kelambakkam",
         "Kelambakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Kelambakkam Chennai",
       "openGraphDescription": "A manual Kelambakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4047,7 +4047,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Kelambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout planning and durable exposed materials. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Kelambakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kelambakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4168,7 +4168,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kelambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kelambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4205,14 +4205,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kelambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kelambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4220,14 +4220,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "kilpauk",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Kilpauk Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Kilpauk Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Kilpauk, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Kilpauk",
         "bird spikes installation Kilpauk Chennai",
         "bird spikes installation near Kilpauk",
         "Kilpauk bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Kilpauk Chennai",
       "openGraphDescription": "A manual Kilpauk guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4264,7 +4264,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Kilpauk should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety planning for established residences that expect tidy work. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Kilpauk, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kilpauk, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4385,7 +4385,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kilpauk?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kilpauk?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4422,14 +4422,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kilpauk page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kilpauk sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4437,14 +4437,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "kodambakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Kodambakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Kodambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Kodambakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Kodambakkam",
         "bird spikes installation Kodambakkam Chennai",
         "bird spikes installation near Kodambakkam",
         "Kodambakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Kodambakkam Chennai",
       "openGraphDescription": "A manual Kodambakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4481,7 +4481,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Kodambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kodambakkam installations need attention to aged surfaces, compact access, bird control, dust, and minimal-damage fixing for homes with changed layouts. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Kodambakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kodambakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4602,7 +4602,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kodambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kodambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4639,14 +4639,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kodambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kodambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4654,14 +4654,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "kolathur",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Kolathur Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Kolathur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Kolathur, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Kolathur",
         "bird spikes installation Kolathur Chennai",
         "bird spikes installation near Kolathur",
         "Kolathur bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Kolathur Chennai",
       "openGraphDescription": "A manual Kolathur guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4698,7 +4698,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Kolathur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kolathur projects should be practical, clear on price, and strong on material quality for homes that need daily-use balcony, window, terrace, and bird-control protection. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Kolathur, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kolathur, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4819,7 +4819,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kolathur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kolathur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4856,14 +4856,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kolathur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kolathur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4871,14 +4871,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "korattur",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Korattur Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Korattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Korattur, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Korattur",
         "bird spikes installation Korattur Chennai",
         "bird spikes installation near Korattur",
         "Korattur bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Korattur Chennai",
       "openGraphDescription": "A manual Korattur guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4915,7 +4915,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Korattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Korattur work benefits from weather-aware planning, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Korattur, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Korattur, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5036,7 +5036,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Korattur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Korattur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5073,14 +5073,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Korattur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Korattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5088,14 +5088,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "kottivakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Kottivakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Kottivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Kottivakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Kottivakkam",
         "bird spikes installation Kottivakkam Chennai",
         "bird spikes installation near Kottivakkam",
         "Kottivakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Kottivakkam Chennai",
       "openGraphDescription": "A manual Kottivakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5132,7 +5132,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Kottivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kottivakkam service entries should balance open-view expectations with coastal durability, corrosion-aware fittings, pet safety, and clean visible lines. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Kottivakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kottivakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5253,7 +5253,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kottivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kottivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5290,14 +5290,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kottivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kottivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5305,14 +5305,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "koyambedu",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Koyambedu Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Koyambedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Koyambedu, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Koyambedu",
         "bird spikes installation Koyambedu Chennai",
         "bird spikes installation near Koyambedu",
         "Koyambedu bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Koyambedu Chennai",
       "openGraphDescription": "A manual Koyambedu guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5349,7 +5349,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Koyambedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Koyambedu jobs need practical timing, compact access planning, dust control, and strong low-maintenance materials for homes near active road and market movement. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Koyambedu, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Koyambedu, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5470,7 +5470,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Koyambedu?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Koyambedu?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5507,14 +5507,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Koyambedu page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Koyambedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5522,14 +5522,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "madipakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Madipakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Madipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Madipakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Madipakkam",
         "bird spikes installation Madipakkam Chennai",
         "bird spikes installation near Madipakkam",
         "Madipakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Madipakkam Chennai",
       "openGraphDescription": "A manual Madipakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5566,7 +5566,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Madipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Madipakkam installations should focus on daily balcony use, rain and dust maintenance, child and pet safety, and clear quotes for family apartments. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Madipakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Madipakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5687,7 +5687,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Madipakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Madipakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5724,14 +5724,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madipakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5739,14 +5739,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "madhavaram",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Madhavaram Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Madhavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Madhavaram, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Madhavaram",
         "bird spikes installation Madhavaram Chennai",
         "bird spikes installation near Madhavaram",
         "Madhavaram bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Madhavaram Chennai",
       "openGraphDescription": "A manual Madhavaram guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5783,7 +5783,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Madhavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Madhavaram projects should keep installation durable, practical, and easy to maintain for homes that often need balcony, terrace, window, and bird-control coverage together. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Madhavaram, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Madhavaram, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5904,7 +5904,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Madhavaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Madhavaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5941,14 +5941,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madhavaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madhavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5956,14 +5956,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "medavakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Medavakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Medavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Medavakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Medavakkam",
         "bird spikes installation Medavakkam Chennai",
         "bird spikes installation near Medavakkam",
         "Medavakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Medavakkam Chennai",
       "openGraphDescription": "A manual Medavakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6000,7 +6000,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Medavakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Medavakkam pages should explain reliable materials, transparent pricing, child safety, and site measurement for newer apartments and everyday family homes. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Medavakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Medavakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6121,7 +6121,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Medavakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Medavakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6158,14 +6158,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Medavakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Medavakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6173,14 +6173,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "mogappair",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Mogappair Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Mogappair Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Mogappair, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Mogappair",
         "bird spikes installation Mogappair Chennai",
         "bird spikes installation near Mogappair",
         "Mogappair bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Mogappair Chennai",
       "openGraphDescription": "A manual Mogappair guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6217,7 +6217,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Mogappair should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mogappair installations should emphasize family safety, neat exterior finish, association approval, and dependable service for apartments with children and elders. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Mogappair, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mogappair, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6338,7 +6338,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mogappair?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mogappair?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6375,14 +6375,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mogappair page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mogappair sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6390,14 +6390,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "mugalivakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Mugalivakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Mugalivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Mugalivakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Mugalivakkam",
         "bird spikes installation Mugalivakkam Chennai",
         "bird spikes installation near Mugalivakkam",
         "Mugalivakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Mugalivakkam Chennai",
       "openGraphDescription": "A manual Mugalivakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6434,7 +6434,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Mugalivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mugalivakkam jobs need flexible planning for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Mugalivakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mugalivakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6555,7 +6555,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mugalivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mugalivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6592,14 +6592,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mugalivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mugalivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6607,14 +6607,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "mylapore",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Mylapore Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Mylapore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Mylapore, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Mylapore",
         "bird spikes installation Mylapore Chennai",
         "bird spikes installation near Mylapore",
         "Mylapore bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Mylapore Chennai",
       "openGraphDescription": "A manual Mylapore guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6651,7 +6651,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Mylapore should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mylapore service pages should sound calm and careful, with attention to older wall conditions, low-visual-noise safety, and respectful installation in established homes. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Mylapore, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mylapore, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6772,7 +6772,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mylapore?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mylapore?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6809,14 +6809,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mylapore page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mylapore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6824,14 +6824,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "nanganallur",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Nanganallur Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Nanganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Nanganallur, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Nanganallur",
         "bird spikes installation Nanganallur Chennai",
         "bird spikes installation near Nanganallur",
         "Nanganallur bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Nanganallur Chennai",
       "openGraphDescription": "A manual Nanganallur guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6868,7 +6868,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Nanganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Nanganallur installations should focus on trust, careful inspection, elder and child safety, and finishes that keep familiar homes looking composed. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Nanganallur, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Nanganallur, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6989,7 +6989,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Nanganallur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Nanganallur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7026,14 +7026,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nanganallur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nanganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7041,14 +7041,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "navalur",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Navalur Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Navalur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Navalur, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Navalur",
         "bird spikes installation Navalur Chennai",
         "bird spikes installation near Navalur",
         "Navalur bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Navalur Chennai",
       "openGraphDescription": "A manual Navalur guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7085,7 +7085,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Navalur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Navalur work should account for association-approved exterior lines, high-rise wind, pet-safe and child-safe openings, and newer apartment setup needs. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Navalur, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Navalur, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7206,7 +7206,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Navalur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Navalur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7243,14 +7243,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Navalur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Navalur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7258,14 +7258,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "neelankarai",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Neelankarai Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Neelankarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Neelankarai, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Neelankarai",
         "bird spikes installation Neelankarai Chennai",
         "bird spikes installation near Neelankarai",
         "Neelankarai bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Neelankarai Chennai",
       "openGraphDescription": "A manual Neelankarai guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7302,7 +7302,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Neelankarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Neelankarai projects need coastal-grade planning, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Neelankarai, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Neelankarai, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7423,7 +7423,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Neelankarai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Neelankarai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7460,14 +7460,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Neelankarai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Neelankarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7475,14 +7475,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "nungambakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Nungambakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Nungambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Nungambakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Nungambakkam",
         "bird spikes installation Nungambakkam Chennai",
         "bird spikes installation near Nungambakkam",
         "Nungambakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Nungambakkam Chennai",
       "openGraphDescription": "A manual Nungambakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7519,7 +7519,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Nungambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Nungambakkam service entries should emphasize discreet hardware, straight alignment, premium finish, and clean installation that respects high-value interiors. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Nungambakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Nungambakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7640,7 +7640,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Nungambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Nungambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7677,14 +7677,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nungambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nungambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7692,14 +7692,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "pallavaram",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Pallavaram Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Pallavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Pallavaram, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Pallavaram",
         "bird spikes installation Pallavaram Chennai",
         "bird spikes installation near Pallavaram",
         "Pallavaram bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Pallavaram Chennai",
       "openGraphDescription": "A manual Pallavaram guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7736,7 +7736,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Pallavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Pallavaram work should cover wind, dust, child safety, utility use, and strong fixing for families living around active roads and changing residential pockets. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Pallavaram, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Pallavaram, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7857,7 +7857,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Pallavaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Pallavaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7894,14 +7894,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallavaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7909,14 +7909,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "pallikaranai",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Pallikaranai Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Pallikaranai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Pallikaranai, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Pallikaranai",
         "bird spikes installation Pallikaranai Chennai",
         "bird spikes installation near Pallikaranai",
         "Pallikaranai bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Pallikaranai Chennai",
       "openGraphDescription": "A manual Pallikaranai guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7953,7 +7953,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Pallikaranai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Pallikaranai installations should be weather-aware and practical, with attention to rain, cleaning, bird entry routes, and child-safe daily-use balconies. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Pallikaranai, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Pallikaranai, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8074,7 +8074,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Pallikaranai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Pallikaranai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8111,14 +8111,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallikaranai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallikaranai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8126,14 +8126,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "perambur",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Perambur Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Perambur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Perambur, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Perambur",
         "bird spikes installation Perambur Chennai",
         "bird spikes installation near Perambur",
         "Perambur bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Perambur Chennai",
       "openGraphDescription": "A manual Perambur guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8170,7 +8170,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Perambur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware planning for homes with compact balcony and window openings. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Perambur, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Perambur, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8291,7 +8291,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Perambur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Perambur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8328,14 +8328,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perambur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perambur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8343,14 +8343,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "perungudi",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Perungudi Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Perungudi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Perungudi, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Perungudi",
         "bird spikes installation Perungudi Chennai",
         "bird spikes installation near Perungudi",
         "Perungudi bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Perungudi Chennai",
       "openGraphDescription": "A manual Perungudi guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8387,7 +8387,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Perungudi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Perungudi service pages should address high-rise wind, working-family scheduling, clean border lines, association rules, child safety, pets, and pigeons. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Perungudi, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Perungudi, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8508,7 +8508,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Perungudi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Perungudi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8545,14 +8545,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perungudi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perungudi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8560,14 +8560,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "poonamallee",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Poonamallee Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Poonamallee Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Poonamallee, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Poonamallee",
         "bird spikes installation Poonamallee Chennai",
         "bird spikes installation near Poonamallee",
         "Poonamallee bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Poonamallee Chennai",
       "openGraphDescription": "A manual Poonamallee guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8604,7 +8604,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Poonamallee should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Poonamallee installations should be budget-aware but quality-led, covering children, pets, elders, terraces, balconies, and durable fixing for varied home types. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Poonamallee, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Poonamallee, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8725,7 +8725,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Poonamallee?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Poonamallee?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8762,14 +8762,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Poonamallee page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Poonamallee sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8777,14 +8777,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "porur",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Porur Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Porur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Porur, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Porur",
         "bird spikes installation Porur Chennai",
         "bird spikes installation near Porur",
         "Porur bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Porur Chennai",
       "openGraphDescription": "A manual Porur guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8821,7 +8821,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Porur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Porur pages should explain site visits, reliable installation after move-in, child and pet safety, balcony utility use, and long-term support for newer homes. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Porur, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Porur, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8942,7 +8942,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Porur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Porur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8979,14 +8979,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Porur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Porur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8994,14 +8994,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "purasawalkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Purasawalkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Purasawalkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Purasawalkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Purasawalkam",
         "bird spikes installation Purasawalkam Chennai",
         "bird spikes installation near Purasawalkam",
         "Purasawalkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Purasawalkam Chennai",
       "openGraphDescription": "A manual Purasawalkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9038,7 +9038,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Purasawalkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control planning around busy central streets. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Purasawalkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Purasawalkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9159,7 +9159,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Purasawalkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Purasawalkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9196,14 +9196,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Purasawalkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Purasawalkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9211,14 +9211,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "ramapuram",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Ramapuram Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Ramapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Ramapuram, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Ramapuram",
         "bird spikes installation Ramapuram Chennai",
         "bird spikes installation near Ramapuram",
         "Ramapuram bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Ramapuram Chennai",
       "openGraphDescription": "A manual Ramapuram guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9255,7 +9255,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Ramapuram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ramapuram service pages should connect balcony, window, staircase, and terrace safety for varied home layouts near busy work and residential zones. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Ramapuram, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ramapuram, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9376,7 +9376,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ramapuram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ramapuram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9413,14 +9413,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ramapuram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ramapuram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9428,14 +9428,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "royapettah",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Royapettah Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Royapettah Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Royapettah, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Royapettah",
         "bird spikes installation Royapettah Chennai",
         "bird spikes installation near Royapettah",
         "Royapettah bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Royapettah Chennai",
       "openGraphDescription": "A manual Royapettah guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9472,7 +9472,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Royapettah should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Royapettah projects should focus on low-disruption installation, careful drilling, visible neatness, and practical safety for older and mixed-use surroundings. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Royapettah, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapettah, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9593,7 +9593,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Royapettah?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Royapettah?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9630,14 +9630,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Royapettah page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Royapettah sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9645,14 +9645,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "saidapet",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Saidapet Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Saidapet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Saidapet, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Saidapet",
         "bird spikes installation Saidapet Chennai",
         "bird spikes installation near Saidapet",
         "Saidapet bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Saidapet Chennai",
       "openGraphDescription": "A manual Saidapet guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9689,7 +9689,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Saidapet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Saidapet work should address quick access, dust-aware maintenance, compact balcony use, child safety, and clear quotes for apartments close to major roads. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Saidapet, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Saidapet, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9810,7 +9810,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Saidapet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Saidapet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9847,14 +9847,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Saidapet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Saidapet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9862,14 +9862,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "selaiyur",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Selaiyur Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Selaiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Selaiyur, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Selaiyur",
         "bird spikes installation Selaiyur Chennai",
         "bird spikes installation near Selaiyur",
         "Selaiyur bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Selaiyur Chennai",
       "openGraphDescription": "A manual Selaiyur guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9906,7 +9906,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Selaiyur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Selaiyur service entries should be practical for growing families, with clear material choices, terrace and balcony coverage, pet safety, and reliable site measurement. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Selaiyur, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Selaiyur, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10027,7 +10027,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Selaiyur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Selaiyur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10064,14 +10064,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Selaiyur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Selaiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10079,14 +10079,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "sholinganallur",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Sholinganallur Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Sholinganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Sholinganallur, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Sholinganallur",
         "bird spikes installation Sholinganallur Chennai",
         "bird spikes installation near Sholinganallur",
         "Sholinganallur bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Sholinganallur Chennai",
       "openGraphDescription": "A manual Sholinganallur guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10123,7 +10123,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Sholinganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety planning for children, pets, pigeons, and open utility edges. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Sholinganallur, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Sholinganallur, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10244,7 +10244,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Sholinganallur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Sholinganallur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10281,14 +10281,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Sholinganallur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Sholinganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10296,14 +10296,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "siruseri",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Siruseri Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Siruseri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Siruseri, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Siruseri",
         "bird spikes installation Siruseri Chennai",
         "bird spikes installation near Siruseri",
         "Siruseri bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Siruseri Chennai",
       "openGraphDescription": "A manual Siruseri guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10340,7 +10340,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Siruseri should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Siruseri pages should focus on move-in readiness, high-rise wind, bundled balcony-window safety, and durable installation for newly occupied flats. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Siruseri, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Siruseri, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10461,7 +10461,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Siruseri?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Siruseri?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10498,14 +10498,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Siruseri page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Siruseri sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10513,14 +10513,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "tambaram",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Tambaram Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Tambaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Tambaram, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Tambaram",
         "bird spikes installation Tambaram Chennai",
         "bird spikes installation near Tambaram",
         "Tambaram bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Tambaram Chennai",
       "openGraphDescription": "A manual Tambaram guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10557,7 +10557,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Tambaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Tambaram installations should speak to owners and renters, compare material choices clearly, and cover children, pets, elders, balconies, windows, and terraces. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Tambaram, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tambaram, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10678,7 +10678,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Tambaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Tambaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10715,14 +10715,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Tambaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Tambaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10730,14 +10730,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "t-nagar",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in T Nagar Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in T Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in T Nagar, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in T Nagar",
         "bird spikes installation T Nagar Chennai",
         "bird spikes installation near T Nagar",
         "T Nagar bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in T Nagar Chennai",
       "openGraphDescription": "A manual T Nagar guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10774,7 +10774,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in T Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "T Nagar work needs careful drilling, low-disruption access, dust-aware bird control, and neat visible finishes for homes close to active commercial streets. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in T Nagar, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in T Nagar, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10895,7 +10895,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in T Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in T Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10932,13 +10932,13 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the T Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger T Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10946,14 +10946,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "teynampet",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Teynampet Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Teynampet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Teynampet, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Teynampet",
         "bird spikes installation Teynampet Chennai",
         "bird spikes installation near Teynampet",
         "Teynampet bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Teynampet Chennai",
       "openGraphDescription": "A manual Teynampet guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10990,7 +10990,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Teynampet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety planning for central Chennai homes. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Teynampet, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Teynampet, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11111,7 +11111,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Teynampet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Teynampet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11148,14 +11148,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Teynampet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Teynampet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11163,14 +11163,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "thiruvanmiyur",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Thiruvanmiyur Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Thiruvanmiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Thiruvanmiyur, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Thiruvanmiyur",
         "bird spikes installation Thiruvanmiyur Chennai",
         "bird spikes installation near Thiruvanmiyur",
         "Thiruvanmiyur bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Thiruvanmiyur Chennai",
       "openGraphDescription": "A manual Thiruvanmiyur guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11207,7 +11207,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Thiruvanmiyur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Thiruvanmiyur projects should balance coastal durability, quick scheduling, bird route blocking, child safety, and clean installation for busy apartment households. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Thiruvanmiyur, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Thiruvanmiyur, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11328,7 +11328,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Thiruvanmiyur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Thiruvanmiyur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11365,14 +11365,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thiruvanmiyur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Thiruvanmiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Thiruvanmiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thiruvanmiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11380,14 +11380,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "thoraipakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Thoraipakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Thoraipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Thoraipakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Thoraipakkam",
         "bird spikes installation Thoraipakkam Chennai",
         "bird spikes installation near Thoraipakkam",
         "Thoraipakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Thoraipakkam Chennai",
       "openGraphDescription": "A manual Thoraipakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11424,7 +11424,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Thoraipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Thoraipakkam entries should explain quick but careful installation, rental-friendly planning, association-approved finish, pigeon control, and children safety. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Thoraipakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Thoraipakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11545,7 +11545,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Thoraipakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Thoraipakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11582,14 +11582,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thoraipakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thoraipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11597,14 +11597,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "triplicane",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Triplicane Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Triplicane Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Triplicane, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Triplicane",
         "bird spikes installation Triplicane Chennai",
         "bird spikes installation near Triplicane",
         "Triplicane bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Triplicane Chennai",
       "openGraphDescription": "A manual Triplicane guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11641,7 +11641,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Triplicane should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Triplicane projects need patient access planning, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Triplicane, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Triplicane, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11762,7 +11762,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Triplicane?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Triplicane?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11799,14 +11799,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Triplicane page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Triplicane sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11814,14 +11814,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "vadapalani",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Vadapalani Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Vadapalani Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Vadapalani, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Vadapalani",
         "bird spikes installation Vadapalani Chennai",
         "bird spikes installation near Vadapalani",
         "Vadapalani bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Vadapalani Chennai",
       "openGraphDescription": "A manual Vadapalani guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11858,7 +11858,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Vadapalani should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Vadapalani service pages should focus on dust, traffic-facing openings, quick measurement, renter-friendly work, and clean finish for practical family flats. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Vadapalani, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Vadapalani, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11979,7 +11979,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Vadapalani?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Vadapalani?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12016,14 +12016,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Vadapalani page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Vadapalani sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12031,14 +12031,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "valasaravakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Valasaravakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Valasaravakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Valasaravakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Valasaravakkam",
         "bird spikes installation Valasaravakkam Chennai",
         "bird spikes installation near Valasaravakkam",
         "Valasaravakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Valasaravakkam Chennai",
       "openGraphDescription": "A manual Valasaravakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12075,7 +12075,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Valasaravakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Valasaravakkam installations should connect balcony, staircase, window, and terrace safety needs across varied family homes and apartment blocks. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Valasaravakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Valasaravakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12196,7 +12196,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Valasaravakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Valasaravakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12233,14 +12233,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Valasaravakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Valasaravakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12248,14 +12248,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "velachery",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Velachery Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Velachery Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Velachery, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Velachery",
         "bird spikes installation Velachery Chennai",
         "bird spikes installation near Velachery",
         "Velachery bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Velachery Chennai",
       "openGraphDescription": "A manual Velachery guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12292,7 +12292,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Velachery should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Velachery service entries should stay practical around compact balcony use, rain and humidity, quote clarity, child safety, pet safety, and daily maintenance. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Velachery, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Velachery, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12413,7 +12413,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Velachery?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Velachery?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12450,14 +12450,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Velachery page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Velachery sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12465,14 +12465,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "villivakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Villivakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Villivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Villivakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Villivakkam",
         "bird spikes installation Villivakkam Chennai",
         "bird spikes installation near Villivakkam",
         "Villivakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Villivakkam Chennai",
       "openGraphDescription": "A manual Villivakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12509,7 +12509,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Villivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Villivakkam projects need durable materials, careful drilling, clear pricing, and simple maintenance for homes that use balconies and windows every day. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Villivakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Villivakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12630,7 +12630,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Villivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Villivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12667,14 +12667,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Villivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Villivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12682,14 +12682,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "virugambakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Virugambakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Virugambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Virugambakkam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Virugambakkam",
         "bird spikes installation Virugambakkam Chennai",
         "bird spikes installation near Virugambakkam",
         "Virugambakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Virugambakkam Chennai",
       "openGraphDescription": "A manual Virugambakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12726,7 +12726,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Virugambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Virugambakkam work should be neat, practical, and low-disruption, with attention to children, pets, birds, dust, and compact access. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in Virugambakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Virugambakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12847,7 +12847,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Virugambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Virugambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12884,14 +12884,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Virugambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Virugambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12899,14 +12899,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "west-mambalam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in West Mambalam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in West Mambalam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in West Mambalam, Chennai, covering bird perch control for ledges, parapets, AC units, pipes, sign boards, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in West Mambalam",
         "bird spikes installation West Mambalam Chennai",
         "bird spikes installation near West Mambalam",
         "West Mambalam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in West Mambalam Chennai",
       "openGraphDescription": "A manual West Mambalam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12943,7 +12943,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in West Mambalam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "West Mambalam service pages should emphasize careful fixing, calm appearance, family trust, and safety work that respects older homes and daily routines. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
-        "Before quoting in West Mambalam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in West Mambalam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13064,7 +13064,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on ledge length, surface preparation, spike type, access difficulty, height, cleaning before fixing, and warranty support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in West Mambalam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in West Mambalam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -13101,13 +13101,13 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the West Mambalam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger West Mambalam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -13115,14 +13115,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "adambakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Adambakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Adambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Adambakkam, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Adambakkam",
         "bird spikes installation Adambakkam Chennai",
         "bird spikes installation near Adambakkam",
         "Adambakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Adambakkam Chennai",
       "openGraphDescription": "A manual Adambakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13159,7 +13159,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Adambakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Adambakkam work often needs attention to compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Adambakkam, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adambakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13187,7 +13187,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Adambakkam, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13223,7 +13223,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13275,8 +13275,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Adambakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Adambakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Adambakkam?",
@@ -13288,7 +13288,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Adambakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13306,7 +13306,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Adambakkam with a site-specific visit",
       "paragraphs": [
-        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Adambakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Adambakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13325,14 +13325,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "ayanavaram",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Ayanavaram Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Ayanavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Ayanavaram, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Ayanavaram",
         "bird spikes installation Ayanavaram Chennai",
         "bird spikes installation near Ayanavaram",
         "Ayanavaram bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Ayanavaram Chennai",
       "openGraphDescription": "A manual Ayanavaram guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13369,7 +13369,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Ayanavaram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ayanavaram work often needs attention to older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ayanavaram, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ayanavaram, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13397,7 +13397,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Ayanavaram, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13433,7 +13433,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13485,8 +13485,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ayanavaram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ayanavaram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Ayanavaram?",
@@ -13498,7 +13498,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ayanavaram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13516,7 +13516,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Ayanavaram with a site-specific visit",
       "paragraphs": [
-        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Ayanavaram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ayanavaram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13535,14 +13535,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "ekkattuthangal",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Ekkattuthangal Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Ekkattuthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Ekkattuthangal, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Ekkattuthangal",
         "bird spikes installation Ekkattuthangal Chennai",
         "bird spikes installation near Ekkattuthangal",
         "Ekkattuthangal bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Ekkattuthangal Chennai",
       "openGraphDescription": "A manual Ekkattuthangal guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13579,7 +13579,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Ekkattuthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ekkattuthangal work often needs attention to workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ekkattuthangal, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ekkattuthangal, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13607,7 +13607,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Ekkattuthangal, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13643,7 +13643,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13695,8 +13695,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ekkattuthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ekkattuthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Ekkattuthangal?",
@@ -13708,7 +13708,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ekkattuthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13726,7 +13726,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Ekkattuthangal with a site-specific visit",
       "paragraphs": [
-        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Ekkattuthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ekkattuthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13745,14 +13745,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "iyyappanthangal",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Iyyappanthangal Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Iyyappanthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Iyyappanthangal, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Iyyappanthangal",
         "bird spikes installation Iyyappanthangal Chennai",
         "bird spikes installation near Iyyappanthangal",
         "Iyyappanthangal bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Iyyappanthangal Chennai",
       "openGraphDescription": "A manual Iyyappanthangal guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13789,7 +13789,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Iyyappanthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Iyyappanthangal work often needs attention to fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Iyyappanthangal, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Iyyappanthangal, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13817,7 +13817,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Iyyappanthangal, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13853,7 +13853,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13905,8 +13905,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Iyyappanthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Iyyappanthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Iyyappanthangal?",
@@ -13918,7 +13918,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Iyyappanthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13936,7 +13936,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Iyyappanthangal with a site-specific visit",
       "paragraphs": [
-        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Iyyappanthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Iyyappanthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13955,14 +13955,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "manapakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Manapakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Manapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Manapakkam, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Manapakkam",
         "bird spikes installation Manapakkam Chennai",
         "bird spikes installation near Manapakkam",
         "Manapakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Manapakkam Chennai",
       "openGraphDescription": "A manual Manapakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13999,7 +13999,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Manapakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Manapakkam work often needs attention to IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Manapakkam, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Manapakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14027,7 +14027,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Manapakkam, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14063,7 +14063,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14115,8 +14115,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Manapakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Manapakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Manapakkam?",
@@ -14128,7 +14128,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Manapakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14146,7 +14146,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Manapakkam with a site-specific visit",
       "paragraphs": [
-        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Manapakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Manapakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14165,14 +14165,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "mandaveli",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Mandaveli Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Mandaveli Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Mandaveli, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Mandaveli",
         "bird spikes installation Mandaveli Chennai",
         "bird spikes installation near Mandaveli",
         "Mandaveli bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Mandaveli Chennai",
       "openGraphDescription": "A manual Mandaveli guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14209,7 +14209,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Mandaveli, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mandaveli, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14237,7 +14237,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Mandaveli, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14273,7 +14273,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14325,8 +14325,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Mandaveli for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Mandaveli for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Mandaveli?",
@@ -14338,7 +14338,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Mandaveli conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14356,7 +14356,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Mandaveli with a site-specific visit",
       "paragraphs": [
-        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Mandaveli should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Mandaveli, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14375,14 +14375,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "palavakkam",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Palavakkam Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Palavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Palavakkam, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Palavakkam",
         "bird spikes installation Palavakkam Chennai",
         "bird spikes installation near Palavakkam",
         "Palavakkam bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Palavakkam Chennai",
       "openGraphDescription": "A manual Palavakkam guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14419,7 +14419,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Palavakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Palavakkam work often needs attention to coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Palavakkam, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Palavakkam, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14447,7 +14447,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Palavakkam, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14483,7 +14483,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14535,8 +14535,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Palavakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Palavakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Palavakkam?",
@@ -14548,7 +14548,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Palavakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14566,7 +14566,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Palavakkam with a site-specific visit",
       "paragraphs": [
-        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Palavakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Palavakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14585,14 +14585,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "periyar-nagar",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Periyar Nagar Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Periyar Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Periyar Nagar, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Periyar Nagar",
         "bird spikes installation Periyar Nagar Chennai",
         "bird spikes installation near Periyar Nagar",
         "Periyar Nagar bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Periyar Nagar Chennai",
       "openGraphDescription": "A manual Periyar Nagar guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14629,7 +14629,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Periyar Nagar should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Periyar Nagar work often needs attention to dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Periyar Nagar, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Periyar Nagar, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14657,7 +14657,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Periyar Nagar, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14693,7 +14693,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14745,8 +14745,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Periyar Nagar for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Periyar Nagar for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Periyar Nagar?",
@@ -14758,7 +14758,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Periyar Nagar conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14776,7 +14776,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Periyar Nagar with a site-specific visit",
       "paragraphs": [
-        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Periyar Nagar should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Periyar Nagar, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14794,14 +14794,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "royapuram",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Royapuram Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Royapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Royapuram, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Royapuram",
         "bird spikes installation Royapuram Chennai",
         "bird spikes installation near Royapuram",
         "Royapuram bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Royapuram Chennai",
       "openGraphDescription": "A manual Royapuram guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14838,7 +14838,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Royapuram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Royapuram work often needs attention to coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Royapuram, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapuram, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14866,7 +14866,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Royapuram, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14902,7 +14902,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14954,8 +14954,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Royapuram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Royapuram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Royapuram?",
@@ -14967,7 +14967,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Royapuram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14985,7 +14985,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Royapuram with a site-specific visit",
       "paragraphs": [
-        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Royapuram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Royapuram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15004,14 +15004,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "semmancheri",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Semmancheri Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Semmancheri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Semmancheri, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Semmancheri",
         "bird spikes installation Semmancheri Chennai",
         "bird spikes installation near Semmancheri",
         "Semmancheri bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Semmancheri Chennai",
       "openGraphDescription": "A manual Semmancheri guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15048,7 +15048,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Semmancheri should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Semmancheri work often needs attention to OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Semmancheri, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Semmancheri, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15076,7 +15076,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Semmancheri, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15112,7 +15112,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15164,8 +15164,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Semmancheri for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Semmancheri for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Semmancheri?",
@@ -15177,7 +15177,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Semmancheri conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15195,7 +15195,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Semmancheri with a site-specific visit",
       "paragraphs": [
-        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Semmancheri should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Semmancheri, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15214,14 +15214,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "tondiarpet",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Tondiarpet Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Tondiarpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Tondiarpet, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Tondiarpet",
         "bird spikes installation Tondiarpet Chennai",
         "bird spikes installation near Tondiarpet",
         "Tondiarpet bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Tondiarpet Chennai",
       "openGraphDescription": "A manual Tondiarpet guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15258,7 +15258,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Tondiarpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Tondiarpet work often needs attention to industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Tondiarpet, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tondiarpet, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15286,7 +15286,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Tondiarpet, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15322,7 +15322,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15374,8 +15374,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Tondiarpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Tondiarpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Tondiarpet?",
@@ -15387,7 +15387,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Tondiarpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15405,7 +15405,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Tondiarpet with a site-specific visit",
       "paragraphs": [
-        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Tondiarpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Tondiarpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15424,14 +15424,14 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "areaSlug": "washermanpet",
     "serviceSlug": "bird-spikes-installation",
     "metadata": {
-      "title": "Bird Spikes Installation in Washermanpet Chennai | DK Safety Solutions",
+      "title": "Bird Spikes Installation in Washermanpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for bird spikes installation in Washermanpet, Chennai, covering parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, bird perch control for ledges, parapets, AC units, pipes, signage, and facade edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "bird spikes installation in Washermanpet",
         "bird spikes installation Washermanpet Chennai",
         "bird spikes installation near Washermanpet",
         "Washermanpet bird spikes installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Bird Spikes Installation in Washermanpet Chennai",
       "openGraphDescription": "A manual Washermanpet guide for bird spikes installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15468,7 +15468,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Bird Spikes Installation in Washermanpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Washermanpet work often needs attention to busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Washermanpet, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Washermanpet, SRI KRISHNA INVISIBLE GRILLS should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15496,7 +15496,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "For Washermanpet, the material should be chosen around UV-stable or metal bird spikes, clean adhesive or screw fixing, measured strip placement, and ledge-aware coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15532,7 +15532,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean the ledge first, inspect strip alignment, and avoid bending spike rows during exterior maintenance. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15584,8 +15584,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ledge width, strip length, surface type, access method, bird pressure, cleaning condition, and fixing preference. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Washermanpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Washermanpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does bird spikes installation installation take in Washermanpet?",
@@ -15597,7 +15597,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Washermanpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15615,7 +15615,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan bird spikes installation in Washermanpet with a site-specific visit",
       "paragraphs": [
-        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why bird spikes installation in Washermanpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Washermanpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",

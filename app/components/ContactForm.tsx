@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Image from "next/image";
-import { ArrowRight, Mail, MessageCircle, Phone } from "lucide-react";
+import { Mail, MessageCircle, Phone } from "lucide-react";
 import { FORMSPREE_URL, FORM_NAME } from "../config/form.config";
 import { siteConfig } from "../config/site.config";
 
@@ -66,8 +66,8 @@ export default function ContactForm() {
   };
 
   return (
-    <section id="quote" className="rounded-lg bg-sky-100 px-4 py-6 shadow-sm">
-      <div className="relative min-h-[620px] overflow-hidden rounded-2xl bg-gray-100 md:min-h-[520px]">
+    <section id="quote" className="rounded-lg bg-blue-100 px-4 py-6 shadow-sm">
+      <div className="relative min-h-[620px] overflow-hidden rounded-md bg-gray-100 md:min-h-[520px]">
         <Image
           src={siteConfig.defaultImage}
           alt={`${siteConfig.name} contact background`}
@@ -79,7 +79,7 @@ export default function ContactForm() {
 
         <div className="relative z-10 grid min-h-[620px] gap-8 px-5 py-8 md:min-h-[520px] md:grid-cols-[0.9fr_1fr] md:px-10 lg:px-16">
           <div className="flex flex-col justify-center text-white">
-            <p className="text-sm font-bold uppercase tracking-[0.22em] text-lime-200">
+            <p className="text-sm font-bold uppercase tracking-[0.22em] text-amber-200">
               Contact {siteConfig.shortName}
             </p>
             <h2 className="mt-4 max-w-xl text-3xl font-extrabold leading-tight sm:text-5xl">
@@ -102,7 +102,7 @@ export default function ContactForm() {
                 href={siteConfig.contact.whatsappHref}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 rounded-full border border-sky-300/40 bg-sky-500/20 px-4 py-3 text-sm font-semibold text-sky-50 backdrop-blur transition hover:bg-sky-500/30"
+                className="inline-flex items-center gap-2 rounded-full border border-blue-300/40 bg-blue-500/20 px-4 py-3 text-sm font-semibold text-blue-50 backdrop-blur transition hover:bg-blue-500/30"
               >
                 <MessageCircle size={17} />
                 WhatsApp
@@ -118,7 +118,7 @@ export default function ContactForm() {
           </div>
 
           <div className="flex items-center">
-            <div className="relative w-full rounded-3xl border border-white/10 bg-white/15 p-6 shadow-[0_25px_70px_rgba(0,40,120,0.15)] backdrop-blur-xl sm:p-8">
+            <div className="relative w-full rounded-md border border-white/10 bg-white/15 p-6 shadow-[0_25px_70px_rgba(8,39,90,0.18)] backdrop-blur-xl sm:p-8">
               <h3 className="mb-6 text-center text-2xl font-bold tracking-wide text-white">
                 Get a Free Quote
               </h3>
@@ -131,7 +131,7 @@ export default function ContactForm() {
                     value={formData.name}
                     onChange={handleChange}
                     required
-                    className="rounded-xl border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-sm border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
                   />
                   <input
                     name="phone"
@@ -139,7 +139,7 @@ export default function ContactForm() {
                     value={formData.phone}
                     onChange={handleChange}
                     required
-                    className="rounded-xl border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-sm border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
                   />
                 </div>
 
@@ -151,14 +151,14 @@ export default function ContactForm() {
                     value={formData.email}
                     onChange={handleChange}
                     required
-                    className="rounded-xl border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-sm border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
                   />
                   <input
                     name="purpose"
                     placeholder="Requirement"
                     value={formData.purpose}
                     onChange={handleChange}
-                    className="rounded-xl border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-sm border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
                   />
                 </div>
 
@@ -168,11 +168,11 @@ export default function ContactForm() {
                   placeholder="Project details, location, or notes..."
                   value={formData.message}
                   onChange={handleChange}
-                  className="resize-none rounded-xl border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                  className="resize-none rounded-sm border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
                 />
 
                 {status === "success" ? (
-                  <div className="rounded-lg border border-sky-300 bg-sky-50 p-3 text-sm text-sky-700">
+                  <div className="rounded-lg border border-blue-300 bg-blue-50 p-3 text-sm text-blue-700">
                     Enquiry sent successfully. We will contact you soon.
                   </div>
                 ) : null}
@@ -186,10 +186,9 @@ export default function ContactForm() {
                 <button
                   type="submit"
                   disabled={status === "loading"}
-                  className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-blue-600 via-cyan-500 to-indigo-700 py-3 font-bold text-white shadow-[0_10px_30px_rgba(0,80,200,0.5)] transition-all duration-300 hover:from-blue-500 hover:to-indigo-800 disabled:cursor-not-allowed disabled:opacity-50"
+                  className="inline-flex w-full items-center justify-center rounded-full bg-[#0b4fb3] px-6 py-3 text-sm font-black uppercase tracking-[0.08em] text-white shadow-[0_10px_30px_rgba(8,39,90,0.22)] transition-all duration-300 hover:bg-[#08275a] disabled:cursor-not-allowed disabled:opacity-50"
                 >
                   {status === "loading" ? "Sending..." : "Send Enquiry"}
-                  <ArrowRight size={18} />
                 </button>
               </form>
             </div>

@@ -6,14 +6,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "adyar",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Adyar Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Adyar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Adyar, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Adyar",
         "duct area safety nets Adyar Chennai",
         "duct area safety nets near Adyar",
         "Adyar duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Adyar Chennai",
       "openGraphDescription": "A manual Adyar guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -50,7 +50,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Adyar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Adyar work often needs calm finishing around established apartments, tree-facing balconies, older wall surfaces, and homes where children, elders, plants, and bird control needs overlap. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Adyar, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adyar, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -171,7 +171,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Adyar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Adyar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -208,14 +208,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Adyar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Adyar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -223,14 +223,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "alandur",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Alandur Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Alandur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Alandur, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Alandur",
         "duct area safety nets Alandur Chennai",
         "duct area safety nets near Alandur",
         "Alandur duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Alandur Chennai",
       "openGraphDescription": "A manual Alandur guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -267,7 +267,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Alandur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Alandur projects need practical scheduling, dust-aware materials, careful drilling in compact flats, and neat work that does not disturb busy family routines. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Alandur, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Alandur, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -388,7 +388,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Alandur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Alandur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -425,14 +425,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Alandur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Alandur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -440,14 +440,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ambattur",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Ambattur Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Ambattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Ambattur, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Ambattur",
         "duct area safety nets Ambattur Chennai",
         "duct area safety nets near Ambattur",
         "Ambattur duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Ambattur Chennai",
       "openGraphDescription": "A manual Ambattur guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -484,7 +484,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Ambattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ambattur installations should stay durable and budget-aware while handling mixed home types, dust, birds, children, pets, and everyday balcony utility use. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Ambattur, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ambattur, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -605,7 +605,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ambattur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ambattur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -642,14 +642,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ambattur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ambattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -657,14 +657,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "aminjikarai",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Aminjikarai Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Aminjikarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Aminjikarai, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Aminjikarai",
         "duct area safety nets Aminjikarai Chennai",
         "duct area safety nets near Aminjikarai",
         "Aminjikarai duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Aminjikarai Chennai",
       "openGraphDescription": "A manual Aminjikarai guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -701,7 +701,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Aminjikarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Aminjikarai homes often need careful access planning, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Aminjikarai, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Aminjikarai, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -822,7 +822,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Aminjikarai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Aminjikarai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -859,14 +859,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Aminjikarai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Aminjikarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -874,14 +874,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "anna-nagar",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Anna Nagar Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Anna Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Anna Nagar, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Anna Nagar",
         "duct area safety nets Anna Nagar Chennai",
         "duct area safety nets near Anna Nagar",
         "Anna Nagar duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Anna Nagar Chennai",
       "openGraphDescription": "A manual Anna Nagar guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -918,7 +918,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Anna Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Anna Nagar service pages should emphasize premium finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Anna Nagar, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Anna Nagar, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1039,7 +1039,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Anna Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Anna Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1076,12 +1076,12 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Anna Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Anna Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1089,14 +1089,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "arumbakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Arumbakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Arumbakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Arumbakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Arumbakkam",
         "duct area safety nets Arumbakkam Chennai",
         "duct area safety nets near Arumbakkam",
         "Arumbakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Arumbakkam Chennai",
       "openGraphDescription": "A manual Arumbakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1133,7 +1133,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Arumbakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Arumbakkam jobs benefit from quick measurement, minimal disruption, strong anchors, and low-maintenance finishes for homes close to active roads and commercial pockets. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Arumbakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Arumbakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1254,7 +1254,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Arumbakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Arumbakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1291,14 +1291,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Arumbakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Arumbakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1306,14 +1306,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ashok-nagar",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Ashok Nagar Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Ashok Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Ashok Nagar, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Ashok Nagar",
         "duct area safety nets Ashok Nagar Chennai",
         "duct area safety nets near Ashok Nagar",
         "Ashok Nagar duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Ashok Nagar Chennai",
       "openGraphDescription": "A manual Ashok Nagar guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1350,7 +1350,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Ashok Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ashok Nagar work should protect children and pets while keeping front-facing balconies neat from the hall, the street, and neighboring homes. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Ashok Nagar, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ashok Nagar, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1471,7 +1471,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ashok Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ashok Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1508,12 +1508,12 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ashok Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ashok Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1521,14 +1521,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "avadi",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Avadi Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Avadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Avadi, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Avadi",
         "duct area safety nets Avadi Chennai",
         "duct area safety nets near Avadi",
         "Avadi duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Avadi Chennai",
       "openGraphDescription": "A manual Avadi guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1565,7 +1565,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Avadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Avadi projects often need strong material selection, practical pricing, and coverage for apartments, terraces, windows, and homes with more exposed outdoor edges. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Avadi, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Avadi, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1686,7 +1686,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Avadi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Avadi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1723,14 +1723,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Avadi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Avadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1738,14 +1738,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "besant-nagar",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Besant Nagar Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Besant Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Besant Nagar, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Besant Nagar",
         "duct area safety nets Besant Nagar Chennai",
         "duct area safety nets near Besant Nagar",
         "Besant Nagar duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Besant Nagar Chennai",
       "openGraphDescription": "A manual Besant Nagar guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1782,7 +1782,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Besant Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety planning for balconies that face breeze, sand, and humidity. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Besant Nagar, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Besant Nagar, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1903,7 +1903,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Besant Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Besant Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1940,12 +1940,12 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Besant Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Besant Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1953,14 +1953,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "chetpet",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Chetpet Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Chetpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Chetpet, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Chetpet",
         "duct area safety nets Chetpet Chennai",
         "duct area safety nets near Chetpet",
         "Chetpet duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Chetpet Chennai",
       "openGraphDescription": "A manual Chetpet guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1997,7 +1997,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Chetpet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Chetpet jobs should balance refined appearance with careful anchoring, because many homes expect quiet finishes, low disturbance, and trustworthy installation behavior. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Chetpet, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Chetpet, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2118,7 +2118,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Chetpet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Chetpet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2155,14 +2155,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chetpet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chetpet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2170,14 +2170,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "choolaimedu",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Choolaimedu Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Choolaimedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Choolaimedu, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Choolaimedu",
         "duct area safety nets Choolaimedu Chennai",
         "duct area safety nets near Choolaimedu",
         "Choolaimedu duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Choolaimedu Chennai",
       "openGraphDescription": "A manual Choolaimedu guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2214,7 +2214,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Choolaimedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Choolaimedu pages should focus on practical installation, renter-friendly planning, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Choolaimedu, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Choolaimedu, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2335,7 +2335,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Choolaimedu?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Choolaimedu?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2372,14 +2372,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Choolaimedu page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Choolaimedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2387,14 +2387,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "chromepet",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Chromepet Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Chromepet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Chromepet, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Chromepet",
         "duct area safety nets Chromepet Chennai",
         "duct area safety nets near Chromepet",
         "Chromepet duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Chromepet Chennai",
       "openGraphDescription": "A manual Chromepet guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2431,7 +2431,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Chromepet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Chromepet work needs budget clarity, strong material choices, neat drilling, and dust-aware finishing for families comparing quality against low short-term quotes. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Chromepet, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Chromepet, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2552,7 +2552,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Chromepet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Chromepet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2589,14 +2589,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chromepet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chromepet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2604,14 +2604,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "egmore",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Egmore Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Egmore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Egmore, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Egmore",
         "duct area safety nets Egmore Chennai",
         "duct area safety nets near Egmore",
         "Egmore duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Egmore Chennai",
       "openGraphDescription": "A manual Egmore guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2648,7 +2648,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Egmore should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Egmore service calls should consider careful access, older surfaces, clean finishing, and safety solutions that look composed in established central-Chennai buildings. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Egmore, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Egmore, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2769,7 +2769,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Egmore?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Egmore?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2806,14 +2806,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Egmore page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Egmore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2821,14 +2821,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "guindy",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Guindy Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Guindy Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Guindy, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Guindy",
         "duct area safety nets Guindy Chennai",
         "duct area safety nets near Guindy",
         "Guindy duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Guindy Chennai",
       "openGraphDescription": "A manual Guindy guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2865,7 +2865,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Guindy should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Guindy jobs need fast coordination for working families, dust-aware protection, compact-site access, and clean installation in residential-commercial surroundings. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Guindy, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Guindy, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2986,7 +2986,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Guindy?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Guindy?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3023,14 +3023,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Guindy page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Guindy, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Guindy, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Guindy sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3038,14 +3038,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "injambakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Injambakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Injambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Injambakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Injambakkam",
         "duct area safety nets Injambakkam Chennai",
         "duct area safety nets near Injambakkam",
         "Injambakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Injambakkam Chennai",
       "openGraphDescription": "A manual Injambakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3082,7 +3082,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Injambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Injambakkam installations should account for coastal wind, larger home layouts, terraces, pets, and material durability in more exposed seaside residential pockets. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Injambakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Injambakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3203,7 +3203,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Injambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Injambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3240,14 +3240,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Injambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Injambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3255,14 +3255,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "k-k-nagar",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in K K Nagar Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in K K Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in K K Nagar, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in K K Nagar",
         "duct area safety nets K K Nagar Chennai",
         "duct area safety nets near K K Nagar",
         "K K Nagar duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in K K Nagar Chennai",
       "openGraphDescription": "A manual K K Nagar guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3299,7 +3299,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in K K Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "K K Nagar work should feel careful and respectful, with attention to older railings, visiting grandchildren, low visual clutter, and easy maintenance. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in K K Nagar, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in K K Nagar, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3420,7 +3420,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in K K Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in K K Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3457,11 +3457,11 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the K K Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger K K Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3469,14 +3469,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kandanchavadi",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Kandanchavadi Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Kandanchavadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Kandanchavadi, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Kandanchavadi",
         "duct area safety nets Kandanchavadi Chennai",
         "duct area safety nets near Kandanchavadi",
         "Kandanchavadi duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Kandanchavadi Chennai",
       "openGraphDescription": "A manual Kandanchavadi guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3513,7 +3513,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Kandanchavadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kandanchavadi service pages should address high-rise access, quick scheduling, association expectations, wind exposure, and practical safety for working families. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Kandanchavadi, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kandanchavadi, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3634,7 +3634,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kandanchavadi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kandanchavadi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3671,14 +3671,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kandanchavadi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kandanchavadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3686,14 +3686,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "karapakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Karapakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Karapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Karapakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Karapakkam",
         "duct area safety nets Karapakkam Chennai",
         "duct area safety nets near Karapakkam",
         "Karapakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Karapakkam Chennai",
       "openGraphDescription": "A manual Karapakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3730,7 +3730,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Karapakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in planning, and durable finishes for newer residential towers. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Karapakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Karapakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3851,7 +3851,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Karapakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Karapakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3888,14 +3888,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Karapakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Karapakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3903,14 +3903,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kelambakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Kelambakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Kelambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Kelambakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Kelambakkam",
         "duct area safety nets Kelambakkam Chennai",
         "duct area safety nets near Kelambakkam",
         "Kelambakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Kelambakkam Chennai",
       "openGraphDescription": "A manual Kelambakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3947,7 +3947,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Kelambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout planning and durable exposed materials. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Kelambakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kelambakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4068,7 +4068,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kelambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kelambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4105,14 +4105,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kelambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kelambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4120,14 +4120,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kilpauk",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Kilpauk Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Kilpauk Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Kilpauk, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Kilpauk",
         "duct area safety nets Kilpauk Chennai",
         "duct area safety nets near Kilpauk",
         "Kilpauk duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Kilpauk Chennai",
       "openGraphDescription": "A manual Kilpauk guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4164,7 +4164,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Kilpauk should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety planning for established residences that expect tidy work. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Kilpauk, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kilpauk, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4285,7 +4285,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kilpauk?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kilpauk?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4322,14 +4322,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kilpauk page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kilpauk sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4337,14 +4337,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kodambakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Kodambakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Kodambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Kodambakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Kodambakkam",
         "duct area safety nets Kodambakkam Chennai",
         "duct area safety nets near Kodambakkam",
         "Kodambakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Kodambakkam Chennai",
       "openGraphDescription": "A manual Kodambakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4381,7 +4381,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Kodambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kodambakkam installations need attention to aged surfaces, compact access, bird control, dust, and minimal-damage fixing for homes with changed layouts. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Kodambakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kodambakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4502,7 +4502,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kodambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kodambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4539,14 +4539,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kodambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kodambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4554,14 +4554,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kolathur",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Kolathur Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Kolathur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Kolathur, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Kolathur",
         "duct area safety nets Kolathur Chennai",
         "duct area safety nets near Kolathur",
         "Kolathur duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Kolathur Chennai",
       "openGraphDescription": "A manual Kolathur guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4598,7 +4598,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Kolathur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kolathur projects should be practical, clear on price, and strong on material quality for homes that need daily-use balcony, window, terrace, and bird-control protection. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Kolathur, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kolathur, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4719,7 +4719,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kolathur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kolathur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4756,14 +4756,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kolathur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kolathur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4771,14 +4771,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "korattur",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Korattur Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Korattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Korattur, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Korattur",
         "duct area safety nets Korattur Chennai",
         "duct area safety nets near Korattur",
         "Korattur duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Korattur Chennai",
       "openGraphDescription": "A manual Korattur guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4815,7 +4815,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Korattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Korattur work benefits from weather-aware planning, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Korattur, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Korattur, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4936,7 +4936,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Korattur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Korattur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4973,14 +4973,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Korattur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Korattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4988,14 +4988,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kottivakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Kottivakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Kottivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Kottivakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Kottivakkam",
         "duct area safety nets Kottivakkam Chennai",
         "duct area safety nets near Kottivakkam",
         "Kottivakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Kottivakkam Chennai",
       "openGraphDescription": "A manual Kottivakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5032,7 +5032,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Kottivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kottivakkam service entries should balance open-view expectations with coastal durability, corrosion-aware fittings, pet safety, and clean visible lines. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Kottivakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kottivakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5153,7 +5153,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kottivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kottivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5190,14 +5190,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kottivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kottivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5205,14 +5205,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "koyambedu",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Koyambedu Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Koyambedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Koyambedu, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Koyambedu",
         "duct area safety nets Koyambedu Chennai",
         "duct area safety nets near Koyambedu",
         "Koyambedu duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Koyambedu Chennai",
       "openGraphDescription": "A manual Koyambedu guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5249,7 +5249,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Koyambedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Koyambedu jobs need practical timing, compact access planning, dust control, and strong low-maintenance materials for homes near active road and market movement. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Koyambedu, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Koyambedu, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5370,7 +5370,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Koyambedu?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Koyambedu?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5407,14 +5407,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Koyambedu page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Koyambedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5422,14 +5422,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "madipakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Madipakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Madipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Madipakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Madipakkam",
         "duct area safety nets Madipakkam Chennai",
         "duct area safety nets near Madipakkam",
         "Madipakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Madipakkam Chennai",
       "openGraphDescription": "A manual Madipakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5466,7 +5466,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Madipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Madipakkam installations should focus on daily balcony use, rain and dust maintenance, child and pet safety, and clear quotes for family apartments. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Madipakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Madipakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5587,7 +5587,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Madipakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Madipakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5624,14 +5624,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madipakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5639,14 +5639,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "madhavaram",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Madhavaram Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Madhavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Madhavaram, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Madhavaram",
         "duct area safety nets Madhavaram Chennai",
         "duct area safety nets near Madhavaram",
         "Madhavaram duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Madhavaram Chennai",
       "openGraphDescription": "A manual Madhavaram guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5683,7 +5683,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Madhavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Madhavaram projects should keep installation durable, practical, and easy to maintain for homes that often need balcony, terrace, window, and bird-control coverage together. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Madhavaram, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Madhavaram, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5804,7 +5804,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Madhavaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Madhavaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5841,14 +5841,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madhavaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madhavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5856,14 +5856,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "medavakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Medavakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Medavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Medavakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Medavakkam",
         "duct area safety nets Medavakkam Chennai",
         "duct area safety nets near Medavakkam",
         "Medavakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Medavakkam Chennai",
       "openGraphDescription": "A manual Medavakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5900,7 +5900,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Medavakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Medavakkam pages should explain reliable materials, transparent pricing, child safety, and site measurement for newer apartments and everyday family homes. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Medavakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Medavakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6021,7 +6021,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Medavakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Medavakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6058,14 +6058,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Medavakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Medavakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6073,14 +6073,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mogappair",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Mogappair Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Mogappair Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Mogappair, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Mogappair",
         "duct area safety nets Mogappair Chennai",
         "duct area safety nets near Mogappair",
         "Mogappair duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Mogappair Chennai",
       "openGraphDescription": "A manual Mogappair guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6117,7 +6117,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Mogappair should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mogappair installations should emphasize family safety, neat exterior finish, association approval, and dependable service for apartments with children and elders. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Mogappair, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mogappair, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6238,7 +6238,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mogappair?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mogappair?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6275,14 +6275,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mogappair page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mogappair sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6290,14 +6290,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mugalivakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Mugalivakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Mugalivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Mugalivakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Mugalivakkam",
         "duct area safety nets Mugalivakkam Chennai",
         "duct area safety nets near Mugalivakkam",
         "Mugalivakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Mugalivakkam Chennai",
       "openGraphDescription": "A manual Mugalivakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6334,7 +6334,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Mugalivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mugalivakkam jobs need flexible planning for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Mugalivakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mugalivakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6455,7 +6455,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mugalivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mugalivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6492,14 +6492,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mugalivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mugalivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6507,14 +6507,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mylapore",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Mylapore Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Mylapore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Manual Mylapore guide for duct area safety nets in Chennai, covering shafts, service voids, utility openings, bird control, child safety, access planning, and careful fixing.",
       "keywords": [
         "duct area safety nets in Mylapore",
         "duct safety nets Chennai",
         "shaft safety nets Mylapore",
         "service area bird nets Chennai",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Mylapore Chennai",
       "openGraphDescription": "A area guide for duct area safety nets in Mylapore apartments, older homes, shafts, service voids, and utility openings.",
@@ -6759,7 +6759,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "If the duct has been ignored for years, start with photos and a careful visit. A small hidden opening can make a big difference to daily cleanliness and safety.",
         "The right duct net is almost invisible in daily life, but it quietly keeps birds, debris, and avoidable risk from returning."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6767,14 +6767,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "nanganallur",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Nanganallur Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Nanganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Nanganallur, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Nanganallur",
         "duct area safety nets Nanganallur Chennai",
         "duct area safety nets near Nanganallur",
         "Nanganallur duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Nanganallur Chennai",
       "openGraphDescription": "A manual Nanganallur guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6811,7 +6811,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Nanganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Nanganallur installations should focus on trust, careful inspection, elder and child safety, and finishes that keep familiar homes looking composed. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Nanganallur, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Nanganallur, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6932,7 +6932,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Nanganallur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Nanganallur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6969,14 +6969,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nanganallur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nanganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6984,14 +6984,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "navalur",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Navalur Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Navalur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Navalur, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Navalur",
         "duct area safety nets Navalur Chennai",
         "duct area safety nets near Navalur",
         "Navalur duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Navalur Chennai",
       "openGraphDescription": "A manual Navalur guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7028,7 +7028,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Navalur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Navalur work should account for association-approved exterior lines, high-rise wind, pet-safe and child-safe openings, and newer apartment setup needs. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Navalur, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Navalur, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7149,7 +7149,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Navalur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Navalur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7186,14 +7186,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Navalur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Navalur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7201,14 +7201,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "neelankarai",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Neelankarai Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Neelankarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Neelankarai, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Neelankarai",
         "duct area safety nets Neelankarai Chennai",
         "duct area safety nets near Neelankarai",
         "Neelankarai duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Neelankarai Chennai",
       "openGraphDescription": "A manual Neelankarai guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7245,7 +7245,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Neelankarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Neelankarai projects need coastal-grade planning, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Neelankarai, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Neelankarai, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7366,7 +7366,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Neelankarai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Neelankarai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7403,14 +7403,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Neelankarai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Neelankarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7418,14 +7418,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "nungambakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Nungambakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Nungambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Nungambakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Nungambakkam",
         "duct area safety nets Nungambakkam Chennai",
         "duct area safety nets near Nungambakkam",
         "Nungambakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Nungambakkam Chennai",
       "openGraphDescription": "A manual Nungambakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7462,7 +7462,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Nungambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Nungambakkam service entries should emphasize discreet hardware, straight alignment, premium finish, and clean installation that respects high-value interiors. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Nungambakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Nungambakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7583,7 +7583,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Nungambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Nungambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7620,14 +7620,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nungambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nungambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7635,14 +7635,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "pallavaram",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Pallavaram Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Pallavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Pallavaram, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Pallavaram",
         "duct area safety nets Pallavaram Chennai",
         "duct area safety nets near Pallavaram",
         "Pallavaram duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Pallavaram Chennai",
       "openGraphDescription": "A manual Pallavaram guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7679,7 +7679,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Pallavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Pallavaram work should cover wind, dust, child safety, utility use, and strong fixing for families living around active roads and changing residential pockets. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Pallavaram, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Pallavaram, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7800,7 +7800,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Pallavaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Pallavaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7837,14 +7837,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallavaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7852,14 +7852,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "pallikaranai",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Pallikaranai Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Pallikaranai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Pallikaranai, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Pallikaranai",
         "duct area safety nets Pallikaranai Chennai",
         "duct area safety nets near Pallikaranai",
         "Pallikaranai duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Pallikaranai Chennai",
       "openGraphDescription": "A manual Pallikaranai guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7896,7 +7896,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Pallikaranai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Pallikaranai installations should be weather-aware and practical, with attention to rain, cleaning, bird entry routes, and child-safe daily-use balconies. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Pallikaranai, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Pallikaranai, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8017,7 +8017,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Pallikaranai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Pallikaranai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8054,14 +8054,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallikaranai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallikaranai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8069,14 +8069,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "perambur",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Perambur Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Perambur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Perambur, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Perambur",
         "duct area safety nets Perambur Chennai",
         "duct area safety nets near Perambur",
         "Perambur duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Perambur Chennai",
       "openGraphDescription": "A manual Perambur guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8113,7 +8113,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Perambur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware planning for homes with compact balcony and window openings. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Perambur, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Perambur, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8234,7 +8234,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Perambur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Perambur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8271,14 +8271,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perambur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perambur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8286,14 +8286,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "perungudi",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Perungudi Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Perungudi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Perungudi, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Perungudi",
         "duct area safety nets Perungudi Chennai",
         "duct area safety nets near Perungudi",
         "Perungudi duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Perungudi Chennai",
       "openGraphDescription": "A manual Perungudi guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8330,7 +8330,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Perungudi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Perungudi service pages should address high-rise wind, working-family scheduling, clean border lines, association rules, child safety, pets, and pigeons. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Perungudi, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Perungudi, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8451,7 +8451,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Perungudi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Perungudi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8488,14 +8488,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perungudi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perungudi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8503,14 +8503,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "poonamallee",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Poonamallee Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Poonamallee Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Poonamallee, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Poonamallee",
         "duct area safety nets Poonamallee Chennai",
         "duct area safety nets near Poonamallee",
         "Poonamallee duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Poonamallee Chennai",
       "openGraphDescription": "A manual Poonamallee guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8547,7 +8547,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Poonamallee should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Poonamallee installations should be budget-aware but quality-led, covering children, pets, elders, terraces, balconies, and durable fixing for varied home types. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Poonamallee, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Poonamallee, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8668,7 +8668,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Poonamallee?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Poonamallee?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8705,14 +8705,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Poonamallee page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Poonamallee sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8720,14 +8720,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "porur",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Porur Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Porur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Porur, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Porur",
         "duct area safety nets Porur Chennai",
         "duct area safety nets near Porur",
         "Porur duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Porur Chennai",
       "openGraphDescription": "A manual Porur guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8764,7 +8764,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Porur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Porur pages should explain site visits, reliable installation after move-in, child and pet safety, balcony utility use, and long-term support for newer homes. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Porur, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Porur, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8885,7 +8885,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Porur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Porur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8922,14 +8922,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Porur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Porur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8937,14 +8937,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "purasawalkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Purasawalkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Purasawalkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Purasawalkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Purasawalkam",
         "duct area safety nets Purasawalkam Chennai",
         "duct area safety nets near Purasawalkam",
         "Purasawalkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Purasawalkam Chennai",
       "openGraphDescription": "A manual Purasawalkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8981,7 +8981,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Purasawalkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control planning around busy central streets. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Purasawalkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Purasawalkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9102,7 +9102,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Purasawalkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Purasawalkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9139,14 +9139,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Purasawalkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Purasawalkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9154,14 +9154,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ramapuram",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Ramapuram Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Ramapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Ramapuram, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Ramapuram",
         "duct area safety nets Ramapuram Chennai",
         "duct area safety nets near Ramapuram",
         "Ramapuram duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Ramapuram Chennai",
       "openGraphDescription": "A manual Ramapuram guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9198,7 +9198,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Ramapuram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ramapuram service pages should connect balcony, window, staircase, and terrace safety for varied home layouts near busy work and residential zones. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Ramapuram, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ramapuram, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9319,7 +9319,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ramapuram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ramapuram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9356,14 +9356,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ramapuram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ramapuram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9371,14 +9371,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "royapettah",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Royapettah Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Royapettah Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Royapettah, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Royapettah",
         "duct area safety nets Royapettah Chennai",
         "duct area safety nets near Royapettah",
         "Royapettah duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Royapettah Chennai",
       "openGraphDescription": "A manual Royapettah guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9415,7 +9415,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Royapettah should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Royapettah projects should focus on low-disruption installation, careful drilling, visible neatness, and practical safety for older and mixed-use surroundings. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Royapettah, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapettah, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9536,7 +9536,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Royapettah?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Royapettah?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9573,14 +9573,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Royapettah page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Royapettah sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9588,14 +9588,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "saidapet",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Saidapet Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Saidapet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Saidapet, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Saidapet",
         "duct area safety nets Saidapet Chennai",
         "duct area safety nets near Saidapet",
         "Saidapet duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Saidapet Chennai",
       "openGraphDescription": "A manual Saidapet guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9632,7 +9632,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Saidapet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Saidapet work should address quick access, dust-aware maintenance, compact balcony use, child safety, and clear quotes for apartments close to major roads. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Saidapet, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Saidapet, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9753,7 +9753,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Saidapet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Saidapet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9790,14 +9790,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Saidapet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Saidapet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9805,14 +9805,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "selaiyur",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Selaiyur Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Selaiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Selaiyur, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Selaiyur",
         "duct area safety nets Selaiyur Chennai",
         "duct area safety nets near Selaiyur",
         "Selaiyur duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Selaiyur Chennai",
       "openGraphDescription": "A manual Selaiyur guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9849,7 +9849,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Selaiyur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Selaiyur service entries should be practical for growing families, with clear material choices, terrace and balcony coverage, pet safety, and reliable site measurement. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Selaiyur, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Selaiyur, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9970,7 +9970,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Selaiyur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Selaiyur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10007,14 +10007,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Selaiyur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Selaiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10022,14 +10022,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "sholinganallur",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Sholinganallur Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Sholinganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Sholinganallur, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Sholinganallur",
         "duct area safety nets Sholinganallur Chennai",
         "duct area safety nets near Sholinganallur",
         "Sholinganallur duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Sholinganallur Chennai",
       "openGraphDescription": "A manual Sholinganallur guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10066,7 +10066,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Sholinganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety planning for children, pets, pigeons, and open utility edges. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Sholinganallur, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Sholinganallur, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10187,7 +10187,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Sholinganallur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Sholinganallur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10224,14 +10224,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Sholinganallur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Sholinganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10239,14 +10239,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "siruseri",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Siruseri Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Siruseri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Siruseri, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Siruseri",
         "duct area safety nets Siruseri Chennai",
         "duct area safety nets near Siruseri",
         "Siruseri duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Siruseri Chennai",
       "openGraphDescription": "A manual Siruseri guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10283,7 +10283,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Siruseri should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Siruseri pages should focus on move-in readiness, high-rise wind, bundled balcony-window safety, and durable installation for newly occupied flats. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Siruseri, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Siruseri, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10404,7 +10404,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Siruseri?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Siruseri?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10441,14 +10441,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Siruseri page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Siruseri sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10456,14 +10456,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "tambaram",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Tambaram Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Tambaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Tambaram, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Tambaram",
         "duct area safety nets Tambaram Chennai",
         "duct area safety nets near Tambaram",
         "Tambaram duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Tambaram Chennai",
       "openGraphDescription": "A manual Tambaram guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10500,7 +10500,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Tambaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Tambaram installations should speak to owners and renters, compare material choices clearly, and cover children, pets, elders, balconies, windows, and terraces. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Tambaram, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tambaram, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10621,7 +10621,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Tambaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Tambaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10658,14 +10658,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Tambaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Tambaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10673,14 +10673,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "t-nagar",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in T Nagar Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in T Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in T Nagar, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in T Nagar",
         "duct area safety nets T Nagar Chennai",
         "duct area safety nets near T Nagar",
         "T Nagar duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in T Nagar Chennai",
       "openGraphDescription": "A manual T Nagar guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10717,7 +10717,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in T Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "T Nagar work needs careful drilling, low-disruption access, dust-aware bird control, and neat visible finishes for homes close to active commercial streets. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in T Nagar, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in T Nagar, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10838,7 +10838,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in T Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in T Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10875,12 +10875,12 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the T Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger T Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10888,14 +10888,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "teynampet",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Teynampet Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Teynampet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Teynampet, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Teynampet",
         "duct area safety nets Teynampet Chennai",
         "duct area safety nets near Teynampet",
         "Teynampet duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Teynampet Chennai",
       "openGraphDescription": "A manual Teynampet guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10932,7 +10932,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Teynampet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety planning for central Chennai homes. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Teynampet, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Teynampet, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11053,7 +11053,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Teynampet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Teynampet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11090,14 +11090,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Teynampet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Teynampet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11105,14 +11105,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "thiruvanmiyur",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Thiruvanmiyur Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Thiruvanmiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Thiruvanmiyur, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Thiruvanmiyur",
         "duct area safety nets Thiruvanmiyur Chennai",
         "duct area safety nets near Thiruvanmiyur",
         "Thiruvanmiyur duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Thiruvanmiyur Chennai",
       "openGraphDescription": "A manual Thiruvanmiyur guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11149,7 +11149,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Thiruvanmiyur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Thiruvanmiyur projects should balance coastal durability, quick scheduling, bird route blocking, child safety, and clean installation for busy apartment households. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Thiruvanmiyur, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Thiruvanmiyur, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11270,7 +11270,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Thiruvanmiyur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Thiruvanmiyur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11307,14 +11307,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thiruvanmiyur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Thiruvanmiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Thiruvanmiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thiruvanmiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11322,14 +11322,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "thoraipakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Thoraipakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Thoraipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Thoraipakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Thoraipakkam",
         "duct area safety nets Thoraipakkam Chennai",
         "duct area safety nets near Thoraipakkam",
         "Thoraipakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Thoraipakkam Chennai",
       "openGraphDescription": "A manual Thoraipakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11366,7 +11366,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Thoraipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Thoraipakkam entries should explain quick but careful installation, rental-friendly planning, association-approved finish, pigeon control, and children safety. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Thoraipakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Thoraipakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11487,7 +11487,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Thoraipakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Thoraipakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11524,14 +11524,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thoraipakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thoraipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11539,14 +11539,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "triplicane",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Triplicane Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Triplicane Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Triplicane, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Triplicane",
         "duct area safety nets Triplicane Chennai",
         "duct area safety nets near Triplicane",
         "Triplicane duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Triplicane Chennai",
       "openGraphDescription": "A manual Triplicane guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11583,7 +11583,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Triplicane should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Triplicane projects need patient access planning, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Triplicane, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Triplicane, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11704,7 +11704,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Triplicane?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Triplicane?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11741,14 +11741,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Triplicane page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Triplicane sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11756,14 +11756,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "vadapalani",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Vadapalani Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Vadapalani Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Vadapalani, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Vadapalani",
         "duct area safety nets Vadapalani Chennai",
         "duct area safety nets near Vadapalani",
         "Vadapalani duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Vadapalani Chennai",
       "openGraphDescription": "A manual Vadapalani guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11800,7 +11800,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Vadapalani should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Vadapalani service pages should focus on dust, traffic-facing openings, quick measurement, renter-friendly work, and clean finish for practical family flats. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Vadapalani, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Vadapalani, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11921,7 +11921,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Vadapalani?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Vadapalani?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11958,14 +11958,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Vadapalani page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Vadapalani sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11973,14 +11973,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "valasaravakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Valasaravakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Valasaravakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Valasaravakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Valasaravakkam",
         "duct area safety nets Valasaravakkam Chennai",
         "duct area safety nets near Valasaravakkam",
         "Valasaravakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Valasaravakkam Chennai",
       "openGraphDescription": "A manual Valasaravakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12017,7 +12017,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Valasaravakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Valasaravakkam installations should connect balcony, staircase, window, and terrace safety needs across varied family homes and apartment blocks. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Valasaravakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Valasaravakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12138,7 +12138,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Valasaravakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Valasaravakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12175,14 +12175,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Valasaravakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Valasaravakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12190,14 +12190,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "velachery",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Velachery Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Velachery Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Velachery, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Velachery",
         "duct area safety nets Velachery Chennai",
         "duct area safety nets near Velachery",
         "Velachery duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Velachery Chennai",
       "openGraphDescription": "A manual Velachery guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12234,7 +12234,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Velachery should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Velachery service entries should stay practical around compact balcony use, rain and humidity, quote clarity, child safety, pet safety, and daily maintenance. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Velachery, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Velachery, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12355,7 +12355,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Velachery?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Velachery?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12392,14 +12392,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Velachery page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Velachery sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12407,14 +12407,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "villivakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Villivakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Villivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Villivakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Villivakkam",
         "duct area safety nets Villivakkam Chennai",
         "duct area safety nets near Villivakkam",
         "Villivakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Villivakkam Chennai",
       "openGraphDescription": "A manual Villivakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12451,7 +12451,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Villivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Villivakkam projects need durable materials, careful drilling, clear pricing, and simple maintenance for homes that use balconies and windows every day. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Villivakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Villivakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12572,7 +12572,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Villivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Villivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12609,14 +12609,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Villivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Villivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12624,14 +12624,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "virugambakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Virugambakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Virugambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Virugambakkam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Virugambakkam",
         "duct area safety nets Virugambakkam Chennai",
         "duct area safety nets near Virugambakkam",
         "Virugambakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Virugambakkam Chennai",
       "openGraphDescription": "A manual Virugambakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12668,7 +12668,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Virugambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Virugambakkam work should be neat, practical, and low-disruption, with attention to children, pets, birds, dust, and compact access. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in Virugambakkam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Virugambakkam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12789,7 +12789,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Virugambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Virugambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12826,14 +12826,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Virugambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Virugambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12841,14 +12841,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "west-mambalam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in West Mambalam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in West Mambalam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in West Mambalam, Chennai, covering coverage for ducts, service shafts, utility voids, pipe openings, and apartment maintenance gaps, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in West Mambalam",
         "duct area safety nets West Mambalam Chennai",
         "duct area safety nets near West Mambalam",
         "West Mambalam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in West Mambalam Chennai",
       "openGraphDescription": "A manual West Mambalam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12885,7 +12885,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in West Mambalam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "West Mambalam service pages should emphasize careful fixing, calm appearance, family trust, and safety work that respects older homes and daily routines. Duct area safety nets must protect open service voids while preserving access for future plumbing, AC, electrical, and cleaning work.",
-        "Before quoting in West Mambalam, DK Safety Solutions should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in West Mambalam, SRI KRISHNA INVISIBLE GRILLS should check shaft depth, pipe routes, service access, fixing surface, fall risk, maintenance clearance, and mesh removability so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13006,7 +13006,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on shaft size, access height, pipe obstacles, material grade, fixing points, service openings, and cleaning requirements. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in West Mambalam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in West Mambalam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -13043,12 +13043,12 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide secure void coverage, practical access points, strong anchors, and neat utility-area finishing, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the West Mambalam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger West Mambalam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -13056,14 +13056,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "adambakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Adambakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Adambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Adambakkam, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Adambakkam",
         "duct area safety nets Adambakkam Chennai",
         "duct area safety nets near Adambakkam",
         "Adambakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Adambakkam Chennai",
       "openGraphDescription": "A manual Adambakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13100,7 +13100,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Adambakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Adambakkam work often needs attention to compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Adambakkam, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adambakkam, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13128,7 +13128,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Adambakkam, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13164,7 +13164,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13216,8 +13216,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Adambakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Adambakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Adambakkam?",
@@ -13229,7 +13229,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Adambakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13247,7 +13247,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Adambakkam with a site-specific visit",
       "paragraphs": [
-        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Adambakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Adambakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13265,14 +13265,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ayanavaram",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Ayanavaram Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Ayanavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Ayanavaram, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Ayanavaram",
         "duct area safety nets Ayanavaram Chennai",
         "duct area safety nets near Ayanavaram",
         "Ayanavaram duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Ayanavaram Chennai",
       "openGraphDescription": "A manual Ayanavaram guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13309,7 +13309,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Ayanavaram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ayanavaram work often needs attention to older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ayanavaram, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ayanavaram, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13337,7 +13337,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Ayanavaram, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13373,7 +13373,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13425,8 +13425,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ayanavaram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ayanavaram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Ayanavaram?",
@@ -13438,7 +13438,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ayanavaram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13456,7 +13456,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Ayanavaram with a site-specific visit",
       "paragraphs": [
-        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Ayanavaram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ayanavaram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13474,14 +13474,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ekkattuthangal",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Ekkattuthangal Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Ekkattuthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Ekkattuthangal, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Ekkattuthangal",
         "duct area safety nets Ekkattuthangal Chennai",
         "duct area safety nets near Ekkattuthangal",
         "Ekkattuthangal duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Ekkattuthangal Chennai",
       "openGraphDescription": "A manual Ekkattuthangal guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13518,7 +13518,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Ekkattuthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ekkattuthangal work often needs attention to workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ekkattuthangal, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ekkattuthangal, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13546,7 +13546,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Ekkattuthangal, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13582,7 +13582,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13634,8 +13634,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ekkattuthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ekkattuthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Ekkattuthangal?",
@@ -13647,7 +13647,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ekkattuthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13665,7 +13665,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Ekkattuthangal with a site-specific visit",
       "paragraphs": [
-        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Ekkattuthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ekkattuthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13684,14 +13684,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "iyyappanthangal",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Iyyappanthangal Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Iyyappanthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Iyyappanthangal, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Iyyappanthangal",
         "duct area safety nets Iyyappanthangal Chennai",
         "duct area safety nets near Iyyappanthangal",
         "Iyyappanthangal duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Iyyappanthangal Chennai",
       "openGraphDescription": "A manual Iyyappanthangal guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13728,7 +13728,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Iyyappanthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Iyyappanthangal work often needs attention to fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Iyyappanthangal, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Iyyappanthangal, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13756,7 +13756,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Iyyappanthangal, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13792,7 +13792,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13844,8 +13844,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Iyyappanthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Iyyappanthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Iyyappanthangal?",
@@ -13857,7 +13857,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Iyyappanthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13875,7 +13875,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Iyyappanthangal with a site-specific visit",
       "paragraphs": [
-        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Iyyappanthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Iyyappanthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13893,14 +13893,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "manapakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Manapakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Manapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Manapakkam, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Manapakkam",
         "duct area safety nets Manapakkam Chennai",
         "duct area safety nets near Manapakkam",
         "Manapakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Manapakkam Chennai",
       "openGraphDescription": "A manual Manapakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13937,7 +13937,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Manapakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Manapakkam work often needs attention to IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Manapakkam, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Manapakkam, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13965,7 +13965,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Manapakkam, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14001,7 +14001,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14053,8 +14053,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Manapakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Manapakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Manapakkam?",
@@ -14066,7 +14066,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Manapakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14084,7 +14084,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Manapakkam with a site-specific visit",
       "paragraphs": [
-        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Manapakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Manapakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14102,14 +14102,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mandaveli",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Mandaveli Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Mandaveli Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Mandaveli, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Mandaveli",
         "duct area safety nets Mandaveli Chennai",
         "duct area safety nets near Mandaveli",
         "Mandaveli duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Mandaveli Chennai",
       "openGraphDescription": "A manual Mandaveli guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14146,7 +14146,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Mandaveli, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mandaveli, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14174,7 +14174,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Mandaveli, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14210,7 +14210,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14262,8 +14262,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Mandaveli for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Mandaveli for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Mandaveli?",
@@ -14275,7 +14275,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Mandaveli conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14293,7 +14293,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Mandaveli with a site-specific visit",
       "paragraphs": [
-        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Mandaveli should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Mandaveli, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14311,14 +14311,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "palavakkam",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Palavakkam Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Palavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Palavakkam, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Palavakkam",
         "duct area safety nets Palavakkam Chennai",
         "duct area safety nets near Palavakkam",
         "Palavakkam duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Palavakkam Chennai",
       "openGraphDescription": "A manual Palavakkam guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14355,7 +14355,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Palavakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Palavakkam work often needs attention to coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Palavakkam, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Palavakkam, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14383,7 +14383,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Palavakkam, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14419,7 +14419,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14471,8 +14471,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Palavakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Palavakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Palavakkam?",
@@ -14484,7 +14484,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Palavakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14502,7 +14502,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Palavakkam with a site-specific visit",
       "paragraphs": [
-        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Palavakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Palavakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14521,14 +14521,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "periyar-nagar",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Periyar Nagar Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Periyar Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Periyar Nagar, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Periyar Nagar",
         "duct area safety nets Periyar Nagar Chennai",
         "duct area safety nets near Periyar Nagar",
         "Periyar Nagar duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Periyar Nagar Chennai",
       "openGraphDescription": "A manual Periyar Nagar guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14565,7 +14565,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Periyar Nagar should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Periyar Nagar work often needs attention to dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Periyar Nagar, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Periyar Nagar, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14593,7 +14593,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Periyar Nagar, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14629,7 +14629,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14681,8 +14681,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Periyar Nagar for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Periyar Nagar for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Periyar Nagar?",
@@ -14694,7 +14694,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Periyar Nagar conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14712,7 +14712,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Periyar Nagar with a site-specific visit",
       "paragraphs": [
-        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Periyar Nagar should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Periyar Nagar, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14729,14 +14729,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "royapuram",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Royapuram Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Royapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Royapuram, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Royapuram",
         "duct area safety nets Royapuram Chennai",
         "duct area safety nets near Royapuram",
         "Royapuram duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Royapuram Chennai",
       "openGraphDescription": "A manual Royapuram guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14773,7 +14773,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Royapuram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Royapuram work often needs attention to coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Royapuram, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapuram, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14801,7 +14801,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Royapuram, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14837,7 +14837,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14889,8 +14889,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Royapuram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Royapuram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Royapuram?",
@@ -14902,7 +14902,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Royapuram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14920,7 +14920,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Royapuram with a site-specific visit",
       "paragraphs": [
-        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Royapuram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Royapuram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14938,14 +14938,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "semmancheri",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Semmancheri Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Semmancheri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Semmancheri, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Semmancheri",
         "duct area safety nets Semmancheri Chennai",
         "duct area safety nets near Semmancheri",
         "Semmancheri duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Semmancheri Chennai",
       "openGraphDescription": "A manual Semmancheri guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14982,7 +14982,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Semmancheri should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Semmancheri work often needs attention to OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Semmancheri, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Semmancheri, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15010,7 +15010,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Semmancheri, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15046,7 +15046,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15098,8 +15098,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Semmancheri for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Semmancheri for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Semmancheri?",
@@ -15111,7 +15111,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Semmancheri conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15129,7 +15129,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Semmancheri with a site-specific visit",
       "paragraphs": [
-        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Semmancheri should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Semmancheri, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15147,14 +15147,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "tondiarpet",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Tondiarpet Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Tondiarpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Tondiarpet, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Tondiarpet",
         "duct area safety nets Tondiarpet Chennai",
         "duct area safety nets near Tondiarpet",
         "Tondiarpet duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Tondiarpet Chennai",
       "openGraphDescription": "A manual Tondiarpet guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15191,7 +15191,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Tondiarpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Tondiarpet work often needs attention to industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Tondiarpet, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tondiarpet, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15219,7 +15219,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Tondiarpet, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15255,7 +15255,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15307,8 +15307,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Tondiarpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Tondiarpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Tondiarpet?",
@@ -15320,7 +15320,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Tondiarpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15338,7 +15338,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Tondiarpet with a site-specific visit",
       "paragraphs": [
-        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Tondiarpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Tondiarpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15356,14 +15356,14 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "washermanpet",
     "serviceSlug": "duct-area-safety-nets",
     "metadata": {
-      "title": "Duct Area Safety Nets in Washermanpet Chennai | DK Safety Solutions",
+      "title": "Duct Area Safety Nets in Washermanpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for duct area safety nets in Washermanpet, Chennai, covering duct mouths, service shafts, utility voids, pipe passages, and open internal drops, coverage for ducts, service shafts, open voids, utility cuts, and building maintenance openings, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "duct area safety nets in Washermanpet",
         "duct area safety nets Washermanpet Chennai",
         "duct area safety nets near Washermanpet",
         "Washermanpet duct area safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Duct Area Safety Nets in Washermanpet Chennai",
       "openGraphDescription": "A manual Washermanpet guide for duct area safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15400,7 +15400,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Duct Area Safety Nets in Washermanpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Washermanpet work often needs attention to busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Duct Area Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Washermanpet, DK Safety Solutions should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Washermanpet, SRI KRISHNA INVISIBLE GRILLS should check void depth, access route, pipe clearance, future maintenance, shaft width, lighting, anchor surface so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15428,7 +15428,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "For Washermanpet, the material should be chosen around heavy-duty duct safety mesh, strong border rope, service-friendly anchors, and pipe-clearance planning. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15464,7 +15464,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "image": "/images/site/chennai-article-anchor-detail.png",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect after plumbing or AC work, keep access ties closed, and avoid resting heavy materials on the net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15516,8 +15516,8 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with duct size, void depth, pipe route, access method, anchor surface, net grade, and maintenance opening requirement. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Washermanpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Washermanpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does duct area safety nets installation take in Washermanpet?",
@@ -15529,7 +15529,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Washermanpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15547,7 +15547,7 @@ export const ductAreaSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan duct area safety nets in Washermanpet with a site-specific visit",
       "paragraphs": [
-        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why duct area safety nets in Washermanpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Washermanpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",

@@ -6,14 +6,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "adyar",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Adyar Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Adyar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Adyar, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Adyar",
         "cricket practice nets Adyar Chennai",
         "cricket practice nets near Adyar",
         "Adyar cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Adyar Chennai",
       "openGraphDescription": "A manual Adyar guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -50,7 +50,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Adyar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Adyar work often needs calm finishing around established apartments, tree-facing balconies, older wall surfaces, and homes where children, elders, plants, and bird control needs overlap. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Adyar, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adyar, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -171,7 +171,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Adyar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Adyar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -208,14 +208,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Adyar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Adyar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -223,14 +223,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "alandur",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Alandur Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Alandur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Alandur, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Alandur",
         "cricket practice nets Alandur Chennai",
         "cricket practice nets near Alandur",
         "Alandur cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Alandur Chennai",
       "openGraphDescription": "A manual Alandur guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -267,7 +267,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Alandur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Alandur projects need practical scheduling, dust-aware materials, careful drilling in compact flats, and neat work that does not disturb busy family routines. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Alandur, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Alandur, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -388,7 +388,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Alandur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Alandur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -425,14 +425,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Alandur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Alandur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -440,14 +440,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "ambattur",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Ambattur Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Ambattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Ambattur, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Ambattur",
         "cricket practice nets Ambattur Chennai",
         "cricket practice nets near Ambattur",
         "Ambattur cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Ambattur Chennai",
       "openGraphDescription": "A manual Ambattur guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -484,7 +484,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Ambattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ambattur installations should stay durable and budget-aware while handling mixed home types, dust, birds, children, pets, and everyday balcony utility use. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Ambattur, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ambattur, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -605,7 +605,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ambattur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ambattur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -642,14 +642,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ambattur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ambattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -657,14 +657,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "aminjikarai",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Aminjikarai Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Aminjikarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Aminjikarai, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Aminjikarai",
         "cricket practice nets Aminjikarai Chennai",
         "cricket practice nets near Aminjikarai",
         "Aminjikarai cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Aminjikarai Chennai",
       "openGraphDescription": "A manual Aminjikarai guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -701,7 +701,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Aminjikarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Aminjikarai homes often need careful access planning, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Aminjikarai, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Aminjikarai, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -822,7 +822,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Aminjikarai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Aminjikarai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -859,14 +859,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Aminjikarai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Aminjikarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -874,14 +874,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "anna-nagar",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Anna Nagar Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Anna Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Anna Nagar, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Anna Nagar",
         "cricket practice nets Anna Nagar Chennai",
         "cricket practice nets near Anna Nagar",
         "Anna Nagar cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Anna Nagar Chennai",
       "openGraphDescription": "A manual Anna Nagar guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -918,7 +918,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Anna Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Anna Nagar service pages should emphasize premium finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Anna Nagar, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Anna Nagar, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1039,7 +1039,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Anna Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Anna Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1076,12 +1076,12 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Anna Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Anna Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1089,14 +1089,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "arumbakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Arumbakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Arumbakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Arumbakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Arumbakkam",
         "cricket practice nets Arumbakkam Chennai",
         "cricket practice nets near Arumbakkam",
         "Arumbakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Arumbakkam Chennai",
       "openGraphDescription": "A manual Arumbakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1133,7 +1133,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Arumbakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Arumbakkam jobs benefit from quick measurement, minimal disruption, strong anchors, and low-maintenance finishes for homes close to active roads and commercial pockets. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Arumbakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Arumbakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1254,7 +1254,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Arumbakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Arumbakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1291,13 +1291,13 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Arumbakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Arumbakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1305,14 +1305,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "ashok-nagar",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Ashok Nagar Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Ashok Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Ashok Nagar, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Ashok Nagar",
         "cricket practice nets Ashok Nagar Chennai",
         "cricket practice nets near Ashok Nagar",
         "Ashok Nagar cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Ashok Nagar Chennai",
       "openGraphDescription": "A manual Ashok Nagar guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1349,7 +1349,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Ashok Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ashok Nagar work should protect children and pets while keeping front-facing balconies neat from the hall, the street, and neighboring homes. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Ashok Nagar, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ashok Nagar, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1470,7 +1470,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ashok Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ashok Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1507,12 +1507,12 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ashok Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ashok Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1520,14 +1520,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "avadi",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Avadi Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Avadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Avadi, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Avadi",
         "cricket practice nets Avadi Chennai",
         "cricket practice nets near Avadi",
         "Avadi cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Avadi Chennai",
       "openGraphDescription": "A manual Avadi guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1564,7 +1564,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Avadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Avadi projects often need strong material selection, practical pricing, and coverage for apartments, terraces, windows, and homes with more exposed outdoor edges. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Avadi, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Avadi, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1685,7 +1685,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Avadi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Avadi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1722,14 +1722,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Avadi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Avadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1737,14 +1737,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "besant-nagar",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Besant Nagar Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Besant Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Besant Nagar, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Besant Nagar",
         "cricket practice nets Besant Nagar Chennai",
         "cricket practice nets near Besant Nagar",
         "Besant Nagar cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Besant Nagar Chennai",
       "openGraphDescription": "A manual Besant Nagar guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1781,7 +1781,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Besant Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety planning for balconies that face breeze, sand, and humidity. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Besant Nagar, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Besant Nagar, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1902,7 +1902,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Besant Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Besant Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1939,12 +1939,12 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Besant Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Besant Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1952,14 +1952,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "chetpet",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Chetpet Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Chetpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Chetpet, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Chetpet",
         "cricket practice nets Chetpet Chennai",
         "cricket practice nets near Chetpet",
         "Chetpet cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Chetpet Chennai",
       "openGraphDescription": "A manual Chetpet guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1996,7 +1996,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Chetpet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Chetpet jobs should balance refined appearance with careful anchoring, because many homes expect quiet finishes, low disturbance, and trustworthy installation behavior. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Chetpet, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Chetpet, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2117,7 +2117,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Chetpet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Chetpet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2154,14 +2154,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chetpet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chetpet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2169,14 +2169,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "choolaimedu",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Choolaimedu Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Choolaimedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Choolaimedu, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Choolaimedu",
         "cricket practice nets Choolaimedu Chennai",
         "cricket practice nets near Choolaimedu",
         "Choolaimedu cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Choolaimedu Chennai",
       "openGraphDescription": "A manual Choolaimedu guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2213,7 +2213,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Choolaimedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Choolaimedu pages should focus on practical installation, renter-friendly planning, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Choolaimedu, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Choolaimedu, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2334,7 +2334,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Choolaimedu?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Choolaimedu?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2371,14 +2371,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Choolaimedu page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Choolaimedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2386,14 +2386,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "chromepet",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Chromepet Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Chromepet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Chromepet, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Chromepet",
         "cricket practice nets Chromepet Chennai",
         "cricket practice nets near Chromepet",
         "Chromepet cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Chromepet Chennai",
       "openGraphDescription": "A manual Chromepet guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2430,7 +2430,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Chromepet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Chromepet work needs budget clarity, strong material choices, neat drilling, and dust-aware finishing for families comparing quality against low short-term quotes. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Chromepet, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Chromepet, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2551,7 +2551,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Chromepet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Chromepet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2588,14 +2588,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chromepet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chromepet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2603,14 +2603,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "egmore",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Egmore Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Egmore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Egmore, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Egmore",
         "cricket practice nets Egmore Chennai",
         "cricket practice nets near Egmore",
         "Egmore cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Egmore Chennai",
       "openGraphDescription": "A manual Egmore guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2647,7 +2647,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Egmore should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Egmore service calls should consider careful access, older surfaces, clean finishing, and safety solutions that look composed in established central-Chennai buildings. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Egmore, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Egmore, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2768,7 +2768,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Egmore?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Egmore?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2805,14 +2805,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Egmore page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Egmore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2820,14 +2820,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "guindy",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Guindy Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Guindy Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Guindy, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Guindy",
         "cricket practice nets Guindy Chennai",
         "cricket practice nets near Guindy",
         "Guindy cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Guindy Chennai",
       "openGraphDescription": "A manual Guindy guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2864,7 +2864,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Guindy should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Guindy jobs need fast coordination for working families, dust-aware protection, compact-site access, and clean installation in residential-commercial surroundings. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Guindy, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Guindy, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2985,7 +2985,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Guindy?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Guindy?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3022,14 +3022,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Guindy page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Guindy, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Guindy, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Guindy sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3037,14 +3037,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "injambakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Injambakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Injambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Injambakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Injambakkam",
         "cricket practice nets Injambakkam Chennai",
         "cricket practice nets near Injambakkam",
         "Injambakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Injambakkam Chennai",
       "openGraphDescription": "A manual Injambakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3081,7 +3081,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Injambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Injambakkam installations should account for coastal wind, larger home layouts, terraces, pets, and material durability in more exposed seaside residential pockets. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Injambakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Injambakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3202,7 +3202,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Injambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Injambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3239,13 +3239,13 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Injambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Injambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3253,14 +3253,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "k-k-nagar",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in K K Nagar Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in K K Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in K K Nagar, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in K K Nagar",
         "cricket practice nets K K Nagar Chennai",
         "cricket practice nets near K K Nagar",
         "K K Nagar cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in K K Nagar Chennai",
       "openGraphDescription": "A manual K K Nagar guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3297,7 +3297,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in K K Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "K K Nagar work should feel careful and respectful, with attention to older railings, visiting grandchildren, low visual clutter, and easy maintenance. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in K K Nagar, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in K K Nagar, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3418,7 +3418,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in K K Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in K K Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3455,11 +3455,11 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the K K Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger K K Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3467,14 +3467,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "kandanchavadi",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Kandanchavadi Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Kandanchavadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Kandanchavadi, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Kandanchavadi",
         "cricket practice nets Kandanchavadi Chennai",
         "cricket practice nets near Kandanchavadi",
         "Kandanchavadi cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Kandanchavadi Chennai",
       "openGraphDescription": "A manual Kandanchavadi guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3511,7 +3511,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Kandanchavadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kandanchavadi service pages should address high-rise access, quick scheduling, association expectations, wind exposure, and practical safety for working families. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Kandanchavadi, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kandanchavadi, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3632,7 +3632,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kandanchavadi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kandanchavadi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3669,14 +3669,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kandanchavadi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kandanchavadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3684,14 +3684,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "karapakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Karapakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Karapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Karapakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Karapakkam",
         "cricket practice nets Karapakkam Chennai",
         "cricket practice nets near Karapakkam",
         "Karapakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Karapakkam Chennai",
       "openGraphDescription": "A manual Karapakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3728,7 +3728,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Karapakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in planning, and durable finishes for newer residential towers. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Karapakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Karapakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3849,7 +3849,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Karapakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Karapakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3886,14 +3886,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Karapakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Karapakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3901,14 +3901,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "kelambakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Kelambakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Kelambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Kelambakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Kelambakkam",
         "cricket practice nets Kelambakkam Chennai",
         "cricket practice nets near Kelambakkam",
         "Kelambakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Kelambakkam Chennai",
       "openGraphDescription": "A manual Kelambakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3945,7 +3945,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Kelambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout planning and durable exposed materials. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Kelambakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kelambakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4066,7 +4066,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kelambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kelambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4103,14 +4103,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kelambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kelambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4118,14 +4118,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "kilpauk",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Kilpauk Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Kilpauk Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Kilpauk, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Kilpauk",
         "cricket practice nets Kilpauk Chennai",
         "cricket practice nets near Kilpauk",
         "Kilpauk cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Kilpauk Chennai",
       "openGraphDescription": "A manual Kilpauk guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4162,7 +4162,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Kilpauk should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety planning for established residences that expect tidy work. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Kilpauk, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kilpauk, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4283,7 +4283,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kilpauk?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kilpauk?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4320,14 +4320,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kilpauk page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kilpauk sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4335,14 +4335,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "kodambakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Kodambakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Kodambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Kodambakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Kodambakkam",
         "cricket practice nets Kodambakkam Chennai",
         "cricket practice nets near Kodambakkam",
         "Kodambakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Kodambakkam Chennai",
       "openGraphDescription": "A manual Kodambakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4379,7 +4379,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Kodambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kodambakkam installations need attention to aged surfaces, compact access, bird control, dust, and minimal-damage fixing for homes with changed layouts. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Kodambakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kodambakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4500,7 +4500,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kodambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kodambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4537,14 +4537,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kodambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kodambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4552,14 +4552,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "kolathur",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Kolathur Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Kolathur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Kolathur, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Kolathur",
         "cricket practice nets Kolathur Chennai",
         "cricket practice nets near Kolathur",
         "Kolathur cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Kolathur Chennai",
       "openGraphDescription": "A manual Kolathur guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4596,7 +4596,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Kolathur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kolathur projects should be practical, clear on price, and strong on material quality for homes that need daily-use balcony, window, terrace, and bird-control protection. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Kolathur, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kolathur, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4717,7 +4717,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kolathur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kolathur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4754,13 +4754,13 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kolathur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kolathur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4768,14 +4768,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "korattur",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Korattur Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Korattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Korattur, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Korattur",
         "cricket practice nets Korattur Chennai",
         "cricket practice nets near Korattur",
         "Korattur cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Korattur Chennai",
       "openGraphDescription": "A manual Korattur guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4812,7 +4812,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Korattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Korattur work benefits from weather-aware planning, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Korattur, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Korattur, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4933,7 +4933,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Korattur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Korattur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4970,13 +4970,13 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Korattur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Korattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4984,14 +4984,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "kottivakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Kottivakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Kottivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Kottivakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Kottivakkam",
         "cricket practice nets Kottivakkam Chennai",
         "cricket practice nets near Kottivakkam",
         "Kottivakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Kottivakkam Chennai",
       "openGraphDescription": "A manual Kottivakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5028,7 +5028,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Kottivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kottivakkam service entries should balance open-view expectations with coastal durability, corrosion-aware fittings, pet safety, and clean visible lines. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Kottivakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kottivakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5149,7 +5149,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kottivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kottivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5186,14 +5186,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kottivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kottivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5201,14 +5201,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "koyambedu",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Koyambedu Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Koyambedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Koyambedu, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Koyambedu",
         "cricket practice nets Koyambedu Chennai",
         "cricket practice nets near Koyambedu",
         "Koyambedu cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Koyambedu Chennai",
       "openGraphDescription": "A manual Koyambedu guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5245,7 +5245,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Koyambedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Koyambedu jobs need practical timing, compact access planning, dust control, and strong low-maintenance materials for homes near active road and market movement. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Koyambedu, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Koyambedu, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5366,7 +5366,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Koyambedu?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Koyambedu?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5403,14 +5403,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Koyambedu page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Koyambedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5418,14 +5418,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "madipakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Madipakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Madipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Madipakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Madipakkam",
         "cricket practice nets Madipakkam Chennai",
         "cricket practice nets near Madipakkam",
         "Madipakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Madipakkam Chennai",
       "openGraphDescription": "A manual Madipakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5462,7 +5462,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Madipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Madipakkam installations should focus on daily balcony use, rain and dust maintenance, child and pet safety, and clear quotes for family apartments. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Madipakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Madipakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5583,7 +5583,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Madipakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Madipakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5620,14 +5620,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madipakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5635,14 +5635,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "madhavaram",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Madhavaram Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Madhavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Madhavaram, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Madhavaram",
         "cricket practice nets Madhavaram Chennai",
         "cricket practice nets near Madhavaram",
         "Madhavaram cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Madhavaram Chennai",
       "openGraphDescription": "A manual Madhavaram guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5679,7 +5679,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Madhavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Madhavaram projects should keep installation durable, practical, and easy to maintain for homes that often need balcony, terrace, window, and bird-control coverage together. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Madhavaram, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Madhavaram, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5800,7 +5800,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Madhavaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Madhavaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5837,13 +5837,13 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madhavaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madhavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5851,14 +5851,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "medavakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Medavakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Medavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Medavakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Medavakkam",
         "cricket practice nets Medavakkam Chennai",
         "cricket practice nets near Medavakkam",
         "Medavakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Medavakkam Chennai",
       "openGraphDescription": "A manual Medavakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5895,7 +5895,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Medavakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Medavakkam pages should explain reliable materials, transparent pricing, child safety, and site measurement for newer apartments and everyday family homes. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Medavakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Medavakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6016,7 +6016,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Medavakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Medavakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6053,14 +6053,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Medavakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Medavakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6068,14 +6068,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "mogappair",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Mogappair Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Mogappair Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Mogappair, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Mogappair",
         "cricket practice nets Mogappair Chennai",
         "cricket practice nets near Mogappair",
         "Mogappair cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Mogappair Chennai",
       "openGraphDescription": "A manual Mogappair guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6112,7 +6112,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Mogappair should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mogappair installations should emphasize family safety, neat exterior finish, association approval, and dependable service for apartments with children and elders. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Mogappair, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mogappair, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6233,7 +6233,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mogappair?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mogappair?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6270,14 +6270,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mogappair page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mogappair sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6285,14 +6285,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "mugalivakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Mugalivakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Mugalivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Mugalivakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Mugalivakkam",
         "cricket practice nets Mugalivakkam Chennai",
         "cricket practice nets near Mugalivakkam",
         "Mugalivakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Mugalivakkam Chennai",
       "openGraphDescription": "A manual Mugalivakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6329,7 +6329,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Mugalivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mugalivakkam jobs need flexible planning for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Mugalivakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mugalivakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6450,7 +6450,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mugalivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mugalivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6487,13 +6487,13 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mugalivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mugalivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6501,14 +6501,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "mylapore",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Mylapore Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Mylapore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Mylapore, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Mylapore",
         "cricket practice nets Mylapore Chennai",
         "cricket practice nets near Mylapore",
         "Mylapore cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Mylapore Chennai",
       "openGraphDescription": "A manual Mylapore guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6545,7 +6545,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Mylapore should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mylapore service pages should sound calm and careful, with attention to older wall conditions, low-visual-noise safety, and respectful installation in established homes. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Mylapore, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mylapore, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6666,7 +6666,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mylapore?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mylapore?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6703,14 +6703,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mylapore page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mylapore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6718,14 +6718,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "nanganallur",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Nanganallur Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Nanganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Nanganallur, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Nanganallur",
         "cricket practice nets Nanganallur Chennai",
         "cricket practice nets near Nanganallur",
         "Nanganallur cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Nanganallur Chennai",
       "openGraphDescription": "A manual Nanganallur guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6762,7 +6762,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Nanganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Nanganallur installations should focus on trust, careful inspection, elder and child safety, and finishes that keep familiar homes looking composed. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Nanganallur, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Nanganallur, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6883,7 +6883,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Nanganallur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Nanganallur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6920,14 +6920,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nanganallur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nanganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6935,14 +6935,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "navalur",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Navalur Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Navalur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Navalur, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Navalur",
         "cricket practice nets Navalur Chennai",
         "cricket practice nets near Navalur",
         "Navalur cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Navalur Chennai",
       "openGraphDescription": "A manual Navalur guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6979,7 +6979,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Navalur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Navalur work should account for association-approved exterior lines, high-rise wind, pet-safe and child-safe openings, and newer apartment setup needs. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Navalur, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Navalur, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7100,7 +7100,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Navalur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Navalur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7137,14 +7137,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Navalur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Navalur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7152,14 +7152,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "neelankarai",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Neelankarai Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Neelankarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Neelankarai, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Neelankarai",
         "cricket practice nets Neelankarai Chennai",
         "cricket practice nets near Neelankarai",
         "Neelankarai cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Neelankarai Chennai",
       "openGraphDescription": "A manual Neelankarai guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7196,7 +7196,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Neelankarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Neelankarai projects need coastal-grade planning, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Neelankarai, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Neelankarai, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7317,7 +7317,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Neelankarai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Neelankarai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7354,14 +7354,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Neelankarai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Neelankarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7369,14 +7369,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "nungambakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Nungambakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Nungambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Nungambakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Nungambakkam",
         "cricket practice nets Nungambakkam Chennai",
         "cricket practice nets near Nungambakkam",
         "Nungambakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Nungambakkam Chennai",
       "openGraphDescription": "A manual Nungambakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7413,7 +7413,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Nungambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Nungambakkam service entries should emphasize discreet hardware, straight alignment, premium finish, and clean installation that respects high-value interiors. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Nungambakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Nungambakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7534,7 +7534,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Nungambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Nungambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7571,14 +7571,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nungambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nungambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7586,14 +7586,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "pallavaram",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Pallavaram Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Pallavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Pallavaram, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Pallavaram",
         "cricket practice nets Pallavaram Chennai",
         "cricket practice nets near Pallavaram",
         "Pallavaram cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Pallavaram Chennai",
       "openGraphDescription": "A manual Pallavaram guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7630,7 +7630,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Pallavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Pallavaram work should cover wind, dust, child safety, utility use, and strong fixing for families living around active roads and changing residential pockets. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Pallavaram, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Pallavaram, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7751,7 +7751,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Pallavaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Pallavaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7788,13 +7788,13 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallavaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7802,14 +7802,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "pallikaranai",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Pallikaranai Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Pallikaranai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Pallikaranai, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Pallikaranai",
         "cricket practice nets Pallikaranai Chennai",
         "cricket practice nets near Pallikaranai",
         "Pallikaranai cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Pallikaranai Chennai",
       "openGraphDescription": "A manual Pallikaranai guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7846,7 +7846,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Pallikaranai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Pallikaranai installations should be weather-aware and practical, with attention to rain, cleaning, bird entry routes, and child-safe daily-use balconies. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Pallikaranai, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Pallikaranai, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7967,7 +7967,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Pallikaranai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Pallikaranai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8004,14 +8004,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallikaranai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallikaranai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8019,14 +8019,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "perambur",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Perambur Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Perambur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Perambur, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Perambur",
         "cricket practice nets Perambur Chennai",
         "cricket practice nets near Perambur",
         "Perambur cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Perambur Chennai",
       "openGraphDescription": "A manual Perambur guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8063,7 +8063,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Perambur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware planning for homes with compact balcony and window openings. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Perambur, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Perambur, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8184,7 +8184,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Perambur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Perambur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8221,14 +8221,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perambur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perambur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8236,14 +8236,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "perungudi",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Perungudi Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Perungudi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Perungudi, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Perungudi",
         "cricket practice nets Perungudi Chennai",
         "cricket practice nets near Perungudi",
         "Perungudi cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Perungudi Chennai",
       "openGraphDescription": "A manual Perungudi guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8280,7 +8280,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Perungudi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Perungudi service pages should address high-rise wind, working-family scheduling, clean border lines, association rules, child safety, pets, and pigeons. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Perungudi, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Perungudi, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8401,7 +8401,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Perungudi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Perungudi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8438,14 +8438,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perungudi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perungudi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8453,14 +8453,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "poonamallee",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Poonamallee Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Poonamallee Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Poonamallee, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Poonamallee",
         "cricket practice nets Poonamallee Chennai",
         "cricket practice nets near Poonamallee",
         "Poonamallee cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Poonamallee Chennai",
       "openGraphDescription": "A manual Poonamallee guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8497,7 +8497,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Poonamallee should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Poonamallee installations should be budget-aware but quality-led, covering children, pets, elders, terraces, balconies, and durable fixing for varied home types. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Poonamallee, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Poonamallee, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8618,7 +8618,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Poonamallee?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Poonamallee?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8655,14 +8655,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Poonamallee page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Poonamallee sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8670,14 +8670,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "porur",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Porur Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Porur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Porur, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Porur",
         "cricket practice nets Porur Chennai",
         "cricket practice nets near Porur",
         "Porur cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Porur Chennai",
       "openGraphDescription": "A manual Porur guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8714,7 +8714,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Porur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Porur pages should explain site visits, reliable installation after move-in, child and pet safety, balcony utility use, and long-term support for newer homes. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Porur, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Porur, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8835,7 +8835,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Porur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Porur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8872,14 +8872,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Porur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Porur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8887,14 +8887,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "purasawalkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Purasawalkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Purasawalkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Purasawalkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Purasawalkam",
         "cricket practice nets Purasawalkam Chennai",
         "cricket practice nets near Purasawalkam",
         "Purasawalkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Purasawalkam Chennai",
       "openGraphDescription": "A manual Purasawalkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8931,7 +8931,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Purasawalkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control planning around busy central streets. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Purasawalkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Purasawalkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9052,7 +9052,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Purasawalkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Purasawalkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9089,14 +9089,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Purasawalkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Purasawalkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9104,14 +9104,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "ramapuram",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Ramapuram Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Ramapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Ramapuram, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Ramapuram",
         "cricket practice nets Ramapuram Chennai",
         "cricket practice nets near Ramapuram",
         "Ramapuram cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Ramapuram Chennai",
       "openGraphDescription": "A manual Ramapuram guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9148,7 +9148,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Ramapuram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ramapuram service pages should connect balcony, window, staircase, and terrace safety for varied home layouts near busy work and residential zones. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Ramapuram, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ramapuram, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9269,7 +9269,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ramapuram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ramapuram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9306,14 +9306,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ramapuram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ramapuram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9321,14 +9321,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "royapettah",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Royapettah Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Royapettah Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Royapettah, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Royapettah",
         "cricket practice nets Royapettah Chennai",
         "cricket practice nets near Royapettah",
         "Royapettah cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Royapettah Chennai",
       "openGraphDescription": "A manual Royapettah guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9365,7 +9365,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Royapettah should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Royapettah projects should focus on low-disruption installation, careful drilling, visible neatness, and practical safety for older and mixed-use surroundings. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Royapettah, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapettah, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9486,7 +9486,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Royapettah?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Royapettah?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9523,14 +9523,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Royapettah page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Royapettah sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9538,14 +9538,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "saidapet",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Saidapet Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Saidapet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Saidapet, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Saidapet",
         "cricket practice nets Saidapet Chennai",
         "cricket practice nets near Saidapet",
         "Saidapet cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Saidapet Chennai",
       "openGraphDescription": "A manual Saidapet guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9582,7 +9582,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Saidapet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Saidapet work should address quick access, dust-aware maintenance, compact balcony use, child safety, and clear quotes for apartments close to major roads. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Saidapet, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Saidapet, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9703,7 +9703,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Saidapet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Saidapet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9740,13 +9740,13 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Saidapet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Saidapet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9754,14 +9754,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "selaiyur",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Selaiyur Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Selaiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Selaiyur, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Selaiyur",
         "cricket practice nets Selaiyur Chennai",
         "cricket practice nets near Selaiyur",
         "Selaiyur cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Selaiyur Chennai",
       "openGraphDescription": "A manual Selaiyur guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9798,7 +9798,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Selaiyur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Selaiyur service entries should be practical for growing families, with clear material choices, terrace and balcony coverage, pet safety, and reliable site measurement. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Selaiyur, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Selaiyur, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9919,7 +9919,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Selaiyur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Selaiyur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9956,13 +9956,13 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Selaiyur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Selaiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9970,14 +9970,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "sholinganallur",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Sholinganallur Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Sholinganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Sholinganallur, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Sholinganallur",
         "cricket practice nets Sholinganallur Chennai",
         "cricket practice nets near Sholinganallur",
         "Sholinganallur cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Sholinganallur Chennai",
       "openGraphDescription": "A manual Sholinganallur guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10014,7 +10014,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Sholinganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety planning for children, pets, pigeons, and open utility edges. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Sholinganallur, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Sholinganallur, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10135,7 +10135,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Sholinganallur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Sholinganallur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10172,14 +10172,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Sholinganallur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Sholinganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10187,14 +10187,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "siruseri",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Siruseri Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Siruseri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Manual Siruseri guide for cricket practice nets in Chennai, covering terrace practice, academy lanes, gated communities, ball containment, height, material, and installation planning.",
       "keywords": [
         "cricket practice nets in Siruseri",
         "cricket nets Chennai",
         "terrace cricket nets Siruseri",
         "box cricket nets Chennai",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Siruseri Chennai",
       "openGraphDescription": "A area Siruseri guide for cricket practice nets on terraces, academy lanes, apartment communities, and private training spaces.",
@@ -10295,7 +10295,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "A cricket net may need suitable flooring, mat placement, lighting, and safe walking space. If the surface is slippery or uneven, practice quality suffers. If lighting creates glare or shadows, batters may struggle. The net layout should leave enough room for practical use.",
-          "DK Safety Solutions may not be changing the whole sports surface in every job, but the installer should still notice these conditions. A good net lane supports training, not only containment."
+          "SRI KRISHNA INVISIBLE GRILLS may not be changing the whole sports surface in every job, but the installer should still notice these conditions. A good net lane supports training, not only containment."
         ]
       },
       {
@@ -10446,7 +10446,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Some temporary systems can be moved, but permanent supports often cannot be shifted without rework. If the practice location may change, discuss that before installation so the structure matches future plans."
       },
       {
-        "question": "Can DK Safety Solutions design a net for kids coaching?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS design a net for kids coaching?",
         "answer": "Yes. Kids coaching needs safe entry, controlled ball paths, and material that suits repeated but lower-impact practice. If teenagers or adults will also use it, the design should be upgraded for stronger hits."
       },
       {
@@ -10471,7 +10471,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "When the lane is planned around players, neighbors, and maintenance, practice becomes easier to approve and easier to enjoy.",
         "That is especially useful in Siruseri where residential, school, and office recreation spaces often sit close together."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10479,14 +10479,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "tambaram",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Tambaram Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Tambaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Tambaram, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Tambaram",
         "cricket practice nets Tambaram Chennai",
         "cricket practice nets near Tambaram",
         "Tambaram cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Tambaram Chennai",
       "openGraphDescription": "A manual Tambaram guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10523,7 +10523,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Tambaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Tambaram installations should speak to owners and renters, compare material choices clearly, and cover children, pets, elders, balconies, windows, and terraces. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Tambaram, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tambaram, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10644,7 +10644,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Tambaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Tambaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10681,14 +10681,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Tambaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Tambaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10696,14 +10696,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "t-nagar",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in T Nagar Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in T Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in T Nagar, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in T Nagar",
         "cricket practice nets T Nagar Chennai",
         "cricket practice nets near T Nagar",
         "T Nagar cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in T Nagar Chennai",
       "openGraphDescription": "A manual T Nagar guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10740,7 +10740,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in T Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "T Nagar work needs careful drilling, low-disruption access, dust-aware bird control, and neat visible finishes for homes close to active commercial streets. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in T Nagar, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in T Nagar, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10861,7 +10861,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in T Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in T Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10898,12 +10898,12 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the T Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger T Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10911,14 +10911,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "teynampet",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Teynampet Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Teynampet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Teynampet, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Teynampet",
         "cricket practice nets Teynampet Chennai",
         "cricket practice nets near Teynampet",
         "Teynampet cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Teynampet Chennai",
       "openGraphDescription": "A manual Teynampet guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10955,7 +10955,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Teynampet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety planning for central Chennai homes. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Teynampet, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Teynampet, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11076,7 +11076,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Teynampet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Teynampet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11113,14 +11113,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Teynampet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Teynampet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11128,14 +11128,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "thiruvanmiyur",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Thiruvanmiyur Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Thiruvanmiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Thiruvanmiyur, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Thiruvanmiyur",
         "cricket practice nets Thiruvanmiyur Chennai",
         "cricket practice nets near Thiruvanmiyur",
         "Thiruvanmiyur cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Thiruvanmiyur Chennai",
       "openGraphDescription": "A manual Thiruvanmiyur guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11172,7 +11172,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Thiruvanmiyur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Thiruvanmiyur projects should balance coastal durability, quick scheduling, bird route blocking, child safety, and clean installation for busy apartment households. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Thiruvanmiyur, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Thiruvanmiyur, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11293,7 +11293,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Thiruvanmiyur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Thiruvanmiyur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11330,14 +11330,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thiruvanmiyur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Thiruvanmiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Thiruvanmiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thiruvanmiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11345,14 +11345,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "thoraipakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Thoraipakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Thoraipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Thoraipakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Thoraipakkam",
         "cricket practice nets Thoraipakkam Chennai",
         "cricket practice nets near Thoraipakkam",
         "Thoraipakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Thoraipakkam Chennai",
       "openGraphDescription": "A manual Thoraipakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11389,7 +11389,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Thoraipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Thoraipakkam entries should explain quick but careful installation, rental-friendly planning, association-approved finish, pigeon control, and children safety. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Thoraipakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Thoraipakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11510,7 +11510,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Thoraipakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Thoraipakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11547,14 +11547,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thoraipakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thoraipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11562,14 +11562,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "triplicane",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Triplicane Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Triplicane Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Triplicane, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Triplicane",
         "cricket practice nets Triplicane Chennai",
         "cricket practice nets near Triplicane",
         "Triplicane cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Triplicane Chennai",
       "openGraphDescription": "A manual Triplicane guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11606,7 +11606,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Triplicane should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Triplicane projects need patient access planning, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Triplicane, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Triplicane, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11727,7 +11727,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Triplicane?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Triplicane?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11764,13 +11764,13 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Triplicane page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Triplicane sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11778,14 +11778,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "vadapalani",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Vadapalani Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Vadapalani Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Vadapalani, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Vadapalani",
         "cricket practice nets Vadapalani Chennai",
         "cricket practice nets near Vadapalani",
         "Vadapalani cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Vadapalani Chennai",
       "openGraphDescription": "A manual Vadapalani guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11822,7 +11822,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Vadapalani should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Vadapalani service pages should focus on dust, traffic-facing openings, quick measurement, renter-friendly work, and clean finish for practical family flats. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Vadapalani, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Vadapalani, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11943,7 +11943,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Vadapalani?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Vadapalani?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11980,14 +11980,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Vadapalani page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Vadapalani sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11995,14 +11995,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "valasaravakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Valasaravakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Valasaravakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Valasaravakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Valasaravakkam",
         "cricket practice nets Valasaravakkam Chennai",
         "cricket practice nets near Valasaravakkam",
         "Valasaravakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Valasaravakkam Chennai",
       "openGraphDescription": "A manual Valasaravakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12039,7 +12039,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Valasaravakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Valasaravakkam installations should connect balcony, staircase, window, and terrace safety needs across varied family homes and apartment blocks. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Valasaravakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Valasaravakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12160,7 +12160,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Valasaravakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Valasaravakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12197,14 +12197,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Valasaravakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Valasaravakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12212,14 +12212,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "velachery",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Velachery Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Velachery Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Velachery, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Velachery",
         "cricket practice nets Velachery Chennai",
         "cricket practice nets near Velachery",
         "Velachery cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Velachery Chennai",
       "openGraphDescription": "A manual Velachery guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12256,7 +12256,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Velachery should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Velachery service entries should stay practical around compact balcony use, rain and humidity, quote clarity, child safety, pet safety, and daily maintenance. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Velachery, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Velachery, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12377,7 +12377,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Velachery?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Velachery?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12414,14 +12414,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Velachery page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Velachery sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12429,14 +12429,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "villivakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Villivakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Villivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Villivakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Villivakkam",
         "cricket practice nets Villivakkam Chennai",
         "cricket practice nets near Villivakkam",
         "Villivakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Villivakkam Chennai",
       "openGraphDescription": "A manual Villivakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12473,7 +12473,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Villivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Villivakkam projects need durable materials, careful drilling, clear pricing, and simple maintenance for homes that use balconies and windows every day. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Villivakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Villivakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12594,7 +12594,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Villivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Villivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12631,14 +12631,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Villivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Villivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12646,14 +12646,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "virugambakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Virugambakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Virugambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Virugambakkam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Virugambakkam",
         "cricket practice nets Virugambakkam Chennai",
         "cricket practice nets near Virugambakkam",
         "Virugambakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Virugambakkam Chennai",
       "openGraphDescription": "A manual Virugambakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12690,7 +12690,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Virugambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Virugambakkam work should be neat, practical, and low-disruption, with attention to children, pets, birds, dust, and compact access. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in Virugambakkam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Virugambakkam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12811,7 +12811,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Virugambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Virugambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12848,14 +12848,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Virugambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Virugambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12863,14 +12863,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "west-mambalam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in West Mambalam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in West Mambalam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in West Mambalam, Chennai, covering ball containment for practice lanes, terraces, academies, society play zones, and controlled training areas, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in West Mambalam",
         "cricket practice nets West Mambalam Chennai",
         "cricket practice nets near West Mambalam",
         "West Mambalam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in West Mambalam Chennai",
       "openGraphDescription": "A manual West Mambalam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12907,7 +12907,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in West Mambalam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "West Mambalam service pages should emphasize careful fixing, calm appearance, family trust, and safety work that respects older homes and daily routines. Cricket practice nets should control ball direction, bounce, height, and side escape without making the practice lane awkward to use.",
-        "Before quoting in West Mambalam, DK Safety Solutions should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in West Mambalam, SRI KRISHNA INVISIBLE GRILLS should check pitch length, ball direction, top height, side clearance, pole support, anchor base, and expected ball speed so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13028,7 +13028,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on lane size, net grade, pole support, roof or side coverage, ball speed, installation surface, and replacement support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in West Mambalam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in West Mambalam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -13065,12 +13065,12 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide strong sports mesh, secure poles or supports, clean lane edges, and safer practice containment, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the West Mambalam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger West Mambalam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -13078,14 +13078,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "adambakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Adambakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Adambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Adambakkam, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Adambakkam",
         "cricket practice nets Adambakkam Chennai",
         "cricket practice nets near Adambakkam",
         "Adambakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Adambakkam Chennai",
       "openGraphDescription": "A manual Adambakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13122,7 +13122,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Adambakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Adambakkam work often needs attention to compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Adambakkam, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adambakkam, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13150,7 +13150,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Adambakkam, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13186,7 +13186,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13238,8 +13238,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Adambakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Adambakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Adambakkam?",
@@ -13251,7 +13251,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Adambakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13269,7 +13269,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Adambakkam with a site-specific visit",
       "paragraphs": [
-        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Adambakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Adambakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13288,14 +13288,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "ayanavaram",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Ayanavaram Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Ayanavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Ayanavaram, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Ayanavaram",
         "cricket practice nets Ayanavaram Chennai",
         "cricket practice nets near Ayanavaram",
         "Ayanavaram cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Ayanavaram Chennai",
       "openGraphDescription": "A manual Ayanavaram guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13332,7 +13332,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Ayanavaram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ayanavaram work often needs attention to older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ayanavaram, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ayanavaram, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13360,7 +13360,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Ayanavaram, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13396,7 +13396,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13448,8 +13448,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ayanavaram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ayanavaram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Ayanavaram?",
@@ -13461,7 +13461,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ayanavaram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13479,7 +13479,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Ayanavaram with a site-specific visit",
       "paragraphs": [
-        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Ayanavaram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ayanavaram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13498,14 +13498,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "ekkattuthangal",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Ekkattuthangal Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Ekkattuthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Ekkattuthangal, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Ekkattuthangal",
         "cricket practice nets Ekkattuthangal Chennai",
         "cricket practice nets near Ekkattuthangal",
         "Ekkattuthangal cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Ekkattuthangal Chennai",
       "openGraphDescription": "A manual Ekkattuthangal guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13542,7 +13542,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Ekkattuthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ekkattuthangal work often needs attention to workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ekkattuthangal, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ekkattuthangal, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13570,7 +13570,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Ekkattuthangal, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13606,7 +13606,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13658,8 +13658,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ekkattuthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ekkattuthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Ekkattuthangal?",
@@ -13671,7 +13671,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ekkattuthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13689,7 +13689,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Ekkattuthangal with a site-specific visit",
       "paragraphs": [
-        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Ekkattuthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ekkattuthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13708,14 +13708,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "iyyappanthangal",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Iyyappanthangal Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Iyyappanthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Iyyappanthangal, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Iyyappanthangal",
         "cricket practice nets Iyyappanthangal Chennai",
         "cricket practice nets near Iyyappanthangal",
         "Iyyappanthangal cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Iyyappanthangal Chennai",
       "openGraphDescription": "A manual Iyyappanthangal guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13752,7 +13752,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Iyyappanthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Iyyappanthangal work often needs attention to fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Iyyappanthangal, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Iyyappanthangal, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13780,7 +13780,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Iyyappanthangal, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13816,7 +13816,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13868,8 +13868,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Iyyappanthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Iyyappanthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Iyyappanthangal?",
@@ -13881,7 +13881,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Iyyappanthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13899,7 +13899,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Iyyappanthangal with a site-specific visit",
       "paragraphs": [
-        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Iyyappanthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Iyyappanthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13918,14 +13918,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "manapakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Manapakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Manapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Manapakkam, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Manapakkam",
         "cricket practice nets Manapakkam Chennai",
         "cricket practice nets near Manapakkam",
         "Manapakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Manapakkam Chennai",
       "openGraphDescription": "A manual Manapakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13962,7 +13962,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Manapakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Manapakkam work often needs attention to IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Manapakkam, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Manapakkam, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13990,7 +13990,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Manapakkam, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14026,7 +14026,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14078,8 +14078,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Manapakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Manapakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Manapakkam?",
@@ -14091,7 +14091,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Manapakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14109,7 +14109,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Manapakkam with a site-specific visit",
       "paragraphs": [
-        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Manapakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Manapakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14128,14 +14128,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "mandaveli",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Mandaveli Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Mandaveli Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Mandaveli, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Mandaveli",
         "cricket practice nets Mandaveli Chennai",
         "cricket practice nets near Mandaveli",
         "Mandaveli cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Mandaveli Chennai",
       "openGraphDescription": "A manual Mandaveli guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14172,7 +14172,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Mandaveli, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mandaveli, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14200,7 +14200,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Mandaveli, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14236,7 +14236,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14288,8 +14288,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Mandaveli for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Mandaveli for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Mandaveli?",
@@ -14301,7 +14301,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Mandaveli conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14319,7 +14319,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Mandaveli with a site-specific visit",
       "paragraphs": [
-        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Mandaveli should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Mandaveli, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14338,14 +14338,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "palavakkam",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Palavakkam Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Palavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Palavakkam, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Palavakkam",
         "cricket practice nets Palavakkam Chennai",
         "cricket practice nets near Palavakkam",
         "Palavakkam cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Palavakkam Chennai",
       "openGraphDescription": "A manual Palavakkam guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14382,7 +14382,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Palavakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Palavakkam work often needs attention to coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Palavakkam, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Palavakkam, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14410,7 +14410,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Palavakkam, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14446,7 +14446,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14498,8 +14498,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Palavakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Palavakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Palavakkam?",
@@ -14511,7 +14511,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Palavakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14529,7 +14529,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Palavakkam with a site-specific visit",
       "paragraphs": [
-        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Palavakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Palavakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14548,14 +14548,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "periyar-nagar",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Periyar Nagar Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Periyar Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Periyar Nagar, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Periyar Nagar",
         "cricket practice nets Periyar Nagar Chennai",
         "cricket practice nets near Periyar Nagar",
         "Periyar Nagar cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Periyar Nagar Chennai",
       "openGraphDescription": "A manual Periyar Nagar guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14592,7 +14592,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Periyar Nagar should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Periyar Nagar work often needs attention to dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Periyar Nagar, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Periyar Nagar, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14620,7 +14620,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Periyar Nagar, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14656,7 +14656,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14708,8 +14708,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Periyar Nagar for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Periyar Nagar for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Periyar Nagar?",
@@ -14721,7 +14721,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Periyar Nagar conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14739,7 +14739,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Periyar Nagar with a site-specific visit",
       "paragraphs": [
-        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Periyar Nagar should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Periyar Nagar, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14757,14 +14757,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "royapuram",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Royapuram Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Royapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Royapuram, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Royapuram",
         "cricket practice nets Royapuram Chennai",
         "cricket practice nets near Royapuram",
         "Royapuram cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Royapuram Chennai",
       "openGraphDescription": "A manual Royapuram guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14801,7 +14801,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Royapuram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Royapuram work often needs attention to coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Royapuram, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapuram, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14829,7 +14829,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Royapuram, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14865,7 +14865,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14917,8 +14917,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Royapuram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Royapuram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Royapuram?",
@@ -14930,7 +14930,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Royapuram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14948,7 +14948,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Royapuram with a site-specific visit",
       "paragraphs": [
-        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Royapuram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Royapuram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14967,14 +14967,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "semmancheri",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Semmancheri Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Semmancheri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Semmancheri, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Semmancheri",
         "cricket practice nets Semmancheri Chennai",
         "cricket practice nets near Semmancheri",
         "Semmancheri cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Semmancheri Chennai",
       "openGraphDescription": "A manual Semmancheri guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15011,7 +15011,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Semmancheri should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Semmancheri work often needs attention to OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Semmancheri, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Semmancheri, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15039,7 +15039,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Semmancheri, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15075,7 +15075,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15127,8 +15127,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Semmancheri for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Semmancheri for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Semmancheri?",
@@ -15140,7 +15140,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Semmancheri conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15158,7 +15158,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Semmancheri with a site-specific visit",
       "paragraphs": [
-        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Semmancheri should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Semmancheri, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15177,14 +15177,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "tondiarpet",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Tondiarpet Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Tondiarpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Tondiarpet, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Tondiarpet",
         "cricket practice nets Tondiarpet Chennai",
         "cricket practice nets near Tondiarpet",
         "Tondiarpet cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Tondiarpet Chennai",
       "openGraphDescription": "A manual Tondiarpet guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15221,7 +15221,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Tondiarpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Tondiarpet work often needs attention to industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Tondiarpet, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tondiarpet, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15249,7 +15249,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Tondiarpet, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15285,7 +15285,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15337,8 +15337,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Tondiarpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Tondiarpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Tondiarpet?",
@@ -15350,7 +15350,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Tondiarpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15368,7 +15368,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Tondiarpet with a site-specific visit",
       "paragraphs": [
-        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Tondiarpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Tondiarpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15387,14 +15387,14 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "areaSlug": "washermanpet",
     "serviceSlug": "cricket-practice-nets",
     "metadata": {
-      "title": "Cricket Practice Nets in Washermanpet Chennai | DK Safety Solutions",
+      "title": "Cricket Practice Nets in Washermanpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cricket practice nets in Washermanpet, Chennai, covering cricket lanes, terrace practice corners, school play areas, academy nets, and apartment sports zones, ball containment for practice lanes, terraces, schools, academies, and society play zones, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cricket practice nets in Washermanpet",
         "cricket practice nets Washermanpet Chennai",
         "cricket practice nets near Washermanpet",
         "Washermanpet cricket practice nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cricket Practice Nets in Washermanpet Chennai",
       "openGraphDescription": "A manual Washermanpet guide for cricket practice nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15431,7 +15431,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Cricket Practice Nets in Washermanpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Washermanpet work often needs attention to busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cricket Practice Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Washermanpet, DK Safety Solutions should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Washermanpet, SRI KRISHNA INVISIBLE GRILLS should check ball direction, height, pole support, ground surface, lane width, back net depth, side clearance so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15459,7 +15459,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "For Washermanpet, the material should be chosen around sports-grade cricket netting, impact-ready borders, pole or frame support, and measured lane coverage. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15495,7 +15495,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "image": "/images/Box-cricket-sports-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: inspect impact zones, repair small tears early, keep poles aligned, and untangle the net after heavy practice sessions. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15547,8 +15547,8 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
         "answer": "Price changes with lane length, required height, ball direction, pole support, ground surface, impact level, and access timing. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Washermanpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Washermanpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cricket practice nets installation take in Washermanpet?",
@@ -15560,7 +15560,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Washermanpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15578,7 +15578,7 @@ export const cricketPracticeNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cricket practice nets in Washermanpet with a site-specific visit",
       "paragraphs": [
-        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cricket practice nets in Washermanpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Washermanpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",

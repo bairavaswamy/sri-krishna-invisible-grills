@@ -6,14 +6,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "adyar",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Adyar Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Adyar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Adyar, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Adyar",
         "pigeon safety nets Adyar Chennai",
         "pigeon safety nets near Adyar",
         "Adyar pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Adyar Chennai",
       "openGraphDescription": "A manual Adyar guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -50,7 +50,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Adyar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Adyar work often needs calm finishing around established apartments, tree-facing balconies, older wall surfaces, and homes where children, elders, plants, and bird control needs overlap. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Adyar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adyar, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -171,7 +171,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Adyar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Adyar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -208,15 +208,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Adyar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Adyar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Adyar, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -224,14 +224,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "alandur",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Alandur Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Alandur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Alandur, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Alandur",
         "pigeon safety nets Alandur Chennai",
         "pigeon safety nets near Alandur",
         "Alandur pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Alandur Chennai",
       "openGraphDescription": "A manual Alandur guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -268,7 +268,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Alandur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Alandur projects need practical scheduling, dust-aware materials, careful drilling in compact flats, and neat work that does not disturb busy family routines. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Alandur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Alandur, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -389,7 +389,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Alandur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Alandur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -426,15 +426,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Alandur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Alandur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Alandur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -442,14 +442,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ambattur",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Ambattur Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Ambattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Ambattur, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Ambattur",
         "pigeon safety nets Ambattur Chennai",
         "pigeon safety nets near Ambattur",
         "Ambattur pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Ambattur Chennai",
       "openGraphDescription": "A manual Ambattur guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -486,7 +486,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Ambattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ambattur installations should stay durable and budget-aware while handling mixed home types, dust, birds, children, pets, and everyday balcony utility use. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Ambattur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ambattur, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -607,7 +607,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ambattur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ambattur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -644,15 +644,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ambattur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ambattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Ambattur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -660,14 +660,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "aminjikarai",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Aminjikarai Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Aminjikarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Aminjikarai, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Aminjikarai",
         "pigeon safety nets Aminjikarai Chennai",
         "pigeon safety nets near Aminjikarai",
         "Aminjikarai pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Aminjikarai Chennai",
       "openGraphDescription": "A manual Aminjikarai guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -704,7 +704,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Aminjikarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Aminjikarai homes often need careful access planning, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Aminjikarai, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Aminjikarai, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -825,7 +825,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Aminjikarai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Aminjikarai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -862,15 +862,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Aminjikarai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Aminjikarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Aminjikarai, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -878,14 +878,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "anna-nagar",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Anna Nagar Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Anna Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Anna Nagar, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Anna Nagar",
         "pigeon safety nets Anna Nagar Chennai",
         "pigeon safety nets near Anna Nagar",
         "Anna Nagar pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Anna Nagar Chennai",
       "openGraphDescription": "A manual Anna Nagar guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -922,7 +922,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Anna Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Anna Nagar service pages should emphasize premium finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Anna Nagar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Anna Nagar, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1043,7 +1043,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Anna Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Anna Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1080,13 +1080,13 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Anna Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Anna Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1094,14 +1094,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "arumbakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Arumbakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Arumbakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Arumbakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Arumbakkam",
         "pigeon safety nets Arumbakkam Chennai",
         "pigeon safety nets near Arumbakkam",
         "Arumbakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Arumbakkam Chennai",
       "openGraphDescription": "A manual Arumbakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1138,7 +1138,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Arumbakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Arumbakkam jobs benefit from quick measurement, minimal disruption, strong anchors, and low-maintenance finishes for homes close to active roads and commercial pockets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Arumbakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Arumbakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1259,7 +1259,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Arumbakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Arumbakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1296,14 +1296,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Arumbakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Arumbakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1311,14 +1311,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ashok-nagar",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Ashok Nagar Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Ashok Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Ashok Nagar, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Ashok Nagar",
         "pigeon safety nets Ashok Nagar Chennai",
         "pigeon safety nets near Ashok Nagar",
         "Ashok Nagar pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Ashok Nagar Chennai",
       "openGraphDescription": "A manual Ashok Nagar guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1355,7 +1355,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Ashok Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ashok Nagar work should protect children and pets while keeping front-facing balconies neat from the hall, the street, and neighboring homes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Ashok Nagar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ashok Nagar, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1476,7 +1476,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ashok Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ashok Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1513,13 +1513,13 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ashok Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ashok Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1527,14 +1527,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "avadi",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Avadi Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Avadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Avadi, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Avadi",
         "pigeon safety nets Avadi Chennai",
         "pigeon safety nets near Avadi",
         "Avadi pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Avadi Chennai",
       "openGraphDescription": "A manual Avadi guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1571,7 +1571,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Avadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Avadi projects often need strong material selection, practical pricing, and coverage for apartments, terraces, windows, and homes with more exposed outdoor edges. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Avadi, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Avadi, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1692,7 +1692,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Avadi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Avadi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1729,15 +1729,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Avadi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Avadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Avadi, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1745,14 +1745,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "besant-nagar",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Besant Nagar Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Besant Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Besant Nagar, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Besant Nagar",
         "pigeon safety nets Besant Nagar Chennai",
         "pigeon safety nets near Besant Nagar",
         "Besant Nagar pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Besant Nagar Chennai",
       "openGraphDescription": "A manual Besant Nagar guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1789,7 +1789,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Besant Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety planning for balconies that face breeze, sand, and humidity. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Besant Nagar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Besant Nagar, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1910,7 +1910,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Besant Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Besant Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1947,13 +1947,13 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Besant Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Besant Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1961,14 +1961,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "chetpet",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Chetpet Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Chetpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Chetpet, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Chetpet",
         "pigeon safety nets Chetpet Chennai",
         "pigeon safety nets near Chetpet",
         "Chetpet pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Chetpet Chennai",
       "openGraphDescription": "A manual Chetpet guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2005,7 +2005,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Chetpet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Chetpet jobs should balance refined appearance with careful anchoring, because many homes expect quiet finishes, low disturbance, and trustworthy installation behavior. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Chetpet, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Chetpet, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2126,7 +2126,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Chetpet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Chetpet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2163,15 +2163,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chetpet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chetpet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Chetpet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2179,14 +2179,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "choolaimedu",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Choolaimedu Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Choolaimedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Choolaimedu, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Choolaimedu",
         "pigeon safety nets Choolaimedu Chennai",
         "pigeon safety nets near Choolaimedu",
         "Choolaimedu pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Choolaimedu Chennai",
       "openGraphDescription": "A manual Choolaimedu guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2223,7 +2223,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Choolaimedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Choolaimedu pages should focus on practical installation, renter-friendly planning, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Choolaimedu, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Choolaimedu, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2344,7 +2344,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Choolaimedu?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Choolaimedu?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2381,15 +2381,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Choolaimedu page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Choolaimedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Choolaimedu, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2397,14 +2397,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "chromepet",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Chromepet Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Chromepet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Chromepet, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Chromepet",
         "pigeon safety nets Chromepet Chennai",
         "pigeon safety nets near Chromepet",
         "Chromepet pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Chromepet Chennai",
       "openGraphDescription": "A manual Chromepet guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2441,7 +2441,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Chromepet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Chromepet work needs budget clarity, strong material choices, neat drilling, and dust-aware finishing for families comparing quality against low short-term quotes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Chromepet, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Chromepet, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2562,7 +2562,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Chromepet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Chromepet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2599,15 +2599,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chromepet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chromepet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Chromepet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2615,14 +2615,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "egmore",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Egmore Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Egmore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Egmore, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Egmore",
         "pigeon safety nets Egmore Chennai",
         "pigeon safety nets near Egmore",
         "Egmore pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Egmore Chennai",
       "openGraphDescription": "A manual Egmore guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2659,7 +2659,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Egmore should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Egmore service calls should consider careful access, older surfaces, clean finishing, and safety solutions that look composed in established central-Chennai buildings. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Egmore, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Egmore, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2780,7 +2780,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Egmore?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Egmore?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2817,15 +2817,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Egmore page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Egmore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Egmore, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2833,14 +2833,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "guindy",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Guindy Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Guindy Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Guindy, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Guindy",
         "pigeon safety nets Guindy Chennai",
         "pigeon safety nets near Guindy",
         "Guindy pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Guindy Chennai",
       "openGraphDescription": "A manual Guindy guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2877,7 +2877,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Guindy should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Guindy jobs need fast coordination for working families, dust-aware protection, compact-site access, and clean installation in residential-commercial surroundings. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Guindy, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Guindy, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2998,7 +2998,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Guindy?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Guindy?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3035,15 +3035,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Guindy page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Guindy, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Guindy, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Guindy sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Guindy, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3051,14 +3051,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "injambakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Injambakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Injambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Injambakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Injambakkam",
         "pigeon safety nets Injambakkam Chennai",
         "pigeon safety nets near Injambakkam",
         "Injambakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Injambakkam Chennai",
       "openGraphDescription": "A manual Injambakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3095,7 +3095,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Injambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Injambakkam installations should account for coastal wind, larger home layouts, terraces, pets, and material durability in more exposed seaside residential pockets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Injambakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Injambakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3216,7 +3216,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Injambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Injambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3253,15 +3253,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Injambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Injambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Injambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3269,14 +3269,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "k-k-nagar",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in K K Nagar Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in K K Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in K K Nagar, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in K K Nagar",
         "pigeon safety nets K K Nagar Chennai",
         "pigeon safety nets near K K Nagar",
         "K K Nagar pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in K K Nagar Chennai",
       "openGraphDescription": "A manual K K Nagar guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3313,7 +3313,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in K K Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "K K Nagar work should feel careful and respectful, with attention to older railings, visiting grandchildren, low visual clutter, and easy maintenance. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in K K Nagar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in K K Nagar, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3434,7 +3434,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in K K Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in K K Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3471,12 +3471,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the K K Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger K K Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3484,14 +3484,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kandanchavadi",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Kandanchavadi Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Kandanchavadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Kandanchavadi, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Kandanchavadi",
         "pigeon safety nets Kandanchavadi Chennai",
         "pigeon safety nets near Kandanchavadi",
         "Kandanchavadi pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Kandanchavadi Chennai",
       "openGraphDescription": "A manual Kandanchavadi guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3528,7 +3528,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Kandanchavadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kandanchavadi service pages should address high-rise access, quick scheduling, association expectations, wind exposure, and practical safety for working families. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Kandanchavadi, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kandanchavadi, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3649,7 +3649,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kandanchavadi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kandanchavadi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3686,15 +3686,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kandanchavadi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kandanchavadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kandanchavadi, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3702,14 +3702,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "karapakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Karapakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Karapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Karapakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Karapakkam",
         "pigeon safety nets Karapakkam Chennai",
         "pigeon safety nets near Karapakkam",
         "Karapakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Karapakkam Chennai",
       "openGraphDescription": "A manual Karapakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3746,7 +3746,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Karapakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in planning, and durable finishes for newer residential towers. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Karapakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Karapakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3867,7 +3867,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Karapakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Karapakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3904,15 +3904,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Karapakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Karapakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Karapakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3920,14 +3920,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kelambakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Kelambakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Kelambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Kelambakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Kelambakkam",
         "pigeon safety nets Kelambakkam Chennai",
         "pigeon safety nets near Kelambakkam",
         "Kelambakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Kelambakkam Chennai",
       "openGraphDescription": "A manual Kelambakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3964,7 +3964,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Kelambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout planning and durable exposed materials. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Kelambakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kelambakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4085,7 +4085,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kelambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kelambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4122,15 +4122,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kelambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kelambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kelambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4138,14 +4138,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kilpauk",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Kilpauk Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Kilpauk Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Kilpauk, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Kilpauk",
         "pigeon safety nets Kilpauk Chennai",
         "pigeon safety nets near Kilpauk",
         "Kilpauk pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Kilpauk Chennai",
       "openGraphDescription": "A manual Kilpauk guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4182,7 +4182,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Kilpauk should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety planning for established residences that expect tidy work. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Kilpauk, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kilpauk, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4303,7 +4303,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kilpauk?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kilpauk?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4340,15 +4340,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kilpauk page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kilpauk sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kilpauk, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4356,14 +4356,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kodambakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Kodambakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Kodambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Kodambakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Kodambakkam",
         "pigeon safety nets Kodambakkam Chennai",
         "pigeon safety nets near Kodambakkam",
         "Kodambakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Kodambakkam Chennai",
       "openGraphDescription": "A manual Kodambakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4400,7 +4400,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Kodambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kodambakkam installations need attention to aged surfaces, compact access, bird control, dust, and minimal-damage fixing for homes with changed layouts. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Kodambakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kodambakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4521,7 +4521,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kodambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kodambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4558,15 +4558,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kodambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kodambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kodambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4574,14 +4574,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kolathur",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Kolathur Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Kolathur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Kolathur, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Kolathur",
         "pigeon safety nets Kolathur Chennai",
         "pigeon safety nets near Kolathur",
         "Kolathur pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Kolathur Chennai",
       "openGraphDescription": "A manual Kolathur guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4618,7 +4618,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Kolathur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kolathur projects should be practical, clear on price, and strong on material quality for homes that need daily-use balcony, window, terrace, and bird-control protection. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Kolathur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kolathur, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4739,7 +4739,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kolathur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kolathur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4776,15 +4776,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kolathur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kolathur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kolathur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4792,14 +4792,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "korattur",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Korattur Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Korattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Korattur, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Korattur",
         "pigeon safety nets Korattur Chennai",
         "pigeon safety nets near Korattur",
         "Korattur pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Korattur Chennai",
       "openGraphDescription": "A manual Korattur guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4836,7 +4836,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Korattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Korattur work benefits from weather-aware planning, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Korattur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Korattur, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4957,7 +4957,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Korattur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Korattur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4994,14 +4994,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Korattur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Korattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5009,14 +5009,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kottivakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Kottivakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Kottivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Kottivakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Kottivakkam",
         "pigeon safety nets Kottivakkam Chennai",
         "pigeon safety nets near Kottivakkam",
         "Kottivakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Kottivakkam Chennai",
       "openGraphDescription": "A manual Kottivakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5053,7 +5053,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Kottivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kottivakkam service entries should balance open-view expectations with coastal durability, corrosion-aware fittings, pet safety, and clean visible lines. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Kottivakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kottivakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5174,7 +5174,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kottivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kottivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5211,15 +5211,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kottivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kottivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kottivakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5227,14 +5227,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "koyambedu",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Koyambedu Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Koyambedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Koyambedu, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Koyambedu",
         "pigeon safety nets Koyambedu Chennai",
         "pigeon safety nets near Koyambedu",
         "Koyambedu pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Koyambedu Chennai",
       "openGraphDescription": "A manual Koyambedu guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5271,7 +5271,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Koyambedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Koyambedu jobs need practical timing, compact access planning, dust control, and strong low-maintenance materials for homes near active road and market movement. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Koyambedu, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Koyambedu, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5392,7 +5392,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Koyambedu?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Koyambedu?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5429,15 +5429,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Koyambedu page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Koyambedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Koyambedu, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5445,14 +5445,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "madipakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Madipakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Madipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Madipakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Madipakkam",
         "pigeon safety nets Madipakkam Chennai",
         "pigeon safety nets near Madipakkam",
         "Madipakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Madipakkam Chennai",
       "openGraphDescription": "A manual Madipakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5489,7 +5489,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Madipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Madipakkam installations should focus on daily balcony use, rain and dust maintenance, child and pet safety, and clear quotes for family apartments. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Madipakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Madipakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5610,7 +5610,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Madipakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Madipakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5647,15 +5647,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madipakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Madipakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5663,14 +5663,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "madhavaram",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Madhavaram Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Madhavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Madhavaram, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Madhavaram",
         "pigeon safety nets Madhavaram Chennai",
         "pigeon safety nets near Madhavaram",
         "Madhavaram pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Madhavaram Chennai",
       "openGraphDescription": "A manual Madhavaram guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5707,7 +5707,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Madhavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Madhavaram projects should keep installation durable, practical, and easy to maintain for homes that often need balcony, terrace, window, and bird-control coverage together. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Madhavaram, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Madhavaram, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5828,7 +5828,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Madhavaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Madhavaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5865,15 +5865,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madhavaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madhavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Madhavaram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5881,14 +5881,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "medavakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Medavakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Medavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Medavakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Medavakkam",
         "pigeon safety nets Medavakkam Chennai",
         "pigeon safety nets near Medavakkam",
         "Medavakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Medavakkam Chennai",
       "openGraphDescription": "A manual Medavakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5925,7 +5925,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Medavakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Medavakkam pages should explain reliable materials, transparent pricing, child safety, and site measurement for newer apartments and everyday family homes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Medavakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Medavakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6046,7 +6046,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Medavakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Medavakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6083,15 +6083,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Medavakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Medavakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Medavakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6099,14 +6099,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mogappair",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Mogappair Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Mogappair Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Mogappair, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Mogappair",
         "pigeon safety nets Mogappair Chennai",
         "pigeon safety nets near Mogappair",
         "Mogappair pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Mogappair Chennai",
       "openGraphDescription": "A manual Mogappair guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6143,7 +6143,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Mogappair should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mogappair installations should emphasize family safety, neat exterior finish, association approval, and dependable service for apartments with children and elders. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Mogappair, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mogappair, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6264,7 +6264,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mogappair?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mogappair?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6301,15 +6301,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mogappair page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mogappair sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Mogappair, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6317,14 +6317,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mugalivakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Mugalivakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Mugalivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Mugalivakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Mugalivakkam",
         "pigeon safety nets Mugalivakkam Chennai",
         "pigeon safety nets near Mugalivakkam",
         "Mugalivakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Mugalivakkam Chennai",
       "openGraphDescription": "A manual Mugalivakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6361,7 +6361,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Mugalivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mugalivakkam jobs need flexible planning for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Mugalivakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mugalivakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6482,7 +6482,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mugalivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mugalivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6519,15 +6519,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mugalivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mugalivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Mugalivakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6535,14 +6535,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mylapore",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Mylapore Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Mylapore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Mylapore, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Mylapore",
         "pigeon safety nets Mylapore Chennai",
         "pigeon safety nets near Mylapore",
         "Mylapore pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Mylapore Chennai",
       "openGraphDescription": "A manual Mylapore guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6579,7 +6579,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Mylapore should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mylapore service pages should sound calm and careful, with attention to older wall conditions, low-visual-noise safety, and respectful installation in established homes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Mylapore, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mylapore, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6700,7 +6700,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mylapore?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mylapore?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6737,15 +6737,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mylapore page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mylapore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Mylapore, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6753,14 +6753,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "nanganallur",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Nanganallur Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Nanganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Nanganallur, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Nanganallur",
         "pigeon safety nets Nanganallur Chennai",
         "pigeon safety nets near Nanganallur",
         "Nanganallur pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Nanganallur Chennai",
       "openGraphDescription": "A manual Nanganallur guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6797,7 +6797,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Nanganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Nanganallur installations should focus on trust, careful inspection, elder and child safety, and finishes that keep familiar homes looking composed. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Nanganallur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Nanganallur, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6918,7 +6918,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Nanganallur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Nanganallur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6955,15 +6955,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nanganallur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nanganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Nanganallur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6971,14 +6971,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "navalur",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Navalur Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Navalur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Navalur, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Navalur",
         "pigeon safety nets Navalur Chennai",
         "pigeon safety nets near Navalur",
         "Navalur pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Navalur Chennai",
       "openGraphDescription": "A manual Navalur guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7015,7 +7015,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Navalur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Navalur work should account for association-approved exterior lines, high-rise wind, pet-safe and child-safe openings, and newer apartment setup needs. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Navalur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Navalur, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7136,7 +7136,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Navalur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Navalur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7173,15 +7173,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Navalur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Navalur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Navalur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7189,14 +7189,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "neelankarai",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Neelankarai Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Neelankarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Neelankarai, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Neelankarai",
         "pigeon safety nets Neelankarai Chennai",
         "pigeon safety nets near Neelankarai",
         "Neelankarai pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Neelankarai Chennai",
       "openGraphDescription": "A manual Neelankarai guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7233,7 +7233,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Neelankarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Neelankarai projects need coastal-grade planning, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Neelankarai, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Neelankarai, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7354,7 +7354,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Neelankarai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Neelankarai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7391,15 +7391,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Neelankarai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Neelankarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Neelankarai, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7407,14 +7407,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "nungambakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Nungambakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Nungambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Nungambakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Nungambakkam",
         "pigeon safety nets Nungambakkam Chennai",
         "pigeon safety nets near Nungambakkam",
         "Nungambakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Nungambakkam Chennai",
       "openGraphDescription": "A manual Nungambakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7451,7 +7451,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Nungambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Nungambakkam service entries should emphasize discreet hardware, straight alignment, premium finish, and clean installation that respects high-value interiors. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Nungambakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Nungambakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7572,7 +7572,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Nungambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Nungambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7609,15 +7609,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nungambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nungambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Nungambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7625,14 +7625,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "pallavaram",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Pallavaram Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Pallavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Pallavaram, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Pallavaram",
         "pigeon safety nets Pallavaram Chennai",
         "pigeon safety nets near Pallavaram",
         "Pallavaram pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Pallavaram Chennai",
       "openGraphDescription": "A manual Pallavaram guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7669,7 +7669,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Pallavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Pallavaram work should cover wind, dust, child safety, utility use, and strong fixing for families living around active roads and changing residential pockets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Pallavaram, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Pallavaram, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7790,7 +7790,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Pallavaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Pallavaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7827,15 +7827,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallavaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Pallavaram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7843,14 +7843,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "pallikaranai",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Pallikaranai Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Pallikaranai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Pallikaranai, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Pallikaranai",
         "pigeon safety nets Pallikaranai Chennai",
         "pigeon safety nets near Pallikaranai",
         "Pallikaranai pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Pallikaranai Chennai",
       "openGraphDescription": "A manual Pallikaranai guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7887,7 +7887,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Pallikaranai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Pallikaranai installations should be weather-aware and practical, with attention to rain, cleaning, bird entry routes, and child-safe daily-use balconies. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Pallikaranai, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Pallikaranai, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8008,7 +8008,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Pallikaranai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Pallikaranai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8045,15 +8045,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallikaranai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallikaranai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Pallikaranai, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8061,14 +8061,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "perambur",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Perambur Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Perambur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Perambur, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Perambur",
         "pigeon safety nets Perambur Chennai",
         "pigeon safety nets near Perambur",
         "Perambur pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Perambur Chennai",
       "openGraphDescription": "A manual Perambur guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8105,7 +8105,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Perambur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware planning for homes with compact balcony and window openings. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Perambur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Perambur, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8226,7 +8226,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Perambur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Perambur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8263,15 +8263,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perambur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perambur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Perambur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8279,14 +8279,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "perungudi",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Perungudi Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Perungudi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Perungudi, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Perungudi",
         "pigeon safety nets Perungudi Chennai",
         "pigeon safety nets near Perungudi",
         "Perungudi pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Perungudi Chennai",
       "openGraphDescription": "A manual Perungudi guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8323,7 +8323,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Perungudi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Perungudi service pages should address high-rise wind, working-family scheduling, clean border lines, association rules, child safety, pets, and pigeons. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Perungudi, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Perungudi, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8444,7 +8444,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Perungudi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Perungudi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8481,15 +8481,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perungudi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perungudi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Perungudi, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8497,14 +8497,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "poonamallee",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Poonamallee Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Poonamallee Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Poonamallee, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Poonamallee",
         "pigeon safety nets Poonamallee Chennai",
         "pigeon safety nets near Poonamallee",
         "Poonamallee pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Poonamallee Chennai",
       "openGraphDescription": "A manual Poonamallee guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8541,7 +8541,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Poonamallee should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Poonamallee installations should be budget-aware but quality-led, covering children, pets, elders, terraces, balconies, and durable fixing for varied home types. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Poonamallee, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Poonamallee, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8662,7 +8662,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Poonamallee?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Poonamallee?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8699,15 +8699,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Poonamallee page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Poonamallee sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Poonamallee, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8715,14 +8715,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "porur",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Porur Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Porur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Porur, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Porur",
         "pigeon safety nets Porur Chennai",
         "pigeon safety nets near Porur",
         "Porur pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Porur Chennai",
       "openGraphDescription": "A manual Porur guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8759,7 +8759,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Porur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Porur pages should explain site visits, reliable installation after move-in, child and pet safety, balcony utility use, and long-term support for newer homes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Porur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Porur, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8880,7 +8880,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Porur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Porur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8917,15 +8917,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Porur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Porur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Porur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8933,14 +8933,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "purasawalkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Purasawalkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Purasawalkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Purasawalkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Purasawalkam",
         "pigeon safety nets Purasawalkam Chennai",
         "pigeon safety nets near Purasawalkam",
         "Purasawalkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Purasawalkam Chennai",
       "openGraphDescription": "A manual Purasawalkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8977,7 +8977,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Purasawalkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control planning around busy central streets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Purasawalkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Purasawalkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9098,7 +9098,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Purasawalkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Purasawalkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9135,15 +9135,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Purasawalkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Purasawalkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Purasawalkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9151,14 +9151,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ramapuram",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Ramapuram Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Ramapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Ramapuram, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Ramapuram",
         "pigeon safety nets Ramapuram Chennai",
         "pigeon safety nets near Ramapuram",
         "Ramapuram pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Ramapuram Chennai",
       "openGraphDescription": "A manual Ramapuram guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9195,7 +9195,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Ramapuram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ramapuram service pages should connect balcony, window, staircase, and terrace safety for varied home layouts near busy work and residential zones. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Ramapuram, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ramapuram, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9316,7 +9316,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ramapuram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ramapuram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9353,15 +9353,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ramapuram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ramapuram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Ramapuram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9369,14 +9369,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "royapettah",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Royapettah Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Royapettah Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Royapettah, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Royapettah",
         "pigeon safety nets Royapettah Chennai",
         "pigeon safety nets near Royapettah",
         "Royapettah pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Royapettah Chennai",
       "openGraphDescription": "A manual Royapettah guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9413,7 +9413,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Royapettah should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Royapettah projects should focus on low-disruption installation, careful drilling, visible neatness, and practical safety for older and mixed-use surroundings. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Royapettah, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapettah, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9534,7 +9534,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Royapettah?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Royapettah?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9571,15 +9571,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Royapettah page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Royapettah sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Royapettah, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9587,14 +9587,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "saidapet",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Saidapet Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Saidapet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Saidapet, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Saidapet",
         "pigeon safety nets Saidapet Chennai",
         "pigeon safety nets near Saidapet",
         "Saidapet pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Saidapet Chennai",
       "openGraphDescription": "A manual Saidapet guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9631,7 +9631,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Saidapet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Saidapet work should address quick access, dust-aware maintenance, compact balcony use, child safety, and clear quotes for apartments close to major roads. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Saidapet, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Saidapet, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9752,7 +9752,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Saidapet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Saidapet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9789,15 +9789,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Saidapet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Saidapet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Saidapet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9805,14 +9805,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "selaiyur",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Selaiyur Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Selaiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Selaiyur, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Selaiyur",
         "pigeon safety nets Selaiyur Chennai",
         "pigeon safety nets near Selaiyur",
         "Selaiyur pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Selaiyur Chennai",
       "openGraphDescription": "A manual Selaiyur guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9849,7 +9849,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Selaiyur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Selaiyur service entries should be practical for growing families, with clear material choices, terrace and balcony coverage, pet safety, and reliable site measurement. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Selaiyur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Selaiyur, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9970,7 +9970,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Selaiyur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Selaiyur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10007,15 +10007,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Selaiyur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Selaiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Selaiyur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10023,14 +10023,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "sholinganallur",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Sholinganallur Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Sholinganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Sholinganallur, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Sholinganallur",
         "pigeon safety nets Sholinganallur Chennai",
         "pigeon safety nets near Sholinganallur",
         "Sholinganallur pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Sholinganallur Chennai",
       "openGraphDescription": "A manual Sholinganallur guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10067,7 +10067,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Sholinganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety planning for children, pets, pigeons, and open utility edges. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Sholinganallur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Sholinganallur, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10188,7 +10188,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Sholinganallur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Sholinganallur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10225,15 +10225,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Sholinganallur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Sholinganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Sholinganallur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10241,14 +10241,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "siruseri",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Siruseri Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Siruseri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Siruseri, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Siruseri",
         "pigeon safety nets Siruseri Chennai",
         "pigeon safety nets near Siruseri",
         "Siruseri pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Siruseri Chennai",
       "openGraphDescription": "A manual Siruseri guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10285,7 +10285,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Siruseri should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Siruseri pages should focus on move-in readiness, high-rise wind, bundled balcony-window safety, and durable installation for newly occupied flats. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Siruseri, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Siruseri, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10406,7 +10406,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Siruseri?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Siruseri?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10443,15 +10443,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Siruseri page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Siruseri sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Siruseri, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10459,14 +10459,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "tambaram",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Tambaram Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Tambaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Tambaram, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Tambaram",
         "pigeon safety nets Tambaram Chennai",
         "pigeon safety nets near Tambaram",
         "Tambaram pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Tambaram Chennai",
       "openGraphDescription": "A manual Tambaram guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10503,7 +10503,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Tambaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Tambaram installations should speak to owners and renters, compare material choices clearly, and cover children, pets, elders, balconies, windows, and terraces. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Tambaram, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tambaram, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10624,7 +10624,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Tambaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Tambaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10661,15 +10661,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Tambaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Tambaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Tambaram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10677,14 +10677,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "t-nagar",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in T Nagar Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in T Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in T Nagar, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in T Nagar",
         "pigeon safety nets T Nagar Chennai",
         "pigeon safety nets near T Nagar",
         "T Nagar pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in T Nagar Chennai",
       "openGraphDescription": "A manual T Nagar guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10721,7 +10721,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in T Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "T Nagar work needs careful drilling, low-disruption access, dust-aware bird control, and neat visible finishes for homes close to active commercial streets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in T Nagar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in T Nagar, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10842,7 +10842,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in T Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in T Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10879,13 +10879,13 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the T Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger T Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10893,14 +10893,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "teynampet",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Teynampet Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Teynampet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Teynampet, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Teynampet",
         "pigeon safety nets Teynampet Chennai",
         "pigeon safety nets near Teynampet",
         "Teynampet pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Teynampet Chennai",
       "openGraphDescription": "A manual Teynampet guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10937,7 +10937,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Teynampet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety planning for central Chennai homes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Teynampet, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Teynampet, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11058,7 +11058,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Teynampet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Teynampet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11095,15 +11095,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Teynampet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Teynampet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Teynampet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11111,14 +11111,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "thiruvanmiyur",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Thiruvanmiyur Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Thiruvanmiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Thiruvanmiyur, Chennai, covering OMR-side apartments, coastal weather, balcony cleaning, ledges, AC units, and area installation planning.",
       "keywords": [
         "pigeon safety nets in Thiruvanmiyur",
         "pigeon nets Chennai",
         "balcony pigeon control Thiruvanmiyur",
         "pigeon net installation Chennai",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Thiruvanmiyur Chennai",
       "openGraphDescription": "A Thiruvanmiyur detailed guide for pigeon safety net planning in apartments, balconies, ledges, and utility openings.",
@@ -11342,7 +11342,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "If pigeons keep returning, ask for a visit that explains the route before the rate. A clean balcony begins with an installation that understands the bird behavior.",
         "For Thiruvanmiyur apartments, that means respecting height, wind, association appearance, AC service, and the way working families use balconies between busy weekdays and quieter weekends."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11350,14 +11350,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "thoraipakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Thoraipakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Thoraipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Thoraipakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Thoraipakkam",
         "pigeon safety nets Thoraipakkam Chennai",
         "pigeon safety nets near Thoraipakkam",
         "Thoraipakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Thoraipakkam Chennai",
       "openGraphDescription": "A manual Thoraipakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11394,7 +11394,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Thoraipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Thoraipakkam entries should explain quick but careful installation, rental-friendly planning, association-approved finish, pigeon control, and children safety. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Thoraipakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Thoraipakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11515,7 +11515,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Thoraipakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Thoraipakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11552,15 +11552,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thoraipakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thoraipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Thoraipakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11568,14 +11568,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "triplicane",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Triplicane Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Triplicane Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Triplicane, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Triplicane",
         "pigeon safety nets Triplicane Chennai",
         "pigeon safety nets near Triplicane",
         "Triplicane pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Triplicane Chennai",
       "openGraphDescription": "A manual Triplicane guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11612,7 +11612,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Triplicane should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Triplicane projects need patient access planning, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Triplicane, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Triplicane, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11733,7 +11733,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Triplicane?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Triplicane?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11770,14 +11770,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Triplicane page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Triplicane sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11785,14 +11785,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "vadapalani",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Vadapalani Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Vadapalani Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Vadapalani, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Vadapalani",
         "pigeon safety nets Vadapalani Chennai",
         "pigeon safety nets near Vadapalani",
         "Vadapalani pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Vadapalani Chennai",
       "openGraphDescription": "A manual Vadapalani guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11829,7 +11829,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Vadapalani should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Vadapalani service pages should focus on dust, traffic-facing openings, quick measurement, renter-friendly work, and clean finish for practical family flats. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Vadapalani, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Vadapalani, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11950,7 +11950,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Vadapalani?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Vadapalani?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11987,15 +11987,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Vadapalani page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Vadapalani sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Vadapalani, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12003,14 +12003,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "valasaravakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Valasaravakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Valasaravakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Valasaravakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Valasaravakkam",
         "pigeon safety nets Valasaravakkam Chennai",
         "pigeon safety nets near Valasaravakkam",
         "Valasaravakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Valasaravakkam Chennai",
       "openGraphDescription": "A manual Valasaravakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12047,7 +12047,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Valasaravakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Valasaravakkam installations should connect balcony, staircase, window, and terrace safety needs across varied family homes and apartment blocks. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Valasaravakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Valasaravakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12168,7 +12168,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Valasaravakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Valasaravakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12205,15 +12205,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Valasaravakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Valasaravakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Valasaravakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12221,14 +12221,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "velachery",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Velachery Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Velachery Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Velachery, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Velachery",
         "pigeon safety nets Velachery Chennai",
         "pigeon safety nets near Velachery",
         "Velachery pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Velachery Chennai",
       "openGraphDescription": "A manual Velachery guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12265,7 +12265,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Velachery should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Velachery service entries should stay practical around compact balcony use, rain and humidity, quote clarity, child safety, pet safety, and daily maintenance. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Velachery, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Velachery, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12386,7 +12386,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Velachery?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Velachery?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12423,15 +12423,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Velachery page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Velachery sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Velachery, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12439,14 +12439,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "villivakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Villivakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Villivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Villivakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Villivakkam",
         "pigeon safety nets Villivakkam Chennai",
         "pigeon safety nets near Villivakkam",
         "Villivakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Villivakkam Chennai",
       "openGraphDescription": "A manual Villivakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12483,7 +12483,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Villivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Villivakkam projects need durable materials, careful drilling, clear pricing, and simple maintenance for homes that use balconies and windows every day. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Villivakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Villivakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12604,7 +12604,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Villivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Villivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12641,15 +12641,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Villivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Villivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Villivakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12657,14 +12657,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "virugambakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Virugambakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Virugambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Virugambakkam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Virugambakkam",
         "pigeon safety nets Virugambakkam Chennai",
         "pigeon safety nets near Virugambakkam",
         "Virugambakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Virugambakkam Chennai",
       "openGraphDescription": "A manual Virugambakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12701,7 +12701,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Virugambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Virugambakkam work should be neat, practical, and low-disruption, with attention to children, pets, birds, dust, and compact access. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in Virugambakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Virugambakkam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12822,7 +12822,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Virugambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Virugambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12859,15 +12859,15 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Virugambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Virugambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Virugambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12875,14 +12875,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "west-mambalam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in West Mambalam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in West Mambalam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in West Mambalam, Chennai, covering pigeon route blocking for daily-use apartment balconies, utility openings, ledges, and shaft edges, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in West Mambalam",
         "pigeon safety nets West Mambalam Chennai",
         "pigeon safety nets near West Mambalam",
         "West Mambalam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in West Mambalam Chennai",
       "openGraphDescription": "A manual West Mambalam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12919,7 +12919,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in West Mambalam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "West Mambalam service pages should emphasize careful fixing, calm appearance, family trust, and safety work that respects older homes and daily routines. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
-        "Before quoting in West Mambalam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in West Mambalam, SRI KRISHNA INVISIBLE GRILLS should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13040,7 +13040,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Pricing depends on opening size, access height, ledge coverage, mesh grade, hooks, border rope, cleaning needs, and after-service support. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in West Mambalam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in West Mambalam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -13077,13 +13077,13 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the West Mambalam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger West Mambalam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -13091,14 +13091,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "adambakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Adambakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Adambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Adambakkam, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Adambakkam",
         "pigeon safety nets Adambakkam Chennai",
         "pigeon safety nets near Adambakkam",
         "Adambakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Adambakkam Chennai",
       "openGraphDescription": "A manual Adambakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13135,7 +13135,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Adambakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Adambakkam work often needs attention to compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Adambakkam, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adambakkam, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13163,7 +13163,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Adambakkam, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13199,7 +13199,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13251,8 +13251,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Adambakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Adambakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Adambakkam?",
@@ -13264,7 +13264,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Adambakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13282,7 +13282,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Adambakkam with a site-specific visit",
       "paragraphs": [
-        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Adambakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Adambakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13301,14 +13301,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ayanavaram",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Ayanavaram Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Ayanavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Ayanavaram, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Ayanavaram",
         "pigeon safety nets Ayanavaram Chennai",
         "pigeon safety nets near Ayanavaram",
         "Ayanavaram pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Ayanavaram Chennai",
       "openGraphDescription": "A manual Ayanavaram guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13345,7 +13345,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Ayanavaram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ayanavaram work often needs attention to older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ayanavaram, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ayanavaram, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13373,7 +13373,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Ayanavaram, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13409,7 +13409,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13461,8 +13461,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ayanavaram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ayanavaram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Ayanavaram?",
@@ -13474,7 +13474,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ayanavaram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13492,7 +13492,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Ayanavaram with a site-specific visit",
       "paragraphs": [
-        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Ayanavaram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ayanavaram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13511,14 +13511,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ekkattuthangal",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Ekkattuthangal Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Ekkattuthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Ekkattuthangal, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Ekkattuthangal",
         "pigeon safety nets Ekkattuthangal Chennai",
         "pigeon safety nets near Ekkattuthangal",
         "Ekkattuthangal pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Ekkattuthangal Chennai",
       "openGraphDescription": "A manual Ekkattuthangal guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13555,7 +13555,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Ekkattuthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ekkattuthangal work often needs attention to workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ekkattuthangal, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ekkattuthangal, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13583,7 +13583,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Ekkattuthangal, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13619,7 +13619,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13671,8 +13671,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ekkattuthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ekkattuthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Ekkattuthangal?",
@@ -13684,7 +13684,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ekkattuthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13702,7 +13702,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Ekkattuthangal with a site-specific visit",
       "paragraphs": [
-        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Ekkattuthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ekkattuthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13721,14 +13721,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "iyyappanthangal",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Iyyappanthangal Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Iyyappanthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Iyyappanthangal, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Iyyappanthangal",
         "pigeon safety nets Iyyappanthangal Chennai",
         "pigeon safety nets near Iyyappanthangal",
         "Iyyappanthangal pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Iyyappanthangal Chennai",
       "openGraphDescription": "A manual Iyyappanthangal guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13765,7 +13765,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Iyyappanthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Iyyappanthangal work often needs attention to fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Iyyappanthangal, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Iyyappanthangal, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13793,7 +13793,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Iyyappanthangal, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13829,7 +13829,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13881,8 +13881,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Iyyappanthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Iyyappanthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Iyyappanthangal?",
@@ -13894,7 +13894,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Iyyappanthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13912,7 +13912,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Iyyappanthangal with a site-specific visit",
       "paragraphs": [
-        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Iyyappanthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Iyyappanthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13931,14 +13931,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "manapakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Manapakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Manapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Manapakkam, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Manapakkam",
         "pigeon safety nets Manapakkam Chennai",
         "pigeon safety nets near Manapakkam",
         "Manapakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Manapakkam Chennai",
       "openGraphDescription": "A manual Manapakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13975,7 +13975,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Manapakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Manapakkam work often needs attention to IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Manapakkam, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Manapakkam, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14003,7 +14003,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Manapakkam, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14039,7 +14039,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14091,8 +14091,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Manapakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Manapakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Manapakkam?",
@@ -14104,7 +14104,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Manapakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14122,7 +14122,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Manapakkam with a site-specific visit",
       "paragraphs": [
-        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Manapakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Manapakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14141,14 +14141,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mandaveli",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Mandaveli Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Mandaveli Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Mandaveli, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Mandaveli",
         "pigeon safety nets Mandaveli Chennai",
         "pigeon safety nets near Mandaveli",
         "Mandaveli pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Mandaveli Chennai",
       "openGraphDescription": "A manual Mandaveli guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14185,7 +14185,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Mandaveli, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mandaveli, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14213,7 +14213,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Mandaveli, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14249,7 +14249,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14301,8 +14301,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Mandaveli for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Mandaveli for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Mandaveli?",
@@ -14314,7 +14314,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Mandaveli conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14332,7 +14332,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Mandaveli with a site-specific visit",
       "paragraphs": [
-        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Mandaveli should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Mandaveli, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14351,14 +14351,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "palavakkam",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Palavakkam Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Palavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Palavakkam, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Palavakkam",
         "pigeon safety nets Palavakkam Chennai",
         "pigeon safety nets near Palavakkam",
         "Palavakkam pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Palavakkam Chennai",
       "openGraphDescription": "A manual Palavakkam guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14395,7 +14395,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Palavakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Palavakkam work often needs attention to coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Palavakkam, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Palavakkam, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14423,7 +14423,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Palavakkam, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14459,7 +14459,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14511,8 +14511,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Palavakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Palavakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Palavakkam?",
@@ -14524,7 +14524,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Palavakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14542,7 +14542,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Palavakkam with a site-specific visit",
       "paragraphs": [
-        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Palavakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Palavakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14561,14 +14561,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "periyar-nagar",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Periyar Nagar Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Periyar Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Periyar Nagar, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Periyar Nagar",
         "pigeon safety nets Periyar Nagar Chennai",
         "pigeon safety nets near Periyar Nagar",
         "Periyar Nagar pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Periyar Nagar Chennai",
       "openGraphDescription": "A manual Periyar Nagar guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14605,7 +14605,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Periyar Nagar should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Periyar Nagar work often needs attention to dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Periyar Nagar, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Periyar Nagar, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14633,7 +14633,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Periyar Nagar, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14669,7 +14669,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14721,8 +14721,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Periyar Nagar for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Periyar Nagar for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Periyar Nagar?",
@@ -14734,7 +14734,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Periyar Nagar conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14752,7 +14752,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Periyar Nagar with a site-specific visit",
       "paragraphs": [
-        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Periyar Nagar should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Periyar Nagar, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14770,14 +14770,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "royapuram",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Royapuram Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Royapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Royapuram, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Royapuram",
         "pigeon safety nets Royapuram Chennai",
         "pigeon safety nets near Royapuram",
         "Royapuram pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Royapuram Chennai",
       "openGraphDescription": "A manual Royapuram guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14814,7 +14814,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Royapuram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Royapuram work often needs attention to coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Royapuram, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapuram, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14842,7 +14842,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Royapuram, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14878,7 +14878,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14930,8 +14930,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Royapuram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Royapuram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Royapuram?",
@@ -14943,7 +14943,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Royapuram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14961,7 +14961,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Royapuram with a site-specific visit",
       "paragraphs": [
-        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Royapuram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Royapuram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14980,14 +14980,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "semmancheri",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Semmancheri Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Semmancheri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Semmancheri, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Semmancheri",
         "pigeon safety nets Semmancheri Chennai",
         "pigeon safety nets near Semmancheri",
         "Semmancheri pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Semmancheri Chennai",
       "openGraphDescription": "A manual Semmancheri guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15024,7 +15024,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Semmancheri should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Semmancheri work often needs attention to OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Semmancheri, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Semmancheri, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15052,7 +15052,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Semmancheri, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15088,7 +15088,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15140,8 +15140,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Semmancheri for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Semmancheri for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Semmancheri?",
@@ -15153,7 +15153,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Semmancheri conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15171,7 +15171,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Semmancheri with a site-specific visit",
       "paragraphs": [
-        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Semmancheri should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Semmancheri, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15190,14 +15190,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "tondiarpet",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Tondiarpet Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Tondiarpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Tondiarpet, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Tondiarpet",
         "pigeon safety nets Tondiarpet Chennai",
         "pigeon safety nets near Tondiarpet",
         "Tondiarpet pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Tondiarpet Chennai",
       "openGraphDescription": "A manual Tondiarpet guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15234,7 +15234,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Tondiarpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Tondiarpet work often needs attention to industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Tondiarpet, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tondiarpet, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15262,7 +15262,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Tondiarpet, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15298,7 +15298,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15350,8 +15350,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Tondiarpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Tondiarpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Tondiarpet?",
@@ -15363,7 +15363,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Tondiarpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15381,7 +15381,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Tondiarpet with a site-specific visit",
       "paragraphs": [
-        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Tondiarpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Tondiarpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15400,14 +15400,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "washermanpet",
     "serviceSlug": "pigeon-safety-nets",
     "metadata": {
-      "title": "Pigeon Safety Nets in Washermanpet Chennai | DK Safety Solutions",
+      "title": "Pigeon Safety Nets in Washermanpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for pigeon safety nets in Washermanpet, Chennai, covering pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, focused pigeon control for ledges, balcony corners, AC platforms, shafts, and window sides, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "pigeon safety nets in Washermanpet",
         "pigeon safety nets Washermanpet Chennai",
         "pigeon safety nets near Washermanpet",
         "Washermanpet pigeon safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Pigeon Safety Nets in Washermanpet Chennai",
       "openGraphDescription": "A manual Washermanpet guide for pigeon safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15444,7 +15444,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Pigeon Safety Nets in Washermanpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Washermanpet work often needs attention to busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Washermanpet, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Washermanpet, SRI KRISHNA INVISIBLE GRILLS should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15472,7 +15472,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "For Washermanpet, the material should be chosen around pigeon-control mesh, closed edge stitching, strong rope borders, and fixings placed around hidden entry points. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15508,7 +15508,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/anti-bird-nets-installation.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: clean old waste before installation, inspect entry corners, and keep maintenance openings tied properly after service work. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15560,8 +15560,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with ledge depth, balcony size, pigeon route, waste condition, floor level, cleaning access, and preferred coverage line. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Washermanpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Washermanpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does pigeon safety nets installation take in Washermanpet?",
@@ -15573,7 +15573,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Washermanpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15591,7 +15591,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan pigeon safety nets in Washermanpet with a site-specific visit",
       "paragraphs": [
-        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why pigeon safety nets in Washermanpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Washermanpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",

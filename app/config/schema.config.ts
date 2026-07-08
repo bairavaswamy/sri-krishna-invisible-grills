@@ -75,7 +75,7 @@ export const getLocalBusinessSchema = () =>
     name: siteConfig.name,
     legalName: siteConfig.business.legalName,
     url: siteConfig.url,
-    logo: absoluteUrl(siteConfig.logos.desktopPng),
+    logo: absoluteUrl(siteConfig.logos.desktop),
     image: absoluteUrl(siteConfig.defaultImage),
     telephone: siteConfig.contact.phoneLabel,
     email: siteConfig.contact.email,
@@ -107,7 +107,7 @@ export const getOrganizationSchema = () => ({
   "@id": schemaIds.organization,
   name: siteConfig.name,
   url: siteConfig.url,
-  logo: absoluteUrl(siteConfig.logos.desktopPng),
+  logo: absoluteUrl(siteConfig.logos.desktop),
   sameAs: siteConfig.socialProfiles.map((profile) => profile.href),
 });
 

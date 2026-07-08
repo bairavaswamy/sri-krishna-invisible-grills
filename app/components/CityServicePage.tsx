@@ -10,6 +10,7 @@ import {
   stringifySchema,
 } from "../config/schema.config";
 import { absoluteUrl, siteConfig } from "../config/site.config";
+import { serviceAreaPath } from "../config/routes.config";
 import type { ChennaiService } from "../content/serviceAreaCatalog";
 import { getServiceDetail } from "../content/serviceDetails";
 import { getServiceVisuals } from "../content/serviceVisuals";
@@ -71,14 +72,14 @@ export default function CityServicePage({ service }: CityServicePageProps) {
 
         <div className="relative mx-auto grid min-h-[620px] max-w-7xl items-center gap-8 px-4 py-16 lg:grid-cols-[1fr_0.75fr] lg:px-6">
           <div className="min-w-0">
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-lime-300">
+            <p className="text-sm font-bold uppercase tracking-[0.2em] text-amber-300">
               Chennai {detail.category}
             </p>
             <h1 className="mt-5 max-w-4xl text-4xl font-black leading-tight text-white sm:text-5xl lg:text-6xl">
               {service.name} in Chennai
             </h1>
             <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-100">
-              DK Safety Solutions plans {service.name.toLowerCase()} for Chennai
+              SRI KRISHNA INVISIBLE GRILLS plans {service.name.toLowerCase()} for Chennai
               apartments, villas, communities, terraces, utility spaces, and open
               building edges with clean fixing, practical access, and a finish that
               suits daily use.
@@ -87,7 +88,7 @@ export default function CityServicePage({ service }: CityServicePageProps) {
             <div className="mt-8 flex flex-wrap gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center gap-2 rounded-full bg-sky-500 px-5 py-3 font-bold text-white shadow-lg transition hover:bg-sky-600"
+                className="inline-flex items-center gap-2 rounded-full bg-blue-500 px-5 py-3 font-bold text-white shadow-lg transition hover:bg-blue-600"
               >
                 <Phone size={18} />
                 Call for Chennai Visit
@@ -105,7 +106,7 @@ export default function CityServicePage({ service }: CityServicePageProps) {
           </div>
 
           <div className="rounded-lg border border-white/15 bg-white/12 p-6 text-white shadow-2xl backdrop-blur-md">
-            <MapPin size={26} className="text-lime-200" />
+            <MapPin size={26} className="text-amber-200" />
             <h2 className="mt-4 text-2xl font-black">Choose your Chennai area</h2>
             <p className="mt-3 text-sm leading-7 text-slate-100">
               Start from this city service page, then open the exact area page for
@@ -115,7 +116,7 @@ export default function CityServicePage({ service }: CityServicePageProps) {
               {featuredAreas.slice(0, 4).map((area) => (
                 <Link
                   key={area.slug}
-                  href={`/${chennaiConfig.citySlug}/${area.slug}/${service.slug}`}
+                  href={serviceAreaPath(service.slug, area.slug)}
                   prefetch={false}
                   className="flex items-center justify-between rounded-lg border border-white/15 bg-white/10 px-4 py-3 text-sm font-bold text-white transition hover:bg-white/20"
                 >
@@ -130,7 +131,7 @@ export default function CityServicePage({ service }: CityServicePageProps) {
 
       <section className="mx-auto grid max-w-7xl gap-8 px-4 py-14 lg:grid-cols-[0.7fr_0.3fr] lg:px-6">
         <article>
-          <p className="text-sm font-bold uppercase tracking-[0.2em] text-sky-500">
+          <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
             Chennai Service Planning
           </p>
           <h2 className="mt-3 text-3xl font-black tracking-tight text-slate-950">
@@ -154,8 +155,8 @@ export default function CityServicePage({ service }: CityServicePageProps) {
           </div>
 
           <div className="mt-10 grid gap-5 md:grid-cols-2">
-            <section className="rounded-lg border border-indigo-100 bg-indigo-50 p-6">
-              <p className="text-sm font-bold uppercase tracking-[0.18em] text-indigo-700">
+            <section className="rounded-lg border border-blue-100 bg-blue-50 p-6">
+              <p className="text-sm font-bold uppercase tracking-[0.18em] text-blue-700">
                 Best For
               </p>
               <h2 className="mt-3 text-2xl font-black text-slate-950">
@@ -164,15 +165,15 @@ export default function CityServicePage({ service }: CityServicePageProps) {
               <div className="mt-5 grid gap-3">
                 {detail.bestFor.map((item) => (
                   <div key={item} className="flex items-center gap-3 rounded-lg bg-white px-4 py-3 text-sm font-semibold text-slate-700">
-                    <CheckCircle2 size={17} className="shrink-0 text-indigo-600" />
+                    <CheckCircle2 size={17} className="shrink-0 text-blue-600" />
                     {item}
                   </div>
                 ))}
               </div>
             </section>
 
-            <section className="rounded-lg border border-sky-100 bg-sky-50 p-6">
-              <p className="text-sm font-bold uppercase tracking-[0.18em] text-sky-500">
+            <section className="rounded-lg border border-blue-100 bg-blue-50 p-6">
+              <p className="text-sm font-bold uppercase tracking-[0.18em] text-blue-500">
                 Site Checks
               </p>
               <h2 className="mt-3 text-2xl font-black text-slate-950">
@@ -181,7 +182,7 @@ export default function CityServicePage({ service }: CityServicePageProps) {
               <div className="mt-5 grid gap-3">
                 {detail.checks.map((item) => (
                   <div key={item} className="flex items-center gap-3 rounded-lg bg-white px-4 py-3 text-sm font-semibold text-slate-700">
-                    <Ruler size={17} className="shrink-0 text-sky-500" />
+                    <Ruler size={17} className="shrink-0 text-blue-500" />
                     {item}
                   </div>
                 ))}
@@ -190,7 +191,7 @@ export default function CityServicePage({ service }: CityServicePageProps) {
           </div>
 
           <section className="mt-12">
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-indigo-700">
+            <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-700">
               Chennai Areas
             </p>
             <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -200,9 +201,9 @@ export default function CityServicePage({ service }: CityServicePageProps) {
               {chennaiConfig.areas.map((area) => (
                 <Link
                   key={area.slug}
-                  href={`/${chennaiConfig.citySlug}/${area.slug}/${service.slug}`}
+                  href={serviceAreaPath(service.slug, area.slug)}
                   prefetch={false}
-                  className="flex items-center justify-between rounded-lg border border-slate-200 bg-white px-4 py-3 text-sm font-bold text-slate-800 shadow-sm transition hover:border-sky-300 hover:text-sky-600"
+                  className="flex items-center justify-between rounded-lg border border-slate-200 bg-white px-4 py-3 text-sm font-bold text-slate-800 shadow-sm transition hover:border-blue-300 hover:text-blue-600"
                 >
                   {area.name}
                   <ArrowRight size={15} />
@@ -222,8 +223,8 @@ export default function CityServicePage({ service }: CityServicePageProps) {
             </div>
           </div>
 
-          <div className="rounded-lg border border-sky-100 bg-sky-50 p-6 shadow-lg shadow-sky-100/50">
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-sky-500">
+          <div className="rounded-lg border border-blue-100 bg-blue-50 p-6 shadow-lg shadow-blue-100/50">
+            <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
               Quick Enquiry
             </p>
             <h2 className="mt-3 text-2xl font-black text-slate-950">
@@ -244,7 +245,7 @@ export default function CityServicePage({ service }: CityServicePageProps) {
               <Link
                 href="/contact-us"
                 prefetch={false}
-                className="inline-flex items-center justify-center gap-2 rounded-full border border-sky-200 bg-white px-5 py-3 font-bold text-sky-600 shadow-sm transition hover:border-sky-400 hover:bg-sky-50"
+                className="inline-flex items-center justify-center gap-2 rounded-full border border-blue-200 bg-white px-5 py-3 font-bold text-blue-600 shadow-sm transition hover:border-blue-400 hover:bg-blue-50"
               >
                 Contact Page
                 <ArrowRight size={17} />
@@ -256,7 +257,7 @@ export default function CityServicePage({ service }: CityServicePageProps) {
 
       <section className="bg-slate-50 px-4 py-14 lg:px-6">
         <div className="mx-auto max-w-7xl">
-          <p className="text-sm font-bold uppercase tracking-[0.2em] text-sky-500">
+          <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
             Related Services
           </p>
           <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -268,11 +269,11 @@ export default function CityServicePage({ service }: CityServicePageProps) {
                 key={related.slug}
                 href={`/${chennaiConfig.citySlug}/${related.slug}`}
                 prefetch={false}
-                className="group rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition hover:border-sky-300 hover:shadow-md"
+                className="group rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition hover:border-blue-300 hover:shadow-md"
               >
                 <p className="text-lg font-black text-slate-950">{related.name}</p>
                 <p className="mt-2 text-sm leading-6 text-slate-600">{related.angle}</p>
-                <span className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-sky-600">
+                <span className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-blue-600">
                   Open Chennai page
                   <ArrowRight size={16} className="transition group-hover:translate-x-1" />
                 </span>

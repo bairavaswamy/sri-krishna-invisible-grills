@@ -77,7 +77,7 @@ export default function Carousel() {
                     i === index ? "translate-x-0 opacity-100" : "-translate-x-10 opacity-0"
                   }`}
                 >
-                  {/* <p className="mb-3 text-xs font-bold uppercase tracking-[0.2em] text-lime-200 sm:text-sm sm:tracking-[0.22em]">
+                  {/* <p className="mb-3 text-xs font-bold uppercase tracking-[0.2em] text-amber-200 sm:text-sm sm:tracking-[0.22em]">
                     {siteConfig.domain}
                   </p> */}
                   <h1 className="text-3xl font-extrabold leading-tight text-white drop-shadow-lg md:text-5xl">
@@ -89,11 +89,11 @@ export default function Carousel() {
                   </p>
 
                   <a
-                  href={siteConfig.contact.phoneHref}
-                  className="mt-5 bg-[#C9A227]  inline-flex items-center justify-center rounded-full border border-[#C9A227] px-6 py-2 font-semibold text-[#C9A227] shadow-sm transition duration-300 hover:scale-105 text-black md:px-8 md:py-3"
-                >
-                  Call Now
-                </a>
+                    href={siteConfig.contact.phoneHref}
+                    className="mt-5 inline-flex items-center justify-center rounded-full bg-[#d6a039] px-7 py-3 text-sm font-black uppercase tracking-[0.08em] text-[#08275a] shadow-sm transition duration-300 hover:bg-amber-500 md:px-9"
+                  >
+                    Call Now
+                  </a>
                 </div>
               </div>
             </div>

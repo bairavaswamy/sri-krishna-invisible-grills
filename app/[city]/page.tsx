@@ -12,6 +12,7 @@ import {
   stringifySchema,
 } from "../config/schema.config";
 import { absoluteUrl, siteConfig } from "../config/site.config";
+import { serviceAreaPath } from "../config/routes.config";
 import { getServiceDetail } from "../content/serviceDetails";
 
 type CityPageProps = {
@@ -20,9 +21,9 @@ type CityPageProps = {
   };
 };
 
-const cityPageTitle = "Chennai Safety Services and Areas | DK Safety Solutions";
+const cityPageTitle = "Chennai Safety Services and Areas | SRI KRISHNA INVISIBLE GRILLS";
 const cityPageDescription =
-  "Browse DK Safety Solutions services across Chennai, including balcony safety nets, invisible grills, bird control, sports nets, and utility services.";
+  "Browse SRI KRISHNA INVISIBLE GRILLS services across Chennai, including balcony safety nets, invisible grills, bird control, sports nets, and utility services.";
 
 export function generateStaticParams() {
   return [{ city: chennaiConfig.citySlug }];
@@ -31,7 +32,7 @@ export function generateStaticParams() {
 export function generateMetadata({ params }: CityPageProps): Metadata {
   if (params.city !== chennaiConfig.citySlug) {
     return {
-      title: "City Not Found | DK Safety Solutions",
+      title: "City Not Found | SRI KRISHNA INVISIBLE GRILLS",
       description: "The requested city service page could not be found.",
     };
   }
@@ -105,11 +106,11 @@ export default function ChennaiPage({ params }: CityPageProps) {
 
         <div className="relative mx-auto grid min-h-[660px] max-w-7xl items-center gap-8 px-4 py-16 lg:grid-cols-[0.9fr_1.1fr] lg:px-6">
           <div>
-            <p className="text-sm font-bold uppercase tracking-[0.22em] text-lime-300">
+            <p className="text-sm font-bold uppercase tracking-[0.22em] text-amber-300">
               Chennai Service Directory
             </p>
             <h1 className="mt-5 max-w-4xl text-4xl font-black leading-tight text-white sm:text-5xl lg:text-6xl">
-              DK Safety Solutions across every Chennai area
+              SRI KRISHNA INVISIBLE GRILLS across every Chennai area
             </h1>
             <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-100">
               Pick a safety service, choose your Chennai area, and open a page built
@@ -139,7 +140,7 @@ export default function ChennaiPage({ params }: CityPageProps) {
       <section className="mx-auto max-w-7xl px-4 py-14 lg:px-6">
         <div className="flex flex-col justify-between gap-4 md:flex-row md:items-end">
           <div>
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-sky-500">
+            <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
               Services
             </p>
             <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -149,7 +150,7 @@ export default function ChennaiPage({ params }: CityPageProps) {
           <Link
             href={`/${chennaiConfig.citySlug}/${defaultArea.slug}`}
             prefetch={false}
-            className="inline-flex items-center gap-2 rounded-full border border-sky-200 px-5 py-3 text-sm font-bold text-sky-600 transition hover:border-sky-400 hover:bg-sky-50"
+            className="inline-flex items-center gap-2 rounded-full border border-blue-200 px-5 py-3 text-sm font-bold text-blue-600 transition hover:border-blue-400 hover:bg-blue-50"
           >
             Open {defaultArea.name}
             <ArrowRight size={17} />
@@ -166,7 +167,7 @@ export default function ChennaiPage({ params }: CityPageProps) {
                   <Image src={detail.cardImage} alt={service.name} fill className="object-cover" />
                 </div>
                 <div className="p-5">
-                  <p className="text-xs font-bold uppercase tracking-[0.18em] text-sky-500">
+                  <p className="text-xs font-bold uppercase tracking-[0.18em] text-blue-500">
                     {detail.category}
                   </p>
                   <h3 className="mt-2 text-xl font-black text-slate-950">{service.name}</h3>
@@ -174,7 +175,7 @@ export default function ChennaiPage({ params }: CityPageProps) {
                   <Link
                     href={`/${chennaiConfig.citySlug}/${service.slug}`}
                     prefetch={false}
-                    className="mt-5 inline-flex items-center gap-2 text-sm font-bold text-sky-600 transition hover:text-sky-700"
+                    className="mt-5 inline-flex items-center gap-2 text-sm font-bold text-blue-600 transition hover:text-blue-700"
                   >
                     Open Chennai page
                     <ArrowRight size={16} />
@@ -190,7 +191,7 @@ export default function ChennaiPage({ params }: CityPageProps) {
         <div className="mx-auto max-w-7xl">
           <div className="flex flex-col justify-between gap-4 md:flex-row md:items-end">
             <div>
-              <p className="text-sm font-bold uppercase tracking-[0.2em] text-indigo-700">
+              <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-700">
                 Areas
               </p>
               <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -213,18 +214,18 @@ export default function ChennaiPage({ params }: CityPageProps) {
                     </p>
                     <h3 className="mt-2 text-lg font-black text-slate-950">{area.name}</h3>
                   </div>
-                  <MapPin className="shrink-0 text-indigo-700" size={21} />
+                  <MapPin className="shrink-0 text-blue-700" size={21} />
                 </div>
                 <Link
                   href={`/${chennaiConfig.citySlug}/${area.slug}`}
                   prefetch={false}
-                  className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-sky-600"
+                  className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-blue-600"
                 >
                   View all services
                   <ArrowRight size={15} />
                 </Link>
                 <Link
-                  href={`/${chennaiConfig.citySlug}/${area.slug}/${chennaiConfig.services[0].slug}`}
+                  href={serviceAreaPath(chennaiConfig.services[0].slug, area.slug)}
                   prefetch={false}
                   className="mt-3 inline-flex items-center gap-2 rounded-full bg-slate-950 px-4 py-2 text-sm font-bold text-white transition hover:bg-slate-800"
                 >
@@ -235,9 +236,9 @@ export default function ChennaiPage({ params }: CityPageProps) {
                   {chennaiConfig.services.slice(0, 3).map((service) => (
                     <Link
                       key={service.slug}
-                      href={`/${chennaiConfig.citySlug}/${area.slug}/${service.slug}`}
+                      href={serviceAreaPath(service.slug, area.slug)}
                       prefetch={false}
-                      className="flex items-center justify-between rounded-lg border border-slate-200 px-3 py-2 text-sm font-semibold text-slate-700 transition hover:border-sky-300 hover:text-sky-600"
+                      className="flex items-center justify-between rounded-lg border border-slate-200 px-3 py-2 text-sm font-semibold text-slate-700 transition hover:border-blue-300 hover:text-blue-600"
                     >
                       {service.name}
                       <ArrowRight size={14} />
@@ -257,8 +258,8 @@ export default function ChennaiPage({ params }: CityPageProps) {
             "Area pages include nearby links, practical planning copy, and contact actions.",
             "Main service cards now open Chennai service pages first.",
           ].map((item) => (
-            <div key={item} className="flex gap-3 rounded-lg border border-indigo-100 bg-indigo-50 p-5 text-sm font-semibold leading-6 text-slate-700">
-              <CheckCircle2 className="mt-0.5 shrink-0 text-indigo-700" size={18} />
+            <div key={item} className="flex gap-3 rounded-lg border border-blue-100 bg-blue-50 p-5 text-sm font-semibold leading-6 text-slate-700">
+              <CheckCircle2 className="mt-0.5 shrink-0 text-blue-700" size={18} />
               {item}
             </div>
           ))}

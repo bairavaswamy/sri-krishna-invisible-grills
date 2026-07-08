@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { HeaderSkeleton, FloatingContactSkeleton } from "./components/LoadingSkeletons";
 import DelayedGoogleTagManager from "./components/DelayedGoogleTagManager";
 import SiteStructuredData from "./components/SiteStructuredData";
+import PromoMarquee from "./components/PromoMarquee";
 import { siteConfig } from "./config/site.config";
 
 const FloatingContact = dynamic(() => import("./components/FloatingContact"), {
@@ -21,22 +22,13 @@ const NavBar = dynamic(() => import("./components/NavBar"), {
     ssr: true,
   });
 
-  const ContactDetailsBar = dynamic(() => import("./components/ContactDetailsBar"), {
-    ssr: true,
-    loading: () => null,
-  });
-
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: `${siteConfig.name} | Home Safety Solutions`,
   description: siteConfig.description,
   icons: {
-    icon: [
-      { url: siteConfig.logos.favicon, type: "image/svg+xml" },
-      { url: siteConfig.logos.faviconPng, sizes: "32x32", type: "image/png" },
-    ],
+    icon: [{ url: siteConfig.logos.favicon, type: "image/png" }],
     shortcut: [{ url: siteConfig.logos.favicon }],
-    apple: [{ url: siteConfig.logos.appleTouchIcon, sizes: "180x180", type: "image/png" }],
   },
   robots: {
     index: true,
@@ -62,7 +54,7 @@ export default function RootLayout({
         <SiteStructuredData />
        <div>
         <NavBar />
-        <ContactDetailsBar />
+        <PromoMarquee />
         {children}
         <FloatingContact />
         <Footer />

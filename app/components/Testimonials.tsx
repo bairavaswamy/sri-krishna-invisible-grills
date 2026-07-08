@@ -9,7 +9,7 @@ function Stars() {
           key={index}
           viewBox="0 0 20 20"
           aria-hidden="true"
-          className="h-4 w-4 fill-lime-400 text-lime-400"
+          className="h-4 w-4 fill-amber-400 text-amber-400"
         >
           <path d="M10 1.5 12.6 7l6 .7-4.4 4 1.2 5.8L10 14.6l-5.4 2.9 1.2-5.8-4.4-4 6-.7L10 1.5Z" />
         </svg>
@@ -20,67 +20,72 @@ function Stars() {
 
 export default function Testimonials() {
   return (
-    <div className="mx-auto max-w-7xl rounded-[34px] border border-stone-200 bg-[#fbfaf5] p-4 shadow-[0_24px_70px_rgba(15,23,42,0.08)] sm:p-6 lg:p-8">
-      <div className="grid gap-6 lg:grid-cols-[0.85fr_1.5fr]">
-        <div className="rounded-[28px] border border-indigo-100 bg-white p-6 shadow-sm lg:p-7">
-          <p className="text-xs font-bold uppercase tracking-[0.22em] text-indigo-700">
-            Chennai customer notes
+    <div className="mx-auto max-w-7xl overflow-hidden rounded-md border border-blue-100 bg-white shadow-[0_22px_60px_rgba(8,39,90,0.1)]">
+      <div className="grid gap-6 bg-[#08275a] p-6 text-white lg:grid-cols-[0.75fr_1.25fr] lg:p-8">
+        <div>
+          <p className="text-xs font-black uppercase tracking-[0.22em] text-[#d6a039]">
+            Testimonial
           </p>
-          <h2 className="mt-3 text-2xl font-black tracking-tight text-slate-950 sm:text-3xl">
-            Area-focused safety net work, written like real customer checks.
+          <h2 className="mt-3 max-w-xl text-2xl font-black tracking-tight sm:text-3xl">
+            Chennai homes trust our invisible grills and safety net work.
           </h2>
-          <p className="mt-4 text-sm leading-6 text-slate-600">
-            These cards pull from the central {siteConfig.name} profile, so Chennai proof points
-            stay consistent across home, service, and contact pages.
-          </p>
-
-          <div className="mt-6 rounded-2xl border border-lime-100 bg-lime-50/70 p-4">
-            <div className="flex items-center justify-between gap-3">
+        </div>
+        <div className="grid gap-4 sm:grid-cols-3">
+          <div className="rounded-md border border-white/15 bg-white/10 p-4">
+            <p className="text-3xl font-black text-[#d6a039]">5.0</p>
+            <div className="mt-2">
               <Stars />
-              <span className="text-sm font-black text-slate-950">Chennai</span>
             </div>
-            <p className="mt-2 text-xs font-semibold uppercase tracking-[0.16em] text-lime-800">
-              Customer proof managed from one site config
+            <p className="mt-3 text-xs font-bold uppercase tracking-[0.14em] text-blue-100">
+              Home safety rating
+            </p>
+          </div>
+          <div className="rounded-md border border-white/15 bg-white/10 p-4">
+            <p className="text-3xl font-black text-[#d6a039]">2000+</p>
+            <p className="mt-3 text-xs font-bold uppercase tracking-[0.14em] text-blue-100">
+              Projects handled
+            </p>
+          </div>
+          <div className="rounded-md border border-white/15 bg-white/10 p-4">
+            <p className="text-3xl font-black text-[#d6a039]">15+</p>
+            <p className="mt-3 text-xs font-bold uppercase tracking-[0.14em] text-blue-100">
+              Years experience
             </p>
           </div>
         </div>
+      </div>
 
-        <div className="grid gap-4 sm:grid-cols-2">
-          {siteConfig.testimonials.map((review, index) => (
-            <article
-              key={review.name}
-              className={`rounded-[26px] border bg-white p-5 shadow-sm ${
-                index === 0
-                  ? "border-indigo-200 shadow-[0_18px_45px_rgba(15,23,42,0.08)]"
-                  : "border-stone-200"
-              }`}
-            >
-              <div className="flex items-start justify-between gap-4">
-                <div className="flex items-center gap-3">
-                  <div className="flex h-11 w-11 items-center justify-center rounded-full bg-indigo-900 text-sm font-bold text-white">
-                    {review.initials}
-                  </div>
-                  <div>
-                    <p className="font-semibold text-slate-950">{review.name}</p>
-                    <p className="text-xs text-slate-500">{review.location}</p>
-                  </div>
-                </div>
-                <span className="rounded-full bg-indigo-50 px-3 py-1 text-[11px] font-bold text-indigo-800 ring-1 ring-indigo-100">
-                  Chennai
+      <div className="grid gap-4 bg-blue-50/60 p-4 sm:grid-cols-2 lg:grid-cols-4 lg:p-6">
+        {siteConfig.testimonials.map((review) => (
+          <article
+            key={review.name}
+            className="flex min-h-[270px] flex-col justify-between rounded-md border border-blue-100 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-[#d6a039] hover:shadow-md"
+          >
+            <div>
+              <div className="flex items-center justify-between gap-3">
+                <Stars />
+                <span className="rounded-full bg-[#fff7e6] px-3 py-1 text-[11px] font-black uppercase tracking-[0.12em] text-[#8a5f10] ring-1 ring-amber-100">
+                  {review.location}
                 </span>
               </div>
-
-              <div className="mt-5 flex items-center justify-between gap-3">
-                <Stars />
-                <p className="text-xs font-semibold text-slate-500">{review.project}</p>
-              </div>
-
-              <p className="mt-4 text-[15px] leading-7 text-slate-700">
+              <p className="mt-5 text-[15px] leading-7 text-slate-700">
                 &quot;{review.quote}&quot;
               </p>
-            </article>
-          ))}
-        </div>
+            </div>
+
+            <div className="mt-6 border-t border-blue-100 pt-4">
+              <div className="flex items-center gap-3">
+                <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-[#08275a] text-sm font-black text-white shadow-sm">
+                  {review.initials}
+                </div>
+                <div>
+                  <p className="text-sm font-black text-[#08275a]">{review.name}</p>
+                  <p className="text-xs font-semibold text-slate-500">{review.project}</p>
+                </div>
+              </div>
+            </div>
+          </article>
+        ))}
       </div>
     </div>
   );

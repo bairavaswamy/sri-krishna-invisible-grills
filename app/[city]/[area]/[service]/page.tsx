@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import ManualServiceArticle from "../../../components/ManualServiceArticle";
 import ManualEntryServicePage from "../../../components/ManualEntryServicePage";
 import { getManualServicePage } from "../../../content/manualPageRegistry";
@@ -20,6 +20,7 @@ import {
   stringifySchema,
 } from "../../../config/schema.config";
 import { siteConfig } from "../../../config/site.config";
+import { areaPath, serviceAreaPath, servicePath } from "../../../config/routes.config";
 
 type ManualRouteParams = {
   city: string;
@@ -34,7 +35,31 @@ type ManualRouteProps = {
 export const dynamicParams = true;
 
 export async function generateStaticParams(): Promise<ManualRouteParams[]> {
-  return getAllServiceAreaPaths();
+  const catalogPaths = getAllServiceAreaPaths();
+  const serviceFirstPaths = catalogPaths.map((path) => ({
+    city: path.city,
+    area: path.service,
+    service: path.area,
+  }));
+  const legacyAreaFirstPaths = catalogPaths;
+
+  return [...serviceFirstPaths, ...legacyAreaFirstPaths];
+}
+
+function normalizePublicRouteParams(params: ManualRouteParams): ManualRouteParams {
+  return {
+    city: params.city,
+    area: params.service,
+    service: params.area,
+  };
+}
+
+function isLegacyAreaFirstRoute(params: ManualRouteParams) {
+  return Boolean(getAreaBySlug(params.area) && getServiceBySlug(params.service));
+}
+
+function getCatalogParams(params: ManualRouteParams) {
+  return isLegacyAreaFirstRoute(params) ? params : normalizePublicRouteParams(params);
 }
 
 function absoluteUrl(path: string) {
@@ -49,9 +74,7 @@ function getManualPageUrl(page: {
   areaSlug: string;
   serviceSlug: string;
 }) {
-  return absoluteUrl(
-    `/${page.citySlug}/${page.areaSlug}/${page.serviceSlug}/`
-  );
+  return absoluteUrl(serviceAreaPath(page.serviceSlug, page.areaSlug));
 }
 
 function getAbsoluteImageUrl(image?: string) {
@@ -75,13 +98,14 @@ export async function generateMetadata({
   params,
 }: ManualRouteProps): Promise<Metadata> {
   const resolvedParams = await params;
+  const catalogParams = getCatalogParams(resolvedParams);
 
   // Prefer the long-form service page when one exists.
-  const manualPage = getManualServicePage(resolvedParams);
+  const manualPage = getManualServicePage(catalogParams);
 
   if (manualPage) {
     // Return long-form page metadata.
-    const url = `${siteConfig.url}/${resolvedParams.city}/${resolvedParams.area}/${resolvedParams.service}/`;
+    const url = absoluteUrl(serviceAreaPath(manualPage.serviceSlug, manualPage.areaSlug));
     const imageUrl = getAbsoluteImageUrl(
       getServiceHeroImage(manualPage.serviceSlug as ServiceSlug)
     );
@@ -120,21 +144,21 @@ export async function generateMetadata({
     };
   }
 
-  const entry = getServiceAreaEntry(resolvedParams);
-  const area = getAreaBySlug(resolvedParams.area);
-  const service = getServiceBySlug(resolvedParams.service);
+  const entry = getServiceAreaEntry(catalogParams);
+  const area = getAreaBySlug(catalogParams.area);
+  const service = getServiceBySlug(catalogParams.service);
 
   if (!entry || !area || !service) {
     return {
-      title: "Service Not Found | DK Safety Solutions",
+      title: "Service Not Found | SRI KRISHNA INVISIBLE GRILLS",
       description: "The requested service page could not be found.",
     };
   }
 
   const detail = getServiceDetail(service.slug);
-  const title = `${service.name} in ${area.name} Chennai | DK Safety Solutions`;
-  const description = `${detail.shortBenefit} ${entry.localAngle} Contact DK Safety Solutions for ${area.name}, Chennai service.`;
-  const url = `${siteConfig.url}/${resolvedParams.city}/${resolvedParams.area}/${resolvedParams.service}/`;
+  const title = `${service.name} in ${area.name} Chennai | SRI KRISHNA INVISIBLE GRILLS`;
+  const description = `${detail.shortBenefit} ${entry.localAngle} Contact SRI KRISHNA INVISIBLE GRILLS for ${area.name}, Chennai service.`;
+  const url = absoluteUrl(serviceAreaPath(service.slug, area.slug));
   const imageUrl = getAbsoluteImageUrl(getServiceHeroImage(service.slug));
 
   return {
@@ -144,7 +168,7 @@ export async function generateMetadata({
       `${service.name.toLowerCase()} in ${area.name}`,
       `${service.name.toLowerCase()} Chennai`,
       `${area.name} ${service.name.toLowerCase()}`,
-      `DK Safety Solutions Chennai`,
+      `SRI KRISHNA INVISIBLE GRILLS Chennai`,
     ],
     alternates: {
       canonical: url,
@@ -178,9 +202,14 @@ export default async function ManualServiceRoute({
   params,
 }: ManualRouteProps) {
   const resolvedParams = await params;
+  if (isLegacyAreaFirstRoute(resolvedParams)) {
+    redirect(serviceAreaPath(resolvedParams.service, resolvedParams.area));
+  }
+
+  const catalogParams = normalizePublicRouteParams(resolvedParams);
 
   // Prefer the long-form service page when one exists.
-  const manualPage = getManualServicePage(resolvedParams);
+  const manualPage = getManualServicePage(catalogParams);
 
   if (manualPage) {
     // Render the long-form page with existing logic.
@@ -208,8 +237,12 @@ export default async function ManualServiceRoute({
         { name: "Home", url: absoluteUrl("/") },
         { name: "Chennai", url: absoluteUrl(`/${manualPage.citySlug}/`) },
         {
+          name: manualPage.serviceSlug,
+          url: absoluteUrl(servicePath(manualPage.serviceSlug)),
+        },
+        {
           name: manualPage.areaSlug,
-          url: absoluteUrl(`/${manualPage.citySlug}/${manualPage.areaSlug}/`),
+          url: absoluteUrl(areaPath(manualPage.areaSlug)),
         },
         { name: manualPage.hero.title, url },
       ]),
@@ -228,18 +261,16 @@ export default async function ManualServiceRoute({
     );
   }
 
-  const entry = getServiceAreaEntry(resolvedParams);
-  const area = getAreaBySlug(resolvedParams.area);
-  const service = getServiceBySlug(resolvedParams.service);
+  const entry = getServiceAreaEntry(catalogParams);
+  const area = getAreaBySlug(catalogParams.area);
+  const service = getServiceBySlug(catalogParams.service);
 
   if (!entry || !area || !service) {
     notFound();
   }
 
   const detail = getServiceDetail(service.slug);
-  const url = absoluteUrl(
-    `/${resolvedParams.city}/${resolvedParams.area}/${resolvedParams.service}/`
-  );
+  const url = absoluteUrl(serviceAreaPath(service.slug, area.slug));
   const imageUrl = getAbsoluteImageUrl(getServiceHeroImage(service.slug));
   const pageTitle = `${service.name} in ${area.name} Chennai`;
   const jsonLd = getGraphSchema([
@@ -259,7 +290,8 @@ export default async function ManualServiceRoute({
     getBreadcrumbListSchema([
       { name: "Home", url: absoluteUrl("/") },
       { name: "Chennai", url: absoluteUrl(`/${resolvedParams.city}/`) },
-      { name: area.name, url: absoluteUrl(`/${resolvedParams.city}/${area.slug}/`) },
+      { name: service.name, url: absoluteUrl(servicePath(service.slug)) },
+      { name: area.name, url: absoluteUrl(areaPath(area.slug)) },
       { name: service.name, url },
     ]),
   ]);

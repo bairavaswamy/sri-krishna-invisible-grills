@@ -88,12 +88,7 @@ export const chennaiConfig = {
     {
       name: "Children Safety Nets",
       slug: "children-safety-nets",
-      angle: "Family-focused protection for balconies, windows, and open edges.",
-    },
-    {
-      name: "Anti Bird Nets",
-      slug: "anti-bird-nets",
-      angle: "Bird entry control for balconies, ducts, shafts, and utility openings.",
+      angle: "Child-focused balcony, window, and open-edge protection with neat fixing.",
     },
     {
       name: "Pigeon Safety Nets",
@@ -136,19 +131,9 @@ export const chennaiConfig = {
       angle: "Vertical fall protection for staircases, voids, and duplex edges.",
     },
     {
-      name: "Swimming Pool Safety Nets",
-      slug: "swimming-pool-safety-nets",
-      angle: "Custom safety netting for pools, decks, and common amenities.",
-    },
-    {
       name: "Cricket Practice Nets",
       slug: "cricket-practice-nets",
       angle: "Containment netting for terraces, academies, and society play zones.",
-    },
-    {
-      name: "Football Sports Nets",
-      slug: "football-sports-nets",
-      angle: "Sports containment for open play areas and community courts.",
     },
     {
       name: "Bird Spikes Installation",

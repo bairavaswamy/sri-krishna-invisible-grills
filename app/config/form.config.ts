@@ -21,4 +21,4 @@ export const FORMSPREE_URL = "https://formspree.io/f/xnjbvpvy";
 export const FORM_RECIPIENT_EMAIL = siteConfig.contact.email;
 
 // Form name for email subject
-export const FORM_NAME = "DK Safety Solutions - Contact Form";
+export const FORM_NAME = "SRI KRISHNA INVISIBLE GRILLS - Contact Form";

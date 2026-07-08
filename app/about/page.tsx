@@ -11,7 +11,7 @@ import { absoluteUrl, siteConfig } from "../config/site.config";
 
 const title = `About ${siteConfig.name}`;
 const description =
-  "Learn how DK Safety Solutions plans Chennai safety net, invisible grill, bird-control, sports net, and utility installations.";
+  "Learn how SRI KRISHNA INVISIBLE GRILLS plans Chennai safety net, invisible grill, bird-control, sports net, and utility installations.";
 
 export const metadata: Metadata = {
   title,

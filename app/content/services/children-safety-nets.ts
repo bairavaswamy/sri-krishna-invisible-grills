@@ -6,14 +6,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "adyar",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Adyar Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Adyar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Adyar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Adyar",
         "kids safety nets Adyar Chennai",
         "child safety balcony nets Adyar",
         "window child safety nets Adyar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Adyar Chennai",
       "openGraphDescription": "A manual Adyar guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -50,7 +50,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Adyar after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Adyar work often needs calm finishing around established apartments, tree-facing balconies, older wall surfaces, and homes where children, elders, plants, and bird control needs overlap. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Adyar, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Adyar, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -171,7 +171,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Adyar flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Adyar flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -213,10 +213,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Adyar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Adyar homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -224,14 +224,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "alandur",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Alandur Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Alandur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Alandur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Alandur",
         "kids safety nets Alandur Chennai",
         "child safety balcony nets Alandur",
         "window child safety nets Alandur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Alandur Chennai",
       "openGraphDescription": "A manual Alandur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -268,7 +268,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Alandur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Alandur projects need practical scheduling, dust-aware materials, careful drilling in compact flats, and neat work that does not disturb busy family routines. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Alandur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Alandur, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -389,7 +389,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Alandur flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Alandur flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -431,10 +431,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Alandur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Alandur homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -442,14 +442,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ambattur",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Ambattur Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Ambattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Ambattur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Ambattur",
         "kids safety nets Ambattur Chennai",
         "child safety balcony nets Ambattur",
         "window child safety nets Ambattur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Ambattur Chennai",
       "openGraphDescription": "A manual Ambattur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -486,7 +486,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Ambattur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Ambattur installations should stay durable and budget-aware while handling mixed home types, dust, birds, children, pets, and everyday balcony utility use. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Ambattur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Ambattur, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -607,7 +607,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Ambattur flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Ambattur flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -649,10 +649,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Ambattur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Ambattur homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -660,14 +660,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "aminjikarai",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Aminjikarai Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Aminjikarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Aminjikarai, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Aminjikarai",
         "kids safety nets Aminjikarai Chennai",
         "child safety balcony nets Aminjikarai",
         "window child safety nets Aminjikarai",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Aminjikarai Chennai",
       "openGraphDescription": "A manual Aminjikarai guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -704,7 +704,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Aminjikarai after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Aminjikarai homes often need careful access planning, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Aminjikarai, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Aminjikarai, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -825,7 +825,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Aminjikarai flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Aminjikarai flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -867,10 +867,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Aminjikarai homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Aminjikarai homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -878,14 +878,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "anna-nagar",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Anna Nagar Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Anna Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Unique detailed guide for children safety nets in Anna Nagar, Chennai, covering balconies, windows, stair voids, pets, elders, apartment rules, and safe installation planning.",
       "keywords": [
         "children safety nets in Anna Nagar",
         "kids safety nets Chennai",
         "child safety balcony nets Anna Nagar",
         "apartment safety nets Anna Nagar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Anna Nagar Chennai",
       "openGraphDescription": "A area Anna Nagar children safety net guide for families planning balcony, window, staircase, and open-edge protection.",
@@ -1072,7 +1072,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It is better to plan early if the home has high balconies, reachable windows, or stair voids. Once a child starts crawling, pulling up, or climbing furniture, risky movement can begin quickly. Installing before that stage gives the family time to arrange furniture, balcony use, and window habits calmly."
       },
       {
-        "question": "Can DK Safety Solutions cover balcony, window, and staircase openings together?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS cover balcony, window, and staircase openings together?",
         "answer": "Yes, a complete visit can review multiple openings in one home. That is useful for Anna Nagar families because the risk may not be limited to one balcony. The quote should separate each area clearly so the family can decide what to complete immediately and what can be scheduled later."
       }
     ],
@@ -1082,7 +1082,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "Children safety nets should feel like calm protection, not a daily obstruction. The best result comes from studying the child, the room, the balcony, the windows, the building rules, and the family's normal movement.",
         "If you are planning child safety in Anna Nagar, start with a complete site visit and a clear explanation. A correct net line should answer the risk before it answers only the price."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1090,14 +1090,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "arumbakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Arumbakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Arumbakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Arumbakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Arumbakkam",
         "kids safety nets Arumbakkam Chennai",
         "child safety balcony nets Arumbakkam",
         "window child safety nets Arumbakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Arumbakkam Chennai",
       "openGraphDescription": "A manual Arumbakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -1134,7 +1134,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Arumbakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Arumbakkam jobs benefit from quick measurement, minimal disruption, strong anchors, and low-maintenance finishes for homes close to active roads and commercial pockets. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Arumbakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Arumbakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -1255,7 +1255,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Arumbakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Arumbakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -1297,10 +1297,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Arumbakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Arumbakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1308,14 +1308,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ashok-nagar",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Ashok Nagar Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Ashok Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Ashok Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Ashok Nagar",
         "kids safety nets Ashok Nagar Chennai",
         "child safety balcony nets Ashok Nagar",
         "window child safety nets Ashok Nagar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Ashok Nagar Chennai",
       "openGraphDescription": "A manual Ashok Nagar guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -1352,7 +1352,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Ashok Nagar after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Ashok Nagar work should protect children and pets while keeping front-facing balconies neat from the hall, the street, and neighboring homes. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Ashok Nagar, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Ashok Nagar, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -1473,7 +1473,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Ashok Nagar flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Ashok Nagar flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -1515,9 +1515,9 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Ashok Nagar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1525,14 +1525,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "avadi",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Avadi Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Avadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Avadi, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Avadi",
         "kids safety nets Avadi Chennai",
         "child safety balcony nets Avadi",
         "window child safety nets Avadi",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Avadi Chennai",
       "openGraphDescription": "A manual Avadi guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -1569,7 +1569,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Avadi after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Avadi projects often need strong material selection, practical pricing, and coverage for apartments, terraces, windows, and homes with more exposed outdoor edges. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Avadi, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Avadi, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -1690,7 +1690,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Avadi flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Avadi flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -1732,10 +1732,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Avadi homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Avadi homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1743,14 +1743,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "besant-nagar",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Besant Nagar Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Besant Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Besant Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Besant Nagar",
         "kids safety nets Besant Nagar Chennai",
         "child safety balcony nets Besant Nagar",
         "window child safety nets Besant Nagar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Besant Nagar Chennai",
       "openGraphDescription": "A manual Besant Nagar guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -1787,7 +1787,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Besant Nagar after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety planning for balconies that face breeze, sand, and humidity. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Besant Nagar, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Besant Nagar, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -1908,7 +1908,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Besant Nagar flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Besant Nagar flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -1950,9 +1950,9 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Besant Nagar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1960,14 +1960,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "chetpet",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Chetpet Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Chetpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Chetpet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Chetpet",
         "kids safety nets Chetpet Chennai",
         "child safety balcony nets Chetpet",
         "window child safety nets Chetpet",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Chetpet Chennai",
       "openGraphDescription": "A manual Chetpet guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -2004,7 +2004,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Chetpet after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Chetpet jobs should balance refined appearance with careful anchoring, because many homes expect quiet finishes, low disturbance, and trustworthy installation behavior. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Chetpet, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Chetpet, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -2125,7 +2125,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Chetpet flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Chetpet flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -2167,10 +2167,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Chetpet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Chetpet homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2178,14 +2178,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "choolaimedu",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Choolaimedu Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Choolaimedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Choolaimedu, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Choolaimedu",
         "kids safety nets Choolaimedu Chennai",
         "child safety balcony nets Choolaimedu",
         "window child safety nets Choolaimedu",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Choolaimedu Chennai",
       "openGraphDescription": "A manual Choolaimedu guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -2222,7 +2222,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Choolaimedu after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Choolaimedu pages should focus on practical installation, renter-friendly planning, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Choolaimedu, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Choolaimedu, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -2343,7 +2343,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Choolaimedu flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Choolaimedu flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -2385,10 +2385,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Choolaimedu homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Choolaimedu homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2396,14 +2396,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "chromepet",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Chromepet Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Chromepet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Chromepet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Chromepet",
         "kids safety nets Chromepet Chennai",
         "child safety balcony nets Chromepet",
         "window child safety nets Chromepet",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Chromepet Chennai",
       "openGraphDescription": "A manual Chromepet guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -2440,7 +2440,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Chromepet after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Chromepet work needs budget clarity, strong material choices, neat drilling, and dust-aware finishing for families comparing quality against low short-term quotes. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Chromepet, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Chromepet, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -2561,7 +2561,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Chromepet flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Chromepet flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -2603,10 +2603,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Chromepet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Chromepet homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2614,14 +2614,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "egmore",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Egmore Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Egmore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Egmore, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Egmore",
         "kids safety nets Egmore Chennai",
         "child safety balcony nets Egmore",
         "window child safety nets Egmore",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Egmore Chennai",
       "openGraphDescription": "A manual Egmore guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -2658,7 +2658,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Egmore after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Egmore service calls should consider careful access, older surfaces, clean finishing, and safety solutions that look composed in established central-Chennai buildings. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Egmore, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Egmore, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -2779,7 +2779,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Egmore flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Egmore flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -2821,10 +2821,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Egmore homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Egmore homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2832,14 +2832,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "guindy",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Guindy Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Guindy Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Guindy, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Guindy",
         "kids safety nets Guindy Chennai",
         "child safety balcony nets Guindy",
         "window child safety nets Guindy",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Guindy Chennai",
       "openGraphDescription": "A manual Guindy guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -2876,7 +2876,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Guindy after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Guindy jobs need fast coordination for working families, dust-aware protection, compact-site access, and clean installation in residential-commercial surroundings. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Guindy, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Guindy, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -2997,7 +2997,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Guindy flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Guindy flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -3039,10 +3039,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Guindy homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Guindy homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3050,14 +3050,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "injambakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Injambakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Injambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Injambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Injambakkam",
         "kids safety nets Injambakkam Chennai",
         "child safety balcony nets Injambakkam",
         "window child safety nets Injambakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Injambakkam Chennai",
       "openGraphDescription": "A manual Injambakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -3094,7 +3094,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Injambakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Injambakkam installations should account for coastal wind, larger home layouts, terraces, pets, and material durability in more exposed seaside residential pockets. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Injambakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Injambakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -3215,7 +3215,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Injambakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Injambakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -3257,10 +3257,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Injambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Injambakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3268,14 +3268,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "k-k-nagar",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in K K Nagar Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in K K Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in K K Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in K K Nagar",
         "kids safety nets K K Nagar Chennai",
         "child safety balcony nets K K Nagar",
         "window child safety nets K K Nagar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in K K Nagar Chennai",
       "openGraphDescription": "A manual K K Nagar guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -3312,7 +3312,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in K K Nagar after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "K K Nagar work should feel careful and respectful, with attention to older railings, visiting grandchildren, low visual clutter, and easy maintenance. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in K K Nagar, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in K K Nagar, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -3433,7 +3433,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented K K Nagar flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented K K Nagar flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -3476,7 +3476,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3484,14 +3484,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kandanchavadi",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Kandanchavadi Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Kandanchavadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Kandanchavadi, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kandanchavadi",
         "kids safety nets Kandanchavadi Chennai",
         "child safety balcony nets Kandanchavadi",
         "window child safety nets Kandanchavadi",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kandanchavadi Chennai",
       "openGraphDescription": "A manual Kandanchavadi guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -3528,7 +3528,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Kandanchavadi after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Kandanchavadi service pages should address high-rise access, quick scheduling, association expectations, wind exposure, and practical safety for working families. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Kandanchavadi, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Kandanchavadi, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -3649,7 +3649,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Kandanchavadi flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Kandanchavadi flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -3691,10 +3691,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Kandanchavadi homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Kandanchavadi homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3702,14 +3702,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "karapakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Karapakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Karapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Karapakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Karapakkam",
         "kids safety nets Karapakkam Chennai",
         "child safety balcony nets Karapakkam",
         "window child safety nets Karapakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Karapakkam Chennai",
       "openGraphDescription": "A manual Karapakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -3746,7 +3746,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Karapakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in planning, and durable finishes for newer residential towers. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Karapakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Karapakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -3867,7 +3867,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Karapakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Karapakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -3909,10 +3909,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Karapakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Karapakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3920,14 +3920,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kelambakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Kelambakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Kelambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Kelambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kelambakkam",
         "kids safety nets Kelambakkam Chennai",
         "child safety balcony nets Kelambakkam",
         "window child safety nets Kelambakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kelambakkam Chennai",
       "openGraphDescription": "A manual Kelambakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -3964,7 +3964,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Kelambakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout planning and durable exposed materials. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Kelambakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Kelambakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -4085,7 +4085,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Kelambakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Kelambakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -4127,10 +4127,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Kelambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Kelambakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4138,14 +4138,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kilpauk",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Kilpauk Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Kilpauk Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Kilpauk, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kilpauk",
         "kids safety nets Kilpauk Chennai",
         "child safety balcony nets Kilpauk",
         "window child safety nets Kilpauk",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kilpauk Chennai",
       "openGraphDescription": "A manual Kilpauk guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -4182,7 +4182,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Kilpauk after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety planning for established residences that expect tidy work. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Kilpauk, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Kilpauk, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -4303,7 +4303,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Kilpauk flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Kilpauk flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -4345,10 +4345,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Kilpauk homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Kilpauk homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4356,14 +4356,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kodambakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Kodambakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Kodambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Kodambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kodambakkam",
         "kids safety nets Kodambakkam Chennai",
         "child safety balcony nets Kodambakkam",
         "window child safety nets Kodambakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kodambakkam Chennai",
       "openGraphDescription": "A manual Kodambakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -4400,7 +4400,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Kodambakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Kodambakkam installations need attention to aged surfaces, compact access, bird control, dust, and minimal-damage fixing for homes with changed layouts. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Kodambakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Kodambakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -4521,7 +4521,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Kodambakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Kodambakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -4563,10 +4563,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Kodambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Kodambakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4574,14 +4574,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kolathur",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Kolathur Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Kolathur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Kolathur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kolathur",
         "kids safety nets Kolathur Chennai",
         "child safety balcony nets Kolathur",
         "window child safety nets Kolathur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kolathur Chennai",
       "openGraphDescription": "A manual Kolathur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -4618,7 +4618,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Kolathur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Kolathur projects should be practical, clear on price, and strong on material quality for homes that need daily-use balcony, window, terrace, and bird-control protection. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Kolathur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Kolathur, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -4739,7 +4739,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Kolathur flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Kolathur flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -4781,10 +4781,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Kolathur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Kolathur homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4792,14 +4792,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "korattur",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Korattur Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Korattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Korattur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Korattur",
         "kids safety nets Korattur Chennai",
         "child safety balcony nets Korattur",
         "window child safety nets Korattur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Korattur Chennai",
       "openGraphDescription": "A manual Korattur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -4836,7 +4836,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Korattur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Korattur work benefits from weather-aware planning, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Korattur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Korattur, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -4957,7 +4957,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Korattur flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Korattur flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -4999,10 +4999,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Korattur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Korattur homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5010,14 +5010,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "kottivakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Kottivakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Kottivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Kottivakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kottivakkam",
         "kids safety nets Kottivakkam Chennai",
         "child safety balcony nets Kottivakkam",
         "window child safety nets Kottivakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kottivakkam Chennai",
       "openGraphDescription": "A manual Kottivakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -5054,7 +5054,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Kottivakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Kottivakkam service entries should balance open-view expectations with coastal durability, corrosion-aware fittings, pet safety, and clean visible lines. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Kottivakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Kottivakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -5175,7 +5175,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Kottivakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Kottivakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -5217,10 +5217,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Kottivakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Kottivakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5228,14 +5228,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "koyambedu",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Koyambedu Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Koyambedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Koyambedu, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Koyambedu",
         "kids safety nets Koyambedu Chennai",
         "child safety balcony nets Koyambedu",
         "window child safety nets Koyambedu",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Koyambedu Chennai",
       "openGraphDescription": "A manual Koyambedu guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -5272,7 +5272,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Koyambedu after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Koyambedu jobs need practical timing, compact access planning, dust control, and strong low-maintenance materials for homes near active road and market movement. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Koyambedu, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Koyambedu, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -5393,7 +5393,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Koyambedu flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Koyambedu flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -5435,10 +5435,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Koyambedu homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Koyambedu homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5446,14 +5446,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "madipakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Madipakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Madipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Madipakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Madipakkam",
         "kids safety nets Madipakkam Chennai",
         "child safety balcony nets Madipakkam",
         "window child safety nets Madipakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Madipakkam Chennai",
       "openGraphDescription": "A manual Madipakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -5490,7 +5490,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Madipakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Madipakkam installations should focus on daily balcony use, rain and dust maintenance, child and pet safety, and clear quotes for family apartments. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Madipakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Madipakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -5611,7 +5611,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Madipakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Madipakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -5653,10 +5653,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Madipakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Madipakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5664,14 +5664,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "madhavaram",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Madhavaram Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Madhavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Madhavaram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Madhavaram",
         "kids safety nets Madhavaram Chennai",
         "child safety balcony nets Madhavaram",
         "window child safety nets Madhavaram",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Madhavaram Chennai",
       "openGraphDescription": "A manual Madhavaram guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -5708,7 +5708,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Madhavaram after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Madhavaram projects should keep installation durable, practical, and easy to maintain for homes that often need balcony, terrace, window, and bird-control coverage together. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Madhavaram, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Madhavaram, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -5829,7 +5829,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Madhavaram flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Madhavaram flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -5871,10 +5871,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Madhavaram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Madhavaram homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5882,14 +5882,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "medavakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Medavakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Medavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Medavakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Medavakkam",
         "kids safety nets Medavakkam Chennai",
         "child safety balcony nets Medavakkam",
         "window child safety nets Medavakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Medavakkam Chennai",
       "openGraphDescription": "A manual Medavakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -5926,7 +5926,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Medavakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Medavakkam pages should explain reliable materials, transparent pricing, child safety, and site measurement for newer apartments and everyday family homes. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Medavakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Medavakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -6047,7 +6047,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Medavakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Medavakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -6089,10 +6089,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Medavakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Medavakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6100,14 +6100,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mogappair",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Mogappair Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Mogappair Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Mogappair, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Mogappair",
         "kids safety nets Mogappair Chennai",
         "child safety balcony nets Mogappair",
         "window child safety nets Mogappair",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Mogappair Chennai",
       "openGraphDescription": "A manual Mogappair guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -6144,7 +6144,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Mogappair after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Mogappair installations should emphasize family safety, neat exterior finish, association approval, and dependable service for apartments with children and elders. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Mogappair, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Mogappair, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -6265,7 +6265,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Mogappair flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Mogappair flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -6307,10 +6307,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Mogappair homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Mogappair homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6318,14 +6318,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mugalivakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Mugalivakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Mugalivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Mugalivakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Mugalivakkam",
         "kids safety nets Mugalivakkam Chennai",
         "child safety balcony nets Mugalivakkam",
         "window child safety nets Mugalivakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Mugalivakkam Chennai",
       "openGraphDescription": "A manual Mugalivakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -6362,7 +6362,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Mugalivakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Mugalivakkam jobs need flexible planning for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Mugalivakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Mugalivakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -6483,7 +6483,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Mugalivakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Mugalivakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -6525,10 +6525,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Mugalivakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Mugalivakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6536,14 +6536,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mylapore",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Mylapore Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Mylapore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Mylapore, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Mylapore",
         "kids safety nets Mylapore Chennai",
         "child safety balcony nets Mylapore",
         "window child safety nets Mylapore",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Mylapore Chennai",
       "openGraphDescription": "A manual Mylapore guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -6580,7 +6580,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Mylapore after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Mylapore service pages should sound calm and careful, with attention to older wall conditions, low-visual-noise safety, and respectful installation in established homes. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Mylapore, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Mylapore, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -6701,7 +6701,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Mylapore flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Mylapore flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -6743,10 +6743,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Mylapore homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Mylapore homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6754,14 +6754,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "nanganallur",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Nanganallur Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Nanganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Nanganallur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Nanganallur",
         "kids safety nets Nanganallur Chennai",
         "child safety balcony nets Nanganallur",
         "window child safety nets Nanganallur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Nanganallur Chennai",
       "openGraphDescription": "A manual Nanganallur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -6798,7 +6798,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Nanganallur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Nanganallur installations should focus on trust, careful inspection, elder and child safety, and finishes that keep familiar homes looking composed. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Nanganallur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Nanganallur, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -6919,7 +6919,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Nanganallur flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Nanganallur flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -6961,10 +6961,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Nanganallur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Nanganallur homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6972,14 +6972,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "navalur",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Navalur Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Navalur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Navalur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Navalur",
         "kids safety nets Navalur Chennai",
         "child safety balcony nets Navalur",
         "window child safety nets Navalur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Navalur Chennai",
       "openGraphDescription": "A manual Navalur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -7016,7 +7016,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Navalur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Navalur work should account for association-approved exterior lines, high-rise wind, pet-safe and child-safe openings, and newer apartment setup needs. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Navalur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Navalur, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -7137,7 +7137,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Navalur flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Navalur flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -7179,10 +7179,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Navalur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Navalur homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7190,14 +7190,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "neelankarai",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Neelankarai Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Neelankarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Neelankarai, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Neelankarai",
         "kids safety nets Neelankarai Chennai",
         "child safety balcony nets Neelankarai",
         "window child safety nets Neelankarai",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Neelankarai Chennai",
       "openGraphDescription": "A manual Neelankarai guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -7234,7 +7234,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Neelankarai after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Neelankarai projects need coastal-grade planning, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Neelankarai, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Neelankarai, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -7355,7 +7355,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Neelankarai flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Neelankarai flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -7397,10 +7397,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Neelankarai homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Neelankarai homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7408,14 +7408,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "nungambakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Nungambakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Nungambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Nungambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Nungambakkam",
         "kids safety nets Nungambakkam Chennai",
         "child safety balcony nets Nungambakkam",
         "window child safety nets Nungambakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Nungambakkam Chennai",
       "openGraphDescription": "A manual Nungambakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -7452,7 +7452,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Nungambakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Nungambakkam service entries should emphasize discreet hardware, straight alignment, premium finish, and clean installation that respects high-value interiors. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Nungambakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Nungambakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -7573,7 +7573,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Nungambakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Nungambakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -7615,10 +7615,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Nungambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Nungambakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7626,14 +7626,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "pallavaram",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Pallavaram Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Pallavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Pallavaram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Pallavaram",
         "kids safety nets Pallavaram Chennai",
         "child safety balcony nets Pallavaram",
         "window child safety nets Pallavaram",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Pallavaram Chennai",
       "openGraphDescription": "A manual Pallavaram guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -7670,7 +7670,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Pallavaram after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Pallavaram work should cover wind, dust, child safety, utility use, and strong fixing for families living around active roads and changing residential pockets. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Pallavaram, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Pallavaram, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -7791,7 +7791,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Pallavaram flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Pallavaram flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -7833,10 +7833,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Pallavaram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Pallavaram homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7844,14 +7844,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "pallikaranai",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Pallikaranai Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Pallikaranai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Pallikaranai, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Pallikaranai",
         "kids safety nets Pallikaranai Chennai",
         "child safety balcony nets Pallikaranai",
         "window child safety nets Pallikaranai",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Pallikaranai Chennai",
       "openGraphDescription": "A manual Pallikaranai guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -7888,7 +7888,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Pallikaranai after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Pallikaranai installations should be weather-aware and practical, with attention to rain, cleaning, bird entry routes, and child-safe daily-use balconies. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Pallikaranai, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Pallikaranai, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -8009,7 +8009,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Pallikaranai flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Pallikaranai flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -8051,10 +8051,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Pallikaranai homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Pallikaranai homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8062,14 +8062,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "perambur",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Perambur Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Perambur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Perambur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Perambur",
         "kids safety nets Perambur Chennai",
         "child safety balcony nets Perambur",
         "window child safety nets Perambur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Perambur Chennai",
       "openGraphDescription": "A manual Perambur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -8106,7 +8106,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Perambur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware planning for homes with compact balcony and window openings. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Perambur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Perambur, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -8227,7 +8227,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Perambur flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Perambur flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -8269,10 +8269,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Perambur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Perambur homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8280,14 +8280,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "perungudi",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Perungudi Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Perungudi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Perungudi, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Perungudi",
         "kids safety nets Perungudi Chennai",
         "child safety balcony nets Perungudi",
         "window child safety nets Perungudi",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Perungudi Chennai",
       "openGraphDescription": "A manual Perungudi guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -8324,7 +8324,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Perungudi after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Perungudi service pages should address high-rise wind, working-family scheduling, clean border lines, association rules, child safety, pets, and pigeons. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Perungudi, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Perungudi, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -8445,7 +8445,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Perungudi flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Perungudi flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -8487,10 +8487,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Perungudi homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Perungudi homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8498,14 +8498,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "poonamallee",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Poonamallee Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Poonamallee Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Poonamallee, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Poonamallee",
         "kids safety nets Poonamallee Chennai",
         "child safety balcony nets Poonamallee",
         "window child safety nets Poonamallee",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Poonamallee Chennai",
       "openGraphDescription": "A manual Poonamallee guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -8542,7 +8542,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Poonamallee after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Poonamallee installations should be budget-aware but quality-led, covering children, pets, elders, terraces, balconies, and durable fixing for varied home types. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Poonamallee, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Poonamallee, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -8663,7 +8663,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Poonamallee flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Poonamallee flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -8705,10 +8705,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Poonamallee homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Poonamallee homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8716,14 +8716,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "porur",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Porur Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Porur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Porur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Porur",
         "kids safety nets Porur Chennai",
         "child safety balcony nets Porur",
         "window child safety nets Porur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Porur Chennai",
       "openGraphDescription": "A manual Porur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -8760,7 +8760,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Porur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Porur pages should explain site visits, reliable installation after move-in, child and pet safety, balcony utility use, and long-term support for newer homes. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Porur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Porur, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -8881,7 +8881,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Porur flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Porur flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -8923,10 +8923,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Porur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Porur homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8934,14 +8934,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "purasawalkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Purasawalkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Purasawalkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Purasawalkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Purasawalkam",
         "kids safety nets Purasawalkam Chennai",
         "child safety balcony nets Purasawalkam",
         "window child safety nets Purasawalkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Purasawalkam Chennai",
       "openGraphDescription": "A manual Purasawalkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -8978,7 +8978,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Purasawalkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control planning around busy central streets. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Purasawalkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Purasawalkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -9099,7 +9099,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Purasawalkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Purasawalkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -9141,10 +9141,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Purasawalkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Purasawalkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9152,14 +9152,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ramapuram",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Ramapuram Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Ramapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Ramapuram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Ramapuram",
         "kids safety nets Ramapuram Chennai",
         "child safety balcony nets Ramapuram",
         "window child safety nets Ramapuram",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Ramapuram Chennai",
       "openGraphDescription": "A manual Ramapuram guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -9196,7 +9196,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Ramapuram after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Ramapuram service pages should connect balcony, window, staircase, and terrace safety for varied home layouts near busy work and residential zones. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Ramapuram, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Ramapuram, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -9317,7 +9317,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Ramapuram flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Ramapuram flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -9359,10 +9359,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Ramapuram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Ramapuram homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9370,14 +9370,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "royapettah",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Royapettah Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Royapettah Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Royapettah, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Royapettah",
         "kids safety nets Royapettah Chennai",
         "child safety balcony nets Royapettah",
         "window child safety nets Royapettah",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Royapettah Chennai",
       "openGraphDescription": "A manual Royapettah guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -9414,7 +9414,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Royapettah after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Royapettah projects should focus on low-disruption installation, careful drilling, visible neatness, and practical safety for older and mixed-use surroundings. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Royapettah, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Royapettah, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -9535,7 +9535,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Royapettah flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Royapettah flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -9577,10 +9577,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Royapettah homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Royapettah homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9588,14 +9588,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "saidapet",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Saidapet Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Saidapet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Saidapet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Saidapet",
         "kids safety nets Saidapet Chennai",
         "child safety balcony nets Saidapet",
         "window child safety nets Saidapet",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Saidapet Chennai",
       "openGraphDescription": "A manual Saidapet guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -9632,7 +9632,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Saidapet after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Saidapet work should address quick access, dust-aware maintenance, compact balcony use, child safety, and clear quotes for apartments close to major roads. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Saidapet, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Saidapet, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -9753,7 +9753,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Saidapet flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Saidapet flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -9795,10 +9795,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Saidapet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Saidapet homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9806,14 +9806,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "selaiyur",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Selaiyur Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Selaiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Selaiyur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Selaiyur",
         "kids safety nets Selaiyur Chennai",
         "child safety balcony nets Selaiyur",
         "window child safety nets Selaiyur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Selaiyur Chennai",
       "openGraphDescription": "A manual Selaiyur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -9850,7 +9850,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Selaiyur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Selaiyur service entries should be practical for growing families, with clear material choices, terrace and balcony coverage, pet safety, and reliable site measurement. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Selaiyur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Selaiyur, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -9971,7 +9971,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Selaiyur flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Selaiyur flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -10013,10 +10013,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Selaiyur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Selaiyur homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10024,14 +10024,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "sholinganallur",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Sholinganallur Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Sholinganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Sholinganallur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Sholinganallur",
         "kids safety nets Sholinganallur Chennai",
         "child safety balcony nets Sholinganallur",
         "window child safety nets Sholinganallur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Sholinganallur Chennai",
       "openGraphDescription": "A manual Sholinganallur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -10068,7 +10068,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Sholinganallur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety planning for children, pets, pigeons, and open utility edges. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Sholinganallur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Sholinganallur, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -10189,7 +10189,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Sholinganallur flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Sholinganallur flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -10231,10 +10231,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Sholinganallur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Sholinganallur homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10242,14 +10242,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "siruseri",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Siruseri Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Siruseri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Siruseri, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Siruseri",
         "kids safety nets Siruseri Chennai",
         "child safety balcony nets Siruseri",
         "window child safety nets Siruseri",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Siruseri Chennai",
       "openGraphDescription": "A manual Siruseri guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -10286,7 +10286,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Siruseri after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Siruseri pages should focus on move-in readiness, high-rise wind, bundled balcony-window safety, and durable installation for newly occupied flats. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Siruseri, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Siruseri, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -10407,7 +10407,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Siruseri flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Siruseri flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -10449,10 +10449,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Siruseri homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Siruseri homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10460,14 +10460,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "tambaram",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Tambaram Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Tambaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Tambaram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Tambaram",
         "kids safety nets Tambaram Chennai",
         "child safety balcony nets Tambaram",
         "window child safety nets Tambaram",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Tambaram Chennai",
       "openGraphDescription": "A manual Tambaram guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -10504,7 +10504,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Tambaram after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Tambaram installations should speak to owners and renters, compare material choices clearly, and cover children, pets, elders, balconies, windows, and terraces. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Tambaram, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Tambaram, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -10625,7 +10625,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Tambaram flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Tambaram flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -10667,10 +10667,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Tambaram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Tambaram homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10678,14 +10678,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "t-nagar",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in T Nagar Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in T Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in T Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in T Nagar",
         "kids safety nets T Nagar Chennai",
         "child safety balcony nets T Nagar",
         "window child safety nets T Nagar",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in T Nagar Chennai",
       "openGraphDescription": "A manual T Nagar guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -10722,7 +10722,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in T Nagar after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "T Nagar work needs careful drilling, low-disruption access, dust-aware bird control, and neat visible finishes for homes close to active commercial streets. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in T Nagar, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in T Nagar, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -10843,7 +10843,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented T Nagar flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented T Nagar flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -10885,9 +10885,9 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger T Nagar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10895,14 +10895,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "teynampet",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Teynampet Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Teynampet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Teynampet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Teynampet",
         "kids safety nets Teynampet Chennai",
         "child safety balcony nets Teynampet",
         "window child safety nets Teynampet",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Teynampet Chennai",
       "openGraphDescription": "A manual Teynampet guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -10939,7 +10939,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Teynampet after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety planning for central Chennai homes. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Teynampet, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Teynampet, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -11060,7 +11060,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Teynampet flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Teynampet flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -11102,10 +11102,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Teynampet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Teynampet homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11113,14 +11113,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "thiruvanmiyur",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Thiruvanmiyur Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Thiruvanmiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Thiruvanmiyur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Thiruvanmiyur",
         "kids safety nets Thiruvanmiyur Chennai",
         "child safety balcony nets Thiruvanmiyur",
         "window child safety nets Thiruvanmiyur",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Thiruvanmiyur Chennai",
       "openGraphDescription": "A manual Thiruvanmiyur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -11157,7 +11157,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Thiruvanmiyur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Thiruvanmiyur projects should balance coastal durability, quick scheduling, bird route blocking, child safety, and clean installation for busy apartment households. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Thiruvanmiyur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Thiruvanmiyur, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -11278,7 +11278,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Thiruvanmiyur flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Thiruvanmiyur flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -11320,10 +11320,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Thiruvanmiyur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Thiruvanmiyur homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11331,14 +11331,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "thoraipakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Thoraipakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Thoraipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Thoraipakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Thoraipakkam",
         "kids safety nets Thoraipakkam Chennai",
         "child safety balcony nets Thoraipakkam",
         "window child safety nets Thoraipakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Thoraipakkam Chennai",
       "openGraphDescription": "A manual Thoraipakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -11375,7 +11375,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Thoraipakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Thoraipakkam entries should explain quick but careful installation, rental-friendly planning, association-approved finish, pigeon control, and children safety. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Thoraipakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Thoraipakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -11496,7 +11496,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Thoraipakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Thoraipakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -11538,10 +11538,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Thoraipakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Thoraipakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11549,14 +11549,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "triplicane",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Triplicane Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Triplicane Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Triplicane, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Triplicane",
         "kids safety nets Triplicane Chennai",
         "child safety balcony nets Triplicane",
         "window child safety nets Triplicane",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Triplicane Chennai",
       "openGraphDescription": "A manual Triplicane guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -11593,7 +11593,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Triplicane after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Triplicane projects need patient access planning, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Triplicane, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Triplicane, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -11714,7 +11714,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Triplicane flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Triplicane flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -11756,10 +11756,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Triplicane homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Triplicane homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11767,14 +11767,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "vadapalani",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Vadapalani Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Vadapalani Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Vadapalani, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Vadapalani",
         "kids safety nets Vadapalani Chennai",
         "child safety balcony nets Vadapalani",
         "window child safety nets Vadapalani",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Vadapalani Chennai",
       "openGraphDescription": "A manual Vadapalani guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -11811,7 +11811,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Vadapalani after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Vadapalani service pages should focus on dust, traffic-facing openings, quick measurement, renter-friendly work, and clean finish for practical family flats. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Vadapalani, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Vadapalani, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -11932,7 +11932,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Vadapalani flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Vadapalani flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -11974,10 +11974,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Vadapalani homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Vadapalani homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11985,14 +11985,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "valasaravakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Valasaravakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Valasaravakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Valasaravakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Valasaravakkam",
         "kids safety nets Valasaravakkam Chennai",
         "child safety balcony nets Valasaravakkam",
         "window child safety nets Valasaravakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Valasaravakkam Chennai",
       "openGraphDescription": "A manual Valasaravakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -12029,7 +12029,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Valasaravakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Valasaravakkam installations should connect balcony, staircase, window, and terrace safety needs across varied family homes and apartment blocks. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Valasaravakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Valasaravakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -12150,7 +12150,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Valasaravakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Valasaravakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -12192,10 +12192,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Valasaravakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Valasaravakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12203,14 +12203,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "velachery",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Velachery Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Velachery Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Velachery, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Velachery",
         "kids safety nets Velachery Chennai",
         "child safety balcony nets Velachery",
         "window child safety nets Velachery",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Velachery Chennai",
       "openGraphDescription": "A manual Velachery guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -12247,7 +12247,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Velachery after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Velachery service entries should stay practical around compact balcony use, rain and humidity, quote clarity, child safety, pet safety, and daily maintenance. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Velachery, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Velachery, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -12368,7 +12368,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Velachery flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Velachery flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -12410,10 +12410,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Velachery homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Velachery homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12421,14 +12421,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "villivakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Villivakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Villivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Villivakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Villivakkam",
         "kids safety nets Villivakkam Chennai",
         "child safety balcony nets Villivakkam",
         "window child safety nets Villivakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Villivakkam Chennai",
       "openGraphDescription": "A manual Villivakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -12465,7 +12465,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Villivakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Villivakkam projects need durable materials, careful drilling, clear pricing, and simple maintenance for homes that use balconies and windows every day. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Villivakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Villivakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -12586,7 +12586,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Villivakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Villivakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -12628,10 +12628,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Villivakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Villivakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12639,14 +12639,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "virugambakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Virugambakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Virugambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Virugambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Virugambakkam",
         "kids safety nets Virugambakkam Chennai",
         "child safety balcony nets Virugambakkam",
         "window child safety nets Virugambakkam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Virugambakkam Chennai",
       "openGraphDescription": "A manual Virugambakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -12683,7 +12683,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in Virugambakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "Virugambakkam work should be neat, practical, and low-disruption, with attention to children, pets, birds, dust, and compact access. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in Virugambakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in Virugambakkam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -12804,7 +12804,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented Virugambakkam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented Virugambakkam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -12846,10 +12846,10 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger Virugambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use.",
         "When the family understands the purpose of every covered point, the installation feels easier to trust. That is especially helpful in Virugambakkam homes where several generations may use the same balcony, window, or utility space at different times of day."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12857,14 +12857,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "west-mambalam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in West Mambalam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in West Mambalam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in West Mambalam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
       "keywords": [
         "children safety nets in West Mambalam",
         "kids safety nets West Mambalam Chennai",
         "child safety balcony nets West Mambalam",
         "window child safety nets West Mambalam",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in West Mambalam Chennai",
       "openGraphDescription": "A manual West Mambalam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
@@ -12901,7 +12901,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Parents often ask for children safety nets in West Mambalam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
         "West Mambalam service pages should emphasize careful fixing, calm appearance, family trust, and safety work that respects older homes and daily routines. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
-        "Before quoting in West Mambalam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
+        "Before quoting in West Mambalam, SRI KRISHNA INVISIBLE GRILLS should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
     "sections": [
@@ -13022,7 +13022,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
-        "question": "Can DK Safety Solutions install nets in rented West Mambalam flats?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS install nets in rented West Mambalam flats?",
         "answer": "Rented flats can often be handled after owner or association permission is discussed. The team should explain fixing points, drilling needs, finish, and possible removal concerns before work starts so tenants can take informed approval."
       },
       {
@@ -13064,9 +13064,9 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "For larger West Mambalam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
         "During the first week, parents should watch how children move around the newly protected area. If a chair, toy box, plant stand, or drying rack starts becoming a step near the edge, move it early. The net handles the opening, but room arrangement still supports the safety plan.",
-        "DK Safety Solutions should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use."
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal tension looks like so families know when to call for support. A tight border, even mesh, and clean corner line are signs the installation is working as intended after regular home use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -13074,14 +13074,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "adambakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Adambakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Adambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Adambakkam, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Adambakkam",
         "children safety nets Adambakkam Chennai",
         "children safety nets near Adambakkam",
         "Adambakkam children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Adambakkam Chennai",
       "openGraphDescription": "A manual Adambakkam guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13118,7 +13118,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Adambakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Adambakkam work often needs attention to compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Adambakkam, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adambakkam, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13146,7 +13146,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Adambakkam, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13182,7 +13182,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13234,8 +13234,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Adambakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Adambakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Adambakkam?",
@@ -13247,7 +13247,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Adambakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13265,7 +13265,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Adambakkam with a site-specific visit",
       "paragraphs": [
-        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Adambakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Adambakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13284,14 +13284,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ayanavaram",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Ayanavaram Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Ayanavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Ayanavaram, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Ayanavaram",
         "children safety nets Ayanavaram Chennai",
         "children safety nets near Ayanavaram",
         "Ayanavaram children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Ayanavaram Chennai",
       "openGraphDescription": "A manual Ayanavaram guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13328,7 +13328,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Ayanavaram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ayanavaram work often needs attention to older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ayanavaram, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ayanavaram, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13356,7 +13356,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Ayanavaram, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13392,7 +13392,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13444,8 +13444,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ayanavaram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ayanavaram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Ayanavaram?",
@@ -13457,7 +13457,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ayanavaram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13475,7 +13475,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Ayanavaram with a site-specific visit",
       "paragraphs": [
-        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Ayanavaram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ayanavaram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13494,14 +13494,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "ekkattuthangal",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Ekkattuthangal Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Ekkattuthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Ekkattuthangal, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Ekkattuthangal",
         "children safety nets Ekkattuthangal Chennai",
         "children safety nets near Ekkattuthangal",
         "Ekkattuthangal children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Ekkattuthangal Chennai",
       "openGraphDescription": "A manual Ekkattuthangal guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13538,7 +13538,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Ekkattuthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ekkattuthangal work often needs attention to workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ekkattuthangal, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ekkattuthangal, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13566,7 +13566,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Ekkattuthangal, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13602,7 +13602,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13654,8 +13654,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ekkattuthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ekkattuthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Ekkattuthangal?",
@@ -13667,7 +13667,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ekkattuthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13685,7 +13685,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Ekkattuthangal with a site-specific visit",
       "paragraphs": [
-        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Ekkattuthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ekkattuthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13704,14 +13704,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "iyyappanthangal",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Iyyappanthangal Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Iyyappanthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Iyyappanthangal, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Iyyappanthangal",
         "children safety nets Iyyappanthangal Chennai",
         "children safety nets near Iyyappanthangal",
         "Iyyappanthangal children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Iyyappanthangal Chennai",
       "openGraphDescription": "A manual Iyyappanthangal guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13748,7 +13748,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Iyyappanthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Iyyappanthangal work often needs attention to fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Iyyappanthangal, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Iyyappanthangal, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13776,7 +13776,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Iyyappanthangal, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13812,7 +13812,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13864,8 +13864,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Iyyappanthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Iyyappanthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Iyyappanthangal?",
@@ -13877,7 +13877,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Iyyappanthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13895,7 +13895,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Iyyappanthangal with a site-specific visit",
       "paragraphs": [
-        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Iyyappanthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Iyyappanthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13914,14 +13914,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "manapakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Manapakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Manapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Manapakkam, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Manapakkam",
         "children safety nets Manapakkam Chennai",
         "children safety nets near Manapakkam",
         "Manapakkam children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Manapakkam Chennai",
       "openGraphDescription": "A manual Manapakkam guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13958,7 +13958,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Manapakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Manapakkam work often needs attention to IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Manapakkam, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Manapakkam, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13986,7 +13986,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Manapakkam, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14022,7 +14022,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14074,8 +14074,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Manapakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Manapakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Manapakkam?",
@@ -14087,7 +14087,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Manapakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14105,7 +14105,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Manapakkam with a site-specific visit",
       "paragraphs": [
-        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Manapakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Manapakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14124,14 +14124,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "mandaveli",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Mandaveli Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Mandaveli Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Mandaveli, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Mandaveli",
         "children safety nets Mandaveli Chennai",
         "children safety nets near Mandaveli",
         "Mandaveli children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Mandaveli Chennai",
       "openGraphDescription": "A manual Mandaveli guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14168,7 +14168,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Mandaveli, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mandaveli, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14196,7 +14196,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Mandaveli, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14232,7 +14232,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14284,8 +14284,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Mandaveli for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Mandaveli for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Mandaveli?",
@@ -14297,7 +14297,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Mandaveli conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14315,7 +14315,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Mandaveli with a site-specific visit",
       "paragraphs": [
-        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Mandaveli should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Mandaveli, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14334,14 +14334,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "palavakkam",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Palavakkam Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Palavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Palavakkam, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Palavakkam",
         "children safety nets Palavakkam Chennai",
         "children safety nets near Palavakkam",
         "Palavakkam children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Palavakkam Chennai",
       "openGraphDescription": "A manual Palavakkam guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14378,7 +14378,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Palavakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Palavakkam work often needs attention to coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Palavakkam, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Palavakkam, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14406,7 +14406,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Palavakkam, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14442,7 +14442,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14494,8 +14494,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Palavakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Palavakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Palavakkam?",
@@ -14507,7 +14507,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Palavakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14525,7 +14525,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Palavakkam with a site-specific visit",
       "paragraphs": [
-        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Palavakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Palavakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14544,14 +14544,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "periyar-nagar",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Periyar Nagar Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Periyar Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Periyar Nagar, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Periyar Nagar",
         "children safety nets Periyar Nagar Chennai",
         "children safety nets near Periyar Nagar",
         "Periyar Nagar children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Periyar Nagar Chennai",
       "openGraphDescription": "A manual Periyar Nagar guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14588,7 +14588,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Periyar Nagar should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Periyar Nagar work often needs attention to dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Periyar Nagar, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Periyar Nagar, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14616,7 +14616,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Periyar Nagar, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14652,7 +14652,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14704,8 +14704,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Periyar Nagar for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Periyar Nagar for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Periyar Nagar?",
@@ -14717,7 +14717,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Periyar Nagar conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14735,7 +14735,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Periyar Nagar with a site-specific visit",
       "paragraphs": [
-        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Periyar Nagar should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Periyar Nagar, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14753,14 +14753,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "royapuram",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Royapuram Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Royapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Royapuram, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Royapuram",
         "children safety nets Royapuram Chennai",
         "children safety nets near Royapuram",
         "Royapuram children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Royapuram Chennai",
       "openGraphDescription": "A manual Royapuram guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14797,7 +14797,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Royapuram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Royapuram work often needs attention to coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Royapuram, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapuram, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14825,7 +14825,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Royapuram, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14861,7 +14861,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14913,8 +14913,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Royapuram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Royapuram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Royapuram?",
@@ -14926,7 +14926,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Royapuram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14944,7 +14944,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Royapuram with a site-specific visit",
       "paragraphs": [
-        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Royapuram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Royapuram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14963,14 +14963,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "semmancheri",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Semmancheri Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Semmancheri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Semmancheri, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Semmancheri",
         "children safety nets Semmancheri Chennai",
         "children safety nets near Semmancheri",
         "Semmancheri children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Semmancheri Chennai",
       "openGraphDescription": "A manual Semmancheri guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15007,7 +15007,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Semmancheri should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Semmancheri work often needs attention to OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Semmancheri, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Semmancheri, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15035,7 +15035,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Semmancheri, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15071,7 +15071,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15123,8 +15123,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Semmancheri for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Semmancheri for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Semmancheri?",
@@ -15136,7 +15136,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Semmancheri conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15154,7 +15154,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Semmancheri with a site-specific visit",
       "paragraphs": [
-        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Semmancheri should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Semmancheri, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15173,14 +15173,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "tondiarpet",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Tondiarpet Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Tondiarpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Tondiarpet, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Tondiarpet",
         "children safety nets Tondiarpet Chennai",
         "children safety nets near Tondiarpet",
         "Tondiarpet children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Tondiarpet Chennai",
       "openGraphDescription": "A manual Tondiarpet guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15217,7 +15217,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Tondiarpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Tondiarpet work often needs attention to industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Tondiarpet, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tondiarpet, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15245,7 +15245,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Tondiarpet, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15281,7 +15281,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15333,8 +15333,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Tondiarpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Tondiarpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Tondiarpet?",
@@ -15346,7 +15346,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Tondiarpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15364,7 +15364,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Tondiarpet with a site-specific visit",
       "paragraphs": [
-        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Tondiarpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Tondiarpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15383,14 +15383,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "areaSlug": "washermanpet",
     "serviceSlug": "children-safety-nets",
     "metadata": {
-      "title": "Children Safety Nets in Washermanpet Chennai | DK Safety Solutions",
+      "title": "Children Safety Nets in Washermanpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for children safety nets in Washermanpet, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Washermanpet",
         "children safety nets Washermanpet Chennai",
         "children safety nets near Washermanpet",
         "Washermanpet children safety nets installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Washermanpet Chennai",
       "openGraphDescription": "A manual Washermanpet guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15427,7 +15427,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children Safety Nets in Washermanpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Washermanpet work often needs attention to busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Washermanpet, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Washermanpet, SRI KRISHNA INVISIBLE GRILLS should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15455,7 +15455,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "For Washermanpet, the material should be chosen around child-safe safety mesh, firm border rope, careful fixing, and gap-aware finishing around family-use openings. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15491,7 +15491,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: check tension regularly, keep climbable furniture away from edges, and avoid hanging heavy objects from the safety net. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15543,8 +15543,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "Price changes with opening size, child age group, furniture position, window or balcony type, anchor points, and usage pattern. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Washermanpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Washermanpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does children safety nets installation take in Washermanpet?",
@@ -15556,7 +15556,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Washermanpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15574,7 +15574,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan children safety nets in Washermanpet with a site-specific visit",
       "paragraphs": [
-        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why children safety nets in Washermanpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Washermanpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",

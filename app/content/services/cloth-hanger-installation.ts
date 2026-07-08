@@ -6,14 +6,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "adyar",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Adyar Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Adyar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Adyar, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Adyar",
         "cloth hanger installation Adyar Chennai",
         "cloth hanger installation near Adyar",
         "Adyar cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Adyar Chennai",
       "openGraphDescription": "A manual Adyar guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -50,7 +50,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Adyar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Adyar work often needs calm finishing around established apartments, tree-facing balconies, older wall surfaces, and homes where children, elders, plants, and bird control needs overlap. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Adyar, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adyar, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -171,7 +171,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Adyar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Adyar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -208,14 +208,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Adyar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Adyar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -223,14 +223,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "alandur",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Alandur Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Alandur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Alandur, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Alandur",
         "cloth hanger installation Alandur Chennai",
         "cloth hanger installation near Alandur",
         "Alandur cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Alandur Chennai",
       "openGraphDescription": "A manual Alandur guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -267,7 +267,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Alandur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Alandur projects need practical scheduling, dust-aware materials, careful drilling in compact flats, and neat work that does not disturb busy family routines. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Alandur, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Alandur, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -388,7 +388,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Alandur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Alandur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -425,14 +425,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Alandur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Alandur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -440,14 +440,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "ambattur",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Ambattur Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Ambattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Ambattur, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Ambattur",
         "cloth hanger installation Ambattur Chennai",
         "cloth hanger installation near Ambattur",
         "Ambattur cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Ambattur Chennai",
       "openGraphDescription": "A manual Ambattur guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -484,7 +484,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Ambattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ambattur installations should stay durable and budget-aware while handling mixed home types, dust, birds, children, pets, and everyday balcony utility use. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Ambattur, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ambattur, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -605,7 +605,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ambattur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ambattur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -642,14 +642,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ambattur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ambattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -657,14 +657,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "aminjikarai",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Aminjikarai Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Aminjikarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Aminjikarai, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Aminjikarai",
         "cloth hanger installation Aminjikarai Chennai",
         "cloth hanger installation near Aminjikarai",
         "Aminjikarai cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Aminjikarai Chennai",
       "openGraphDescription": "A manual Aminjikarai guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -701,7 +701,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Aminjikarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Aminjikarai homes often need careful access planning, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Aminjikarai, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Aminjikarai, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -822,7 +822,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Aminjikarai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Aminjikarai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -859,14 +859,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Aminjikarai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Aminjikarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -874,14 +874,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "anna-nagar",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Anna Nagar Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Anna Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Anna Nagar, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Anna Nagar",
         "cloth hanger installation Anna Nagar Chennai",
         "cloth hanger installation near Anna Nagar",
         "Anna Nagar cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Anna Nagar Chennai",
       "openGraphDescription": "A manual Anna Nagar guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -918,7 +918,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Anna Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Anna Nagar service pages should emphasize premium finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Anna Nagar, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Anna Nagar, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1039,7 +1039,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Anna Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Anna Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1076,12 +1076,12 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Anna Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Anna Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1089,14 +1089,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "arumbakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Arumbakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Arumbakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Arumbakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Arumbakkam",
         "cloth hanger installation Arumbakkam Chennai",
         "cloth hanger installation near Arumbakkam",
         "Arumbakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Arumbakkam Chennai",
       "openGraphDescription": "A manual Arumbakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1133,7 +1133,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Arumbakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Arumbakkam jobs benefit from quick measurement, minimal disruption, strong anchors, and low-maintenance finishes for homes close to active roads and commercial pockets. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Arumbakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Arumbakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1254,7 +1254,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Arumbakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Arumbakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1291,14 +1291,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Arumbakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Arumbakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1306,14 +1306,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "ashok-nagar",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Ashok Nagar Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Ashok Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Ashok Nagar, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Ashok Nagar",
         "cloth hanger installation Ashok Nagar Chennai",
         "cloth hanger installation near Ashok Nagar",
         "Ashok Nagar cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Ashok Nagar Chennai",
       "openGraphDescription": "A manual Ashok Nagar guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1350,7 +1350,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Ashok Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ashok Nagar work should protect children and pets while keeping front-facing balconies neat from the hall, the street, and neighboring homes. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Ashok Nagar, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ashok Nagar, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1471,7 +1471,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ashok Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ashok Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1508,12 +1508,12 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ashok Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ashok Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1521,14 +1521,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "avadi",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Avadi Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Avadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Avadi, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Avadi",
         "cloth hanger installation Avadi Chennai",
         "cloth hanger installation near Avadi",
         "Avadi cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Avadi Chennai",
       "openGraphDescription": "A manual Avadi guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1565,7 +1565,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Avadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Avadi projects often need strong material selection, practical pricing, and coverage for apartments, terraces, windows, and homes with more exposed outdoor edges. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Avadi, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Avadi, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1686,7 +1686,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Avadi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Avadi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1723,14 +1723,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Avadi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Avadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1738,14 +1738,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "besant-nagar",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Besant Nagar Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Besant Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Besant Nagar, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Besant Nagar",
         "cloth hanger installation Besant Nagar Chennai",
         "cloth hanger installation near Besant Nagar",
         "Besant Nagar cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Besant Nagar Chennai",
       "openGraphDescription": "A manual Besant Nagar guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1782,7 +1782,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Besant Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety planning for balconies that face breeze, sand, and humidity. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Besant Nagar, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Besant Nagar, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -1903,7 +1903,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Besant Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Besant Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -1940,12 +1940,12 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Besant Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Besant Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -1953,14 +1953,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "chetpet",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Chetpet Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Chetpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Chetpet, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Chetpet",
         "cloth hanger installation Chetpet Chennai",
         "cloth hanger installation near Chetpet",
         "Chetpet cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Chetpet Chennai",
       "openGraphDescription": "A manual Chetpet guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -1997,7 +1997,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Chetpet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Chetpet jobs should balance refined appearance with careful anchoring, because many homes expect quiet finishes, low disturbance, and trustworthy installation behavior. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Chetpet, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Chetpet, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2118,7 +2118,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Chetpet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Chetpet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2155,14 +2155,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chetpet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chetpet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2170,14 +2170,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "choolaimedu",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Choolaimedu Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Choolaimedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Choolaimedu, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Choolaimedu",
         "cloth hanger installation Choolaimedu Chennai",
         "cloth hanger installation near Choolaimedu",
         "Choolaimedu cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Choolaimedu Chennai",
       "openGraphDescription": "A manual Choolaimedu guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2214,7 +2214,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Choolaimedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Choolaimedu pages should focus on practical installation, renter-friendly planning, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Choolaimedu, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Choolaimedu, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2335,7 +2335,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Choolaimedu?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Choolaimedu?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2372,14 +2372,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Choolaimedu page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Choolaimedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2387,14 +2387,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "chromepet",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Chromepet Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Chromepet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Chromepet, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Chromepet",
         "cloth hanger installation Chromepet Chennai",
         "cloth hanger installation near Chromepet",
         "Chromepet cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Chromepet Chennai",
       "openGraphDescription": "A manual Chromepet guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2431,7 +2431,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Chromepet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Chromepet work needs budget clarity, strong material choices, neat drilling, and dust-aware finishing for families comparing quality against low short-term quotes. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Chromepet, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Chromepet, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2552,7 +2552,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Chromepet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Chromepet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2589,14 +2589,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chromepet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chromepet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2604,14 +2604,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "egmore",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Egmore Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Egmore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Egmore, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Egmore",
         "cloth hanger installation Egmore Chennai",
         "cloth hanger installation near Egmore",
         "Egmore cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Egmore Chennai",
       "openGraphDescription": "A manual Egmore guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2648,7 +2648,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Egmore should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Egmore service calls should consider careful access, older surfaces, clean finishing, and safety solutions that look composed in established central-Chennai buildings. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Egmore, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Egmore, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2769,7 +2769,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Egmore?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Egmore?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -2806,14 +2806,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Egmore page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Egmore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -2821,14 +2821,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "guindy",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Guindy Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Guindy Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Guindy, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Guindy",
         "cloth hanger installation Guindy Chennai",
         "cloth hanger installation near Guindy",
         "Guindy cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Guindy Chennai",
       "openGraphDescription": "A manual Guindy guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -2865,7 +2865,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Guindy should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Guindy jobs need fast coordination for working families, dust-aware protection, compact-site access, and clean installation in residential-commercial surroundings. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Guindy, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Guindy, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -2986,7 +2986,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Guindy?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Guindy?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3023,14 +3023,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Guindy page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Guindy, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Guindy, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Guindy sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3038,14 +3038,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "injambakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Injambakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Injambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Injambakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Injambakkam",
         "cloth hanger installation Injambakkam Chennai",
         "cloth hanger installation near Injambakkam",
         "Injambakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Injambakkam Chennai",
       "openGraphDescription": "A manual Injambakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3082,7 +3082,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Injambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Injambakkam installations should account for coastal wind, larger home layouts, terraces, pets, and material durability in more exposed seaside residential pockets. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Injambakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Injambakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3203,7 +3203,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Injambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Injambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3240,14 +3240,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Injambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Injambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3255,14 +3255,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "k-k-nagar",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in K K Nagar Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in K K Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in K K Nagar, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in K K Nagar",
         "cloth hanger installation K K Nagar Chennai",
         "cloth hanger installation near K K Nagar",
         "K K Nagar cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in K K Nagar Chennai",
       "openGraphDescription": "A manual K K Nagar guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3299,7 +3299,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in K K Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "K K Nagar work should feel careful and respectful, with attention to older railings, visiting grandchildren, low visual clutter, and easy maintenance. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in K K Nagar, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in K K Nagar, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3420,7 +3420,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in K K Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in K K Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3457,11 +3457,11 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the K K Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger K K Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3469,14 +3469,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "kandanchavadi",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Kandanchavadi Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Kandanchavadi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Kandanchavadi, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Kandanchavadi",
         "cloth hanger installation Kandanchavadi Chennai",
         "cloth hanger installation near Kandanchavadi",
         "Kandanchavadi cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Kandanchavadi Chennai",
       "openGraphDescription": "A manual Kandanchavadi guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3513,7 +3513,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Kandanchavadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kandanchavadi service pages should address high-rise access, quick scheduling, association expectations, wind exposure, and practical safety for working families. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Kandanchavadi, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kandanchavadi, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3634,7 +3634,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kandanchavadi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kandanchavadi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3671,14 +3671,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kandanchavadi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kandanchavadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3686,14 +3686,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "karapakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Karapakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Karapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Karapakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Karapakkam",
         "cloth hanger installation Karapakkam Chennai",
         "cloth hanger installation near Karapakkam",
         "Karapakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Karapakkam Chennai",
       "openGraphDescription": "A manual Karapakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3730,7 +3730,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Karapakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in planning, and durable finishes for newer residential towers. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Karapakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Karapakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -3851,7 +3851,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Karapakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Karapakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -3888,14 +3888,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Karapakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Karapakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -3903,14 +3903,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "kelambakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Kelambakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Kelambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Kelambakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Kelambakkam",
         "cloth hanger installation Kelambakkam Chennai",
         "cloth hanger installation near Kelambakkam",
         "Kelambakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Kelambakkam Chennai",
       "openGraphDescription": "A manual Kelambakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -3947,7 +3947,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Kelambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout planning and durable exposed materials. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Kelambakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kelambakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4068,7 +4068,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kelambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kelambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4105,14 +4105,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kelambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kelambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4120,14 +4120,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "kilpauk",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Kilpauk Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Kilpauk Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Kilpauk, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Kilpauk",
         "cloth hanger installation Kilpauk Chennai",
         "cloth hanger installation near Kilpauk",
         "Kilpauk cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Kilpauk Chennai",
       "openGraphDescription": "A manual Kilpauk guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4164,7 +4164,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Kilpauk should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety planning for established residences that expect tidy work. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Kilpauk, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kilpauk, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4285,7 +4285,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kilpauk?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kilpauk?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4322,14 +4322,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kilpauk page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kilpauk sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4337,14 +4337,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "kodambakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Kodambakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Kodambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Kodambakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Kodambakkam",
         "cloth hanger installation Kodambakkam Chennai",
         "cloth hanger installation near Kodambakkam",
         "Kodambakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Kodambakkam Chennai",
       "openGraphDescription": "A manual Kodambakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4381,7 +4381,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Kodambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kodambakkam installations need attention to aged surfaces, compact access, bird control, dust, and minimal-damage fixing for homes with changed layouts. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Kodambakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kodambakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4502,7 +4502,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kodambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kodambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4539,14 +4539,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kodambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kodambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4554,14 +4554,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "kolathur",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Kolathur Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Kolathur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Kolathur, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Kolathur",
         "cloth hanger installation Kolathur Chennai",
         "cloth hanger installation near Kolathur",
         "Kolathur cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Kolathur Chennai",
       "openGraphDescription": "A manual Kolathur guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4598,7 +4598,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Kolathur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kolathur projects should be practical, clear on price, and strong on material quality for homes that need daily-use balcony, window, terrace, and bird-control protection. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Kolathur, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kolathur, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4719,7 +4719,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kolathur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kolathur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4756,14 +4756,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kolathur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kolathur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4771,14 +4771,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "korattur",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Korattur Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Korattur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Korattur, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Korattur",
         "cloth hanger installation Korattur Chennai",
         "cloth hanger installation near Korattur",
         "Korattur cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Korattur Chennai",
       "openGraphDescription": "A manual Korattur guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -4815,7 +4815,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Korattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Korattur work benefits from weather-aware planning, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Korattur, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Korattur, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -4936,7 +4936,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Korattur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Korattur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -4973,14 +4973,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Korattur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Korattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -4988,14 +4988,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "kottivakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Kottivakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Kottivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Kottivakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Kottivakkam",
         "cloth hanger installation Kottivakkam Chennai",
         "cloth hanger installation near Kottivakkam",
         "Kottivakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Kottivakkam Chennai",
       "openGraphDescription": "A manual Kottivakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5032,7 +5032,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Kottivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Kottivakkam service entries should balance open-view expectations with coastal durability, corrosion-aware fittings, pet safety, and clean visible lines. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Kottivakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Kottivakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5153,7 +5153,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Kottivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Kottivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5190,14 +5190,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kottivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kottivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5205,14 +5205,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "koyambedu",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Koyambedu Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Koyambedu Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Koyambedu, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Koyambedu",
         "cloth hanger installation Koyambedu Chennai",
         "cloth hanger installation near Koyambedu",
         "Koyambedu cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Koyambedu Chennai",
       "openGraphDescription": "A manual Koyambedu guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5249,7 +5249,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Koyambedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Koyambedu jobs need practical timing, compact access planning, dust control, and strong low-maintenance materials for homes near active road and market movement. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Koyambedu, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Koyambedu, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5370,7 +5370,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Koyambedu?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Koyambedu?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5407,14 +5407,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Koyambedu page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Koyambedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5422,14 +5422,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "madipakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Madipakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Madipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Manual Madipakkam guide for cloth hanger installation in Chennai, covering balcony drying, ceiling hangers, utility areas, compact flats, monsoon use, safety, and maintenance.",
       "keywords": [
         "cloth hanger installation in Madipakkam",
         "ceiling cloth hangers Chennai",
         "balcony cloth hanger Madipakkam",
         "dry balcony hanger installation Chennai",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Madipakkam Chennai",
       "openGraphDescription": "A area Madipakkam guide for ceiling cloth hangers, balcony drying systems, utility areas, and family apartment laundry routines.",
@@ -5719,7 +5719,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "That is the real value of a good hanger: not just more rods, but a balcony routine that finally feels organized.",
         "For Madipakkam families, that organization can make a small utility space work much harder every week."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5727,14 +5727,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "madhavaram",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Madhavaram Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Madhavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Madhavaram, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Madhavaram",
         "cloth hanger installation Madhavaram Chennai",
         "cloth hanger installation near Madhavaram",
         "Madhavaram cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Madhavaram Chennai",
       "openGraphDescription": "A manual Madhavaram guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5771,7 +5771,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Madhavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Madhavaram projects should keep installation durable, practical, and easy to maintain for homes that often need balcony, terrace, window, and bird-control coverage together. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Madhavaram, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Madhavaram, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -5892,7 +5892,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Madhavaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Madhavaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -5929,14 +5929,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madhavaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madhavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -5944,14 +5944,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "medavakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Medavakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Medavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Medavakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Medavakkam",
         "cloth hanger installation Medavakkam Chennai",
         "cloth hanger installation near Medavakkam",
         "Medavakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Medavakkam Chennai",
       "openGraphDescription": "A manual Medavakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -5988,7 +5988,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Medavakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Medavakkam pages should explain reliable materials, transparent pricing, child safety, and site measurement for newer apartments and everyday family homes. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Medavakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Medavakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6109,7 +6109,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Medavakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Medavakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6146,14 +6146,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Medavakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Medavakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6161,14 +6161,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "mogappair",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Mogappair Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Mogappair Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Mogappair, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Mogappair",
         "cloth hanger installation Mogappair Chennai",
         "cloth hanger installation near Mogappair",
         "Mogappair cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Mogappair Chennai",
       "openGraphDescription": "A manual Mogappair guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6205,7 +6205,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Mogappair should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mogappair installations should emphasize family safety, neat exterior finish, association approval, and dependable service for apartments with children and elders. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Mogappair, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mogappair, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6326,7 +6326,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mogappair?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mogappair?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6363,14 +6363,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mogappair page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mogappair sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6378,14 +6378,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "mugalivakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Mugalivakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Mugalivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Mugalivakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Mugalivakkam",
         "cloth hanger installation Mugalivakkam Chennai",
         "cloth hanger installation near Mugalivakkam",
         "Mugalivakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Mugalivakkam Chennai",
       "openGraphDescription": "A manual Mugalivakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6422,7 +6422,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Mugalivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mugalivakkam jobs need flexible planning for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Mugalivakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mugalivakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6543,7 +6543,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mugalivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mugalivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6580,14 +6580,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mugalivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mugalivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6595,14 +6595,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "mylapore",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Mylapore Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Mylapore Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Mylapore, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Mylapore",
         "cloth hanger installation Mylapore Chennai",
         "cloth hanger installation near Mylapore",
         "Mylapore cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Mylapore Chennai",
       "openGraphDescription": "A manual Mylapore guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6639,7 +6639,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Mylapore should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Mylapore service pages should sound calm and careful, with attention to older wall conditions, low-visual-noise safety, and respectful installation in established homes. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Mylapore, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mylapore, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6760,7 +6760,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Mylapore?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Mylapore?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -6797,14 +6797,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mylapore page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mylapore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -6812,14 +6812,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "nanganallur",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Nanganallur Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Nanganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Nanganallur, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Nanganallur",
         "cloth hanger installation Nanganallur Chennai",
         "cloth hanger installation near Nanganallur",
         "Nanganallur cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Nanganallur Chennai",
       "openGraphDescription": "A manual Nanganallur guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -6856,7 +6856,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Nanganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Nanganallur installations should focus on trust, careful inspection, elder and child safety, and finishes that keep familiar homes looking composed. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Nanganallur, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Nanganallur, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -6977,7 +6977,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Nanganallur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Nanganallur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7014,14 +7014,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nanganallur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nanganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7029,14 +7029,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "navalur",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Navalur Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Navalur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Navalur, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Navalur",
         "cloth hanger installation Navalur Chennai",
         "cloth hanger installation near Navalur",
         "Navalur cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Navalur Chennai",
       "openGraphDescription": "A manual Navalur guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7073,7 +7073,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Navalur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Navalur work should account for association-approved exterior lines, high-rise wind, pet-safe and child-safe openings, and newer apartment setup needs. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Navalur, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Navalur, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7194,7 +7194,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Navalur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Navalur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7231,14 +7231,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Navalur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Navalur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7246,14 +7246,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "neelankarai",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Neelankarai Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Neelankarai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Neelankarai, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Neelankarai",
         "cloth hanger installation Neelankarai Chennai",
         "cloth hanger installation near Neelankarai",
         "Neelankarai cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Neelankarai Chennai",
       "openGraphDescription": "A manual Neelankarai guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7290,7 +7290,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Neelankarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Neelankarai projects need coastal-grade planning, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Neelankarai, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Neelankarai, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7411,7 +7411,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Neelankarai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Neelankarai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7448,14 +7448,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Neelankarai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Neelankarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7463,14 +7463,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "nungambakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Nungambakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Nungambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Nungambakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Nungambakkam",
         "cloth hanger installation Nungambakkam Chennai",
         "cloth hanger installation near Nungambakkam",
         "Nungambakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Nungambakkam Chennai",
       "openGraphDescription": "A manual Nungambakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7507,7 +7507,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Nungambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Nungambakkam service entries should emphasize discreet hardware, straight alignment, premium finish, and clean installation that respects high-value interiors. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Nungambakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Nungambakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7628,7 +7628,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Nungambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Nungambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7665,14 +7665,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nungambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nungambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7680,14 +7680,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "pallavaram",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Pallavaram Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Pallavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Pallavaram, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Pallavaram",
         "cloth hanger installation Pallavaram Chennai",
         "cloth hanger installation near Pallavaram",
         "Pallavaram cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Pallavaram Chennai",
       "openGraphDescription": "A manual Pallavaram guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7724,7 +7724,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Pallavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Pallavaram work should cover wind, dust, child safety, utility use, and strong fixing for families living around active roads and changing residential pockets. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Pallavaram, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Pallavaram, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -7845,7 +7845,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Pallavaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Pallavaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -7882,14 +7882,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallavaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -7897,14 +7897,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "pallikaranai",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Pallikaranai Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Pallikaranai Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Pallikaranai, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Pallikaranai",
         "cloth hanger installation Pallikaranai Chennai",
         "cloth hanger installation near Pallikaranai",
         "Pallikaranai cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Pallikaranai Chennai",
       "openGraphDescription": "A manual Pallikaranai guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -7941,7 +7941,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Pallikaranai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Pallikaranai installations should be weather-aware and practical, with attention to rain, cleaning, bird entry routes, and child-safe daily-use balconies. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Pallikaranai, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Pallikaranai, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8062,7 +8062,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Pallikaranai?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Pallikaranai?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8099,14 +8099,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallikaranai page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallikaranai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8114,14 +8114,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "perambur",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Perambur Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Perambur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Perambur, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Perambur",
         "cloth hanger installation Perambur Chennai",
         "cloth hanger installation near Perambur",
         "Perambur cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Perambur Chennai",
       "openGraphDescription": "A manual Perambur guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8158,7 +8158,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Perambur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware planning for homes with compact balcony and window openings. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Perambur, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Perambur, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8279,7 +8279,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Perambur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Perambur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8316,14 +8316,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perambur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perambur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8331,14 +8331,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "perungudi",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Perungudi Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Perungudi Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Perungudi, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Perungudi",
         "cloth hanger installation Perungudi Chennai",
         "cloth hanger installation near Perungudi",
         "Perungudi cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Perungudi Chennai",
       "openGraphDescription": "A manual Perungudi guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8375,7 +8375,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Perungudi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Perungudi service pages should address high-rise wind, working-family scheduling, clean border lines, association rules, child safety, pets, and pigeons. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Perungudi, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Perungudi, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8496,7 +8496,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Perungudi?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Perungudi?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8533,14 +8533,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perungudi page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perungudi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8548,14 +8548,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "poonamallee",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Poonamallee Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Poonamallee Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Poonamallee, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Poonamallee",
         "cloth hanger installation Poonamallee Chennai",
         "cloth hanger installation near Poonamallee",
         "Poonamallee cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Poonamallee Chennai",
       "openGraphDescription": "A manual Poonamallee guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8592,7 +8592,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Poonamallee should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Poonamallee installations should be budget-aware but quality-led, covering children, pets, elders, terraces, balconies, and durable fixing for varied home types. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Poonamallee, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Poonamallee, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8713,7 +8713,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Poonamallee?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Poonamallee?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8750,14 +8750,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Poonamallee page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Poonamallee sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8765,14 +8765,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "porur",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Porur Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Porur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Porur, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Porur",
         "cloth hanger installation Porur Chennai",
         "cloth hanger installation near Porur",
         "Porur cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Porur Chennai",
       "openGraphDescription": "A manual Porur guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -8809,7 +8809,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Porur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Porur pages should explain site visits, reliable installation after move-in, child and pet safety, balcony utility use, and long-term support for newer homes. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Porur, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Porur, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -8930,7 +8930,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Porur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Porur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -8967,14 +8967,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Porur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Porur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -8982,14 +8982,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "purasawalkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Purasawalkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Purasawalkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Purasawalkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Purasawalkam",
         "cloth hanger installation Purasawalkam Chennai",
         "cloth hanger installation near Purasawalkam",
         "Purasawalkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Purasawalkam Chennai",
       "openGraphDescription": "A manual Purasawalkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9026,7 +9026,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Purasawalkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control planning around busy central streets. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Purasawalkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Purasawalkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9147,7 +9147,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Purasawalkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Purasawalkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9184,14 +9184,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Purasawalkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Purasawalkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9199,14 +9199,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "ramapuram",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Ramapuram Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Ramapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Ramapuram, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Ramapuram",
         "cloth hanger installation Ramapuram Chennai",
         "cloth hanger installation near Ramapuram",
         "Ramapuram cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Ramapuram Chennai",
       "openGraphDescription": "A manual Ramapuram guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9243,7 +9243,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Ramapuram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Ramapuram service pages should connect balcony, window, staircase, and terrace safety for varied home layouts near busy work and residential zones. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Ramapuram, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ramapuram, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9364,7 +9364,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Ramapuram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Ramapuram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9401,14 +9401,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ramapuram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ramapuram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9416,14 +9416,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "royapettah",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Royapettah Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Royapettah Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Royapettah, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Royapettah",
         "cloth hanger installation Royapettah Chennai",
         "cloth hanger installation near Royapettah",
         "Royapettah cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Royapettah Chennai",
       "openGraphDescription": "A manual Royapettah guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9460,7 +9460,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Royapettah should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Royapettah projects should focus on low-disruption installation, careful drilling, visible neatness, and practical safety for older and mixed-use surroundings. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Royapettah, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapettah, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9581,7 +9581,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Royapettah?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Royapettah?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9618,14 +9618,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Royapettah page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Royapettah sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9633,14 +9633,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "saidapet",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Saidapet Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Saidapet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Saidapet, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Saidapet",
         "cloth hanger installation Saidapet Chennai",
         "cloth hanger installation near Saidapet",
         "Saidapet cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Saidapet Chennai",
       "openGraphDescription": "A manual Saidapet guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9677,7 +9677,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Saidapet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Saidapet work should address quick access, dust-aware maintenance, compact balcony use, child safety, and clear quotes for apartments close to major roads. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Saidapet, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Saidapet, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -9798,7 +9798,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Saidapet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Saidapet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -9835,14 +9835,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Saidapet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Saidapet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -9850,14 +9850,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "selaiyur",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Selaiyur Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Selaiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Selaiyur, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Selaiyur",
         "cloth hanger installation Selaiyur Chennai",
         "cloth hanger installation near Selaiyur",
         "Selaiyur cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Selaiyur Chennai",
       "openGraphDescription": "A manual Selaiyur guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -9894,7 +9894,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Selaiyur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Selaiyur service entries should be practical for growing families, with clear material choices, terrace and balcony coverage, pet safety, and reliable site measurement. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Selaiyur, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Selaiyur, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10015,7 +10015,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Selaiyur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Selaiyur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10052,14 +10052,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Selaiyur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Selaiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10067,14 +10067,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "sholinganallur",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Sholinganallur Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Sholinganallur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Sholinganallur, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Sholinganallur",
         "cloth hanger installation Sholinganallur Chennai",
         "cloth hanger installation near Sholinganallur",
         "Sholinganallur cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Sholinganallur Chennai",
       "openGraphDescription": "A manual Sholinganallur guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10111,7 +10111,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Sholinganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety planning for children, pets, pigeons, and open utility edges. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Sholinganallur, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Sholinganallur, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10232,7 +10232,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Sholinganallur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Sholinganallur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10269,14 +10269,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Sholinganallur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Sholinganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10284,14 +10284,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "siruseri",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Siruseri Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Siruseri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Siruseri, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Siruseri",
         "cloth hanger installation Siruseri Chennai",
         "cloth hanger installation near Siruseri",
         "Siruseri cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Siruseri Chennai",
       "openGraphDescription": "A manual Siruseri guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10328,7 +10328,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Siruseri should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Siruseri pages should focus on move-in readiness, high-rise wind, bundled balcony-window safety, and durable installation for newly occupied flats. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Siruseri, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Siruseri, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10449,7 +10449,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Siruseri?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Siruseri?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10486,14 +10486,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Siruseri page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Siruseri sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10501,14 +10501,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "tambaram",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Tambaram Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Tambaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Tambaram, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Tambaram",
         "cloth hanger installation Tambaram Chennai",
         "cloth hanger installation near Tambaram",
         "Tambaram cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Tambaram Chennai",
       "openGraphDescription": "A manual Tambaram guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10545,7 +10545,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Tambaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Tambaram installations should speak to owners and renters, compare material choices clearly, and cover children, pets, elders, balconies, windows, and terraces. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Tambaram, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tambaram, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10666,7 +10666,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Tambaram?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Tambaram?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10703,14 +10703,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Tambaram page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Tambaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10718,14 +10718,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "t-nagar",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in T Nagar Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in T Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in T Nagar, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in T Nagar",
         "cloth hanger installation T Nagar Chennai",
         "cloth hanger installation near T Nagar",
         "T Nagar cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in T Nagar Chennai",
       "openGraphDescription": "A manual T Nagar guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10762,7 +10762,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in T Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "T Nagar work needs careful drilling, low-disruption access, dust-aware bird control, and neat visible finishes for homes close to active commercial streets. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in T Nagar, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in T Nagar, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -10883,7 +10883,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in T Nagar?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in T Nagar?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -10920,12 +10920,12 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the T Nagar page is written around full area scope instead of a short swapped-name paragraph.",
-        "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger T Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -10933,14 +10933,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "teynampet",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Teynampet Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Teynampet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Teynampet, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Teynampet",
         "cloth hanger installation Teynampet Chennai",
         "cloth hanger installation near Teynampet",
         "Teynampet cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Teynampet Chennai",
       "openGraphDescription": "A manual Teynampet guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -10977,7 +10977,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Teynampet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety planning for central Chennai homes. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Teynampet, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Teynampet, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11098,7 +11098,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Teynampet?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Teynampet?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11135,14 +11135,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Teynampet page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Teynampet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11150,14 +11150,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "thiruvanmiyur",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Thiruvanmiyur Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Thiruvanmiyur Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Thiruvanmiyur, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Thiruvanmiyur",
         "cloth hanger installation Thiruvanmiyur Chennai",
         "cloth hanger installation near Thiruvanmiyur",
         "Thiruvanmiyur cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Thiruvanmiyur Chennai",
       "openGraphDescription": "A manual Thiruvanmiyur guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11194,7 +11194,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Thiruvanmiyur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Thiruvanmiyur projects should balance coastal durability, quick scheduling, bird route blocking, child safety, and clean installation for busy apartment households. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Thiruvanmiyur, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Thiruvanmiyur, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11315,7 +11315,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Thiruvanmiyur?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Thiruvanmiyur?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11352,14 +11352,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thiruvanmiyur page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Thiruvanmiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Thiruvanmiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thiruvanmiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11367,14 +11367,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "thoraipakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Thoraipakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Thoraipakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Thoraipakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Thoraipakkam",
         "cloth hanger installation Thoraipakkam Chennai",
         "cloth hanger installation near Thoraipakkam",
         "Thoraipakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Thoraipakkam Chennai",
       "openGraphDescription": "A manual Thoraipakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11411,7 +11411,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Thoraipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Thoraipakkam entries should explain quick but careful installation, rental-friendly planning, association-approved finish, pigeon control, and children safety. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Thoraipakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Thoraipakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11532,7 +11532,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Thoraipakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Thoraipakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11569,14 +11569,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thoraipakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thoraipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11584,14 +11584,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "triplicane",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Triplicane Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Triplicane Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Triplicane, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Triplicane",
         "cloth hanger installation Triplicane Chennai",
         "cloth hanger installation near Triplicane",
         "Triplicane cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Triplicane Chennai",
       "openGraphDescription": "A manual Triplicane guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11628,7 +11628,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Triplicane should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Triplicane projects need patient access planning, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Triplicane, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Triplicane, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11749,7 +11749,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Triplicane?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Triplicane?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -11786,14 +11786,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Triplicane page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Triplicane sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -11801,14 +11801,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "vadapalani",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Vadapalani Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Vadapalani Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Vadapalani, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Vadapalani",
         "cloth hanger installation Vadapalani Chennai",
         "cloth hanger installation near Vadapalani",
         "Vadapalani cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Vadapalani Chennai",
       "openGraphDescription": "A manual Vadapalani guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -11845,7 +11845,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Vadapalani should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Vadapalani service pages should focus on dust, traffic-facing openings, quick measurement, renter-friendly work, and clean finish for practical family flats. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Vadapalani, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Vadapalani, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -11966,7 +11966,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Vadapalani?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Vadapalani?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12003,14 +12003,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Vadapalani page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Vadapalani sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12018,14 +12018,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "valasaravakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Valasaravakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Valasaravakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Valasaravakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Valasaravakkam",
         "cloth hanger installation Valasaravakkam Chennai",
         "cloth hanger installation near Valasaravakkam",
         "Valasaravakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Valasaravakkam Chennai",
       "openGraphDescription": "A manual Valasaravakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12062,7 +12062,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Valasaravakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Valasaravakkam installations should connect balcony, staircase, window, and terrace safety needs across varied family homes and apartment blocks. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Valasaravakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Valasaravakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12183,7 +12183,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Valasaravakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Valasaravakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12220,14 +12220,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Valasaravakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Valasaravakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12235,14 +12235,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "velachery",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Velachery Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Velachery Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Velachery, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Velachery",
         "cloth hanger installation Velachery Chennai",
         "cloth hanger installation near Velachery",
         "Velachery cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Velachery Chennai",
       "openGraphDescription": "A manual Velachery guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12279,7 +12279,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Velachery should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Velachery service entries should stay practical around compact balcony use, rain and humidity, quote clarity, child safety, pet safety, and daily maintenance. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Velachery, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Velachery, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12400,7 +12400,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Velachery?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Velachery?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12437,14 +12437,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Velachery page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Velachery sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12452,14 +12452,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "villivakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Villivakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Villivakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Villivakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Villivakkam",
         "cloth hanger installation Villivakkam Chennai",
         "cloth hanger installation near Villivakkam",
         "Villivakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Villivakkam Chennai",
       "openGraphDescription": "A manual Villivakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12496,7 +12496,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Villivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Villivakkam projects need durable materials, careful drilling, clear pricing, and simple maintenance for homes that use balconies and windows every day. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Villivakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Villivakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12617,7 +12617,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Villivakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Villivakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12654,14 +12654,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Villivakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Villivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12669,14 +12669,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "virugambakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Virugambakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Virugambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Virugambakkam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Virugambakkam",
         "cloth hanger installation Virugambakkam Chennai",
         "cloth hanger installation near Virugambakkam",
         "Virugambakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Virugambakkam Chennai",
       "openGraphDescription": "A manual Virugambakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12713,7 +12713,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Virugambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "Virugambakkam work should be neat, practical, and low-disruption, with attention to children, pets, birds, dust, and compact access. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in Virugambakkam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Virugambakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -12834,7 +12834,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in Virugambakkam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in Virugambakkam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -12871,14 +12871,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Virugambakkam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Virugambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
-        "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
+        "SRI KRISHNA INVISIBLE GRILLS should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -12886,14 +12886,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "west-mambalam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in West Mambalam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in West Mambalam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in West Mambalam, Chennai, covering ceiling and balcony drying systems planned around daily laundry, pulley reach, utility movement, and ceiling strength, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in West Mambalam",
         "cloth hanger installation West Mambalam Chennai",
         "cloth hanger installation near West Mambalam",
         "West Mambalam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in West Mambalam Chennai",
       "openGraphDescription": "A manual West Mambalam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -12930,7 +12930,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in West Mambalam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
         "West Mambalam service pages should emphasize careful fixing, calm appearance, family trust, and safety work that respects older homes and daily routines. Cloth hanger installation should improve drying space without blocking walking clearance, window movement, balcony safety, or daily cleaning.",
-        "Before quoting in West Mambalam, DK Safety Solutions should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in West Mambalam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, hanger length, pulley access, drying load, walking clearance, window swing, and balcony use so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13051,7 +13051,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Pricing depends on hanger size, rod count, ceiling type, anchor method, pulley hardware, access difficulty, and installation timing. A clear quote should separate each covered area so the customer knows what is included and what may need separate approval."
       },
       {
-        "question": "Can DK Safety Solutions handle rented homes or association approvals in West Mambalam?",
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS handle rented homes or association approvals in West Mambalam?",
         "answer": "The team can explain fixing points, work timing, material choice, and surface requirements so the customer can speak with the owner or association. Final approval should be confirmed before drilling or shared-area work starts."
       },
       {
@@ -13088,12 +13088,12 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide smooth pulley movement, strong brackets, tidy alignment, and convenient everyday drying space, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the West Mambalam page is written around full area scope instead of a short swapped-name paragraph.",
-        "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
+        "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, SRI KRISHNA INVISIBLE GRILLS can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger West Mambalam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
         "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
-      "cta": "Call DK Safety Solutions"
+      "cta": "Call SRI KRISHNA INVISIBLE GRILLS"
     }
   },
   {
@@ -13101,14 +13101,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "adambakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Adambakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Adambakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Adambakkam, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Adambakkam",
         "cloth hanger installation Adambakkam Chennai",
         "cloth hanger installation near Adambakkam",
         "Adambakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Adambakkam Chennai",
       "openGraphDescription": "A manual Adambakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13145,7 +13145,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Adambakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Adambakkam work often needs attention to compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Adambakkam, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Adambakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13173,7 +13173,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Adambakkam, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13209,7 +13209,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13261,8 +13261,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Adambakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Adambakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Adambakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Adambakkam?",
@@ -13274,7 +13274,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Adambakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13292,7 +13292,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Adambakkam with a site-specific visit",
       "paragraphs": [
-        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Adambakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Adambakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Adambakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13310,14 +13310,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "ayanavaram",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Ayanavaram Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Ayanavaram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Ayanavaram, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Ayanavaram",
         "cloth hanger installation Ayanavaram Chennai",
         "cloth hanger installation near Ayanavaram",
         "Ayanavaram cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Ayanavaram Chennai",
       "openGraphDescription": "A manual Ayanavaram guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13354,7 +13354,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Ayanavaram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ayanavaram work often needs attention to older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ayanavaram, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ayanavaram, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13382,7 +13382,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Ayanavaram, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13418,7 +13418,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13470,8 +13470,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ayanavaram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ayanavaram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ayanavaram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Ayanavaram?",
@@ -13483,7 +13483,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ayanavaram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13501,7 +13501,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Ayanavaram with a site-specific visit",
       "paragraphs": [
-        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ayanavaram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Ayanavaram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ayanavaram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13520,14 +13520,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "ekkattuthangal",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Ekkattuthangal Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Ekkattuthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Ekkattuthangal, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Ekkattuthangal",
         "cloth hanger installation Ekkattuthangal Chennai",
         "cloth hanger installation near Ekkattuthangal",
         "Ekkattuthangal cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Ekkattuthangal Chennai",
       "openGraphDescription": "A manual Ekkattuthangal guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13564,7 +13564,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Ekkattuthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Ekkattuthangal work often needs attention to workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Ekkattuthangal, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Ekkattuthangal, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13592,7 +13592,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Ekkattuthangal, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13628,7 +13628,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13680,8 +13680,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Ekkattuthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Ekkattuthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Ekkattuthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Ekkattuthangal?",
@@ -13693,7 +13693,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Ekkattuthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13711,7 +13711,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Ekkattuthangal with a site-specific visit",
       "paragraphs": [
-        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Ekkattuthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Ekkattuthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Ekkattuthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13730,14 +13730,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "iyyappanthangal",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Iyyappanthangal Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Iyyappanthangal Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Iyyappanthangal, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Iyyappanthangal",
         "cloth hanger installation Iyyappanthangal Chennai",
         "cloth hanger installation near Iyyappanthangal",
         "Iyyappanthangal cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Iyyappanthangal Chennai",
       "openGraphDescription": "A manual Iyyappanthangal guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13774,7 +13774,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Iyyappanthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Iyyappanthangal work often needs attention to fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Iyyappanthangal, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Iyyappanthangal, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -13802,7 +13802,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Iyyappanthangal, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -13838,7 +13838,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -13890,8 +13890,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Iyyappanthangal for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Iyyappanthangal for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Iyyappanthangal, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Iyyappanthangal?",
@@ -13903,7 +13903,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Iyyappanthangal conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -13921,7 +13921,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Iyyappanthangal with a site-specific visit",
       "paragraphs": [
-        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Iyyappanthangal customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Iyyappanthangal should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Iyyappanthangal, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -13940,14 +13940,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "manapakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Manapakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Manapakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Manapakkam, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Manapakkam",
         "cloth hanger installation Manapakkam Chennai",
         "cloth hanger installation near Manapakkam",
         "Manapakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Manapakkam Chennai",
       "openGraphDescription": "A manual Manapakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -13984,7 +13984,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Manapakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Manapakkam work often needs attention to IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Manapakkam, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Manapakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14012,7 +14012,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Manapakkam, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14048,7 +14048,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14100,8 +14100,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Manapakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Manapakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Manapakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Manapakkam?",
@@ -14113,7 +14113,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Manapakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14131,7 +14131,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Manapakkam with a site-specific visit",
       "paragraphs": [
-        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Manapakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Manapakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Manapakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14150,14 +14150,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "mandaveli",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Mandaveli Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Mandaveli Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Mandaveli, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Mandaveli",
         "cloth hanger installation Mandaveli Chennai",
         "cloth hanger installation near Mandaveli",
         "Mandaveli cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Mandaveli Chennai",
       "openGraphDescription": "A manual Mandaveli guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14194,7 +14194,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Mandaveli, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Mandaveli, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14222,7 +14222,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Mandaveli, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14258,7 +14258,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14310,8 +14310,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Mandaveli for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Mandaveli for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Mandaveli, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Mandaveli?",
@@ -14323,7 +14323,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Mandaveli conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14341,7 +14341,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Mandaveli with a site-specific visit",
       "paragraphs": [
-        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Mandaveli customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Mandaveli should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Mandaveli, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14360,14 +14360,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "palavakkam",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Palavakkam Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Palavakkam Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Palavakkam, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Palavakkam",
         "cloth hanger installation Palavakkam Chennai",
         "cloth hanger installation near Palavakkam",
         "Palavakkam cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Palavakkam Chennai",
       "openGraphDescription": "A manual Palavakkam guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14404,7 +14404,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Palavakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Palavakkam work often needs attention to coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Palavakkam, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Palavakkam, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14432,7 +14432,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Palavakkam, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14468,7 +14468,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14520,8 +14520,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Palavakkam for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Palavakkam for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Palavakkam, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Palavakkam?",
@@ -14533,7 +14533,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Palavakkam conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14551,7 +14551,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Palavakkam with a site-specific visit",
       "paragraphs": [
-        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Palavakkam customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Palavakkam should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Palavakkam, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14570,14 +14570,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "periyar-nagar",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Periyar Nagar Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Periyar Nagar Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Periyar Nagar, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Periyar Nagar",
         "cloth hanger installation Periyar Nagar Chennai",
         "cloth hanger installation near Periyar Nagar",
         "Periyar Nagar cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Periyar Nagar Chennai",
       "openGraphDescription": "A manual Periyar Nagar guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14614,7 +14614,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Periyar Nagar should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Periyar Nagar work often needs attention to dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Periyar Nagar, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Periyar Nagar, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14642,7 +14642,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Periyar Nagar, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14678,7 +14678,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14730,8 +14730,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Periyar Nagar for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Periyar Nagar for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Periyar Nagar, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Periyar Nagar?",
@@ -14743,7 +14743,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Periyar Nagar conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14761,7 +14761,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Periyar Nagar with a site-specific visit",
       "paragraphs": [
-        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Periyar Nagar customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Periyar Nagar should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Periyar Nagar, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14778,14 +14778,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "royapuram",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Royapuram Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Royapuram Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Royapuram, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Royapuram",
         "cloth hanger installation Royapuram Chennai",
         "cloth hanger installation near Royapuram",
         "Royapuram cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Royapuram Chennai",
       "openGraphDescription": "A manual Royapuram guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -14822,7 +14822,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Royapuram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Royapuram work often needs attention to coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Royapuram, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Royapuram, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -14850,7 +14850,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Royapuram, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -14886,7 +14886,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -14938,8 +14938,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Royapuram for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Royapuram for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Royapuram, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Royapuram?",
@@ -14951,7 +14951,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Royapuram conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -14969,7 +14969,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Royapuram with a site-specific visit",
       "paragraphs": [
-        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Royapuram customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Royapuram should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Royapuram, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -14988,14 +14988,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "semmancheri",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Semmancheri Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Semmancheri Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Semmancheri, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Semmancheri",
         "cloth hanger installation Semmancheri Chennai",
         "cloth hanger installation near Semmancheri",
         "Semmancheri cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Semmancheri Chennai",
       "openGraphDescription": "A manual Semmancheri guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15032,7 +15032,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Semmancheri should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Semmancheri work often needs attention to OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Semmancheri, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Semmancheri, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15060,7 +15060,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Semmancheri, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15096,7 +15096,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15148,8 +15148,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Semmancheri for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Semmancheri for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Semmancheri, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Semmancheri?",
@@ -15161,7 +15161,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Semmancheri conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15179,7 +15179,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Semmancheri with a site-specific visit",
       "paragraphs": [
-        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Semmancheri customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Semmancheri should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Semmancheri, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15198,14 +15198,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "tondiarpet",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Tondiarpet Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Tondiarpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Tondiarpet, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Tondiarpet",
         "cloth hanger installation Tondiarpet Chennai",
         "cloth hanger installation near Tondiarpet",
         "Tondiarpet cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Tondiarpet Chennai",
       "openGraphDescription": "A manual Tondiarpet guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15242,7 +15242,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Tondiarpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Tondiarpet work often needs attention to industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Tondiarpet, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Tondiarpet, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15270,7 +15270,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Tondiarpet, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15306,7 +15306,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15358,8 +15358,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Tondiarpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Tondiarpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Tondiarpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Tondiarpet?",
@@ -15371,7 +15371,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Tondiarpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15389,7 +15389,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Tondiarpet with a site-specific visit",
       "paragraphs": [
-        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Tondiarpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Tondiarpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Tondiarpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",
@@ -15408,14 +15408,14 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "areaSlug": "washermanpet",
     "serviceSlug": "cloth-hanger-installation",
     "metadata": {
-      "title": "Cloth Hanger Installation in Washermanpet Chennai | DK Safety Solutions",
+      "title": "Cloth Hanger Installation in Washermanpet Chennai | SRI KRISHNA INVISIBLE GRILLS",
       "description": "Detailed Chennai guide for cloth hanger installation in Washermanpet, Chennai, covering utility balconies, dry balconies, ceiling mounts, service corners, laundry areas, and compact apartment drying spaces, ceiling and balcony drying systems planned around utility routines, pulley access, and walking clearance, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "cloth hanger installation in Washermanpet",
         "cloth hanger installation Washermanpet Chennai",
         "cloth hanger installation near Washermanpet",
         "Washermanpet cloth hanger installation installation",
-        "DK Safety Solutions Chennai"
+        "SRI KRISHNA INVISIBLE GRILLS Chennai"
       ],
       "openGraphTitle": "Cloth Hanger Installation in Washermanpet Chennai",
       "openGraphDescription": "A manual Washermanpet guide for cloth hanger installation, written around area site conditions, installation planning, and practical Chennai follow-up.",
@@ -15452,7 +15452,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       "paragraphs": [
         "Cloth Hanger Installation in Washermanpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
         "Washermanpet work often needs attention to busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Cloth Hanger Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
-        "Before quoting in Washermanpet, DK Safety Solutions should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
+        "Before quoting in Washermanpet, SRI KRISHNA INVISIBLE GRILLS should check ceiling strength, drying space, pulley access, walking clearance, door swing, water flow, family routine so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
     "sections": [
@@ -15480,7 +15480,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/images/cloth-hungers-instllations.webp",
         "paragraphs": [
           "For Washermanpet, the material should be chosen around strong ceiling brackets, smooth pulley sets, rust-aware rods or lines, and daily-use fixing hardware. Chennai heat, rain, dust, and repeated handling can expose weak material quickly. Customers should ask what grade is being used, how long it is expected to hold shape, and why that choice suits the opening or service area.",
-          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. DK Safety Solutions should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
+          "The cheapest material is not always the lowest-cost choice if it sags, frays, blocks maintenance, or needs early replacement. SRI KRISHNA INVISIBLE GRILLS should explain the difference between temporary coverage and a proper area installation, including border rope, anchor spacing, fixing surface, and the way the material will behave after months of weather and use."
         ]
       },
       {
@@ -15516,7 +15516,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "image": "/clothhangers/cards/ceiling-cloth-hangers.webp",
         "paragraphs": [
           "After installation, customers should follow a simple care routine: avoid overloading rods, wipe moisture, check pulley movement, and tighten fittings if daily use loosens them. Chennai weather can loosen neglected edges, especially after strong wind, rain, exterior repairs, or heavy use. A short check every few weeks is easier than waiting for a corner to fail.",
-          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. DK Safety Solutions should be reachable for small adjustments when the site changes."
+          "If painters, plumbers, AC technicians, or other contractors open a section, the customer should make sure it is tied back properly. Many failures come from later work rather than from the original installation. SRI KRISHNA INVISIBLE GRILLS should be reachable for small adjustments when the site changes."
         ]
       },
       {
@@ -15568,8 +15568,8 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
         "answer": "Price changes with ceiling type, rod length, pulley location, drying load, balcony size, door swing, and installation height. A clear quote should explain material, fixing method, access difficulty, and finishing so the scope is easy to compare."
       },
       {
-        "question": "Can DK Safety Solutions visit Washermanpet for measurement?",
-        "answer": "DK Safety Solutions can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
+        "question": "Can SRI KRISHNA INVISIBLE GRILLS visit Washermanpet for measurement?",
+        "answer": "SRI KRISHNA INVISIBLE GRILLS can plan a Chennai site visit for Washermanpet, collect photos on WhatsApp first when useful, and confirm the practical scope before installation."
       },
       {
         "question": "How long does cloth hanger installation installation take in Washermanpet?",
@@ -15581,7 +15581,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
       },
       {
         "question": "Which material is best for Washermanpet conditions?",
-        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
+        "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. SRI KRISHNA INVISIBLE GRILLS should explain why the suggested grade fits the site."
       },
       {
         "question": "Can this service be combined with other safety net work?",
@@ -15599,7 +15599,7 @@ export const clothHangerInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Plan cloth hanger installation in Washermanpet with a site-specific visit",
       "paragraphs": [
-        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. DK Safety Solutions should use the first conversation to understand the risk, then confirm details on site before installation begins.",
+        "Washermanpet customers get better results when the installer studies the building before promising a final scope. The same service can need different material, fixing, access, and finishing depending on the property. SRI KRISHNA INVISIBLE GRILLS should use the first conversation to understand the risk, then confirm details on site before installation begins.",
         "The goal is not only to finish the job quickly. The goal is to leave a safe, neat, maintainable result that works through Chennai weather, daily use, and future building maintenance. That is why cloth hanger installation in Washermanpet should be quoted with clear inclusions, practical after-care, and easy area follow-up.",
         "For Washermanpet, it also helps to photograph the site from inside and outside before the visit. Photos show side gaps, ledges, pipes, parapet height, and access restrictions, while the site visit confirms measurements and fixing strength. This combination keeps the discussion practical and avoids vague pricing.",
         "Customers should also mention whether the property is owner-occupied, rented, association-managed, or handled by a facility team. Approval flow changes how the work is scheduled, how noise is managed, and who needs to inspect the finished installation.",

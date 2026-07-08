@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   keywords: [
     `contact ${siteConfig.name}`,
     siteConfig.domain,
-    "DK Safety Solutions phone",
+    "SRI KRISHNA INVISIBLE GRILLS phone",
     "home safety enquiry",
   ],
   openGraph: {

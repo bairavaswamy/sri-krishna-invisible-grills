@@ -13,7 +13,9 @@ type MenuProps = {
 
 const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
   const cityHref = `/${chennaiConfig.citySlug}`;
-  const standardLinks = siteConfig.navLinks.filter((link) => link.href !== cityHref);
+  const standardLinks = siteConfig.navLinks.filter(
+    (link) => link.href !== cityHref && link.label !== "Services"
+  );
 
   return (
     <>
@@ -29,28 +31,25 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
           open ? "translate-x-0" : "-translate-x-full"
         }`}
       >
-        <div className="flex h-full flex-col bg-gradient-to-r from-lime-50 via-yellow-50 to-white">
-          <div className="border-b border-lime-200 px-6 pb-4 pt-5">
-            <div className="flex items-center justify-between gap-4">
-              <div className="flex min-w-0 items-center gap-3">
+        <div className="flex h-full flex-col bg-gradient-to-r from-amber-50 via-yellow-50 to-white">
+          <div className="border-b border-amber-200 px-6 pb-4 pt-5">
+            <div className="flex items-start justify-between gap-4">
+              <div className="min-w-0">
                 <Image
-                  src={siteConfig.logos.mobile}
-                  alt={`${siteConfig.name} mobile logo`}
-                  width={54}
-                  height={54}
-                  className="h-12 w-12 shrink-0"
+                  src={siteConfig.logos.desktop}
+                  alt={`${siteConfig.name} logo`}
+                  width={2172}
+                  height={724}
+                  className="h-auto w-[220px] rounded-md bg-white object-contain"
                 />
-                <div className="min-w-0">
-                  <h2 className="truncate bg-gradient-to-r from-lime-700 to-indigo-800 bg-clip-text text-lg font-black text-transparent">
-                    {siteConfig.name}
-                  </h2>
-                  <p className="mt-1 line-clamp-2 text-xs text-lime-700/70">{siteConfig.tagline}</p>
-                </div>
+                <p className="mt-2 line-clamp-2 text-xs leading-5 text-amber-700/70">
+                  {siteConfig.tagline}
+                </p>
               </div>
 
               <button
                 onClick={onClose}
-                className="text-lime-600 transition hover:text-lime-800"
+                className="text-amber-600 transition hover:text-amber-800"
                 aria-label="Close menu"
               >
                 <X size={20} />
@@ -66,17 +65,17 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                   href={link.href}
                   prefetch={false}
                   onClick={onClose}
-                  className="block rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm font-semibold text-slate-700 shadow-sm transition hover:border-sky-300 hover:bg-sky-50"
+                  className="block rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm font-semibold text-slate-700 shadow-sm transition hover:border-blue-300 hover:bg-blue-50"
                 >
                   {link.label}
                 </Link>
               ))}
             </div>
 
-            <div className="rounded-2xl border border-sky-200 bg-white/90 p-4 shadow-sm">
+            <div className="rounded-2xl border border-blue-200 bg-white/90 p-4 shadow-sm">
               <div className="flex items-center justify-between gap-3">
                 <div>
-                  <p className="text-sm font-bold uppercase tracking-[0.2em] text-sky-500">
+                  <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
                     Chennai
                   </p>
                   <p className="mt-1 text-xs leading-5 text-slate-500">
@@ -108,7 +107,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                       href={`${cityHref}/${service.slug}`}
                       prefetch={false}
                       onClick={onClose}
-                      className="block rounded-lg border border-white bg-white px-3 py-2 text-sm font-bold text-slate-700 shadow-sm transition hover:border-sky-300 hover:bg-sky-50 hover:text-sky-600"
+                      className="block rounded-lg border border-white bg-white px-3 py-2 text-sm font-bold text-slate-700 shadow-sm transition hover:border-blue-300 hover:bg-blue-50 hover:text-blue-600"
                     >
                       {service.name}
                     </Link>
@@ -131,7 +130,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                       href={`${cityHref}/${area.slug}`}
                       prefetch={false}
                       onClick={onClose}
-                      className="rounded-lg border border-white bg-white px-3 py-2 text-xs font-bold text-slate-700 shadow-sm transition hover:border-sky-300 hover:bg-sky-50 hover:text-sky-600"
+                      className="rounded-lg border border-white bg-white px-3 py-2 text-xs font-bold text-slate-700 shadow-sm transition hover:border-blue-300 hover:bg-blue-50 hover:text-blue-600"
                     >
                       {area.name}
                     </Link>
@@ -140,15 +139,15 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
               </details>
             </div>
 
-            <div className="rounded-2xl border border-sky-200 bg-white/90 p-4 shadow-sm">
-              <p className="text-sm font-bold uppercase tracking-[0.2em] text-sky-500">
+            <div className="rounded-2xl border border-blue-200 bg-white/90 p-4 shadow-sm">
+              <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
                 Quick Contact
               </p>
 
               <div className="mt-4 space-y-3 text-sm">
                 <a
                   href={siteConfig.contact.phoneHref}
-                  className="flex items-center gap-3 rounded-xl border border-slate-200 px-3 py-3 font-semibold text-slate-700 transition hover:border-sky-300 hover:text-sky-500"
+                  className="flex items-center gap-3 rounded-xl border border-slate-200 px-3 py-3 font-semibold text-slate-700 transition hover:border-blue-300 hover:text-blue-500"
                 >
                   <Phone size={16} />
                   {siteConfig.contact.phoneLabel}
@@ -158,7 +157,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                   href={siteConfig.contact.whatsappHref}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center gap-3 rounded-xl border border-sky-200 bg-sky-50 px-3 py-3 font-semibold text-sky-700 transition hover:border-sky-400"
+                  className="flex items-center gap-3 rounded-xl border border-blue-200 bg-blue-50 px-3 py-3 font-semibold text-blue-700 transition hover:border-blue-400"
                 >
                   <MessageCircle size={16} />
                   WhatsApp
@@ -166,7 +165,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
 
                 <a
                   href={siteConfig.contact.emailHref}
-                  className="flex items-center gap-3 rounded-xl border border-slate-200 px-3 py-3 font-semibold text-slate-700 transition hover:border-sky-300 hover:text-sky-500"
+                  className="flex items-center gap-3 rounded-xl border border-slate-200 px-3 py-3 font-semibold text-slate-700 transition hover:border-blue-300 hover:text-blue-500"
                 >
                   <Mail size={16} />
                   {siteConfig.contact.email}
