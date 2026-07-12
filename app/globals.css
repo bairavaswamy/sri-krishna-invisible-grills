@@ -74,8 +74,60 @@ img { max-width: 100%; height: auto; display: block; }
   }
 }
 
+.floating-call-button {
+  animation: floating-call-vibrate 5s ease-in-out infinite;
+  transform-origin: center;
+}
+
+.floating-call-label {
+  animation: floating-call-label-pop 5s ease-in-out infinite;
+  transform-origin: right center;
+}
+
+@keyframes floating-call-vibrate {
+  0%,
+  78%,
+  100% {
+    transform: translateX(0) rotate(0deg) scale(1);
+  }
+  81% {
+    transform: translateX(-2px) rotate(-8deg) scale(1.04);
+  }
+  84% {
+    transform: translateX(2px) rotate(8deg) scale(1.04);
+  }
+  87% {
+    transform: translateX(-2px) rotate(-6deg) scale(1.03);
+  }
+  90% {
+    transform: translateX(2px) rotate(6deg) scale(1.03);
+  }
+  93% {
+    transform: translateX(0) rotate(0deg) scale(1);
+  }
+}
+
+@keyframes floating-call-label-pop {
+  0%,
+  76%,
+  100% {
+    opacity: 0.96;
+    transform: translateX(0) scale(1);
+  }
+  82%,
+  90% {
+    opacity: 1;
+    transform: translateX(-4px) scale(1.04);
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .site-marquee-track {
+    animation: none;
+  }
+
+  .floating-call-button,
+  .floating-call-label {
     animation: none;
   }
 }

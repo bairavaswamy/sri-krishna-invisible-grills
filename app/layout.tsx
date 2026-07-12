@@ -1,26 +1,12 @@
-import dynamic from "next/dynamic";
 import "./globals.css";
 import type { Metadata } from "next";
-import { HeaderSkeleton, FloatingContactSkeleton } from "./components/LoadingSkeletons";
 import DelayedGoogleTagManager from "./components/DelayedGoogleTagManager";
 import SiteStructuredData from "./components/SiteStructuredData";
 import PromoMarquee from "./components/PromoMarquee";
 import { siteConfig } from "./config/site.config";
-
-const FloatingContact = dynamic(() => import("./components/FloatingContact"), {
-  loading: () => <FloatingContactSkeleton />,
-  ssr: false,
-});
-
-const Footer = dynamic(() => import("./footer/Footer"), {
-    ssr: true,
-    loading: () => null,
-  });
-
-const NavBar = dynamic(() => import("./components/NavBar"), {
-    loading: () => <HeaderSkeleton />,
-    ssr: true,
-  });
+import FloatingContact from "./components/FloatingContact";
+import NavBar from "./components/NavBar";
+import Footer from "./footer/Footer";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),

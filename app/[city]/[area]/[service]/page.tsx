@@ -32,12 +32,10 @@ type ManualRouteProps = {
   params: Promise<ManualRouteParams>;
 };
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 
 export async function generateStaticParams(): Promise<ManualRouteParams[]> {
-  const catalogPaths = getAllServiceAreaPaths();
-
-  return catalogPaths.map((path) => ({
+  return getAllServiceAreaPaths().map((path) => ({
     city: path.city,
     area: path.service,
     service: path.area,

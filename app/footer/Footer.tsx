@@ -14,7 +14,7 @@ export default function Footer() {
             alt={`${siteConfig.name} logo`}
             width={2172}
             height={724}
-            className="mb-5 h-auto w-full max-w-[310px] rounded-lg bg-white p-2"
+            className="mb-5 h-auto w-full max-w-[310px] rounded-md bg-white p-2"
           />
 
           <p className="text-sm leading-relaxed text-gray-400">{siteConfig.description}</p>

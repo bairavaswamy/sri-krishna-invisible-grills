@@ -3,6 +3,7 @@ const http = require("http");
 const path = require("path");
 
 const root = path.join(process.cwd(), "out");
+const rootWithSeparator = `${path.resolve(root)}${path.sep}`;
 const port = Number(process.env.PORT || 3000);
 
 const types = {
@@ -17,44 +18,61 @@ const types = {
 };
 
 function resolveFile(requestUrl) {
-  const cleanUrl = decodeURIComponent(requestUrl.split("?")[0] || "/");
-  const normalizedUrl = cleanUrl.endsWith("/") ? `${cleanUrl}index.html` : cleanUrl;
-  let filePath = path.normalize(path.join(root, normalizedUrl));
+  const requestPath = decodeURIComponent((requestUrl || "/").split("?")[0] || "/");
+  const cleanPath = requestPath.replace(/^\/+/, "");
+  const candidates = requestPath.endsWith("/")
+    ? [path.join(root, cleanPath, "index.html")]
+    : [
+        path.join(root, cleanPath),
+        ...(path.extname(cleanPath)
+          ? []
+          : [
+              path.join(root, `${cleanPath}.html`),
+              path.join(root, cleanPath, "index.html"),
+            ]),
+      ];
 
-  if (!filePath.startsWith(root)) {
-    return null;
-  }
+  for (const candidate of candidates) {
+    const filePath = path.resolve(candidate);
 
-  if (fs.existsSync(filePath) && fs.statSync(filePath).isDirectory()) {
-    const htmlFile = `${filePath}.html`;
-    const indexFile = path.join(filePath, "index.html");
-
-    if (fs.existsSync(htmlFile)) {
-      return htmlFile;
+    if (filePath !== path.resolve(root) && !filePath.startsWith(rootWithSeparator)) {
+      return null;
     }
 
-    if (fs.existsSync(indexFile)) {
-      return indexFile;
+    if (fs.existsSync(filePath) && fs.statSync(filePath).isFile()) {
+      return filePath;
     }
   }
 
-  if (!fs.existsSync(filePath) && !path.extname(filePath)) {
-    filePath = `${filePath}.html`;
-  }
-
-  if (!fs.existsSync(filePath)) {
-    return path.join(root, "404.html");
-  }
-
-  return filePath;
+  return path.join(root, "404.html");
 }
 
 const server = http.createServer((request, response) => {
-  const filePath = resolveFile(request.url || "/");
+  let filePath;
+
+  try {
+    filePath = resolveFile(request.url || "/");
+  } catch {
+    response.writeHead(400, { "Content-Type": "text/plain; charset=utf-8" });
+    response.end("Bad request");
+    return;
+  }
 
   if (!filePath) {
     response.writeHead(403);
     response.end("Forbidden");
+    return;
+  }
+
+  if (!fs.existsSync(filePath)) {
+    const body = "<!doctype html><title>Page not found</title><h1>Page not found</h1>";
+
+    response.writeHead(404, {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": Buffer.byteLength(body),
+      Connection: "close",
+    });
+    response.end(body);
     return;
   }
 
@@ -63,7 +81,22 @@ const server = http.createServer((request, response) => {
   }
 
   response.setHeader("Content-Type", types[path.extname(filePath)] || "application/octet-stream");
-  fs.createReadStream(filePath).pipe(response);
+  const stream = fs.createReadStream(filePath);
+
+  stream.on("error", () => {
+    if (!response.headersSent) {
+      response.writeHead(500, { "Content-Type": "text/plain; charset=utf-8" });
+    }
+
+    response.end("Unable to read static file");
+  });
+
+  stream.pipe(response);
+});
+
+server.on("error", (error) => {
+  console.error(error.message);
+  process.exit(1);
 });
 
 server.listen(port, "127.0.0.1", () => {

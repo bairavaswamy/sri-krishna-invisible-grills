@@ -22,11 +22,12 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
   const serviceDetail = getServiceDetail(serviceSlug);
 
   return (
-    <main className="bg-white text-slate-950">
+    <main className="bg-gradient-to-b from-white via-[#f8fbff] to-[#fff8e8] text-slate-950">
       <section className="relative overflow-hidden">
         <div className="absolute inset-0">
           <Image src={page.hero.image} alt={page.hero.title} fill priority className="object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/76 to-slate-900/30" />
+          <div className="absolute inset-0 bg-gradient-to-r from-[#08275a] via-[#08275a]/86 to-[#08275a]/38" />
+          <div className="absolute inset-x-0 bottom-0 h-28 bg-gradient-to-t from-white/95 to-transparent" />
         </div>
 
         <div className="relative mx-auto grid min-h-[620px] w-full max-w-7xl items-center gap-8 px-4 py-12 sm:gap-10 sm:py-16 lg:grid-cols-[1.05fr_0.75fr] lg:px-6">
@@ -44,7 +45,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
             <div className="mt-8 flex flex-wrap gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex w-full max-w-full items-center justify-center gap-2 rounded-full bg-gradient-to-r from-blue-500 to-amber-500 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-blue-950/20 transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-blue-950/30 sm:w-auto sm:text-base"
+                className="inline-flex w-full max-w-full items-center justify-center gap-2 rounded-full bg-[#d6a039] px-5 py-3 text-sm font-black text-[#08275a] shadow-lg shadow-[#08275a]/20 transition-all duration-300 hover:bg-[#f3c35b] hover:shadow-xl hover:shadow-[#08275a]/25 sm:w-auto sm:text-base"
               >
                 <Phone size={18} />
                 <span className="truncate">{page.hero.primaryCta}</span>
@@ -61,7 +62,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
             </div>
           </div>
 
-          <div className="w-full max-w-full rounded-[24px] border border-white/15 bg-white/12 p-5 text-white shadow-2xl backdrop-blur-md sm:rounded-[34px] sm:p-6">
+          <div className="w-full max-w-full rounded-md border border-white/15 bg-white/12 p-5 text-white shadow-2xl backdrop-blur-md sm:p-6">
             <p className="text-xs font-bold uppercase tracking-[0.22em] text-amber-200">
               Site Visit Notes
             </p>
@@ -70,7 +71,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
               Share the opening photos, floor level, access details, and the main
               safety issue. The quote should follow the measured site, not a guess.
             </p>
-            <div className="mt-6 rounded-2xl bg-white/12 p-4 text-sm leading-7 text-slate-100">
+            <div className="mt-6 rounded-md bg-white/12 p-4 text-sm leading-7 text-slate-100">
               The visit confirms material, fixing line, finish, and after-care
               before installation starts.
             </div>
@@ -82,7 +83,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
         {page.proof.map((item) => (
           <div
             key={item.label}
-            className="relative z-10 rounded-[24px] border border-blue-100 bg-white p-5 shadow-[0_20px_60px_rgba(15,23,42,0.12)] transition-all duration-300 hover:shadow-[0_25px_80px_rgba(15,23,42,0.18)] hover:-translate-y-1"
+            className="relative z-10 rounded-md border border-[#dbe7f5] bg-white p-5 shadow-[0_20px_60px_rgba(15,23,42,0.12)] transition-all duration-300 hover:-translate-y-1 hover:border-[#d6a039] hover:shadow-[0_25px_80px_rgba(15,23,42,0.18)]"
           >
             <h2 className="mt-2 text-sm font-bold uppercase tracking-[0.18em] text-slate-900">
               {item.label}
@@ -96,13 +97,13 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
         <section className="mx-auto max-w-7xl px-4 py-12 lg:px-6">
           <div className="grid gap-5 lg:grid-cols-[0.42fr_0.58fr]">
             {page.priceGuide ? (
-              <div className="rounded-[26px] border border-blue-100 bg-[#f8fbff] p-5 shadow-sm">
+              <div className="rounded-md border border-[#dbe7f5] bg-[#f8fbff] p-5 shadow-sm">
                 <div className="flex items-center gap-3">
                   <span className="grid h-11 w-11 place-items-center rounded-full bg-[#fff4d9] text-[#b47a14]">
                     <IndianRupee size={21} />
                   </span>
                   <div>
-                    <p className="text-xs font-bold uppercase tracking-[0.16em] text-blue-600">
+                    <p className="text-xs font-black uppercase tracking-[0.16em] text-[#b98218]">
                       Price
                     </p>
                     <h2 className="text-2xl font-black text-slate-950">
@@ -117,7 +118,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
                   {page.priceGuide.factors.map((factor) => (
                     <span
                       key={factor}
-                      className="rounded-full border border-blue-100 bg-white px-3 py-1 text-xs font-bold text-blue-700"
+                      className="rounded-full border border-[#dbe7f5] bg-white px-3 py-1 text-xs font-bold text-[#08275a]"
                     >
                       {factor}
                     </span>
@@ -127,13 +128,13 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
             ) : null}
 
             {page.process ? (
-              <div className="rounded-[26px] border border-blue-100 bg-white p-5 shadow-sm">
+              <div className="rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm">
                 <div className="flex items-center gap-3">
-                  <span className="grid h-11 w-11 place-items-center rounded-full bg-blue-50 text-blue-700">
+                  <span className="grid h-11 w-11 place-items-center rounded-full bg-[#eef5ff] text-[#0b4fb3]">
                     <ListChecks size={21} />
                   </span>
                   <div>
-                    <p className="text-xs font-bold uppercase tracking-[0.16em] text-blue-600">
+                    <p className="text-xs font-black uppercase tracking-[0.16em] text-[#b98218]">
                       Process
                     </p>
                     <h2 className="text-2xl font-black text-slate-950">
@@ -143,7 +144,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
                 </div>
                 <div className="mt-5 grid gap-3 sm:grid-cols-2">
                   {page.process.steps.map((step, index) => (
-                    <div key={step.title} className="flex gap-3 rounded-[18px] bg-[#f8fbff] p-4">
+                    <div key={step.title} className="flex gap-3 rounded-md bg-[#f8fbff] p-4">
                       <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-[#08275a] text-sm font-black text-white">
                         {index + 1}
                       </span>
@@ -161,13 +162,13 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
           </div>
 
           {page.comparisonTable ? (
-            <div className="mt-5 rounded-[26px] border border-blue-100 bg-white p-5 shadow-sm">
+            <div className="mt-5 rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm">
               <div className="flex items-center gap-3">
                 <span className="grid h-11 w-11 place-items-center rounded-full bg-[#fff4d9] text-[#b47a14]">
                   <Scale size={21} />
                 </span>
                 <div>
-                  <p className="text-xs font-bold uppercase tracking-[0.16em] text-blue-600">
+                  <p className="text-xs font-black uppercase tracking-[0.16em] text-[#b98218]">
                     Difference Table
                   </p>
                   <h2 className="text-2xl font-black text-slate-950">
@@ -176,7 +177,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
                 </div>
               </div>
 
-              <div className="mt-5 hidden overflow-hidden rounded-[18px] border border-slate-200 md:block">
+              <div className="mt-5 hidden overflow-hidden rounded-md border border-slate-200 md:block">
                 <table className="w-full border-collapse text-left text-sm">
                   <thead className="bg-[#08275a] text-white">
                     <tr>
@@ -201,13 +202,13 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
 
               <div className="mt-5 grid gap-3 md:hidden">
                 {page.comparisonTable.rows.map((row) => (
-                  <div key={row.feature} className="rounded-[18px] border border-slate-200 p-4">
+                  <div key={row.feature} className="rounded-md border border-slate-200 p-4">
                     <h3 className="text-sm font-black text-slate-950">{row.feature}</h3>
                     <p className="mt-3 text-xs font-bold uppercase tracking-[0.12em] text-slate-500">
                       Basic quote
                     </p>
                     <p className="mt-1 text-sm leading-6 text-slate-600">{row.basic}</p>
-                    <p className="mt-3 text-xs font-bold uppercase tracking-[0.12em] text-blue-600">
+                    <p className="mt-3 text-xs font-bold uppercase tracking-[0.12em] text-[#b98218]">
                       Sri Krishna plan
                     </p>
                     <p className="mt-1 text-sm leading-6 font-semibold text-slate-800">
@@ -246,7 +247,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
                   }`}
                 >
                   <div className={sectionImage && index % 2 === 1 ? "lg:order-2" : undefined}>
-                    <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
+                    <p className="text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
                       {section.eyebrow}
                     </p>
                     <h2 className="mt-3 text-2xl font-black tracking-tight text-slate-950 sm:text-3xl">
@@ -260,7 +261,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
                   </div>
 
                   {sectionImage ? (
-                    <div className="relative min-h-[340px] overflow-hidden rounded-[30px] shadow-xl">
+                    <div className="relative min-h-[340px] overflow-hidden rounded-md shadow-xl">
                       <Image src={sectionImage} alt={section.heading} fill className="object-cover" />
                       <div className="absolute inset-0 bg-gradient-to-t from-slate-950/40 to-transparent" />
                     </div>
@@ -272,8 +273,8 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
         </article>
 
         <aside className="lg:sticky lg:top-28 lg:self-start">
-          <div className="rounded-[28px] border border-blue-100 bg-gradient-to-br from-blue-50 via-white to-amber-50 p-6 shadow-lg shadow-blue-100/50">
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
+          <div className="rounded-md border border-[#dbe7f5] bg-white p-6 shadow-lg shadow-[#08275a]/8">
+            <p className="text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
               {serviceDetail.category}
             </p>
             <h2 className="mt-3 text-2xl font-black text-slate-950">
@@ -286,7 +287,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
             <div className="mt-5 grid gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-slate-950 px-5 py-3 font-bold text-white shadow transition-all duration-300 hover:bg-slate-800 hover:shadow-lg hover:scale-105"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-[#08275a] px-5 py-3 font-black text-white shadow transition-all duration-300 hover:bg-[#0b4fb3] hover:shadow-lg"
               >
                 <Phone size={17} />
                 Call
@@ -294,7 +295,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
               <Link
                 href="/contact-us"
                 prefetch={false}
-                className="inline-flex items-center justify-center gap-2 rounded-full border border-blue-200 bg-white px-5 py-3 font-bold text-blue-600 shadow-sm transition-all duration-300 hover:border-blue-400 hover:bg-blue-50 hover:shadow-md hover:scale-105"
+                className="inline-flex items-center justify-center gap-2 rounded-full border border-[#d6a039]/45 bg-[#fff8e8] px-5 py-3 font-black text-[#08275a] shadow-sm transition-all duration-300 hover:border-[#d6a039] hover:bg-[#fff4d9] hover:shadow-md"
               >
                 Contact Page
                 <ArrowRight size={17} />
@@ -307,7 +308,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
       <section className="bg-[#f8fbff] px-4 py-14">
         <div className="mx-auto max-w-7xl">
           <div className="max-w-3xl">
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-700">
+            <p className="text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
               Decision Guide
             </p>
             <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -317,8 +318,8 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
 
           <div className="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             {page.decisionGuide.points.map((point) => (
-              <div key={point.title} className="rounded-[24px] border border-blue-100 bg-white p-5 shadow-sm transition-all duration-300 hover:shadow-lg hover:border-blue-200 hover:-translate-y-0.5">
-                <CheckCircle2 className="text-blue-600 transition-colors duration-300 hover:text-blue-700" size={22} />
+              <div key={point.title} className="rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-[#d6a039] hover:shadow-lg">
+                <CheckCircle2 className="text-[#0b4fb3] transition-colors duration-300 hover:text-[#08275a]" size={22} />
                 <h3 className="mt-4 text-lg font-black text-slate-950">{point.title}</h3>
                 <p className="mt-3 text-sm leading-7 text-slate-600">{point.description}</p>
               </div>
@@ -328,7 +329,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
       </section>
 
       <section className="mx-auto max-w-5xl px-4 py-14">
-        <p className="text-center text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
+        <p className="text-center text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
           FAQ
         </p>
         <h2 className="mt-3 text-center text-3xl font-black text-slate-950">
@@ -336,8 +337,8 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
         </h2>
         <div className="mt-8 space-y-4">
           {page.faq.map((item) => (
-            <details key={item.question} className="group rounded-[20px] border border-slate-200 bg-white p-5 shadow-sm transition-all duration-300 hover:shadow-md hover:border-slate-300">
-              <summary className="cursor-pointer text-lg font-bold text-slate-950 transition-colors duration-300 group-hover:text-blue-600">
+            <details key={item.question} className="group rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm transition-all duration-300 hover:border-[#d6a039] hover:shadow-md">
+              <summary className="cursor-pointer text-lg font-bold text-slate-950 transition-colors duration-300 group-hover:text-[#0b4fb3]">
                 {item.question}
               </summary>
               <p className="mt-4 text-sm leading-7 text-slate-600">{item.answer}</p>
@@ -347,7 +348,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
       </section>
 
       <section className="px-4 pb-16">
-        <div className="mx-auto max-w-7xl rounded-[34px] bg-[#08275a] p-8 text-center text-white shadow-xl">
+        <div className="mx-auto max-w-7xl rounded-md bg-[#08275a] p-8 text-center text-white shadow-xl">
           <h2 className="text-3xl font-black">{page.closing.heading}</h2>
           <div className="mx-auto mt-5 max-w-3xl space-y-4 text-sm leading-7 text-slate-100">
             {page.closing.paragraphs.map((paragraph) => (
@@ -356,7 +357,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
           </div>
           <a
             href={siteConfig.contact.phoneHref}
-            className="mt-6 inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 font-bold text-blue-500 shadow transition-all duration-300 hover:bg-gray-50 hover:shadow-lg hover:scale-105"
+            className="mt-6 inline-flex items-center gap-2 rounded-full bg-[#d6a039] px-6 py-3 font-black text-[#08275a] shadow transition-all duration-300 hover:bg-[#f3c35b] hover:shadow-lg"
           >
             {page.closing.cta}
             <ArrowRight size={18} />

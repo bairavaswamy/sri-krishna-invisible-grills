@@ -9,7 +9,7 @@
     "validate:service-images": "node scripts/validate-service-images.js",
     "postbuild": "next-sitemap",
     "serve:out": "node scripts/serve-out.js",
-    "start": "next start",
+    "start": "node scripts/serve-out.js",
     "export": "next build && next export",
     "lint": "next lint",
     "analyze": "cross-env ANALYZE=true next build",

@@ -69,17 +69,17 @@ const variantClasses = {
   dark: {
     heading: "text-white",
     text: "text-gray-400",
-    link: "border-white/10 bg-white/5 text-gray-200 hover:border-blue-300/50 hover:bg-blue-400/10 hover:text-blue-300",
+    link: "border-white/10 bg-white/5 text-gray-200 hover:border-[#d6a039]/70 hover:bg-[#d6a039]/10 hover:text-[#f3c35b]",
   },
   light: {
     heading: "text-slate-900",
     text: "text-slate-600",
-    link: "border-slate-200 bg-white text-slate-700 hover:border-blue-300 hover:bg-blue-50 hover:text-blue-600",
+    link: "border-[#dbe7f5] bg-white text-slate-700 hover:border-[#d6a039] hover:bg-[#fff8e8] hover:text-[#08275a]",
   },
   warm: {
     heading: "text-slate-900",
     text: "text-slate-600",
-    link: "border-blue-200 bg-white/90 text-slate-700 hover:border-blue-400 hover:bg-blue-50 hover:text-blue-600",
+    link: "border-[#dbe7f5] bg-white/90 text-slate-700 hover:border-[#d6a039] hover:bg-[#fff8e8] hover:text-[#08275a]",
   },
 };
 

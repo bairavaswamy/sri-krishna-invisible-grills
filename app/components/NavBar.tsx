@@ -3,14 +3,11 @@
 import { memo, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import dynamic from "next/dynamic";
 import { ChevronDown, Mail, MapPin, Menu, MessageCircle, Phone, X } from "lucide-react";
 import { chennaiConfig } from "../config/chennai.config";
 import { siteConfig } from "../config/site.config";
-
-const MenuClient = dynamic(() => import("./Menuclient"), {
-  ssr: false,
-});
+import SiteSearch from "./SiteSearch";
+import MenuClient from "./Menuclient";
 
 const Header: React.FC = () => {
   const [open, setOpen] = useState(false);
@@ -142,11 +139,11 @@ const Header: React.FC = () => {
                     : "invisible translate-y-2 opacity-0"
                 }`}
               >
-                <div className="max-h-[520px] overflow-y-auto border-t-4 border-[#0b4fb3] bg-white py-2 shadow-xl">
+                <div className="max-h-[520px] overflow-y-auto border-t-4 border-[#d6a039] bg-white py-2 shadow-xl">
                   <Link
                     href={cityHref}
                     prefetch={false}
-                    className="block border-b border-slate-100 bg-blue-50 px-5 py-3 text-sm font-black text-[#0b4fb3] transition hover:bg-[#0b4fb3] hover:text-white"
+                    className="block border-b border-slate-100 bg-[#fff8e8] px-5 py-3 text-sm font-black text-[#08275a] transition hover:bg-[#08275a] hover:text-white"
                   >
                     All Services
                   </Link>
@@ -155,7 +152,7 @@ const Header: React.FC = () => {
                       key={service.slug}
                       href={`${cityHref}/${service.slug}`}
                       prefetch={false}
-                      className="block border-b border-slate-100 px-5 py-3 text-sm font-bold text-[#08275a] transition hover:bg-[#0b4fb3] hover:text-white"
+                      className="block border-b border-slate-100 px-5 py-3 text-sm font-bold text-[#08275a] transition hover:bg-[#08275a] hover:text-white"
                     >
                       {service.name}
                     </Link>
@@ -208,15 +205,21 @@ const Header: React.FC = () => {
               aria-label={open ? "Close menu" : "Open menu"}
               aria-expanded={open}
               onClick={() => setOpen(!open)}
-              className="relative z-[70] inline-flex h-11 w-11 items-center justify-center rounded-full border border-blue-200 bg-white text-[#08275a] shadow-md shadow-blue-100 transition hover:border-[#0b4fb3] hover:text-[#0b4fb3] focus:outline-none focus:ring-2 focus:ring-[#0b4fb3] lg:hidden"
+              className="relative z-[70] inline-flex h-11 w-11 items-center justify-center rounded-full border border-[#d6a039]/45 bg-white text-[#08275a] shadow-md shadow-[#08275a]/10 transition hover:border-[#d6a039] hover:text-[#0b4fb3] focus:outline-none focus:ring-2 focus:ring-[#d6a039] lg:hidden"
             >
               {open ? <X size={22} aria-hidden="true" /> : <Menu size={22} aria-hidden="true" />}
             </button>
           </div>
         </header>
+
+        <div className="border-t border-[#ead8a8] bg-[#fff8e8] px-3 py-3 shadow-inner">
+          <div className="mx-auto max-w-5xl">
+            <SiteSearch className="w-full" />
+          </div>
+        </div>
       </div>
 
-      <div className="pt-[130px] sm:pt-[152px] lg:pt-[156px]" />
+      <div className="pt-[190px] sm:pt-[210px] lg:pt-[214px]" />
       <div className="block lg:hidden">
         <MenuClient open={open} onClose={() => setOpen(false)} />
       </div>

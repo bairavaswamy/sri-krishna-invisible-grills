@@ -6,7 +6,7 @@ export const siteConfig = {
   tagline: "Window invisible grills, safety nets, and bird-control protection for Chennai homes.",
   description:
     "SRI KRISHNA INVISIBLE GRILLS provides window invisible grills, balcony invisible grills, safety nets, pigeon control, cricket practice nets, and utility safety services across Chennai.",
-  defaultImage: "/images/site/chennai-home-hero-safety-nets.png",
+  defaultImage: "/images/site/home-carousel-window-invisible-grills.webp",
   logo: "/brand/sri-krishna-logo-full.png",
   logos: {
     desktop: "/brand/sri-krishna-logo-full.png",
@@ -14,10 +14,10 @@ export const siteConfig = {
     favicon: "/brand/sri-krishna-logo-mark.png",
   },
   contact: {
-    phoneLabel: "+91 98765 43210",
-    phoneHref: "tel:+919876543210",
-    whatsappLabel: "+91 98765 43210",
-    whatsappHref: "https://wa.me/919876543210",
+    phoneLabel: "+91 95058 53512",
+    phoneHref: "tel:+919505853512",
+    whatsappLabel: "+91 93813 53512",
+    whatsappHref: "https://wa.me/919381353512",
     email: "info@srikrishnainvisiblegrills.com",
     emailHref: "mailto:info@srikrishnainvisiblegrills.com",
     hours: "Mon - Sun, 9:00 AM to 8:00 PM",
@@ -65,10 +65,79 @@ export const siteConfig = {
   },
   navLinks: [
     { label: "Home", href: "/" },
-    { label: "Services", href: "/services" },
+    { label: "Services", href: "/chennai" },
     { label: "About", href: "/about" },
     { label: "Gallery", href: "/gallery" },
     { label: "Contact", href: "/contact-us" },
+  ],
+  homeCarouselImages: [
+    {
+      src: "/images/site/home-carousel-window-invisible-grills.webp",
+      mobileSrc: "/images/site/home-carousel-window-invisible-grills.webp",
+      title: "SRI KRISHNA INVISIBLE GRILLS",
+      alt: "Premium Chennai apartment window invisible grill with open city view",
+      description:
+        "Window invisible grills, balcony protection, bird-control, and safety net services planned neatly for Chennai homes.",
+    },
+    {
+      src: "/images/services/balcony-safety-nets/balcony-safety-nets-detail.webp",
+      mobileSrc: "/images/services/balcony-safety-nets/balcony-safety-nets-detail.webp",
+      title: "Balcony Safety Nets for Open Views",
+      alt: "Balcony safety net installed across an apartment balcony opening",
+      description:
+        "Strong balcony net coverage with clean borders, secure fixing points, and a lighter visual finish.",
+    },
+    {
+      src: "/images/site/home-carousel-children-safety-nets.webp",
+      mobileSrc: "/images/site/home-carousel-children-safety-nets.webp",
+      title: "Child Safety for Everyday Homes",
+      alt: "Family apartment balcony with child safety net and clean interior",
+      description:
+        "Careful safety planning for balconies, windows, and open edges without making the home feel closed.",
+    },
+    {
+      src: "/images/site/home-carousel-bird-control.webp",
+      mobileSrc: "/images/site/home-carousel-bird-control.webp",
+      title: "Clean Pigeon Control for Balconies",
+      alt: "Chennai balcony with pigeon safety net and humane bird control finish",
+      description:
+        "Practical pigeon protection for ledges, service areas, and balcony corners while keeping access manageable.",
+    },
+    {
+      src: "/images/site/home-carousel-site-measurement.webp",
+      mobileSrc: "/images/site/home-carousel-site-measurement.webp",
+      title: "Measured Installation, Neat Finish",
+      alt: "Installer measuring a Chennai balcony before invisible grill and safety net work",
+      description:
+        "Every visit starts with frame checks, measurement, material choice, and a clean fixing plan.",
+    },
+  ],
+  homeFaq: [
+    {
+      question: "Which services does SRI KRISHNA INVISIBLE GRILLS handle in Chennai?",
+      answer:
+        "The team handles window invisible grills, balcony invisible grills, balcony safety nets, children safety nets, pigeon safety nets, window safety nets, duct nets, terrace nets, building covering nets, bird spikes, cricket practice nets, and cloth hanger installation across Chennai.",
+    },
+    {
+      question: "How do I get a price for safety nets or invisible grills?",
+      answer:
+        "Share the service type, Chennai area, photos, and approximate opening size. A proper quote is confirmed after checking measurement, access, fixing surface, material grade, and finish requirement.",
+    },
+    {
+      question: "Are the pages written for Chennai areas only?",
+      answer:
+        "Yes. The service-area pages are focused on Chennai routes, local apartment conditions, access points, and common balcony, window, duct, terrace, and bird-control needs.",
+    },
+    {
+      question: "Can I call or WhatsApp for a same-day site visit?",
+      answer:
+        "You can call or send photos on WhatsApp for a quick check. Same-day visits depend on your location, team schedule, and whether measurements can be confirmed clearly.",
+    },
+    {
+      question: "Will the installation block the view from my balcony or window?",
+      answer:
+        "Invisible grills and neatly tensioned nets are planned to keep the view as open as possible while improving safety. The final look depends on cable spacing, mesh type, frame condition, and fixing line.",
+    },
   ],
   focusAreas: [
     {
@@ -259,7 +328,7 @@ export const siteConfig = {
     },
     {
       name: "WhatsApp",
-      href: "https://wa.me/919876543210",
+      href: "https://wa.me/919381353512",
       label: "SRI KRISHNA INVISIBLE GRILLS on WhatsApp",
     },
   ],

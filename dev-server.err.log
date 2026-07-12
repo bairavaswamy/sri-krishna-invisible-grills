@@ -1,0 +1,768 @@
+ ⨯ Error: Page "/[city]/[area]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:967:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async DevServer.renderPageComponent (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1608:24)
+    at async DevServer.renderToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1646:32)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25)
+    at async DevServer.handleCatchallRenderRequest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:623:13)
+    at async DevServer.handleRequestImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:736:17) {
+  page: '/chennai/balcony-safety-nets'
+}
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ Error: Page "/[city]/[area]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:967:27) {
+  page: '/chennai/balcony-safety-nets'
+}
+ ⨯ Error: Page "/[city]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:967:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async DevServer.renderPageComponent (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1608:24)
+    at async DevServer.renderToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1646:32)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25)
+    at async DevServer.handleCatchallRenderRequest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:623:13)
+    at async DevServer.handleRequestImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:736:17) {
+  page: '/favicon.ico'
+}
+ ⨯ Error: Page "/[city]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:967:27) {
+  page: '/favicon.ico'
+}
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ Error: Cannot find module './98.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\[city]\[area]\page.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at __webpack_require__.f.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:198:28)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:111:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:162:22)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\[city]\[area]\page.js:1:162506
+    at Object.<anonymous> (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\[city]\[area]\page.js:1:162581)
+    at Module._compile (node:internal/modules/cjs/loader:1804:14)
+    at Object..js (node:internal/modules/cjs/loader:1936:10)
+    at Module.load (node:internal/modules/cjs/loader:1525:32)
+    at Module._load (node:internal/modules/cjs/loader:1327:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at requirePage (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require.js:109:84)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:59:84
+    at async loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:59:26)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\.next\\server\\webpack-runtime.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\.next\\server\\app\\[city]\\[area]\\page.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\require.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ],
+  page: '/chennai/balcony-safety-nets'
+}
+ ⨯ Error: Cannot find module './98.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\[city]\[area]\page.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at __webpack_require__.f.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:198:28)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:111:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:162:22)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\[city]\[area]\page.js:1:162506
+    at Object.<anonymous> (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\[city]\[area]\page.js:1:162581)
+    at Module._compile (node:internal/modules/cjs/loader:1804:14)
+    at Object..js (node:internal/modules/cjs/loader:1936:10)
+    at Module.load (node:internal/modules/cjs/loader:1525:32)
+    at Module._load (node:internal/modules/cjs/loader:1327:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at requirePage (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require.js:109:84)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:59:84
+    at async loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:59:26)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\.next\\server\\webpack-runtime.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\.next\\server\\app\\[city]\\[area]\\page.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\require.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ],
+  page: '/chennai/balcony-safety-nets'
+}
+Error: Cannot find module './310.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\[city]\[area]\page.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at __webpack_require__.f.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:198:28)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:111:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:162:22)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\pages\_document.js:1:306
+    at Object.<anonymous> (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\pages\_document.js:1:366)
+    at Module._compile (node:internal/modules/cjs/loader:1804:14)
+    at Object..js (node:internal/modules/cjs/loader:1936:10)
+    at Module.load (node:internal/modules/cjs/loader:1525:32)
+    at Module._load (node:internal/modules/cjs/loader:1327:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at requirePage (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require.js:109:84)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:55:65
+    at async Promise.all (index 0)
+    at async loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:54:33)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\.next\\server\\webpack-runtime.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\.next\\server\\app\\[city]\\[area]\\page.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\require.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module './310.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\[city]\[area]\page.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at __webpack_require__.f.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:198:28)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:111:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:162:22)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\pages\_document.js:1:306
+    at Object.<anonymous> (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\pages\_document.js:1:366)
+    at Module._compile (node:internal/modules/cjs/loader:1804:14)
+    at Object..js (node:internal/modules/cjs/loader:1936:10)
+    at Module.load (node:internal/modules/cjs/loader:1525:32)
+    at Module._load (node:internal/modules/cjs/loader:1327:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at requirePage (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require.js:109:84)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:55:65
+    at async Promise.all (index 0)
+    at async loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:54:33)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\.next\\server\\webpack-runtime.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\.next\\server\\app\\[city]\\[area]\\page.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\require.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+ ⨯ Error: Cannot find module './98.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\[city]\page.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at __webpack_require__.f.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:198:28)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:111:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\webpack-runtime.js:162:22)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\[city]\page.js:1:14583
+    at Object.<anonymous> (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\[city]\page.js:1:14650)
+    at Module._compile (node:internal/modules/cjs/loader:1804:14)
+    at Object..js (node:internal/modules/cjs/loader:1936:10)
+    at Module.load (node:internal/modules/cjs/loader:1525:32)
+    at Module._load (node:internal/modules/cjs/loader:1327:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at requirePage (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require.js:109:84)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:59:84
+    at async loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:59:26)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\.next\\server\\webpack-runtime.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\.next\\server\\app\\[city]\\page.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\require.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ],
+  page: '/favicon.ico'
+}
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\cache\webpack\client-development-fallback\1.pack.gz_' -> 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\cache\webpack\client-development-fallback\1.pack.gz'
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25)
+    at async DevServer.handleCatchallRenderRequest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:623:13)
+    at async DevServer.handleRequestImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:736:17) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async pipe.req.req (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1740:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async pipe.req.req (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1740:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async pipe.req.req (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1740:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async pipe.req.req (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1740:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async pipe.req.req (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1740:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25)
+    at async DevServer.handleCatchallRenderRequest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:623:13)
+    at async DevServer.handleRequestImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:736:17) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async pipe.req.req (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1740:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async pipe.req.req (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1740:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async pipe.req.req (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1740:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async pipe.req.req (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1740:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+Error: Cannot find module 'C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\.next\server\app\not-found_client-reference-manifest.js'
+Require stack:
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\build\utils.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-middleware.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\lib\start-server.js
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1448:15)
+    at C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:54:36
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1234:25)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1548:12)
+    at mod.require (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\require-hook.js:64:28)
+    at require (node:internal/modules/helpers:152:16)
+    at loadClientReferenceManifest (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:43:72)
+    at loadComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\load-components.js:65:29)
+    at async DevServer.findPageComponentsImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\next-server.js:439:36)
+    at async DevServer.findPageComponents (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\dev\next-dev-server.js:535:20)
+    at async DevServer.renderErrorToResponseImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1774:30)
+    at async pipe.req.req (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:1740:30)
+    at async DevServer.pipeImpl (C:\Users\GOPI\SRI KRISHNA INVISIBLE GRILLS\node_modules\next\dist\server\base-server.js:834:25) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\load-components.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\build\\utils.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-middleware.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\dev\\hot-reloader-webpack.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-utils\\setup-dev-bundler.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\router-server.js',
+    'C:\\Users\\GOPI\\SRI KRISHNA INVISIBLE GRILLS\\node_modules\\next\\dist\\server\\lib\\start-server.js'
+  ]
+}
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...

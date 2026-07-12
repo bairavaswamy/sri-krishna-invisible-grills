@@ -54,11 +54,12 @@ export default function ManualEntryServicePage({
   const nearbyAreas = getNearbyAreas(area.slug);
 
   return (
-    <main className="bg-white text-slate-950">
+    <main className="bg-gradient-to-b from-white via-[#f8fbff] to-[#fff8e8] text-slate-950">
       <section className="relative overflow-hidden">
         <div className="absolute inset-0">
           <Image src={visuals.hero} alt={`${service.name} in ${area.name}`} fill priority className="object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/80 to-slate-900/35" />
+          <div className="absolute inset-0 bg-gradient-to-r from-[#08275a] via-[#08275a]/86 to-[#08275a]/38" />
+          <div className="absolute inset-x-0 bottom-0 h-28 bg-gradient-to-t from-white/95 to-transparent" />
         </div>
 
         <div className="relative mx-auto grid min-h-[620px] max-w-7xl items-center gap-10 px-4 py-16 lg:grid-cols-[1.05fr_0.75fr] lg:px-6">
@@ -76,7 +77,7 @@ export default function ManualEntryServicePage({
             <div className="mt-8 flex flex-wrap gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center gap-2 rounded-full bg-blue-500 px-5 py-3 font-bold text-white shadow-lg shadow-blue-950/20 transition hover:bg-blue-600"
+                className="inline-flex items-center gap-2 rounded-full bg-[#d6a039] px-5 py-3 font-black text-[#08275a] shadow-lg shadow-[#08275a]/20 transition hover:bg-[#f3c35b]"
               >
                 <Phone size={18} />
                 Call for {area.name}
@@ -93,7 +94,7 @@ export default function ManualEntryServicePage({
             </div>
           </div>
 
-          <div className="rounded-lg border border-white/15 bg-white/12 p-6 text-white shadow-2xl backdrop-blur-md">
+          <div className="rounded-md border border-white/15 bg-white/12 p-6 text-white shadow-2xl backdrop-blur-md">
             <p className="text-xs font-bold uppercase tracking-[0.2em] text-amber-200">
               Chennai Service Help
             </p>
@@ -102,7 +103,7 @@ export default function ManualEntryServicePage({
               {service.name} pages connect the service choice with area-specific
               contact actions, nearby links, and practical site planning.
             </p>
-            <div className="mt-6 rounded-lg bg-white/12 p-4 text-sm leading-7 text-slate-100">
+            <div className="mt-6 rounded-md bg-white/12 p-4 text-sm leading-7 text-slate-100">
               Share photos, floor access, opening size, and the main safety issue so
               the visit can follow the real condition.
             </div>
@@ -136,10 +137,10 @@ export default function ManualEntryServicePage({
           return (
             <div
               key={item.label}
-              className="relative z-10 rounded-lg border border-blue-100 bg-white p-5 shadow-[0_20px_60px_rgba(15,23,42,0.12)]"
+              className="relative z-10 rounded-md border border-[#dbe7f5] bg-white p-5 shadow-[0_20px_60px_rgba(15,23,42,0.12)]"
             >
-              <Icon className="text-blue-700" size={24} />
-              <p className="mt-4 text-2xl font-black text-blue-900">{item.title}</p>
+              <Icon className="text-[#0b4fb3]" size={24} />
+              <p className="mt-4 text-2xl font-black text-[#08275a]">{item.title}</p>
               <h2 className="mt-2 text-sm font-bold uppercase tracking-[0.16em] text-slate-900">
                 {item.label}
               </h2>
@@ -152,7 +153,7 @@ export default function ManualEntryServicePage({
       <section className="mx-auto grid max-w-7xl gap-10 px-4 py-14 lg:grid-cols-[0.7fr_0.3fr] lg:px-6">
         <article>
           <div className="max-w-4xl">
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
+            <p className="text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
               Site Planning
             </p>
             <h2 className="mt-3 text-3xl font-black tracking-tight text-slate-950">
@@ -171,8 +172,8 @@ export default function ManualEntryServicePage({
           </div>
 
           <div className="mt-12 grid gap-6 md:grid-cols-2">
-            <section className="rounded-lg border border-slate-200 bg-slate-50 p-6">
-              <p className="text-sm font-bold uppercase tracking-[0.18em] text-blue-700">
+            <section className="rounded-md border border-[#dbe7f5] bg-[#f8fbff] p-6">
+              <p className="text-sm font-black uppercase tracking-[0.18em] text-[#b98218]">
                 Best For
               </p>
               <h2 className="mt-3 text-2xl font-black text-slate-950">
@@ -180,16 +181,16 @@ export default function ManualEntryServicePage({
               </h2>
               <div className="mt-5 grid gap-3">
                 {detail.bestFor.map((item) => (
-                  <div key={item} className="flex items-center gap-3 rounded-lg bg-white px-4 py-3 text-sm font-semibold text-slate-700">
-                    <CheckCircle2 size={17} className="shrink-0 text-blue-600" />
+                  <div key={item} className="flex items-center gap-3 rounded-md bg-white px-4 py-3 text-sm font-semibold text-slate-700 shadow-sm">
+                    <CheckCircle2 size={17} className="shrink-0 text-[#0b4fb3]" />
                     {item}
                   </div>
                 ))}
               </div>
             </section>
 
-            <section className="rounded-lg border border-slate-200 bg-white p-6 shadow-sm">
-              <p className="text-sm font-bold uppercase tracking-[0.18em] text-blue-500">
+            <section className="rounded-md border border-[#dbe7f5] bg-white p-6 shadow-sm">
+              <p className="text-sm font-black uppercase tracking-[0.18em] text-[#b98218]">
                 Site Checks
               </p>
               <h2 className="mt-3 text-2xl font-black text-slate-950">
@@ -197,8 +198,8 @@ export default function ManualEntryServicePage({
               </h2>
               <div className="mt-5 grid gap-3">
                 {detail.checks.map((item) => (
-                  <div key={item} className="flex items-center gap-3 rounded-lg border border-blue-100 bg-blue-50/60 px-4 py-3 text-sm font-semibold text-slate-700">
-                    <Ruler size={17} className="shrink-0 text-blue-500" />
+                  <div key={item} className="flex items-center gap-3 rounded-md border border-[#dbe7f5] bg-[#f8fbff] px-4 py-3 text-sm font-semibold text-slate-700">
+                    <Ruler size={17} className="shrink-0 text-[#0b4fb3]" />
                     {item}
                   </div>
                 ))}
@@ -207,7 +208,7 @@ export default function ManualEntryServicePage({
           </div>
 
           <section className="mt-12">
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
+            <p className="text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
               Related Services
             </p>
             <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -219,11 +220,11 @@ export default function ManualEntryServicePage({
                   key={related.slug}
                   href={serviceAreaPath(related.slug, area.slug)}
                   prefetch={false}
-                  className="group rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition hover:border-blue-300 hover:shadow-md"
+                  className="group rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm transition hover:border-[#d6a039] hover:shadow-md"
                 >
                   <p className="text-lg font-black text-slate-950">{related.name}</p>
                   <p className="mt-2 text-sm leading-6 text-slate-600">{related.angle}</p>
-                  <span className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-blue-600">
+                  <span className="mt-4 inline-flex items-center gap-2 text-sm font-black text-[#0b4fb3]">
                     Open {area.name} page
                     <ArrowRight size={16} className="transition group-hover:translate-x-1" />
                   </span>
@@ -235,7 +236,7 @@ export default function ManualEntryServicePage({
 
         <aside className="lg:sticky lg:top-28 lg:self-start">
           <div className="mb-5 grid gap-4">
-            <div className="relative min-h-[220px] overflow-hidden rounded-lg shadow-lg">
+            <div className="relative min-h-[220px] overflow-hidden rounded-md shadow-lg">
               <Image
                 src={visuals.detail}
                 alt={`${service.name} installation detail in Chennai`}
@@ -243,7 +244,7 @@ export default function ManualEntryServicePage({
                 className="object-cover"
               />
             </div>
-            <div className="relative min-h-[180px] overflow-hidden rounded-lg shadow-lg">
+            <div className="relative min-h-[180px] overflow-hidden rounded-md shadow-lg">
               <Image
                 src={visuals.context}
                 alt={`${service.name} service visual for Chennai`}
@@ -252,8 +253,8 @@ export default function ManualEntryServicePage({
               />
             </div>
           </div>
-          <div className="rounded-lg border border-blue-100 bg-blue-50 p-6 shadow-lg shadow-blue-100/50">
-            <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
+          <div className="rounded-md border border-[#dbe7f5] bg-white p-6 shadow-lg shadow-[#08275a]/8">
+            <p className="text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
               Quick Enquiry
             </p>
             <h2 className="mt-3 text-2xl font-black text-slate-950">
@@ -266,7 +267,7 @@ export default function ManualEntryServicePage({
             <div className="mt-5 grid gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-slate-950 px-5 py-3 font-bold text-white shadow transition hover:bg-slate-800"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-[#08275a] px-5 py-3 font-black text-white shadow transition hover:bg-[#0b4fb3]"
               >
                 <Phone size={17} />
                 Call Now
@@ -274,7 +275,7 @@ export default function ManualEntryServicePage({
               <Link
                 href="/contact-us"
                 prefetch={false}
-                className="inline-flex items-center justify-center gap-2 rounded-full border border-blue-200 bg-white px-5 py-3 font-bold text-blue-600 shadow-sm transition hover:border-blue-400 hover:bg-blue-50"
+                className="inline-flex items-center justify-center gap-2 rounded-full border border-[#d6a039]/45 bg-[#fff8e8] px-5 py-3 font-black text-[#08275a] shadow-sm transition hover:border-[#d6a039] hover:bg-[#fff4d9]"
               >
                 Contact Page
                 <ArrowRight size={17} />
@@ -282,7 +283,7 @@ export default function ManualEntryServicePage({
             </div>
           </div>
 
-          <div className="mt-5 rounded-lg border border-slate-200 bg-white p-6 shadow-sm">
+          <div className="mt-5 rounded-md border border-[#dbe7f5] bg-white p-6 shadow-sm">
             <p className="text-sm font-bold uppercase tracking-[0.18em] text-slate-500">
               Nearby Areas
             </p>
@@ -292,7 +293,7 @@ export default function ManualEntryServicePage({
                   key={nearby.slug}
                   href={serviceAreaPath(service.slug, nearby.slug)}
                   prefetch={false}
-                  className="flex items-center justify-between rounded-lg border border-slate-200 px-3 py-2 text-sm font-semibold text-slate-700 transition hover:border-blue-300 hover:text-blue-600"
+                  className="flex items-center justify-between rounded-md border border-[#dbe7f5] px-3 py-2 text-sm font-semibold text-slate-700 transition hover:border-[#d6a039] hover:text-[#08275a]"
                 >
                   {nearby.name}
                   <ArrowRight size={15} />
@@ -305,7 +306,7 @@ export default function ManualEntryServicePage({
 
       <section className="bg-[#f8fbff] px-4 py-14">
         <div className="mx-auto max-w-5xl">
-          <p className="text-center text-sm font-bold uppercase tracking-[0.2em] text-blue-700">
+          <p className="text-center text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
             FAQ
           </p>
           <h2 className="mt-3 text-center text-3xl font-black text-slate-950">
@@ -330,8 +331,8 @@ export default function ManualEntryServicePage({
                 answer: "Scheduling depends on technician availability, site access, and material readiness. Phone or WhatsApp is the fastest way to share details and confirm a visit window.",
               },
             ].map((item) => (
-              <details key={item.question} className="group rounded-lg border border-slate-200 bg-white p-5 shadow-sm">
-                <summary className="cursor-pointer text-lg font-bold text-slate-950 transition group-hover:text-blue-600">
+              <details key={item.question} className="group rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm">
+                <summary className="cursor-pointer text-lg font-bold text-slate-950 transition group-hover:text-[#0b4fb3]">
                   {item.question}
                 </summary>
                 <p className="mt-4 text-sm leading-7 text-slate-600">{item.answer}</p>
@@ -342,7 +343,7 @@ export default function ManualEntryServicePage({
       </section>
 
       <section className="px-4 py-16">
-        <div className="mx-auto max-w-7xl rounded-lg bg-[#08275a] p-8 text-center text-white shadow-xl">
+        <div className="mx-auto max-w-7xl rounded-md bg-[#08275a] p-8 text-center text-white shadow-xl">
           <h2 className="text-3xl font-black">
             Book {service.name.toLowerCase()} in {area.name}
           </h2>
@@ -352,7 +353,7 @@ export default function ManualEntryServicePage({
           </p>
           <a
             href={siteConfig.contact.phoneHref}
-            className="mt-6 inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 font-bold text-blue-500 shadow transition hover:bg-gray-50"
+            className="mt-6 inline-flex items-center gap-2 rounded-full bg-[#d6a039] px-6 py-3 font-black text-[#08275a] shadow transition hover:bg-[#f3c35b]"
           >
             Call SRI KRISHNA INVISIBLE GRILLS
             <ArrowRight size={18} />

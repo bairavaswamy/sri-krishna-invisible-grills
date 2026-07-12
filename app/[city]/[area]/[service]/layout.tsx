@@ -1,11 +1,10 @@
 import type { ReactNode } from "react";
-import { getManualServicePaths } from "../../../content/manualPageRegistry";
 
 type ServiceLayoutProps = {
   children: ReactNode;
 };
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 
 export default function ServiceLayout({ children }: ServiceLayoutProps) {
   return children;

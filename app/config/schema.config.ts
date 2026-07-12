@@ -75,8 +75,18 @@ export const getLocalBusinessSchema = () =>
     name: siteConfig.name,
     legalName: siteConfig.business.legalName,
     url: siteConfig.url,
-    logo: absoluteUrl(siteConfig.logos.desktop),
-    image: absoluteUrl(siteConfig.defaultImage),
+    description: siteConfig.description,
+    logo: getImageObjectSchema({
+      url: absoluteUrl(siteConfig.logos.desktop),
+      name: `${siteConfig.name} logo`,
+    }),
+    image: siteConfig.homeCarouselImages.map((image) =>
+      getImageObjectSchema({
+        url: absoluteUrl(image.src),
+        name: image.title,
+        caption: image.description,
+      })
+    ),
     telephone: siteConfig.contact.phoneLabel,
     email: siteConfig.contact.email,
     priceRange: siteConfig.business.priceRange,
@@ -107,7 +117,10 @@ export const getOrganizationSchema = () => ({
   "@id": schemaIds.organization,
   name: siteConfig.name,
   url: siteConfig.url,
-  logo: absoluteUrl(siteConfig.logos.desktop),
+  logo: getImageObjectSchema({
+    url: absoluteUrl(siteConfig.logos.desktop),
+    name: `${siteConfig.name} logo`,
+  }),
   sameAs: siteConfig.socialProfiles.map((profile) => profile.href),
 });
 
@@ -121,7 +134,7 @@ export const getWebSiteSchema = () => ({
   },
   potentialAction: {
     "@type": "SearchAction",
-    target: `${siteConfig.url}/chennai?service={search_term_string}`,
+    target: `${siteConfig.url}/search?q={search_term_string}`,
     "query-input": "required name=search_term_string",
   },
 });
@@ -157,13 +170,74 @@ export const getWebPageSchema = ({
     about: {
       "@id": schemaIds.localBusiness,
     },
+    image,
     primaryImageOfPage: image
-      ? {
-          "@type": "ImageObject",
+      ? getImageObjectSchema({
           url: image,
-        }
+          name,
+          caption: description,
+        })
       : undefined,
   });
+
+export const getImageObjectSchema = ({
+  url,
+  name,
+  caption,
+  width = 1200,
+  height = 630,
+}: {
+  url: string;
+  name: string;
+  caption?: string;
+  width?: number;
+  height?: number;
+}) =>
+  compactObject({
+    "@type": "ImageObject",
+    "@id": `${url}#image`,
+    url,
+    contentUrl: url,
+    name,
+    caption,
+    width,
+    height,
+  });
+
+export const getItemListSchema = ({
+  id,
+  url,
+  name,
+  items,
+}: {
+  id?: string;
+  url: string;
+  name: string;
+  items: Array<{
+    name: string;
+    url: string;
+    description?: string;
+    image?: string;
+    type?: string;
+  }>;
+}) => ({
+  "@type": "ItemList",
+  "@id": id || `${url}#itemlist`,
+  name,
+  itemListElement: items.map((item, index) => ({
+    "@type": "ListItem",
+    position: index + 1,
+    name: item.name,
+    url: item.url,
+    item: compactObject({
+      "@type": item.type || "Thing",
+      name: item.name,
+      url: item.url,
+      description: item.description,
+      image: item.image,
+    }),
+  })),
+});
 
 export const getServiceSchema = ({
   url,
@@ -184,7 +258,13 @@ export const getServiceSchema = ({
     url,
     name,
     description,
-    image,
+    image: image
+      ? getImageObjectSchema({
+          url: image,
+          name,
+          caption: description,
+        })
+      : undefined,
     provider: {
       "@id": schemaIds.localBusiness,
     },
@@ -217,7 +297,7 @@ export const getBreadcrumbListSchema = (
 
 export const getFAQPageSchema = (
   url: string,
-  faq: Array<{
+  faq: ReadonlyArray<{
     question: string;
     answer: string;
   }>

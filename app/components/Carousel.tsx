@@ -3,34 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import { siteConfig } from "../config/site.config";
 
-const heroImages = [
-  {
-    src: "/images/services/window-invisible-grills/window-invisible-grills-hero.webp",
-    mobileSrc: "/images/site/chennai-home-hero-safety-nets.png",
-    alt: "Chennai window invisible grill installation",
-    dec: "Window invisible grills, balcony safety, bird-control, sports, and utility services connected across Chennai.",
-  },
-  {
-    src: "/images/site/chennai-service-directory-montage.png",
-    alt: "Chennai safety service directory",
-    dec: "Choose a Chennai area and open the exact service page with contact actions ready.",
-  },
-  {
-    src: "/images/site/chennai-about-installation-team.png",
-    alt: "Safety net measurement and installation planning",
-    dec: "Hand-written guides stay active while the full area-service catalog covers every route.",
-  },
-  {
-    src: "/images/site/chennai-service-directory-montage.png",
-    alt: "Chennai safety service directory",
-    dec: "Choose a Chennai area and open the exact service page with contact actions ready.",
-  },
-  {
-    src: "/images/site/chennai-about-installation-team.png",
-    alt: "Safety net measurement and installation planning",
-    dec: "Hand-written guides stay active while the full area-service catalog covers every route.",
-  },
-];
+const heroImages = siteConfig.homeCarouselImages;
 
 export default function Carousel() {
   const [index, setIndex] = useState(0);
@@ -71,21 +44,21 @@ export default function Carousel() {
                 />
               </picture>
 
-              <div className="absolute inset-0 flex items-center justify-start bg-black/25 text-left md:justify-center md:text-center">
+              <div className="absolute inset-0 flex items-center justify-start bg-gradient-to-r from-[#061a3d]/90 via-[#061a3d]/55 to-black/10 text-left">
                 <div
-                  className={`w-full max-w-[calc(100vw-2rem)] px-6 text-white transition-all duration-700 sm:max-w-3xl sm:px-10 md:max-w-4xl ${
+                  className={`w-full max-w-[calc(100vw-2rem)] px-6 text-white transition-all duration-700 sm:max-w-3xl sm:px-10 md:max-w-4xl lg:px-14 ${
                     i === index ? "translate-x-0 opacity-100" : "-translate-x-10 opacity-0"
                   }`}
                 >
-                  {/* <p className="mb-3 text-xs font-bold uppercase tracking-[0.2em] text-amber-200 sm:text-sm sm:tracking-[0.22em]">
-                    {siteConfig.domain}
-                  </p> */}
+                  <p className="mb-3 text-xs font-bold uppercase tracking-[0.2em] text-amber-200 sm:text-sm sm:tracking-[0.22em]">
+                    Chennai home safety specialists
+                  </p>
                   <h1 className="text-3xl font-extrabold leading-tight text-white drop-shadow-lg md:text-5xl">
-                    {i === 0 ? siteConfig.name : item.alt}
+                    {item.title}
                   </h1>
 
                   <p className="mt-4 text-base font-medium leading-7 text-gray-100 drop-shadow-md sm:text-xl sm:leading-8">
-                    {item.dec}
+                    {item.description}
                   </p>
 
                   <a
@@ -106,7 +79,7 @@ export default function Carousel() {
               key={item.src}
               onClick={() => setIndex(i)}
               className={`h-4 w-4 rounded-full ${i === index ? "bg-white" : "bg-white/50"}`}
-              aria-label={`Go to slide ${i + 1}`}
+              aria-label={`Go to ${item.title} slide`}
             />
           ))}
         </div>

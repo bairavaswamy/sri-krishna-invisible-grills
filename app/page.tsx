@@ -10,7 +10,9 @@ import HomeStats from "./components/HomeStats";
 import { chennaiConfig } from "./config/chennai.config";
 import {
   getBreadcrumbListSchema,
+  getFAQPageSchema,
   getGraphSchema,
+  getItemListSchema,
   getWebPageSchema,
   stringifySchema,
 } from "./config/schema.config";
@@ -85,6 +87,18 @@ const homeJsonLd = stringifySchema(
       description: homeDescription,
       image: absoluteUrl(siteConfig.defaultImage),
     }),
+    getFAQPageSchema(absoluteUrl("/"), siteConfig.homeFaq),
+    getItemListSchema({
+      url: absoluteUrl("/"),
+      name: "Featured Chennai safety services",
+      items: siteConfig.focusAreas.map((service) => ({
+        name: service.title,
+        url: absoluteUrl(service.href),
+        description: service.description,
+        image: absoluteUrl(service.image),
+        type: "Service",
+      })),
+    }),
     getBreadcrumbListSchema([{ name: "Home", url: absoluteUrl("/") }]),
   ])
 );
@@ -95,14 +109,14 @@ export default function Home() {
       <link
         rel="preload"
         as="image"
-        href="/images/site/chennai-home-hero-safety-nets.png"
+        href={siteConfig.homeCarouselImages[0].src}
         media="(max-width: 767px)"
         fetchPriority="high"
       />
       <link
         rel="preload"
         as="image"
-        href="/images/site/chennai-home-hero-safety-nets.png"
+        href={siteConfig.homeCarouselImages[0].src}
         media="(min-width: 768px)"
         fetchPriority="high"
       />
@@ -182,6 +196,40 @@ export default function Home() {
         </section>
 
         <HomeSocialBand />
+
+        <section className="mx-auto mt-10 max-w-7xl px-1">
+          <div className="flex flex-col justify-between gap-4 md:flex-row md:items-end">
+            <div>
+              <p className="text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
+                FAQ
+              </p>
+              <h2 className="mt-3 text-3xl font-black tracking-tight text-[#08275a]">
+                Quick answers before booking a Chennai visit
+              </h2>
+            </div>
+            <Link
+              href="/contact-us"
+              prefetch={false}
+              className="inline-flex items-center justify-center rounded-full border border-[#d6a039]/45 bg-white px-6 py-3 text-sm font-black uppercase tracking-[0.08em] text-[#08275a] shadow-sm transition hover:border-[#d6a039] hover:bg-[#fff8e8]"
+            >
+              Ask Directly
+            </Link>
+          </div>
+
+          <div className="mt-6 grid gap-4 md:grid-cols-2">
+            {siteConfig.homeFaq.map((item) => (
+              <details
+                key={item.question}
+                className="rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm transition hover:border-[#d6a039]"
+              >
+                <summary className="cursor-pointer text-base font-black leading-7 text-slate-950">
+                  {item.question}
+                </summary>
+                <p className="mt-4 text-sm leading-7 text-slate-600">{item.answer}</p>
+              </details>
+            ))}
+          </div>
+        </section>
 
         <section className="mx-auto mt-10 grid max-w-7xl overflow-hidden rounded-md border border-blue-100 bg-white shadow-md shadow-blue-100/50 lg:grid-cols-[0.95fr_1.05fr]">
           <div className="bg-gradient-to-br from-blue-50 via-white to-amber-50 p-6 lg:p-8">

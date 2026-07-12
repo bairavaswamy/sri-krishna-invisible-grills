@@ -66,7 +66,7 @@ export default function ContactForm() {
   };
 
   return (
-    <section id="quote" className="rounded-lg bg-blue-100 px-4 py-6 shadow-sm">
+    <section id="quote" className="rounded-md border border-[#dbe7f5] bg-white px-4 py-6 shadow-sm">
       <div className="relative min-h-[620px] overflow-hidden rounded-md bg-gray-100 md:min-h-[520px]">
         <Image
           src={siteConfig.defaultImage}
@@ -102,7 +102,7 @@ export default function ContactForm() {
                 href={siteConfig.contact.whatsappHref}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 rounded-full border border-blue-300/40 bg-blue-500/20 px-4 py-3 text-sm font-semibold text-blue-50 backdrop-blur transition hover:bg-blue-500/30"
+                className="inline-flex items-center gap-2 rounded-full border border-[#d6a039]/45 bg-[#d6a039]/20 px-4 py-3 text-sm font-semibold text-white backdrop-blur transition hover:bg-[#d6a039]/30"
               >
                 <MessageCircle size={17} />
                 WhatsApp
@@ -131,7 +131,7 @@ export default function ContactForm() {
                     value={formData.name}
                     onChange={handleChange}
                     required
-                    className="rounded-sm border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-sm border border-[#dbe7f5] bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-[#d6a039] focus:bg-white focus:ring-2 focus:ring-[#fff1c9]"
                   />
                   <input
                     name="phone"
@@ -139,7 +139,7 @@ export default function ContactForm() {
                     value={formData.phone}
                     onChange={handleChange}
                     required
-                    className="rounded-sm border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-sm border border-[#dbe7f5] bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-[#d6a039] focus:bg-white focus:ring-2 focus:ring-[#fff1c9]"
                   />
                 </div>
 
@@ -151,14 +151,14 @@ export default function ContactForm() {
                     value={formData.email}
                     onChange={handleChange}
                     required
-                    className="rounded-sm border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-sm border border-[#dbe7f5] bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-[#d6a039] focus:bg-white focus:ring-2 focus:ring-[#fff1c9]"
                   />
                   <input
                     name="purpose"
                     placeholder="Requirement"
                     value={formData.purpose}
                     onChange={handleChange}
-                    className="rounded-sm border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-sm border border-[#dbe7f5] bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-[#d6a039] focus:bg-white focus:ring-2 focus:ring-[#fff1c9]"
                   />
                 </div>
 
@@ -168,17 +168,17 @@ export default function ContactForm() {
                   placeholder="Project details, location, or notes..."
                   value={formData.message}
                   onChange={handleChange}
-                  className="resize-none rounded-sm border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                  className="resize-none rounded-sm border border-[#dbe7f5] bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-[#d6a039] focus:bg-white focus:ring-2 focus:ring-[#fff1c9]"
                 />
 
                 {status === "success" ? (
-                  <div className="rounded-lg border border-blue-300 bg-blue-50 p-3 text-sm text-blue-700">
+                  <div className="rounded-md border border-[#d6a039]/45 bg-[#fff8e8] p-3 text-sm text-[#08275a]">
                     Enquiry sent successfully. We will contact you soon.
                   </div>
                 ) : null}
 
                 {status === "error" ? (
-                  <div className="rounded-lg border border-red-300 bg-red-50 p-3 text-sm text-red-700">
+                  <div className="rounded-md border border-red-300 bg-red-50 p-3 text-sm text-red-700">
                     {errorMessage}
                   </div>
                 ) : null}
@@ -186,7 +186,7 @@ export default function ContactForm() {
                 <button
                   type="submit"
                   disabled={status === "loading"}
-                  className="inline-flex w-full items-center justify-center rounded-full bg-[#0b4fb3] px-6 py-3 text-sm font-black uppercase tracking-[0.08em] text-white shadow-[0_10px_30px_rgba(8,39,90,0.22)] transition-all duration-300 hover:bg-[#08275a] disabled:cursor-not-allowed disabled:opacity-50"
+                  className="inline-flex w-full items-center justify-center rounded-full bg-[#d6a039] px-6 py-3 text-sm font-black uppercase tracking-[0.08em] text-[#08275a] shadow-[0_10px_30px_rgba(8,39,90,0.18)] transition-all duration-300 hover:bg-[#f3c35b] disabled:cursor-not-allowed disabled:opacity-50"
                 >
                   {status === "loading" ? "Sending..." : "Send Enquiry"}
                 </button>

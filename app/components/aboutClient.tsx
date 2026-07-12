@@ -59,8 +59,8 @@ const process = [
 
 export default function AboutClient() {
   return (
-    <main className="bg-gradient-to-b from-white via-blue-50/30 to-[#fff8e8] text-slate-800">
-      <section className="relative overflow-hidden bg-gradient-to-br from-white via-blue-50/70 to-[#fff8e8] px-4 py-16 text-[#08275a]">
+    <main className="bg-gradient-to-b from-white via-[#f8fbff] to-[#fff8e8] text-slate-800">
+      <section className="relative overflow-hidden bg-gradient-to-br from-white via-[#f8fbff] to-[#fff8e8] px-4 py-16 text-[#08275a]">
         <Image
           src="/images/site/chennai-about-installation-team.png"
           alt={`${siteConfig.name} installation planning`}
@@ -72,7 +72,7 @@ export default function AboutClient() {
         <div className="absolute inset-0 bg-gradient-to-r from-white via-white/90 to-white/55" />
         <div className="absolute inset-x-0 bottom-0 h-1 bg-[#d6a039]" />
         <div className="relative mx-auto max-w-7xl">
-          <p className="inline-flex rounded-full border border-[#d6a039]/50 bg-white/80 px-4 py-2 text-xs font-black uppercase tracking-[0.22em] text-[#0b4fb3] shadow-sm">
+          <p className="inline-flex rounded-full border border-[#d6a039]/50 bg-white/80 px-4 py-2 text-xs font-black uppercase tracking-[0.22em] text-[#b98218] shadow-sm">
             About {siteConfig.shortName}
           </p>
           <h1 className="mt-5 max-w-4xl text-4xl font-black leading-tight sm:text-5xl lg:text-6xl">
@@ -106,9 +106,9 @@ export default function AboutClient() {
       </section>
 
       <section className="mx-auto mt-6 max-w-7xl px-4">
-        <div className="grid overflow-hidden rounded-md border border-blue-100 bg-white shadow-[0_24px_70px_rgba(8,39,90,0.14)] sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid overflow-hidden rounded-md border border-[#dbe7f5] bg-white shadow-[0_24px_70px_rgba(8,39,90,0.14)] sm:grid-cols-2 lg:grid-cols-4">
           {siteConfig.stats.map((stat) => (
-            <div key={stat.label} className="border-b border-blue-100 p-5 sm:border-r lg:border-b-0">
+            <div key={stat.label} className="border-b border-[#dbe7f5] p-5 sm:border-r lg:border-b-0">
               <p className="text-3xl font-black text-[#08275a]">{stat.value}</p>
               <p className="mt-2 text-xs font-black uppercase tracking-[0.18em] text-[#d6a039]">
                 {stat.label}
@@ -124,7 +124,7 @@ export default function AboutClient() {
           {siteConfig.galleryImages.slice(0, 4).map((image, index) => (
             <div
               key={image.src}
-              className={`relative overflow-hidden rounded-md border border-blue-100 bg-white shadow-sm ${
+              className={`relative overflow-hidden rounded-md border border-[#dbe7f5] bg-white shadow-sm ${
                 index === 0 ? "col-span-2 h-72" : "h-44"
               }`}
             >
@@ -138,7 +138,7 @@ export default function AboutClient() {
         </div>
 
         <div className="flex flex-col justify-center">
-          <p className="text-xs font-black uppercase tracking-[0.22em] text-[#0b4fb3]">
+          <p className="text-xs font-black uppercase tracking-[0.22em] text-[#b98218]">
             Our Story
           </p>
           <h2 className="mt-3 text-3xl font-black tracking-tight text-[#08275a] sm:text-4xl">
@@ -160,7 +160,7 @@ export default function AboutClient() {
             {siteConfig.trustPoints.map((point) => (
               <div
                 key={point}
-                className="flex items-center gap-3 rounded-md border border-blue-100 bg-white px-4 py-3 text-sm font-bold text-[#08275a] shadow-sm"
+                className="flex items-center gap-3 rounded-md border border-[#dbe7f5] bg-white px-4 py-3 text-sm font-bold text-[#08275a] shadow-sm"
               >
                 <CheckCircle2 size={17} className="text-[#d6a039]" />
                 {point}
@@ -171,10 +171,10 @@ export default function AboutClient() {
       </section>
 
       <section className="mx-auto max-w-7xl px-4 pb-14">
-        <div className="overflow-hidden rounded-md border border-blue-100 bg-white shadow-md shadow-blue-100/50">
-          <div className="grid gap-5 border-b border-blue-100 bg-gradient-to-br from-blue-50 via-white to-[#fff7e6] px-6 py-7 lg:grid-cols-[0.75fr_1.25fr] lg:px-8">
+        <div className="overflow-hidden rounded-md border border-[#dbe7f5] bg-white shadow-md shadow-[#08275a]/8">
+          <div className="grid gap-5 border-b border-[#dbe7f5] bg-gradient-to-br from-[#f8fbff] via-white to-[#fff7e6] px-6 py-7 lg:grid-cols-[0.75fr_1.25fr] lg:px-8">
             <div>
-              <p className="text-xs font-black uppercase tracking-[0.22em] text-[#0b4fb3]">
+              <p className="text-xs font-black uppercase tracking-[0.22em] text-[#b98218]">
                 What We Stand For
               </p>
               <h2 className="mt-3 text-2xl font-black tracking-tight text-[#08275a] sm:text-3xl">
@@ -187,12 +187,12 @@ export default function AboutClient() {
             </p>
           </div>
 
-          <div className="grid gap-px bg-blue-100 sm:grid-cols-3">
+          <div className="grid gap-px bg-[#dbe7f5] sm:grid-cols-3">
             {values.map((value) => {
               const Icon = value.icon;
 
               return (
-                <div key={value.title} className="bg-white p-6 transition hover:bg-blue-50/70">
+                <div key={value.title} className="bg-white p-6 transition hover:bg-[#fff8e8]">
                   <div className="flex h-12 w-12 items-center justify-center rounded-full bg-[#fff7e6] text-[#08275a] ring-1 ring-[#d6a039]/40">
                     <Icon size={22} />
                   </div>
@@ -206,8 +206,8 @@ export default function AboutClient() {
       </section>
 
       <section className="mx-auto grid max-w-7xl gap-8 px-4 pb-14 lg:grid-cols-[0.82fr_1.18fr]">
-        <div className="rounded-md border border-blue-100 bg-gradient-to-br from-blue-50 via-white to-[#fff7e6] p-6 shadow-md shadow-blue-100/50 lg:p-8">
-          <p className="text-xs font-black uppercase tracking-[0.22em] text-[#0b4fb3]">
+        <div className="rounded-md border border-[#dbe7f5] bg-gradient-to-br from-[#f8fbff] via-white to-[#fff7e6] p-6 shadow-md shadow-[#08275a]/8 lg:p-8">
+          <p className="text-xs font-black uppercase tracking-[0.22em] text-[#b98218]">
             Installation Method
           </p>
           <h2 className="mt-3 text-3xl font-black tracking-tight text-[#08275a]">
@@ -217,7 +217,7 @@ export default function AboutClient() {
             Every enquiry is planned around measurement, suitable material, clean
             fixing, and future access.
           </p>
-          <div className="mt-6 flex items-start gap-3 rounded-md border border-blue-100 bg-white p-4">
+          <div className="mt-6 flex items-start gap-3 rounded-md border border-[#dbe7f5] bg-white p-4">
             <MapPin className="mt-1 text-[#d6a039]" size={20} />
             <p className="text-sm leading-6 text-slate-600">
               Serving {siteConfig.contact.addressLines.join(", ")} with phone,
@@ -233,7 +233,7 @@ export default function AboutClient() {
             return (
               <div
                 key={step.title}
-                className="rounded-md border border-blue-100 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-[#d6a039] hover:shadow-md"
+                className="rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-[#d6a039] hover:shadow-md"
               >
                 <div className="flex items-start justify-between gap-4">
                   <div className="flex h-11 w-11 items-center justify-center rounded-full bg-[#08275a] text-white">
@@ -252,10 +252,10 @@ export default function AboutClient() {
       </section>
 
       <section className="mx-auto max-w-7xl px-4 pb-14">
-        <div className="overflow-hidden rounded-md border border-blue-100 bg-white shadow-md shadow-blue-100/50">
-          <div className="flex flex-col gap-4 bg-gradient-to-br from-blue-50 via-white to-[#fff7e6] px-6 py-7 sm:flex-row sm:items-end sm:justify-between lg:px-8">
+        <div className="overflow-hidden rounded-md border border-[#dbe7f5] bg-white shadow-md shadow-[#08275a]/8">
+          <div className="flex flex-col gap-4 bg-gradient-to-br from-[#f8fbff] via-white to-[#fff7e6] px-6 py-7 sm:flex-row sm:items-end sm:justify-between lg:px-8">
             <div>
-              <p className="text-xs font-black uppercase tracking-[0.22em] text-[#0b4fb3]">
+              <p className="text-xs font-black uppercase tracking-[0.22em] text-[#b98218]">
                 Service Focus
               </p>
               <h2 className="mt-3 text-2xl font-black tracking-tight text-[#08275a] sm:text-3xl">
@@ -271,15 +271,15 @@ export default function AboutClient() {
             </Link>
           </div>
 
-          <div className="grid gap-px bg-blue-100 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="grid gap-px bg-[#dbe7f5] sm:grid-cols-2 lg:grid-cols-4">
             {siteConfig.focusAreas.map((area) => (
               <Link
                 key={area.title}
                 href={area.href}
                 prefetch={false}
-                className="group bg-white p-5 transition hover:bg-blue-50/70"
+                className="group bg-white p-5 transition hover:bg-[#fff8e8]"
               >
-                <div className="relative h-36 overflow-hidden rounded-md bg-blue-50">
+                <div className="relative h-36 overflow-hidden rounded-md bg-[#f8fbff]">
                   <Image
                     src={area.image}
                     alt={area.title}
@@ -299,9 +299,9 @@ export default function AboutClient() {
       </section>
 
       <section className="mx-auto max-w-7xl px-4 pb-16">
-        <div className="grid overflow-hidden rounded-md border border-blue-100 bg-white shadow-md shadow-blue-100/50 lg:grid-cols-[1.1fr_0.9fr]">
-          <div className="border-b border-blue-100 bg-gradient-to-br from-blue-50 via-white to-[#fff7e6] p-6 lg:border-b-0 lg:border-r lg:p-8">
-            <p className="text-xs font-black uppercase tracking-[0.22em] text-[#0b4fb3]">
+        <div className="grid overflow-hidden rounded-md border border-[#dbe7f5] bg-white shadow-md shadow-[#08275a]/8 lg:grid-cols-[1.1fr_0.9fr]">
+          <div className="border-b border-[#dbe7f5] bg-gradient-to-br from-[#f8fbff] via-white to-[#fff7e6] p-6 lg:border-b-0 lg:border-r lg:p-8">
+            <p className="text-xs font-black uppercase tracking-[0.22em] text-[#b98218]">
               Stay Connected
             </p>
             <h2 className="mt-3 text-2xl font-black tracking-tight text-[#08275a] sm:text-3xl">
@@ -312,7 +312,7 @@ export default function AboutClient() {
               through official profiles.
             </p>
           </div>
-          <div className="bg-gradient-to-br from-blue-50 via-white to-[#fff7e6] p-6 lg:p-8">
+          <div className="bg-gradient-to-br from-[#f8fbff] via-white to-[#fff7e6] p-6 lg:p-8">
             <SocialProfileLinks
               heading={`Connect With ${siteConfig.shortName}`}
               description="Official social profiles and quick-contact channels."

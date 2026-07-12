@@ -66,8 +66,8 @@ const plannerSteps = [
 
 export default function ContactPageClient() {
   return (
-    <main className="bg-gradient-to-b from-white via-blue-50/40 to-[#fff8e8]">
-      <section className="relative overflow-hidden bg-gradient-to-br from-white via-blue-50/70 to-[#fff8e8] px-4 py-14 text-[#08275a] sm:py-16">
+    <main className="bg-gradient-to-b from-white via-[#f8fbff] to-[#fff8e8]">
+      <section className="relative overflow-hidden bg-gradient-to-br from-white via-[#f8fbff] to-[#fff8e8] px-4 py-14 text-[#08275a] sm:py-16">
         <Image
           src={siteConfig.defaultImage}
           alt={`${siteConfig.name} contact enquiry`}
@@ -79,7 +79,7 @@ export default function ContactPageClient() {
         <div className="absolute inset-0 bg-gradient-to-r from-white via-white/90 to-white/55" />
         <div className="absolute inset-x-0 bottom-0 h-1 bg-[#d6a039]" />
         <div className="relative mx-auto max-w-7xl">
-          <p className="inline-flex rounded-full border border-[#d6a039]/50 bg-white/80 px-4 py-2 text-xs font-black uppercase tracking-[0.22em] text-[#0b4fb3] shadow-sm">
+          <p className="inline-flex rounded-full border border-[#d6a039]/50 bg-white/80 px-4 py-2 text-xs font-black uppercase tracking-[0.22em] text-[#b98218] shadow-sm">
             Chennai Enquiry Desk
           </p>
           <h1 className="mt-5 max-w-4xl text-4xl font-black leading-tight sm:text-5xl lg:text-6xl">
@@ -112,7 +112,7 @@ export default function ContactPageClient() {
       </section>
 
       <section className="mx-auto mt-6 max-w-7xl px-4">
-        <div className="grid overflow-hidden rounded-md border border-blue-100 bg-white shadow-[0_24px_70px_rgba(8,39,90,0.14)] md:grid-cols-3">
+        <div className="grid overflow-hidden rounded-md border border-[#dbe7f5] bg-white shadow-[0_24px_70px_rgba(8,39,90,0.14)] md:grid-cols-3">
           {contactCards.map((card) => {
             const Icon = card.icon;
 
@@ -122,14 +122,14 @@ export default function ContactPageClient() {
                 href={card.href}
                 target={card.external ? "_blank" : undefined}
                 rel={card.external ? "noopener noreferrer" : undefined}
-                className="group border-b border-blue-100 p-5 transition hover:bg-blue-50/70 md:border-b-0 md:border-r last:md:border-r-0"
+                className="group border-b border-[#dbe7f5] p-5 transition hover:bg-[#fff8e8] md:border-b-0 md:border-r last:md:border-r-0"
               >
                 <div className="flex items-start gap-4">
                   <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-[#08275a] text-white ring-4 ring-[#d6a039]/20 transition group-hover:bg-[#d6a039] group-hover:text-[#08275a]">
                     <Icon size={22} />
                   </span>
                   <span className="min-w-0">
-                    <span className="block text-xs font-black uppercase tracking-[0.2em] text-[#0b4fb3]">
+                    <span className="block text-xs font-black uppercase tracking-[0.2em] text-[#b98218]">
                       {card.label}
                     </span>
                     <span className="mt-2 block break-words text-sm font-black text-[#08275a]">
@@ -148,16 +148,16 @@ export default function ContactPageClient() {
 
       <section className="mx-auto grid max-w-7xl gap-8 px-4 py-12 lg:grid-cols-[0.86fr_1.14fr] lg:py-14">
         <div className="space-y-6">
-          <div className="overflow-hidden rounded-md border border-blue-100 bg-white shadow-md shadow-blue-100/50">
-            <div className="border-b border-blue-100 bg-gradient-to-br from-blue-50 via-white to-[#fff7e6] px-6 py-6">
-              <p className="text-xs font-black uppercase tracking-[0.22em] text-[#0b4fb3]">
+          <div className="overflow-hidden rounded-md border border-[#dbe7f5] bg-white shadow-md shadow-[#08275a]/8">
+            <div className="border-b border-[#dbe7f5] bg-gradient-to-br from-[#f8fbff] via-white to-[#fff7e6] px-6 py-6">
+              <p className="text-xs font-black uppercase tracking-[0.22em] text-[#b98218]">
                 Visit Planner
               </p>
               <h2 className="mt-3 text-2xl font-black tracking-tight text-[#08275a]">
                 How your enquiry moves from photos to installation.
               </h2>
             </div>
-            <div className="divide-y divide-blue-100">
+            <div className="divide-y divide-[#dbe7f5]">
               {plannerSteps.map((step, index) => {
                 const Icon = step.icon;
 
@@ -168,7 +168,7 @@ export default function ContactPageClient() {
                         <Icon size={20} />
                       </span>
                       {index < plannerSteps.length - 1 ? (
-                        <span className="mt-2 h-full min-h-8 w-px bg-blue-100" />
+                        <span className="mt-2 h-full min-h-8 w-px bg-[#dbe7f5]" />
                       ) : null}
                     </div>
                     <div>
@@ -182,14 +182,14 @@ export default function ContactPageClient() {
           </div>
 
           <div className="grid gap-4 sm:grid-cols-2">
-            <div className="rounded-md border border-blue-100 bg-white p-5 shadow-sm">
+            <div className="rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm">
               <MapPin className="text-[#d6a039]" size={22} />
               <h3 className="mt-4 text-base font-black text-[#08275a]">Service Location</h3>
               <p className="mt-2 text-sm leading-6 text-slate-600">
                 {siteConfig.contact.addressLines.join(", ")}
               </p>
             </div>
-            <div className="rounded-md border border-blue-100 bg-white p-5 shadow-sm">
+            <div className="rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm">
               <Clock3 className="text-[#d6a039]" size={22} />
               <h3 className="mt-4 text-base font-black text-[#08275a]">Working Hours</h3>
               <p className="mt-2 text-sm leading-6 text-slate-600">
@@ -198,8 +198,8 @@ export default function ContactPageClient() {
             </div>
           </div>
 
-          <div className="rounded-md border border-blue-100 bg-white p-5 shadow-sm">
-            <p className="text-xs font-black uppercase tracking-[0.2em] text-[#0b4fb3]">
+          <div className="rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm">
+            <p className="text-xs font-black uppercase tracking-[0.2em] text-[#b98218]">
               Popular Enquiries
             </p>
             <div className="mt-4 flex flex-wrap gap-2">
@@ -208,7 +208,7 @@ export default function ContactPageClient() {
                   key={service.href}
                   href={service.href}
                   prefetch={false}
-                  className="inline-flex items-center gap-2 rounded-full border border-blue-200 bg-blue-50 px-3 py-2 text-xs font-bold text-[#08275a] transition hover:border-[#d6a039] hover:bg-[#fff7e6]"
+                  className="inline-flex items-center gap-2 rounded-full border border-[#dbe7f5] bg-[#f8fbff] px-3 py-2 text-xs font-bold text-[#08275a] transition hover:border-[#d6a039] hover:bg-[#fff7e6]"
                 >
                   <CheckCircle2 size={14} />
                   {service.title}
@@ -218,7 +218,7 @@ export default function ContactPageClient() {
           </div>
 
           <SocialProfileLinks
-            className="rounded-md border border-blue-100 bg-white p-5 shadow-sm"
+            className="rounded-md border border-[#dbe7f5] bg-white p-5 shadow-sm"
             heading="Social Profiles"
             description="Follow our official pages for project photos, updates, and quick contact."
             showLabels

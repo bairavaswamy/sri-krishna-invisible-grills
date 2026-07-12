@@ -52,7 +52,7 @@ export default function ChennaiServiceFinder({
       : `/${citySlug}`;
 
   return (
-    <section className="rounded-lg border border-slate-200 bg-white p-5 shadow-lg shadow-slate-200/60">
+    <section className="rounded-md border border-[#dbe7f5] bg-white p-5 shadow-lg shadow-[#08275a]/10">
       <div className="grid gap-4 lg:grid-cols-[1fr_1fr_auto]">
         <label className="block" htmlFor="chennai-area-select">
           <span className="mb-2 flex items-center gap-2 text-sm font-bold uppercase tracking-[0.16em] text-slate-500">
@@ -63,7 +63,7 @@ export default function ChennaiServiceFinder({
             id="chennai-area-select"
             value={areaSlug}
             onChange={(event) => setAreaSlug(event.target.value)}
-            className="h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-400 focus:ring-2 focus:ring-blue-100"
+            className="h-12 w-full rounded-md border border-[#dbe7f5] bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-[#d6a039] focus:ring-2 focus:ring-[#fff1c9]"
           >
             {areas.map((area) => (
               <option key={area.slug} value={area.slug}>
@@ -82,7 +82,7 @@ export default function ChennaiServiceFinder({
             id="chennai-service-select"
             value={serviceSlug}
             onChange={(event) => setServiceSlug(event.target.value)}
-            className="h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-400 focus:ring-2 focus:ring-blue-100"
+            className="h-12 w-full rounded-md border border-[#dbe7f5] bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-[#d6a039] focus:ring-2 focus:ring-[#fff1c9]"
           >
             {services.map((service) => (
               <option key={service.slug} value={service.slug}>
@@ -96,7 +96,7 @@ export default function ChennaiServiceFinder({
           <Link
             href={href}
             prefetch={false}
-            className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full bg-blue-500 px-6 text-sm font-black text-white shadow transition hover:bg-blue-600 lg:w-auto"
+            className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full bg-[#d6a039] px-6 text-sm font-black text-[#08275a] shadow transition hover:bg-[#f3c35b] lg:w-auto"
           >
             Open Page
             <ArrowRight size={17} />
@@ -104,9 +104,9 @@ export default function ChennaiServiceFinder({
         </div>
       </div>
 
-      <div className="mt-5 rounded-lg border border-slate-200 bg-slate-50 p-4">
+      <div className="mt-5 rounded-md border border-[#dbe7f5] bg-[#f8fbff] p-4">
         <label
-          className="flex min-h-11 items-center gap-3 rounded-lg border border-slate-200 bg-white px-3"
+          className="flex min-h-11 items-center gap-3 rounded-md border border-[#dbe7f5] bg-white px-3"
           htmlFor="chennai-area-search"
         >
           <Search size={17} className="shrink-0 text-slate-400" />
@@ -128,8 +128,8 @@ export default function ChennaiServiceFinder({
               onClick={() => setAreaSlug(area.slug)}
               className={`rounded-full border px-3 py-2 text-sm font-semibold transition ${
                 area.slug === areaSlug
-                  ? "border-blue-500 bg-blue-500 text-white"
-                  : "border-slate-200 bg-white text-slate-700 hover:border-blue-300 hover:text-blue-600"
+                  ? "border-[#08275a] bg-[#08275a] text-white"
+                  : "border-[#dbe7f5] bg-white text-slate-700 hover:border-[#d6a039] hover:text-[#08275a]"
               }`}
             >
               {area.name}

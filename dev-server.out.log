@@ -1,0 +1,26 @@
+
+> sri-krishna-invisible-grills@1.0.0 dev
+> next dev -p 4174
+
+  ▲ Next.js 13.5.11
+  - Local:        http://localhost:4174
+
+ ✓ Ready in 2s
+ ○ Compiling /page ...
+ ✓ Compiled /page in 3.2s (659 modules)
+ ✓ Compiled in 347ms (314 modules)
+ ✓ Compiled /[city]/[area]/page in 1414ms (678 modules)
+ ✓ Compiled /_error in 680ms (834 modules)
+ ✓ Compiled /[city]/page in 478ms (846 modules)
+ ✓ Compiled /[city]/[area]/page in 512ms (821 modules)
+ ✓ Compiled (852 modules)
+ ✓ Compiled /[city]/page in 93ms (419 modules)
+ ✓ Compiled /not-found in 389ms (413 modules)
+ ✓ Compiled /[city]/page in 185ms (421 modules)
+ ✓ Compiled in 553ms (821 modules)
+ ✓ Compiled in 236ms (441 modules)
+ ✓ Compiled in 239ms (441 modules)
+  ▲ Next.js 13.5.11
+  - Local:        http://localhost:4174
+
+ ✓ Ready in 3.3s

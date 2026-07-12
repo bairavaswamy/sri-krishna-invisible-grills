@@ -8,6 +8,7 @@ import { chennaiConfig } from "../../config/chennai.config";
 import {
   getBreadcrumbListSchema,
   getGraphSchema,
+  getItemListSchema,
   getWebPageSchema,
   stringifySchema,
 } from "../../config/schema.config";
@@ -28,7 +29,7 @@ type AreaPageProps = {
   };
 };
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
   return [
     ...chennaiConfig.areas.map((area) => ({
       city: chennaiConfig.citySlug,
@@ -185,6 +186,22 @@ export default function AreaPage({ params }: AreaPageProps) {
       image: absoluteUrl(chennaiConfig.areaImage),
       type: "CollectionPage",
     }),
+    getItemListSchema({
+      id: `${pageUrl}#services`,
+      url: pageUrl,
+      name: `${area.name} Chennai service pages`,
+      items: chennaiConfig.services.map((service) => {
+        const detail = getServiceDetail(service.slug);
+
+        return {
+          name: `${service.name} in ${area.name}`,
+          url: absoluteUrl(serviceAreaPath(service.slug, area.slug)),
+          description: detail.shortBenefit,
+          image: absoluteUrl(detail.cardImage),
+          type: "Service",
+        };
+      }),
+    }),
     getBreadcrumbListSchema([
       { name: "Home", url: absoluteUrl("/") },
       { name: "Chennai", url: absoluteUrl(`/${chennaiConfig.citySlug}/`) },
@@ -193,7 +210,7 @@ export default function AreaPage({ params }: AreaPageProps) {
   ]);
 
   return (
-    <main className="bg-[#f8fbff] text-slate-950">
+    <main className="bg-gradient-to-b from-white via-[#f8fbff] to-[#fff8e8] text-slate-950">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -221,7 +238,7 @@ export default function AreaPage({ params }: AreaPageProps) {
             <h1 className="mt-5 max-w-4xl text-[2rem] font-black leading-[1.12] text-white sm:text-5xl lg:text-6xl">
               Safety nets and invisible grills in {area.name}
             </h1>
-            <p className="mt-6 max-w-3xl text-base leading-8 text-blue-50 sm:text-lg">
+            <p className="mt-6 max-w-3xl text-base leading-8 text-white/86 sm:text-lg">
               Choose the exact {area.name} page for balcony safety, window
               protection, bird-control work, cricket netting, and utility
               installation. Each service opens with local planning, price
@@ -231,7 +248,7 @@ export default function AreaPage({ params }: AreaPageProps) {
             <div className="mt-8 flex flex-wrap gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#0b4fb3] px-5 py-3 text-sm font-bold text-white shadow-lg shadow-blue-950/25 transition hover:bg-[#083f91] sm:w-auto sm:text-base"
+                className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#d6a039] px-5 py-3 text-sm font-black text-[#08275a] shadow-lg shadow-[#08275a]/20 transition hover:bg-[#f3c35b] sm:w-auto sm:text-base"
               >
                 <Phone size={18} />
                 Call for {area.name}
@@ -250,7 +267,7 @@ export default function AreaPage({ params }: AreaPageProps) {
               {serviceGroups.map((group) => (
                 <span
                   key={group}
-                  className="rounded-full border border-white/20 bg-white/10 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-blue-50 backdrop-blur"
+                  className="rounded-full border border-white/20 bg-white/10 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white/86 backdrop-blur"
                 >
                   {group}
                 </span>
@@ -258,13 +275,13 @@ export default function AreaPage({ params }: AreaPageProps) {
             </div>
           </div>
 
-          <div className="rounded-[28px] border border-white/25 bg-white/95 p-6 text-slate-950 shadow-2xl shadow-blue-950/25 backdrop-blur">
+          <div className="rounded-md border border-white/25 bg-white/95 p-6 text-slate-950 shadow-2xl shadow-[#08275a]/25 backdrop-blur">
             <div className="flex items-center gap-3">
               <span className="grid h-12 w-12 place-items-center rounded-full bg-[#fff4d9] text-[#b47a14]">
                 <MapPin size={23} />
               </span>
               <div>
-                <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#0b4fb3]">
+                <p className="text-xs font-black uppercase tracking-[0.18em] text-[#b98218]">
                   Local page
                 </p>
                 <h2 className="text-2xl font-black">{area.name}</h2>
@@ -299,10 +316,10 @@ export default function AreaPage({ params }: AreaPageProps) {
           {heroStats.map((item) => (
             <div
               key={item.label}
-              className="rounded-[24px] border border-blue-100 bg-white p-5 shadow-[0_18px_55px_rgba(8,39,90,0.10)]"
+              className="rounded-md border border-[#dbe7f5] bg-white p-5 shadow-[0_18px_55px_rgba(8,39,90,0.10)]"
             >
               <p className="text-2xl font-black text-[#08275a]">{item.value}</p>
-              <h2 className="mt-2 text-sm font-bold uppercase tracking-[0.16em] text-[#0b4fb3]">
+              <h2 className="mt-2 text-sm font-black uppercase tracking-[0.16em] text-[#b98218]">
                 {item.label}
               </h2>
               <p className="mt-3 text-sm leading-6 text-slate-600">{item.text}</p>
@@ -313,9 +330,9 @@ export default function AreaPage({ params }: AreaPageProps) {
 
       <section className="mx-auto grid max-w-7xl gap-10 px-4 pb-16 lg:grid-cols-[0.34fr_1fr] lg:px-6">
         <aside className="lg:sticky lg:top-28 lg:self-start">
-          <div className="rounded-[28px] border border-blue-100 bg-white p-6 shadow-sm">
+          <div className="rounded-md border border-[#dbe7f5] bg-white p-6 shadow-sm">
             <Sparkles size={24} className="text-[#c8932d]" />
-            <p className="mt-4 text-sm font-bold uppercase tracking-[0.18em] text-[#0b4fb3]">
+            <p className="mt-4 text-sm font-black uppercase tracking-[0.18em] text-[#b98218]">
               Services in {area.name}
             </p>
             <h2 className="mt-3 text-3xl font-black leading-tight text-[#08275a]">
@@ -340,7 +357,7 @@ export default function AreaPage({ params }: AreaPageProps) {
         <div>
           <div className="flex flex-col justify-between gap-4 md:flex-row md:items-end">
             <div>
-              <p className="text-sm font-bold uppercase tracking-[0.2em] text-[#0b4fb3]">
+              <p className="text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
                 Choose service
               </p>
               <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -363,7 +380,7 @@ export default function AreaPage({ params }: AreaPageProps) {
               return (
                 <article
                   key={service.slug}
-                  className="group overflow-hidden rounded-[26px] border border-blue-100 bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:border-[#c8932d]/55 hover:shadow-[0_24px_70px_rgba(8,39,90,0.14)]"
+                  className="group overflow-hidden rounded-md border border-[#dbe7f5] bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:border-[#d6a039] hover:shadow-[0_24px_70px_rgba(8,39,90,0.14)]"
                 >
                   <div className="relative h-48 overflow-hidden">
                     <Image
@@ -393,7 +410,7 @@ export default function AreaPage({ params }: AreaPageProps) {
                       {detail.checks.slice(0, 2).map((check) => (
                         <span
                           key={check}
-                          className="rounded-full border border-blue-100 bg-[#f8fbff] px-3 py-1 text-xs font-semibold text-[#0b4fb3]"
+                          className="rounded-full border border-[#dbe7f5] bg-[#f8fbff] px-3 py-1 text-xs font-semibold text-[#08275a]"
                         >
                           {check}
                         </span>
@@ -402,7 +419,7 @@ export default function AreaPage({ params }: AreaPageProps) {
                     <Link
                       href={serviceAreaPath(service.slug, area.slug)}
                       prefetch={false}
-                      className="mt-5 inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#08275a] px-4 py-3 text-sm font-bold text-white transition hover:bg-[#0b4fb3]"
+                      className="mt-5 inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#08275a] px-4 py-3 text-sm font-black text-white transition hover:bg-[#0b4fb3]"
                     >
                       Open {area.name} page
                       <ArrowRight size={16} />
@@ -415,7 +432,7 @@ export default function AreaPage({ params }: AreaPageProps) {
         </div>
       </section>
 
-      <section className="border-y border-blue-100 bg-white px-4 py-14 lg:px-6">
+      <section className="border-y border-[#dbe7f5] bg-white px-4 py-14 lg:px-6">
         <div className="mx-auto grid max-w-7xl gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
           <div>
             <p className="text-sm font-bold uppercase tracking-[0.2em] text-[#c8932d]">
@@ -429,7 +446,7 @@ export default function AreaPage({ params }: AreaPageProps) {
             {planningPoints.map((point) => (
               <div
                 key={point}
-                className="flex items-center gap-3 rounded-[18px] border border-blue-100 bg-[#f8fbff] px-4 py-4 text-sm font-bold text-slate-800"
+                className="flex items-center gap-3 rounded-md border border-[#dbe7f5] bg-[#f8fbff] px-4 py-4 text-sm font-bold text-slate-800"
               >
                 <CheckCircle2 className="shrink-0 text-[#0b4fb3]" size={18} />
                 {point}
@@ -443,7 +460,7 @@ export default function AreaPage({ params }: AreaPageProps) {
         <div className="mx-auto max-w-7xl">
           <div className="flex flex-col justify-between gap-4 md:flex-row md:items-end">
             <div>
-              <p className="text-sm font-bold uppercase tracking-[0.2em] text-[#0b4fb3]">
+              <p className="text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
                 Nearby Areas
               </p>
               <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -466,7 +483,7 @@ export default function AreaPage({ params }: AreaPageProps) {
                 key={nearby.slug}
                 href={`/${chennaiConfig.citySlug}/${nearby.slug}`}
                 prefetch={false}
-                className="flex items-center justify-between rounded-[18px] border border-[#ead8a8] bg-white px-4 py-4 text-sm font-bold text-slate-800 shadow-sm transition hover:border-[#c8932d] hover:text-[#0b4fb3]"
+                className="flex items-center justify-between rounded-md border border-[#ead8a8] bg-white px-4 py-4 text-sm font-bold text-slate-800 shadow-sm transition hover:border-[#c8932d] hover:text-[#08275a]"
               >
                 {nearby.name}
                 <ArrowRight size={16} />

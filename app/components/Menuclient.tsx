@@ -5,6 +5,7 @@ import Image from "next/image";
 import { ChevronDown, Mail, MessageCircle, Phone, X } from "lucide-react";
 import { chennaiConfig } from "../config/chennai.config";
 import { siteConfig } from "../config/site.config";
+import SiteSearch from "./SiteSearch";
 
 type MenuProps = {
   open: boolean;
@@ -27,12 +28,12 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
       />
 
       <aside
-        className={`fixed left-0 top-0 z-50 h-full w-80 transform bg-gradient-to-b from-slate-50 to-white shadow-2xl transition-transform duration-300 ${
+        className={`fixed left-0 top-0 z-50 h-full w-80 transform bg-white shadow-2xl transition-transform duration-300 ${
           open ? "translate-x-0" : "-translate-x-full"
         }`}
       >
-        <div className="flex h-full flex-col bg-gradient-to-r from-amber-50 via-yellow-50 to-white">
-          <div className="border-b border-amber-200 px-6 pb-4 pt-5">
+        <div className="flex h-full flex-col bg-gradient-to-b from-white via-[#f8fbff] to-[#fff8e8]">
+          <div className="border-b border-[#ead8a8] px-6 pb-4 pt-5">
             <div className="flex items-start justify-between gap-4">
               <div className="min-w-0">
                 <Image
@@ -42,14 +43,14 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                   height={724}
                   className="h-auto w-[220px] rounded-md bg-white object-contain"
                 />
-                <p className="mt-2 line-clamp-2 text-xs leading-5 text-amber-700/70">
+                <p className="mt-2 line-clamp-2 text-xs leading-5 text-[#08275a]/70">
                   {siteConfig.tagline}
                 </p>
               </div>
 
               <button
                 onClick={onClose}
-                className="text-amber-600 transition hover:text-amber-800"
+                className="text-[#b98218] transition hover:text-[#08275a]"
                 aria-label="Close menu"
               >
                 <X size={20} />
@@ -58,6 +59,8 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
           </div>
 
           <div className="flex-1 space-y-5 overflow-y-auto px-6 py-5">
+            <SiteSearch onNavigate={onClose} />
+
             <div className="grid gap-3">
               {standardLinks.map((link) => (
                 <Link
@@ -65,17 +68,17 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                   href={link.href}
                   prefetch={false}
                   onClick={onClose}
-                  className="block rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm font-semibold text-slate-700 shadow-sm transition hover:border-blue-300 hover:bg-blue-50"
+                  className="block rounded-md border border-[#dbe7f5] bg-white px-4 py-3 text-sm font-semibold text-slate-700 shadow-sm transition hover:border-[#d6a039] hover:bg-[#fff8e8] hover:text-[#08275a]"
                 >
                   {link.label}
                 </Link>
               ))}
             </div>
 
-            <div className="rounded-2xl border border-blue-200 bg-white/90 p-4 shadow-sm">
+            <div className="rounded-md border border-[#dbe7f5] bg-white/90 p-4 shadow-sm">
               <div className="flex items-center justify-between gap-3">
                 <div>
-                  <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
+                  <p className="text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
                     Chennai
                   </p>
                   <p className="mt-1 text-xs leading-5 text-slate-500">
@@ -86,13 +89,13 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                   href={cityHref}
                   prefetch={false}
                   onClick={onClose}
-                  className="shrink-0 rounded-full bg-slate-950 px-3 py-2 text-xs font-bold text-white"
+                  className="shrink-0 rounded-full bg-[#08275a] px-3 py-2 text-xs font-bold text-white"
                 >
                   Open
                 </Link>
               </div>
 
-              <details className="group mt-4 rounded-xl border border-slate-200 bg-slate-50" open>
+              <details className="group mt-4 rounded-md border border-[#dbe7f5] bg-[#f8fbff]" open>
                 <summary className="flex cursor-pointer list-none items-center justify-between gap-3 px-3 py-3 text-sm font-black text-slate-900">
                   Services
                   <ChevronDown
@@ -107,7 +110,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                       href={`${cityHref}/${service.slug}`}
                       prefetch={false}
                       onClick={onClose}
-                      className="block rounded-lg border border-white bg-white px-3 py-2 text-sm font-bold text-slate-700 shadow-sm transition hover:border-blue-300 hover:bg-blue-50 hover:text-blue-600"
+                      className="block rounded-md border border-white bg-white px-3 py-2 text-sm font-bold text-slate-700 shadow-sm transition hover:border-[#d6a039] hover:bg-[#fff8e8] hover:text-[#08275a]"
                     >
                       {service.name}
                     </Link>
@@ -115,7 +118,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                 </div>
               </details>
 
-              <details className="group mt-3 rounded-xl border border-slate-200 bg-slate-50">
+              <details className="group mt-3 rounded-md border border-[#dbe7f5] bg-[#f8fbff]">
                 <summary className="flex cursor-pointer list-none items-center justify-between gap-3 px-3 py-3 text-sm font-black text-slate-900">
                   Areas
                   <ChevronDown
@@ -130,7 +133,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                       href={`${cityHref}/${area.slug}`}
                       prefetch={false}
                       onClick={onClose}
-                      className="rounded-lg border border-white bg-white px-3 py-2 text-xs font-bold text-slate-700 shadow-sm transition hover:border-blue-300 hover:bg-blue-50 hover:text-blue-600"
+                      className="rounded-md border border-white bg-white px-3 py-2 text-xs font-bold text-slate-700 shadow-sm transition hover:border-[#d6a039] hover:bg-[#fff8e8] hover:text-[#08275a]"
                     >
                       {area.name}
                     </Link>
@@ -139,15 +142,15 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
               </details>
             </div>
 
-            <div className="rounded-2xl border border-blue-200 bg-white/90 p-4 shadow-sm">
-              <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-500">
+            <div className="rounded-md border border-[#dbe7f5] bg-white/90 p-4 shadow-sm">
+              <p className="text-sm font-black uppercase tracking-[0.2em] text-[#b98218]">
                 Quick Contact
               </p>
 
               <div className="mt-4 space-y-3 text-sm">
                 <a
                   href={siteConfig.contact.phoneHref}
-                  className="flex items-center gap-3 rounded-xl border border-slate-200 px-3 py-3 font-semibold text-slate-700 transition hover:border-blue-300 hover:text-blue-500"
+                  className="flex items-center gap-3 rounded-md border border-[#dbe7f5] px-3 py-3 font-semibold text-slate-700 transition hover:border-[#d6a039] hover:text-[#08275a]"
                 >
                   <Phone size={16} />
                   {siteConfig.contact.phoneLabel}
@@ -157,7 +160,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                   href={siteConfig.contact.whatsappHref}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center gap-3 rounded-xl border border-blue-200 bg-blue-50 px-3 py-3 font-semibold text-blue-700 transition hover:border-blue-400"
+                  className="flex items-center gap-3 rounded-md border border-[#d6a039]/45 bg-[#fff8e8] px-3 py-3 font-semibold text-[#08275a] transition hover:border-[#d6a039]"
                 >
                   <MessageCircle size={16} />
                   WhatsApp
@@ -165,7 +168,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
 
                 <a
                   href={siteConfig.contact.emailHref}
-                  className="flex items-center gap-3 rounded-xl border border-slate-200 px-3 py-3 font-semibold text-slate-700 transition hover:border-blue-300 hover:text-blue-500"
+                  className="flex items-center gap-3 rounded-md border border-[#dbe7f5] px-3 py-3 font-semibold text-slate-700 transition hover:border-[#d6a039] hover:text-[#08275a]"
                 >
                   <Mail size={16} />
                   {siteConfig.contact.email}
