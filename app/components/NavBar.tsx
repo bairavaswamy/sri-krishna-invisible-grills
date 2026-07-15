@@ -3,7 +3,7 @@
 import { memo, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { ChevronDown, Mail, MapPin, Menu, MessageCircle, Phone, X } from "lucide-react";
+import { ChevronDown, Mail, MapPin, Menu, MessageCircle, Phone, Search, X } from "lucide-react";
 import { chennaiConfig } from "../config/chennai.config";
 import { siteConfig } from "../config/site.config";
 import SiteSearch from "./SiteSearch";
@@ -11,6 +11,7 @@ import MenuClient from "./Menuclient";
 
 const Header: React.FC = () => {
   const [open, setOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
   const [servicesOpen, setServicesOpen] = useState(false);
   const cityHref = `/${chennaiConfig.citySlug}`;
   const standardLinks = siteConfig.navLinks.filter(
@@ -202,9 +203,29 @@ const Header: React.FC = () => {
 
             <button
               type="button"
+              aria-label={searchOpen ? "Close search" : "Open search"}
+              aria-expanded={searchOpen}
+              onClick={() => {
+                setSearchOpen((current) => !current);
+                setOpen(false);
+              }}
+              className={`relative z-[70] inline-flex h-11 w-11 items-center justify-center rounded-full border shadow-md shadow-[#08275a]/10 transition focus:outline-none focus:ring-2 focus:ring-[#d6a039] lg:hidden ${
+                searchOpen
+                  ? "border-[#d6a039] bg-[#08275a] text-white"
+                  : "border-[#d6a039]/45 bg-white text-[#08275a] hover:border-[#d6a039] hover:text-[#0b4fb3]"
+              }`}
+            >
+              {searchOpen ? <X size={20} aria-hidden="true" /> : <Search size={20} aria-hidden="true" />}
+            </button>
+
+            <button
+              type="button"
               aria-label={open ? "Close menu" : "Open menu"}
               aria-expanded={open}
-              onClick={() => setOpen(!open)}
+              onClick={() => {
+                setOpen(!open);
+                setSearchOpen(false);
+              }}
               className="relative z-[70] inline-flex h-11 w-11 items-center justify-center rounded-full border border-[#d6a039]/45 bg-white text-[#08275a] shadow-md shadow-[#08275a]/10 transition hover:border-[#d6a039] hover:text-[#0b4fb3] focus:outline-none focus:ring-2 focus:ring-[#d6a039] lg:hidden"
             >
               {open ? <X size={22} aria-hidden="true" /> : <Menu size={22} aria-hidden="true" />}
@@ -212,14 +233,24 @@ const Header: React.FC = () => {
           </div>
         </header>
 
-        <div className="border-t border-[#ead8a8] bg-[#fff8e8] px-3 py-3 shadow-inner">
+        <div
+          className={`border-t border-[#ead8a8] bg-[#fff8e8] px-3 py-3 shadow-inner ${
+            searchOpen ? "block" : "hidden"
+          } lg:block`}
+        >
           <div className="mx-auto max-w-5xl">
-            <SiteSearch className="w-full" />
+            <SiteSearch className="w-full" onNavigate={() => setSearchOpen(false)} />
           </div>
         </div>
       </div>
 
-      <div className="pt-[190px] sm:pt-[210px] lg:pt-[214px]" />
+      <div
+        className={
+          searchOpen
+            ? "pt-[190px] sm:pt-[210px] lg:pt-[214px]"
+            : "pt-[130px] sm:pt-[152px] lg:pt-[214px]"
+        }
+      />
       <div className="block lg:hidden">
         <MenuClient open={open} onClose={() => setOpen(false)} />
       </div>

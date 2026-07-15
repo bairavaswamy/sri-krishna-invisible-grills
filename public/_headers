@@ -4,21 +4,6 @@
 /images/*
   Cache-Control: public, max-age=31536000, immutable
 
-/cards/*
-  Cache-Control: public, max-age=31536000, immutable
-
-/birdnet/*
-  Cache-Control: public, max-age=31536000, immutable
-
-/spikes/*
-  Cache-Control: public, max-age=31536000, immutable
-
-/clothhangers/*
-  Cache-Control: public, max-age=31536000, immutable
-
-/artificialturf/*
-  Cache-Control: public, max-age=31536000, immutable
-
 /*.webp
   Cache-Control: public, max-age=31536000, immutable
 

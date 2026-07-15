@@ -7,6 +7,7 @@ export const siteConfig = {
   description:
     "SRI KRISHNA INVISIBLE GRILLS provides window invisible grills, balcony invisible grills, safety nets, pigeon control, cricket practice nets, and utility safety services across Chennai.",
   defaultImage: "/images/site/home-carousel-window-invisible-grills.webp",
+  homeContactImage: "/images/home/home-contact-site-visit.png",
   logo: "/brand/sri-krishna-logo-full.png",
   logos: {
     desktop: "/brand/sri-krishna-logo-full.png",
@@ -144,101 +145,101 @@ export const siteConfig = {
       title: "Balcony Safety Nets",
       description:
         "Fall protection and bird control for daily-use apartment balconies.",
-      image: "/images/services/balcony-safety-nets/balcony-safety-nets-context.webp",
+      image: "/images/home/service-balcony-safety-nets.png",
       href: "/chennai/balcony-safety-nets",
     },
     {
       title: "Balcony Invisible Grills",
       description:
         "Open-view stainless steel cable protection for high-rise balconies.",
-      image: "/images/services/balcony-invisible-grills/balcony-invisible-grills-context.webp",
+      image: "/images/home/service-balcony-invisible-grills.png",
       href: "/chennai/balcony-invisible-grills",
     },
     {
       title: "Window Invisible Grills",
       description:
         "Open-view stainless steel cable protection for premium window openings.",
-      image: "/images/services/window-invisible-grills/window-invisible-grills-context.webp",
+      image: "/images/home/service-window-invisible-grills.png",
       href: "/chennai/window-invisible-grills",
     },
     {
       title: "Pigeon Safety Nets",
       description:
         "Focused pigeon route control for ledges, balcony corners, and utility areas.",
-      image: "/images/services/pigeon-safety-nets/pigeon-safety-nets-context.webp",
+      image: "/images/home/service-pigeon-safety-nets.png",
       href: "/chennai/pigeon-safety-nets",
     },
     {
       title: "Children Safety Nets",
       description:
         "Family-focused protection for balconies, windows, and open edges.",
-      image: "/images/services/children-safety-nets/children-safety-nets-context.webp",
+      image: "/images/home/service-children-safety-nets.png",
       href: "/chennai/children-safety-nets",
     },
     {
       title: "Window Safety Nets",
       description:
         "Window-level safety and bird protection while keeping ventilation open.",
-      image: "/images/services/window-safety-nets/window-safety-nets-context.webp",
+      image: "/images/home/service-window-safety-nets.png",
       href: "/chennai/window-safety-nets",
     },
     {
       title: "Bird Spikes Installation",
       description:
         "Perch control for ledges, parapets, AC units, pipes, and facade edges.",
-      image: "/images/services/bird-spikes-installation/bird-spikes-installation-context.webp",
+      image: "/images/home/service-bird-spikes-installation.png",
       href: "/chennai/bird-spikes-installation",
     },
     {
       title: "Duct Area Safety Nets",
       description:
         "Coverage for service shafts, ducts, open voids, and utility cut-outs.",
-      image: "/images/services/duct-area-safety-nets/duct-area-safety-nets-context.webp",
+      image: "/images/home/service-duct-area-safety-nets.png",
       href: "/chennai/duct-area-safety-nets",
     },
     {
       title: "Cricket Practice Nets",
       description:
         "Containment netting for terraces, academies, and society play zones.",
-      image: "/images/services/cricket-practice-nets/cricket-practice-nets-context.webp",
+      image: "/images/home/service-cricket-practice-nets.png",
       href: "/chennai/cricket-practice-nets",
     },
   ],
   galleryImages: [
     {
-      src: "/images/site/chennai-home-hero-safety-nets.png",
-      title: "Chennai Balcony Safety Finish",
-      alt: "Chennai apartment balcony with neat safety net and open view",
+      src: "/images/home/gallery-balcony-open-view.png",
+      title: "Open Balcony Safety Finish",
+      alt: "Brand-style Chennai apartment balcony safety net with clear open-view protection",
       category: "Balcony",
     },
     {
-      src: "/images/site/chennai-about-installation-team.png",
+      src: "/images/home/gallery-measurement-anchor-plan.png",
       title: "Measurement and Anchor Planning",
-      alt: "Installation team checking anchor points for a Chennai safety net project",
+      alt: "Clean measurement and anchor planning visual for Chennai safety net installation",
       category: "Site Visit",
     },
     {
-      src: "/images/site/chennai-article-anchor-detail.png",
+      src: "/images/home/gallery-anchor-detail.png",
       title: "Clean Anchor Detail",
-      alt: "Close view of reinforced safety net anchor and rope border",
+      alt: "Close visual of reinforced anchor, rope border, and fixed safety line detail",
       category: "Detail",
     },
     {
-      src: "/images/site/chennai-service-directory-montage.png",
+      src: "/images/home/gallery-service-montage.png",
       title: "Connected Service Set",
-      alt: "Chennai safety services including balcony nets, pigeon control, invisible grills, and cricket practice nets",
+      alt: "Coordinated safety service montage for nets, invisible grills, spikes, and duct coverage",
       category: "Services",
     },
     {
-      src: "/images/site/chennai-area-balcony-safety-view.png",
+      src: "/images/home/gallery-area-safety-view.png",
       title: "Area Service View",
-      alt: "Chennai apartment service area view with finished balcony safety net",
+      alt: "Chennai apartment area view with matching balcony and window safety finishes",
       category: "Area Pages",
     },
     {
-      src: "/images/site/chennai-contact-site-visit.png",
+      src: "/images/home/gallery-contact-site-visit.png",
       title: "Contact and Site Visit",
-      alt: "Safety net quote planning with measurement notes and mesh sample",
+      alt: "Phone enquiry, site measurement, and mesh planning visual for a home safety visit",
       category: "Contact",
     },
   ],

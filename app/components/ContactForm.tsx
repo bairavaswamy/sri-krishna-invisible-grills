@@ -69,7 +69,7 @@ export default function ContactForm() {
     <section id="quote" className="rounded-md border border-[#dbe7f5] bg-white px-4 py-6 shadow-sm">
       <div className="relative min-h-[620px] overflow-hidden rounded-md bg-gray-100 md:min-h-[520px]">
         <Image
-          src={siteConfig.defaultImage}
+          src={siteConfig.homeContactImage}
           alt={`${siteConfig.name} contact background`}
           fill
           className="object-cover"
